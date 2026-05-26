@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043144412583104512"
+      ],
+      "media_source_tweet_id": [
+        "2043144424440340821"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2043669667550802137",
+    "created_at": "2026-04-13T12:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T13:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043669667550802137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1453575590729162758",
+          "start": 3,
+          "username": "obe_ZX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fTf2hmyLNy",
+          "end": 69,
+          "expanded_url": "https://x.com/obe_ZX/status/2043144424440340821/photo/1",
+          "media_key": "3_2043144412583104512",
+          "start": 46,
+          "url": "https://t.co/fTf2hmyLNy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043669667550802137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043144424440340821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @obe_ZX: 我真的那个天天一天到晚“性别回避”一天到晚“先天跨”的能不能闭嘴啊 https://t.co/fTf2hmyLNy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 795,
+        "media_key": "3_2043144412583104512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFq1BKjXEAAWkBF.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043144412583104512"
+          ],
+          "media_source_tweet_id": [
+            "2043144424440340821"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2043669667550802137",
+        "created_at": "2026-04-13T12:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043669667550802137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1453575590729162758",
+              "start": 3,
+              "username": "obe_ZX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fTf2hmyLNy",
+              "end": 69,
+              "expanded_url": "https://x.com/obe_ZX/status/2043144424440340821/photo/1",
+              "media_key": "3_2043144412583104512",
+              "start": 46,
+              "url": "https://t.co/fTf2hmyLNy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043669667550802137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043144424440340821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @obe_ZX: 我真的那个天天一天到晚“性别回避”一天到晚“先天跨”的能不能闭嘴啊 https://t.co/fTf2hmyLNy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043144412583104512"
+          ]
+        },
+        "author_id": "1453575590729162758",
+        "conversation_id": "2043144424440340821",
+        "created_at": "2026-04-12T01:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T02:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043144424440340821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fTf2hmyLNy",
+              "end": 57,
+              "expanded_url": "https://x.com/obe_ZX/status/2043144424440340821/photo/1",
+              "media_key": "3_2043144412583104512",
+              "start": 34,
+              "url": "https://t.co/fTf2hmyLNy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043144424440340821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我真的那个天天一天到晚“性别回避”一天到晚“先天跨”的能不能闭嘴啊 https://t.co/fTf2hmyLNy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/未含糖/修正马主义☭/民主青年🇹🇼/广东/近视/178身高体重115/欢迎互fo                           小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 301,
+          "like_count": 1265,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 156
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-28T04:13:37.000Z",
+        "description": "07年夏季Trans F | 持证但是DIY HRTing | 175/53.4kg | 尝试增肥ing | 半家长党（妈妈）+半家长不管党（生父） | 最喜欢的姐姐@ye_han67658",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 83,
+                "username": "ye_han67658"
+              }
+            ]
+          }
+        },
+        "id": "1453575590729162758",
+        "location": "小骨灰盒",
+        "name": "栀子MOCHI 🍡🏳️‍⚧️",
+        "pinned_tweet_id": "2007341646145638708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399355464818688/q56FkSGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 521,
+          "like_count": 20792,
+          "listed_count": 4,
+          "media_count": 385,
+          "tweet_count": 2268
+        },
+        "username": "obe_ZX",
+        "verified": false
+      }
+    ]
+  }
+}

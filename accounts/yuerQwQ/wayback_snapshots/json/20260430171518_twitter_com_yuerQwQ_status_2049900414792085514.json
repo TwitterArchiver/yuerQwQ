@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049869103054401536"
+      ],
+      "media_source_tweet_id": [
+        "2049869115108778340"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2049900414792085514",
+    "created_at": "2026-04-30T17:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T18:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049900414792085514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2047617385851756544",
+          "start": 3,
+          "username": "mingfeilu0427"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rBJc0kUyBS",
+          "end": 80,
+          "expanded_url": "https://x.com/mingfeilu0427/status/2049869115108778340/photo/1",
+          "media_key": "3_2049869103054401536",
+          "start": 57,
+          "url": "https://t.co/rBJc0kUyBS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049900414792085514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049869115108778340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mingfeilu0427: 后来我们只是重复在躁狂与抑郁的漩涡里，作为生物的求生本能，对抗，直至死亡。 https://t.co/rBJc0kUyBS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1435,
+        "media_key": "3_2049869103054401536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKZFqubMAAbuvZ.jpg",
+        "width": 962
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049869103054401536"
+          ],
+          "media_source_tweet_id": [
+            "2049869115108778340"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2049900414792085514",
+        "created_at": "2026-04-30T17:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049900414792085514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2047617385851756544",
+              "start": 3,
+              "username": "mingfeilu0427"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rBJc0kUyBS",
+              "end": 80,
+              "expanded_url": "https://x.com/mingfeilu0427/status/2049869115108778340/photo/1",
+              "media_key": "3_2049869103054401536",
+              "start": 57,
+              "url": "https://t.co/rBJc0kUyBS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049900414792085514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049869115108778340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mingfeilu0427: 后来我们只是重复在躁狂与抑郁的漩涡里，作为生物的求生本能，对抗，直至死亡。 https://t.co/rBJc0kUyBS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049869103054401536"
+          ]
+        },
+        "author_id": "2047617385851756544",
+        "conversation_id": "2049869115108778340",
+        "created_at": "2026-04-30T15:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049869115108778340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rBJc0kUyBS",
+              "end": 61,
+              "expanded_url": "https://x.com/mingfeilu0427/status/2049869115108778340/photo/1",
+              "media_key": "3_2049869103054401536",
+              "start": 38,
+              "url": "https://t.co/rBJc0kUyBS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049869115108778340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "后来我们只是重复在躁狂与抑郁的漩涡里，作为生物的求生本能，对抗，直至死亡。 https://t.co/rBJc0kUyBS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2049899118508863784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 696,
+          "like_count": 4954,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 789
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T10:03:41.000Z",
+        "description": "重度双相强迫焦虑/被害妄想/性别认知偏差/od自餐/文艺逼 长发男 4i/m/健全人勿扰",
+        "id": "2047617385851756544",
+        "location": "床",
+        "name": "明非路",
+        "pinned_tweet_id": "2047640488879255792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047620414290214912/sc3LavHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 27,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 88
+        },
+        "username": "mingfeilu0427",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057848442819670016"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2057848456568537101",
+    "created_at": "2026-05-22T15:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T16:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057848456568537101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dom8eLXCIw",
+          "end": 29,
+          "expanded_url": "https://x.com/yuerQwQ/status/2057848456568537101/photo/1",
+          "media_key": "3_2057848442819670016",
+          "start": 6,
+          "url": "https://t.co/dom8eLXCIw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057848456568537101",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不是男人😀 https://t.co/dom8eLXCIw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 796,
+        "media_key": "3_2057848442819670016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7yQXvbcAAJv8e.jpg",
+        "width": 1436
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057848442819670016"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2057848456568537101",
+        "created_at": "2026-05-22T15:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057848456568537101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dom8eLXCIw",
+              "end": 29,
+              "expanded_url": "https://x.com/yuerQwQ/status/2057848456568537101/photo/1",
+              "media_key": "3_2057848442819670016",
+              "start": 6,
+              "url": "https://t.co/dom8eLXCIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057848456568537101",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是男人😀 https://t.co/dom8eLXCIw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 741,
+          "like_count": 8405,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1508
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

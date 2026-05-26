@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2058534280536666309",
+    "created_at": "2026-05-24T13:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058542224053616868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1890717486343233536",
+          "start": 0,
+          "username": "hikarou233086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058542224053616868",
+    "in_reply_to_user_id": "1890717486343233536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058534280536666309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikarou233086 并非儿子😄"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058534278154403840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFiBPdbwAA2vsx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2058534280536666309",
+        "created_at": "2026-05-24T13:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058542224053616868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1890717486343233536",
+              "start": 0,
+              "username": "hikarou233086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058542224053616868",
+        "in_reply_to_user_id": "1890717486343233536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058534280536666309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikarou233086 并非儿子😄"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058534278154403840"
+          ]
+        },
+        "author_id": "1890717486343233536",
+        "conversation_id": "2058534280536666309",
+        "created_at": "2026-05-24T13:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058534280536666309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJux2p90dj",
+              "end": 38,
+              "expanded_url": "https://x.com/hikarou233086/status/2058534280536666309/photo/1",
+              "media_key": "3_2058534278154403840",
+              "start": 15,
+              "url": "https://t.co/GJux2p90dj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058534280536666309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坏消息：你的儿子吃了泰补乐⚡ https://t.co/GJux2p90dj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 770,
+          "like_count": 8815,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1619
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-15T10:59:21.000Z",
+        "description": "16years 09.8.1/高2/物化生/intp/5w4or9w8/精神unknown/adhd…ed?/在家自由度高/🏳️‍⚧️无证偷吃（）/会互fo/回避型依恋…/cat/试图学习C++/VRChat/l4d2!/MySteamID1161959166/水日常🤖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hikarikae",
+                "end": 23,
+                "expanded_url": "http://t.me/Hikarikae",
+                "start": 0,
+                "url": "https://t.co/NOu2TRx7ft"
+              }
+            ]
+          }
+        },
+        "id": "1890717486343233536",
+        "name": "Hikaruna💫",
+        "pinned_tweet_id": "2056712470803443919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043683198501322752/R5PNYRBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 154,
+          "like_count": 758,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 254
+        },
+        "url": "https://t.co/NOu2TRx7ft",
+        "username": "hikarou233086",
+        "verified": false
+      }
+    ]
+  }
+}

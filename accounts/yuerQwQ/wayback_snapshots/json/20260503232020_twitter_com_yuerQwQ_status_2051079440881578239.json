@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2050730271910306097",
+    "created_at": "2026-05-03T23:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T00:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051079440881578239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3318278592",
+          "start": 0,
+          "username": "BigglesworthX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051079440881578239",
+    "in_reply_to_user_id": "3318278592",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050730271910306097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BigglesworthX &lt;(ºOº)&gt;"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1225,
+        "media_key": "3_2050730265790857216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWoT76bQAAkTlB.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2050730271910306097",
+        "created_at": "2026-05-03T23:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T00:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051079440881578239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3318278592",
+              "start": 0,
+              "username": "BigglesworthX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051079440881578239",
+        "in_reply_to_user_id": "3318278592",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050730271910306097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigglesworthX &lt;(ºOº)&gt;"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050730265790857216"
+          ]
+        },
+        "author_id": "3318278592",
+        "conversation_id": "2050730271910306097",
+        "created_at": "2026-05-03T00:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T01:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050730271910306097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R3y6VRowwi",
+              "end": 61,
+              "expanded_url": "https://x.com/BigglesworthX/status/2050730271910306097/photo/1",
+              "media_key": "3_2050730265790857216",
+              "start": 38,
+              "url": "https://t.co/R3y6VRowwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050730271910306097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 20004,
+          "like_count": 613,
+          "quote_count": 1,
+          "reply_count": 215,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "这是一个测试，我好奇以x推送算法我的帖子会推送到谁的屏幕上。这是一个蜘蛛。 https://t.co/R3y6VRowwi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2049899118508863784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 700,
+          "like_count": 5187,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 835
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-18T04:24:26.000Z",
+        "description": "Unfriendly neighborhood spider | Banned in 106 Chinese transgender chat group for posting spider pictures.",
+        "id": "3318278592",
+        "location": "San Francisco",
+        "name": "Hoggicosa bisexsual",
+        "pinned_tweet_id": "2038488362190020638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929429379127574528/USN-Qd2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1831,
+          "following_count": 844,
+          "like_count": 3056,
+          "listed_count": 4,
+          "media_count": 1285,
+          "tweet_count": 6196
+        },
+        "username": "BigglesworthX",
+        "verified": true
+      }
+    ]
+  }
+}

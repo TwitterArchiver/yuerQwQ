@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2047319093674758428",
+    "created_at": "2026-04-25T00:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T01:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047837939305214364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795719520939905024",
+          "start": 0,
+          "username": "pyridine_lemon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047837939305214364",
+    "in_reply_to_user_id": "1795719520939905024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047319093674758428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyridine_lemon 这下我可以高兴的说我看不懂这本书不是我的原因了（并非）\n\n（其实单纯我蠢😭）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2047319093674758428",
+        "created_at": "2026-04-25T00:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047837939305214364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795719520939905024",
+              "start": 0,
+              "username": "pyridine_lemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047837939305214364",
+        "in_reply_to_user_id": "1795719520939905024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047319093674758428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyridine_lemon 这下我可以高兴的说我看不懂这本书不是我的原因了（并非）\n\n（其实单纯我蠢😭）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795719520939905024",
+        "conversation_id": "2047319093674758428",
+        "created_at": "2026-04-23T14:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047319093674758428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Revolution_184…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/Revolution_1848/status/2047317089925656843",
+              "start": 127,
+              "url": "https://t.co/tVsPcHQf45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047319093674758428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047317089925656843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "差不多得了，恩格斯在这本“巨著”中得出了不少的原创且“反智”的观点，就凭你的自然科学素养，你真能排除这些观点🤣？\n\n不过排除了这些“原创且反智”的观点之后，这本“巨著”也没剩什么了，因为这本书通篇都是在曲解自然科学，用所谓“辩证法”强行分析自然科学🥹🥹 https://t.co/tVsPcHQf45"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo           喵喵喵喵                                                小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 664,
+          "like_count": 4622,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 698
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T07:31:55.000Z",
+        "description": "love every person who appreciates me\n\nmtf/mathematics-phile/Cuset's fan/\n\nwith Cuset: we are lovers and friends\n\nlove @VoidAldehyde forever...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "VoidAldehyde"
+              }
+            ]
+          }
+        },
+        "id": "1795719520939905024",
+        "location": "CusetVoidAldehyde's heart",
+        "name": "Cuset Lemon🍥",
+        "pinned_tweet_id": "2046559190425231627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796043264979812353/whgd2biH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 38,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1341
+        },
+        "username": "pyridine_lemon",
+        "verified": false
+      }
+    ]
+  }
+}

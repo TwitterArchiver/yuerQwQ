@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "2044609053423473036",
+    "created_at": "2026-04-19T23:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T00:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046011679478264277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1060354531773444096",
+          "start": 0,
+          "username": "chunchun88o"
+        },
+        {
+          "end": 29,
+          "id": "1249521839811915777",
+          "start": 13,
+          "username": "kyodai_meltdown"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046011679478264277",
+    "in_reply_to_user_id": "1060354531773444096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044990173067587843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chunchun88o @kyodai_meltdown 不知道你们日本有没有「女人负责照顾家庭」「男人负责外出赚钱」这样的说法\n\n在我们中国，虽然政府并不支持这种观点，但是这样的观点在民间（尤其是稍微落后一些的地区）在老人之中（甚至是中年人）之中很受欢迎呢……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2044609053423473036",
+        "created_at": "2026-04-19T23:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T00:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046011679478264277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1060354531773444096",
+              "start": 0,
+              "username": "chunchun88o"
+            },
+            {
+              "end": 29,
+              "id": "1249521839811915777",
+              "start": 13,
+              "username": "kyodai_meltdown"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046011679478264277",
+        "in_reply_to_user_id": "1060354531773444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044990173067587843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chunchun88o @kyodai_meltdown 不知道你们日本有没有「女人负责照顾家庭」「男人负责外出赚钱」这样的说法\n\n在我们中国，虽然政府并不支持这种观点，但是这样的观点在民间（尤其是稍微落后一些的地区）在老人之中（甚至是中年人）之中很受欢迎呢……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1060354531773444096",
+        "conversation_id": "2044609053423473036",
+        "created_at": "2026-04-17T04:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T05:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044990173067587843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1249521839811915777",
+              "start": 0,
+              "username": "kyodai_meltdown"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044990173067587843",
+        "in_reply_to_user_id": "1249521839811915777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 87949,
+          "like_count": 4461,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044609053423473036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyodai_meltdown なんで女は生活力があることになってる？\n女だって勉強メインで生きてきたんじゃないの？\n女性差別のポストに笑ってないで賢い頭で考えなよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo           喵喵喵喵                                                小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 627,
+          "like_count": 3763,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 514
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-08T02:13:15.000Z",
+        "description": "趣味アカウント アラサー 成人済み",
+        "id": "1060354531773444096",
+        "name": "スズメ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1060354999018901505/jApFbdCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 371,
+          "like_count": 10990,
+          "listed_count": 10,
+          "media_count": 39,
+          "tweet_count": 4100
+        },
+        "username": "chunchun88o",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:17:07.000Z",
+        "description": "京都大学界隈に出現する魑魅魍魎の類を紹介したり、大学生活のリアルな様子を配信したりします。新入生は必見！ 伸びたネタツイはハイライトにあり〼\nお仕事の依頼はDMまで",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kyodai_meltdown",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kyodai_meltdown",
+                "start": 0,
+                "url": "https://t.co/gG1G7hE5vZ"
+              }
+            ]
+          }
+        },
+        "id": "1249521839811915777",
+        "location": "京大",
+        "name": "京大魑魅魍魎大図鑑",
+        "pinned_tweet_id": "1277085451023577093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1485956604411674625/BSKxdO_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16495,
+          "following_count": 2788,
+          "like_count": 17992,
+          "listed_count": 54,
+          "media_count": 1742,
+          "tweet_count": 5085
+        },
+        "url": "https://t.co/gG1G7hE5vZ",
+        "username": "kyodai_meltdown",
+        "verified": true
+      }
+    ]
+  }
+}

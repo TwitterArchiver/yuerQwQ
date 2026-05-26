@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2054148532081459616",
+    "created_at": "2026-05-13T00:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T01:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054353624617439328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1522976249173450759",
+          "start": 0,
+          "username": "bocchi1chan"
+        },
+        {
+          "end": 28,
+          "id": "1605093608910381056",
+          "start": 13,
+          "username": "suekageseikiyo"
+        },
+        {
+          "end": 42,
+          "id": "3032768018",
+          "start": 29,
+          "username": "Chiyorin8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054353624617439328",
+    "in_reply_to_user_id": "1522976249173450759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054197531995979792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bocchi1chan @suekageseikiyo @Chiyorin8964 这是哪个包"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2054148532081459616",
+        "created_at": "2026-05-13T00:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T01:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054353624617439328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1522976249173450759",
+              "start": 0,
+              "username": "bocchi1chan"
+            },
+            {
+              "end": 28,
+              "id": "1605093608910381056",
+              "start": 13,
+              "username": "suekageseikiyo"
+            },
+            {
+              "end": 42,
+              "id": "3032768018",
+              "start": 29,
+              "username": "Chiyorin8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054353624617439328",
+        "in_reply_to_user_id": "1522976249173450759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054197531995979792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bocchi1chan @suekageseikiyo @Chiyorin8964 这是哪个包"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522976249173450759",
+        "conversation_id": "2054148532081459616",
+        "created_at": "2026-05-12T13:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054197531995979792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3032768018",
+              "start": 0,
+              "username": "Chiyorin8964"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "a35b6b4421e1a506"
+        },
+        "id": "2054197531995979792",
+        "in_reply_to_user_id": "3032768018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054163022109888669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyorin8964 有没有什么词同时包含了色情和键政？\n：「男娘图包」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 798,
+          "like_count": 6484,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1044
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T16:27:09.000Z",
+        "description": "music producer&photographer\nPlease DM me on Instagram\nInstagramでDMしてください \n请在 Instagram 上私信我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bocchi1chan/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/bocchi1chan/",
+                "start": 0,
+                "url": "https://t.co/zSozYuFfcL"
+              }
+            ]
+          }
+        },
+        "id": "1522976249173450759",
+        "location": "369m",
+        "name": "喵了个咪的",
+        "pinned_tweet_id": "1796584569728336074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637786167621070849/PM6I1hNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13583,
+          "following_count": 2874,
+          "like_count": 36564,
+          "listed_count": 20,
+          "media_count": 2297,
+          "tweet_count": 5136
+        },
+        "url": "https://t.co/zSozYuFfcL",
+        "username": "bocchi1chan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-20T06:51:57.000Z",
+        "description": "",
+        "id": "1605093608910381056",
+        "name": "末々🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026309621338820609/hO5ufogg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 492,
+          "like_count": 4188,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 346
+        },
+        "username": "suekageseikiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-20T12:27:32.000Z",
+        "description": "🇪🇺🇺🇦🇯🇵🇹🇼/上海｜東京/02/男/铁道/航空/Airsoft/摄影/BanG Dream/女装 早稲田大学 M1\n😘：@DurantRaym93677 里：@cccy0037\nTG频道：https://t.co/Es5shIbjtN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "DurantRaym93677"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "cccy0037"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+50DhiKY5l-s5N…",
+                "end": 119,
+                "expanded_url": "https://t.me/+50DhiKY5l-s5NDBl",
+                "start": 96,
+                "url": "https://t.co/Es5shIbjtN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/8leun8gncrcug2…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/8leun8gncrcug2l?t=qy144m&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/dSRKPVvMWt"
+              }
+            ]
+          }
+        },
+        "id": "3032768018",
+        "location": "埼玉県 所沢市",
+        "name": "千世Chiyo",
+        "pinned_tweet_id": "2036269883038769496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006583057227329545/84VfXOPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3068,
+          "following_count": 1567,
+          "like_count": 7299,
+          "listed_count": 9,
+          "media_count": 963,
+          "tweet_count": 3672
+        },
+        "url": "https://t.co/dSRKPVvMWt",
+        "username": "Chiyorin8964",
+        "verified": true
+      }
+    ]
+  }
+}

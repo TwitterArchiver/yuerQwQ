@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2055461880479756525",
+    "created_at": "2026-05-16T02:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T03:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055474482006175749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "289298525",
+          "start": 0,
+          "username": "jiandu23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055474482006175749",
+    "in_reply_to_user_id": "289298525",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055461880479756525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiandu23333 有我诶(｡- .•)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2055461868035309568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIZ3rb2bAAARSA8.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2055461880479756525",
+        "created_at": "2026-05-16T02:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055474482006175749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "289298525",
+              "start": 0,
+              "username": "jiandu23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055474482006175749",
+        "in_reply_to_user_id": "289298525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055461880479756525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiandu23333 有我诶(｡- .•)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055461868035309568"
+          ]
+        },
+        "author_id": "289298525",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2055461880479756525",
+        "created_at": "2026-05-16T01:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055461880479756525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2053662146425499648/TLmx9VjK?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2053662146425499648/TLmx9VjK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/B3aimlxhCw"
+            },
+            {
+              "display_url": "pic.x.com/UVXrpRqd7a",
+              "end": 64,
+              "expanded_url": "https://x.com/jiandu23333/status/2055461880479756525/photo/1",
+              "media_key": "3_2055461868035309568",
+              "start": 41,
+              "url": "https://t.co/UVXrpRqd7a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055461880479756525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/B3aimlxhCw https://t.co/UVXrpRqd7a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 844,
+          "like_count": 7164,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1147
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "description": "顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE颓废中/提问箱在这↓/不回消息就是在上课",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 74,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 51,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "http://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/lwH4XonMoS"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051385937419186176/ZRhKnOoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 217,
+          "like_count": 2278,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 123
+        },
+        "url": "https://t.co/lwH4XonMoS",
+        "username": "jiandu23333",
+        "verified": false
+      }
+    ]
+  }
+}

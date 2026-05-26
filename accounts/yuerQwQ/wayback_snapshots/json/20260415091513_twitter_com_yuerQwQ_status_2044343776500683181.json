@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2044343776500683181",
+    "created_at": "2026-04-15T09:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T10:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044343776500683181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1690530117171453952",
+          "start": 3,
+          "username": "AgNo3_XQ719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044343776500683181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044323399284232300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AgNo3_XQ719: 开个抽奖🎟️\n一等奖3盒愚昧（折现24r）1位\n二等奖1盒愚昧（折现8r）3位\n三等奖5.2r 3位\n转发 评论点赞 关注参与\n500fo开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2044343776500683181",
+        "created_at": "2026-04-15T09:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044343776500683181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1690530117171453952",
+              "start": 3,
+              "username": "AgNo3_XQ719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044343776500683181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044323399284232300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AgNo3_XQ719: 开个抽奖🎟️\n一等奖3盒愚昧（折现24r）1位\n二等奖1盒愚昧（折现8r）3位\n三等奖5.2r 3位\n转发 评论点赞 关注参与\n500fo开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690530117171453952",
+        "conversation_id": "2044323399284232300",
+        "created_at": "2026-04-15T07:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044323399284232300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044323399284232300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 473,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "开个抽奖🎟️\n一等奖3盒愚昧（折现24r）1位\n二等奖1盒愚昧（折现8r）3位\n三等奖5.2r 3位\n转发 评论点赞 关注参与\n500fo开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/未含糖 目前友跨顺直🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                                 小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 372,
+          "like_count": 2015,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 243
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T01:06:17.000Z",
+        "description": "od妹｜09｜双相情感障碍｜istp-t｜互fo欢迎｜🚪52 88 188 288 520｜爱人@NiimiyaHoshi @llzvkeai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "NiimiyaHoshi"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "llzvkeai"
+              }
+            ]
+          }
+        },
+        "id": "1690530117171453952",
+        "location": "普瑞巴林星球",
+        "name": "硝酸银_浅（二世）",
+        "pinned_tweet_id": "2041871190642585663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041358000955518976/9zUWm5kR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 303,
+          "like_count": 611,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 491
+        },
+        "username": "AgNo3_XQ719",
+        "verified": false
+      }
+    ]
+  }
+}

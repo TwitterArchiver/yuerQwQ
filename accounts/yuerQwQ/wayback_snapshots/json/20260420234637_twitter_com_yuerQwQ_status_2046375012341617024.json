@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Page for Global Pride Month for all years",
+          "id": "1275153105659650048",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      }
+    ],
+    "conversation_id": "2046375012341617024",
+    "created_at": "2026-04-20T23:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T00:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046375012341617024"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 62,
+          "tag": "NoPrideInGenocide"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1921471696340713472",
+          "start": 3,
+          "username": "ushio_kumoya2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046375012341617024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1275
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046181469497004347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ushio_kumoya2: ピンクウォッシングをやめろ。\nパレスチナ人虐殺をやめろ。\n私の同胞を殺すのをやめろ。\n#NoPrideInGenocide"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          }
+        ],
+        "conversation_id": "2046375012341617024",
+        "created_at": "2026-04-20T23:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T00:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046375012341617024"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 62,
+              "tag": "NoPrideInGenocide"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1921471696340713472",
+              "start": 3,
+              "username": "ushio_kumoya2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046375012341617024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1275
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046181469497004347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ushio_kumoya2: ピンクウォッシングをやめろ。\nパレスチナ人虐殺をやめろ。\n私の同胞を殺すのをやめろ。\n#NoPrideInGenocide"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921471696340713472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          }
+        ],
+        "conversation_id": "2046181469497004347",
+        "created_at": "2026-04-20T10:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046181469497004347"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 43,
+              "tag": "NoPrideInGenocide"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Israel/status/…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/Israel/status/2046166997566976275",
+              "start": 62,
+              "url": "https://t.co/EwqSRniMKW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046181469497004347",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 95889,
+          "like_count": 6884,
+          "quote_count": 6,
+          "reply_count": 23,
+          "retweet_count": 1275
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046166997566976275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ピンクウォッシングをやめろ。\nパレスチナ人虐殺をやめろ。\n私の同胞を殺すのをやめろ。\n#NoPrideInGenocide https://t.co/EwqSRniMKW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo           喵喵喵喵                                                小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 644,
+          "like_count": 4021,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 556
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T07:46:20.000Z",
+        "description": "同胞たるトランスを守るためだけにプロレタリア運動に参加し、イスラエルの占領・抑圧・虐殺を糾弾し、あらゆる差別に反対する | https://t.co/HsJm6PLFCw | place:Japan",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "arab.org",
+                "end": 85,
+                "expanded_url": "https://arab.org/",
+                "start": 62,
+                "url": "https://t.co/HsJm6PLFCw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/ushio_kumoya",
+                "end": 23,
+                "expanded_url": "https://note.com/ushio_kumoya",
+                "start": 0,
+                "url": "https://t.co/A2BWn2Ugp0"
+              }
+            ]
+          }
+        },
+        "id": "1921471696340713472",
+        "name": "雲矢 潮🏳️‍⚧️",
+        "pinned_tweet_id": "2006392255729569882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942826461527957509/9zfbpuCT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3011,
+          "following_count": 204,
+          "like_count": 121399,
+          "listed_count": 15,
+          "media_count": 13,
+          "tweet_count": 5726
+        },
+        "url": "https://t.co/A2BWn2Ugp0",
+        "username": "ushio_kumoya2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2042456299779285407",
+    "created_at": "2026-04-10T04:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042456299779285407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1856186701280075776",
+          "start": 3,
+          "username": "baizhouzi520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042456299779285407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042456024683282458",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baizhouzi520: 1400fo抽奖!\n感谢大家的陪伴和支持\n为了回馈粉丝，白洲准备了一份大抽奖!\n一等奖一名：宜家55cm鲨鲨一只或疯狂星期四v50一份\n二等奖三名：补佳乐或普瑞巴林一盒\n三等奖三名：10倍凝胶1瓶\n幸运奖五名：鱼板🍥挂件一个\n另外加粉丝群也有…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042456007654457344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhC6uWbQAA561V.jpg",
+        "width": 1152
+      },
+      {
+        "duration_ms": 5433,
+        "height": 1280,
+        "media_key": "7_2042456007675392000",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2042456007675392000/pu/img/us_10jMRr_asC9Yp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042456007675392000/pu/vid/avc1/320x568/9NzE7FvjIZoYk_sf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042456007675392000/pu/vid/avc1/480x852/78f140KbyRqSJRUc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042456007675392000/pu/vid/avc1/720x1280/YF2VWBH0172FixYF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2042456007675392000/pu/pl/30zCWvqx14tc6GpZ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042456009432842241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhC60-bQAE8lTV.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042456009957130240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhC627bQAAi7s5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2042456299779285407",
+        "created_at": "2026-04-10T04:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042456299779285407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1856186701280075776",
+              "start": 3,
+              "username": "baizhouzi520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042456299779285407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042456024683282458",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baizhouzi520: 1400fo抽奖!\n感谢大家的陪伴和支持\n为了回馈粉丝，白洲准备了一份大抽奖!\n一等奖一名：宜家55cm鲨鲨一只或疯狂星期四v50一份\n二等奖三名：补佳乐或普瑞巴林一盒\n三等奖三名：10倍凝胶1瓶\n幸运奖五名：鱼板🍥挂件一个\n另外加粉丝群也有…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042456007654457344",
+            "7_2042456007675392000",
+            "3_2042456009432842241",
+            "3_2042456009957130240"
+          ]
+        },
+        "author_id": "1856186701280075776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042456024683282458",
+        "created_at": "2026-04-10T04:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042456024683282458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fAnTm3oLOc",
+              "end": 181,
+              "expanded_url": "https://x.com/baizhouzi520/status/2042456024683282458/video/1",
+              "media_key": "3_2042456007654457344",
+              "start": 158,
+              "url": "https://t.co/fAnTm3oLOc"
+            },
+            {
+              "display_url": "pic.x.com/fAnTm3oLOc",
+              "end": 181,
+              "expanded_url": "https://x.com/baizhouzi520/status/2042456024683282458/video/1",
+              "media_key": "7_2042456007675392000",
+              "start": 158,
+              "url": "https://t.co/fAnTm3oLOc"
+            },
+            {
+              "display_url": "pic.x.com/fAnTm3oLOc",
+              "end": 181,
+              "expanded_url": "https://x.com/baizhouzi520/status/2042456024683282458/video/1",
+              "media_key": "3_2042456009432842241",
+              "start": 158,
+              "url": "https://t.co/fAnTm3oLOc"
+            },
+            {
+              "display_url": "pic.x.com/fAnTm3oLOc",
+              "end": 181,
+              "expanded_url": "https://x.com/baizhouzi520/status/2042456024683282458/video/1",
+              "media_key": "3_2042456009957130240",
+              "start": 158,
+              "url": "https://t.co/fAnTm3oLOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042456024683282458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "1400fo抽奖!\n感谢大家的陪伴和支持\n为了回馈粉丝，白洲准备了一份大抽奖!\n一等奖一名：宜家55cm鲨鲨一只或疯狂星期四v50一份\n二等奖三名：补佳乐或普瑞巴林一盒\n三等奖三名：10倍凝胶1瓶\n幸运奖五名：鱼板🍥挂件一个\n另外加粉丝群也有抽奖\n欢迎大家来玩哦\n1800fo抽日雌一盒哦!\n关注评论转发点赞抽奖喵 https://t.co/fAnTm3oLOc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/未含糖/修正马哲☭/民主青年🇹🇼/广东/近视/178身高体重115/欢迎互fo                 小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 130,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 43
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T04:06:17.000Z",
+        "description": "小证含糖半家长党（?）|hrt2024.12.15|死精神病一个|有时候会od，自残|多意识体（白洲/黎星/诗遥/haku）|最爱的姐姐/爱人/老公：@mishamimihemumu|有凝胶和日雌出售喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "mishamimihemumu"
+              }
+            ]
+          }
+        },
+        "id": "1856186701280075776",
+        "location": "姐姐的怀里",
+        "name": "白白白白洲洲洲洲🍥🍔🍙💊凝胶有售喵",
+        "pinned_tweet_id": "2036634550647038008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035716012918886400/w1JKUgDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 654,
+          "like_count": 11707,
+          "listed_count": 3,
+          "media_count": 505,
+          "tweet_count": 1745
+        },
+        "username": "baizhouzi520",
+        "verified": false
+      }
+    ]
+  }
+}

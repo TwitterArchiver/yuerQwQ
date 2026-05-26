@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2041936373209571353",
+    "created_at": "2026-04-08T17:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T18:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041936373209571353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041380427873566720",
+          "start": 3,
+          "username": "shigin218150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041936373209571353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041455284862750841",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigin218150: 有没有人能帮我转发一下这条，我找不到之前的互关了啊啊啊，我会在转发里抽两个5.2，求求你们帮帮忙😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2041936373209571353",
+        "created_at": "2026-04-08T17:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T18:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041936373209571353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041380427873566720",
+              "start": 3,
+              "username": "shigin218150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041936373209571353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041455284862750841",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shigin218150: 有没有人能帮我转发一下这条，我找不到之前的互关了啊啊啊，我会在转发里抽两个5.2，求求你们帮帮忙😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041380427873566720",
+        "conversation_id": "2041455284862750841",
+        "created_at": "2026-04-07T09:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041455284862750841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041455284862750841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2323,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人能帮我转发一下这条，我找不到之前的互关了啊啊啊，我会在转发里抽两个5.2，求求你们帮帮忙😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/未含糖/修正马哲☭/民主青年🇹🇼/广东/近视/178身高体重115/欢迎互fo                 小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 68,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T05:00:30.000Z",
+        "description": "我🔪💊 🚪13.14我是乖孩子求你们入门",
+        "id": "2041380427873566720",
+        "name": "murasaki",
+        "pinned_tweet_id": "2041881289738088785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041426222723612672/s6DEL3HS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 64,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 27
+        },
+        "username": "shigin218150",
+        "verified": false
+      }
+    ]
+  }
+}

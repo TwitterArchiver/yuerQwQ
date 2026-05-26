@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2043331454986523072",
+    "created_at": "2026-04-12T14:12:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T15:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043331454986523072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2039707587567075328",
+          "start": 3,
+          "username": "Cit7w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043331454986523072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043165827122548770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cit7w: 没流量100关注抽\n一等奖：52🧧 x1人\n二等奖：一盒pr80折（20）x1人\n三等奖：玉米片折（10） x1人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2043331454986523072",
+        "created_at": "2026-04-12T14:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043331454986523072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2039707587567075328",
+              "start": 3,
+              "username": "Cit7w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043331454986523072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043165827122548770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cit7w: 没流量100关注抽\n一等奖：52🧧 x1人\n二等奖：一盒pr80折（20）x1人\n三等奖：玉米片折（10） x1人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039707587567075328",
+        "conversation_id": "2043165827122548770",
+        "created_at": "2026-04-12T03:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043165827122548770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043165827122548770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 686,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "没流量100关注抽\n一等奖：52🧧 x1人\n二等奖：一盒pr80折（20）x1人\n三等奖：玉米片折（10） x1人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/未含糖/修正马主义☭/民主青年🇹🇼/广东/近视/178身高体重115/欢迎互fo                           小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "pinned_tweet_id": "2043192488719155288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 267,
+          "like_count": 1009,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 131
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T14:13:30.000Z",
+        "description": "这个世界充满假象 唯有痛苦从不说谎",
+        "id": "2039707587567075328",
+        "name": "诚诚",
+        "pinned_tweet_id": "2039836078514020584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039841587858137088/IUDiBRJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 8,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 71
+        },
+        "username": "Cit7w",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2047552746354847932",
+    "created_at": "2026-04-24T05:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047552746354847932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1824764938641887232",
+          "start": 3,
+          "username": "yh9401700442687"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047552746354847932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047211785644855442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yh9401700442687: 这个问题我的看法是：首先，我想回顾一些定义，共产主义社会不是静态的“乌托邦”，是生产力极大发展后的一个历史进程。物质基础决定上层建筑，阶级，法律，国家不会突然凭空消失，而是当生产力发展到旧式分工基本消灭、物质极大丰富、人们日常行为模式发…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1077,
+        "media_key": "3_2047211741944369152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkoO5KaUAAALE0.jpg",
+        "width": 808
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2047552746354847932",
+        "created_at": "2026-04-24T05:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047552746354847932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1824764938641887232",
+              "start": 3,
+              "username": "yh9401700442687"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047552746354847932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047211785644855442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yh9401700442687: 这个问题我的看法是：首先，我想回顾一些定义，共产主义社会不是静态的“乌托邦”，是生产力极大发展后的一个历史进程。物质基础决定上层建筑，阶级，法律，国家不会突然凭空消失，而是当生产力发展到旧式分工基本消灭、物质极大丰富、人们日常行为模式发…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047211741944369152"
+          ]
+        },
+        "author_id": "1824764938641887232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2047211785644855442",
+        "created_at": "2026-04-23T07:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047211785644855442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dwfsa2x3qg",
+              "end": 159,
+              "expanded_url": "https://x.com/yh9401700442687/status/2047211785644855442/photo/1",
+              "media_key": "3_2047211741944369152",
+              "start": 136,
+              "url": "https://t.co/dwfsa2x3qg"
+            },
+            {
+              "display_url": "x.com/PremierHimmler…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/PremierHimmler/status/2047171007937757279",
+              "start": 160,
+              "url": "https://t.co/eUWWv3LU5s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047211785644855442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 645,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047171007937757279",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个问题我的看法是：首先，我想回顾一些定义，共产主义社会不是静态的“乌托邦”，是生产力极大发展后的一个历史进程。物质基础决定上层建筑，阶级，法律，国家不会突然凭空消失，而是当生产力发展到旧式分工基本消灭、物质极大丰富、人们日常行为模式发生质变的时候，才会逐渐萎缩、消亡。 https://t.co/dwfsa2x3qg https://t.co/eUWWv3LU5s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo           喵喵喵喵                                                小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 657,
+          "like_count": 4465,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 661
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T11:07:36.000Z",
+        "description": "五帝三皇神圣事，骗了无涯过客",
+        "id": "1824764938641887232",
+        "name": "渊泉",
+        "pinned_tweet_id": "2026235506481418435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021872576193343490/Ara_bImP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 123,
+          "like_count": 1277,
+          "listed_count": 1,
+          "media_count": 411,
+          "tweet_count": 1932
+        },
+        "username": "yh9401700442687",
+        "verified": false
+      }
+    ]
+  }
+}

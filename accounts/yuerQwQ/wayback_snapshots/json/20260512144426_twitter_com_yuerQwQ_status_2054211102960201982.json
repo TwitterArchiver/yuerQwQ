@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054184141017784320"
+      ],
+      "media_source_tweet_id": [
+        "2054184143785984467"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2054211102960201982",
+    "created_at": "2026-05-12T14:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T15:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054211102960201982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1868701291830206464",
+          "start": 3,
+          "username": "A_Asystem"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ojki537NjP",
+          "end": 60,
+          "expanded_url": "https://x.com/A_Asystem/status/2054184143785984467/photo/1",
+          "media_key": "3_2054184141017784320",
+          "start": 37,
+          "url": "https://t.co/ojki537NjP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054211102960201982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054184143785984467",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @A_Asystem: 咱非常困惑，具体原因如图所示，请大家帮帮忙 https://t.co/ojki537NjP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1454,
+        "media_key": "3_2054184141017784320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHtl7ybIAA3Vuu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054184141017784320"
+          ],
+          "media_source_tweet_id": [
+            "2054184143785984467"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2054211102960201982",
+        "created_at": "2026-05-12T14:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054211102960201982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1868701291830206464",
+              "start": 3,
+              "username": "A_Asystem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ojki537NjP",
+              "end": 60,
+              "expanded_url": "https://x.com/A_Asystem/status/2054184143785984467/photo/1",
+              "media_key": "3_2054184141017784320",
+              "start": 37,
+              "url": "https://t.co/ojki537NjP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054211102960201982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054184143785984467",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @A_Asystem: 咱非常困惑，具体原因如图所示，请大家帮帮忙 https://t.co/ojki537NjP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054184141017784320"
+          ]
+        },
+        "author_id": "1868701291830206464",
+        "conversation_id": "2054184143785984467",
+        "created_at": "2026-05-12T12:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054184143785984467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ojki537NjP",
+              "end": 45,
+              "expanded_url": "https://x.com/A_Asystem/status/2054184143785984467/photo/1",
+              "media_key": "3_2054184141017784320",
+              "start": 22,
+              "url": "https://t.co/ojki537NjP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054184143785984467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "咱非常困惑，具体原因如图所示，请大家帮帮忙 https://t.co/ojki537NjP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 792,
+          "like_count": 6451,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1036
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T16:54:52.000Z",
+        "description": "这里还是一只喜欢打牌的含糖🍥小熊🧸@Ereaurora的新账号/\n主要发推记录日常或当做树洞/\n偶尔读社会科学/\n炉石 影之诗 ptcg(国际服环境) lor 万智牌(xmage和untap上玩edh) \n以及一些小众卡牌游戏均有涉猎\n(不会三国杀和游戏王qwq)/\n卡牌游戏及steam加好友或互fo请私信哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Ereaurora"
+              }
+            ]
+          }
+        },
+        "id": "1868701291830206464",
+        "location": "1m",
+        "name": "Aurora&Andromeda🧸🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1905421355195269408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868702280343801856/VCqgJsef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 574,
+          "like_count": 10591,
+          "listed_count": 7,
+          "media_count": 122,
+          "tweet_count": 6063
+        },
+        "username": "A_Asystem",
+        "verified": false
+      }
+    ]
+  }
+}

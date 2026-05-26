@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2051365713512980919",
+    "created_at": "2026-05-04T18:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T19:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051365713512980919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1578246259818860544",
+          "start": 0,
+          "username": "Protho_protogen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051365713512980919",
+    "in_reply_to_user_id": "1578246259818860544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Protho_protogen \n我希望在这条贴文下交流，因为我想使用grok翻译\n( ๑ŏ ﹏ ŏ๑ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2051365713512980919",
+        "created_at": "2026-05-04T18:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T19:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051365713512980919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1578246259818860544",
+              "start": 0,
+              "username": "Protho_protogen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051365713512980919",
+        "in_reply_to_user_id": "1578246259818860544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Protho_protogen \n我希望在这条贴文下交流，因为我想使用grok翻译\n( ๑ŏ ﹏ ŏ๑ )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2049899118508863784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 709,
+          "like_count": 5390,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 878
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T04:50:16.000Z",
+        "description": "Artist in practice, ye I can't draw anatomy 😭😭😭\n\npfp by: l0op\nbanner by: unknownfur\n\nESPAÑAA 🇪🇸🇪🇸🇪🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/un_protogen_ra…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/un_protogen_random?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/001QgUT1tJ"
+              }
+            ]
+          }
+        },
+        "id": "1578246259818860544",
+        "location": "Barcelona, Spain",
+        "name": "Protho_uwu",
+        "pinned_tweet_id": "1733460042471374945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933315663843520512/XCEKIO-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 1103,
+          "like_count": 27668,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 3055
+        },
+        "url": "https://t.co/001QgUT1tJ",
+        "username": "Protho_protogen",
+        "verified": false
+      }
+    ]
+  }
+}

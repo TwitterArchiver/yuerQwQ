@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2047664953734386157",
+    "created_at": "2026-04-24T13:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047664953734386157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "873489613934927872",
+          "start": 3,
+          "username": "taro_puree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047664953734386157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047656897596277095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taro_puree: 这个项目是两个月前整合了很多资源成立的，我主要负责行政和财务相关工作。目前项目包括反扭转、反家暴、庇护所、简单线上干预、紧急救助金，以及跨性别放送账号、B站晚会直播等。资金绝大部分直接用于一线的运营和工作。现在我们都比较忙，尽量5月份公开详细的报…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2047664953734386157",
+        "created_at": "2026-04-24T13:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047664953734386157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "873489613934927872",
+              "start": 3,
+              "username": "taro_puree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047664953734386157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047656897596277095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taro_puree: 这个项目是两个月前整合了很多资源成立的，我主要负责行政和财务相关工作。目前项目包括反扭转、反家暴、庇护所、简单线上干预、紧急救助金，以及跨性别放送账号、B站晚会直播等。资金绝大部分直接用于一线的运营和工作。现在我们都比较忙，尽量5月份公开详细的报…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "873489613934927872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2047656897596277095",
+        "created_at": "2026-04-24T12:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047656897596277095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/siyu060910/sta…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/siyu060910/status/2046657826555301893",
+              "start": 142,
+              "url": "https://t.co/GPzv6ugzvp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047656897596277095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 294,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046657826555301893",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个项目是两个月前整合了很多资源成立的，我主要负责行政和财务相关工作。目前项目包括反扭转、反家暴、庇护所、简单线上干预、紧急救助金，以及跨性别放送账号、B站晚会直播等。资金绝大部分直接用于一线的运营和工作。现在我们都比较忙，尽量5月份公开详细的报告，保证财务与工作公开透明，欢迎监督 https://t.co/GPzv6ugzvp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo           喵喵喵喵                                                小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 662,
+          "like_count": 4539,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 687
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-10T10:38:47.000Z",
+        "description": "(she/her) /本体是4i女/autoandrophilia/深柜潜在家暴党/专业自我扭转10余年成为精神跨男/梦想是早日经济和心理独立/社工专业濒临退学中/个人音乐工作室营业中🥺",
+        "id": "873489613934927872",
+        "name": "果泥泥",
+        "pinned_tweet_id": "1947368625045967299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787304549323288576/A8oJBe68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 283,
+          "like_count": 23477,
+          "listed_count": 3,
+          "media_count": 338,
+          "tweet_count": 3682
+        },
+        "username": "taro_puree",
+        "verified": false
+      }
+    ]
+  }
+}

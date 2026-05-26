@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2046087291630928041",
+    "created_at": "2026-04-20T04:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T05:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046087291630928041"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 37,
+          "tag": "TokyoPride2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1829410875746459648",
+          "start": 3,
+          "username": "tokyotransmarch"
+        }
+      ],
+      "urls": [
+        {
+          "description": "2026年6月7日（日）に開催されるTokyo Pride2026のパレードへの出展フロート「東京トランスマーチinTokyoPride2026」に参加するための申込フォームです。 This is the application form for participating in the ‘Tokyo Trans March in Tokyo Pride 2026,’ a parade float featured in the Tokyo Pride 2026 parade on Sunday, June 7, 2026. ＊こちらのフォームで収集した個人情報は「東京トランスマーチinTokyoPride2026」に関する情報伝達以外には使用しません。 ＊Personal information collected through this form will be used solely for communication regarding the ‘Tokyo Trans March in Tokyo Pride 2026.",
+          "display_url": "docs.google.com/forms/d/e/1FAI…",
+          "end": 132,
+          "expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSdZmcxpYew81qlfIIjppC7-s56spkqPoLHz9l3FA1I6fPhn_w/viewform?usp=publish-editor",
+          "start": 109,
+          "status": 200,
+          "title": "東京トランスマーチinTokyoPride2026参加申込フォーム/Registration Form for the Tokyo Trans March in Tokyo Pride 2026",
+          "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSdZmcxpYew81qlfIIjppC7-s56spkqPoLHz9l3FA1I6fPhn_w/viewform?usp=publish-editor",
+          "url": "https://t.co/3uemHYeCT3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046087291630928041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 382
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045851710716035212",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tokyotransmarch: 【告知】東京トランスマーチin #TokyoPride2026 🏳️‍⚧️🏳️‍🌈\n\n2026年6月7日、プライド月間に渋谷の街をいっしょに歩きましょう！\n\n参加申込はこちら：https://t.co/3uemHYeCT3\n\n政治家が「…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "東京トランスマーチin 東京プライド2026\n\n2026年6月7日\n\nお申し込みはGoogleフォームから",
+        "height": 2048,
+        "media_key": "3_2045851700607758336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRTSEXasAAGGa9.jpg",
+        "width": 1639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2046087291630928041",
+        "created_at": "2026-04-20T04:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T05:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046087291630928041"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 37,
+              "tag": "TokyoPride2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1829410875746459648",
+              "start": 3,
+              "username": "tokyotransmarch"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2026年6月7日（日）に開催されるTokyo Pride2026のパレードへの出展フロート「東京トランスマーチinTokyoPride2026」に参加するための申込フォームです。 This is the application form for participating in the ‘Tokyo Trans March in Tokyo Pride 2026,’ a parade float featured in the Tokyo Pride 2026 parade on Sunday, June 7, 2026. ＊こちらのフォームで収集した個人情報は「東京トランスマーチinTokyoPride2026」に関する情報伝達以外には使用しません。 ＊Personal information collected through this form will be used solely for communication regarding the ‘Tokyo Trans March in Tokyo Pride 2026.",
+              "display_url": "docs.google.com/forms/d/e/1FAI…",
+              "end": 132,
+              "expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSdZmcxpYew81qlfIIjppC7-s56spkqPoLHz9l3FA1I6fPhn_w/viewform?usp=publish-editor",
+              "start": 109,
+              "status": 200,
+              "title": "東京トランスマーチinTokyoPride2026参加申込フォーム/Registration Form for the Tokyo Trans March in Tokyo Pride 2026",
+              "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSdZmcxpYew81qlfIIjppC7-s56spkqPoLHz9l3FA1I6fPhn_w/viewform?usp=publish-editor",
+              "url": "https://t.co/3uemHYeCT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046087291630928041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 382
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045851710716035212",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tokyotransmarch: 【告知】東京トランスマーチin #TokyoPride2026 🏳️‍⚧️🏳️‍🌈\n\n2026年6月7日、プライド月間に渋谷の街をいっしょに歩きましょう！\n\n参加申込はこちら：https://t.co/3uemHYeCT3\n\n政治家が「…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045851700607758336"
+          ]
+        },
+        "author_id": "1829410875746459648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2045851710716035212",
+        "created_at": "2026-04-19T13:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045851710716035212"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 16,
+              "tag": "TokyoPride2026"
+            },
+            {
+              "end": 164,
+              "start": 154,
+              "tag": "WeAreHere"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2026年6月7日（日）に開催されるTokyo Pride2026のパレードへの出展フロート「東京トランスマーチinTokyoPride2026」に参加するための申込フォームです。 This is the application form for participating in the ‘Tokyo Trans March in Tokyo Pride 2026,’ a parade float featured in the Tokyo Pride 2026 parade on Sunday, June 7, 2026. ＊こちらのフォームで収集した個人情報は「東京トランスマーチinTokyoPride2026」に関する情報伝達以外には使用しません。 ＊Personal information collected through this form will be used solely for communication regarding the ‘Tokyo Trans March in Tokyo Pride 2026.",
+              "display_url": "docs.google.com/forms/d/e/1FAI…",
+              "end": 111,
+              "expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSdZmcxpYew81qlfIIjppC7-s56spkqPoLHz9l3FA1I6fPhn_w/viewform?usp=publish-editor",
+              "start": 88,
+              "status": 200,
+              "title": "東京トランスマーチinTokyoPride2026参加申込フォーム/Registration Form for the Tokyo Trans March in Tokyo Pride 2026",
+              "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSdZmcxpYew81qlfIIjppC7-s56spkqPoLHz9l3FA1I6fPhn_w/viewform?usp=publish-editor",
+              "url": "https://t.co/3uemHYeCT3"
+            },
+            {
+              "display_url": "pic.x.com/PdMPp1Rr6o",
+              "end": 206,
+              "expanded_url": "https://x.com/tokyotransmarch/status/2045851710716035212/photo/1",
+              "media_key": "3_2045851700607758336",
+              "start": 183,
+              "url": "https://t.co/PdMPp1Rr6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045851710716035212",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 37399,
+          "like_count": 2308,
+          "quote_count": 30,
+          "reply_count": 23,
+          "retweet_count": 382
+        },
+        "reply_settings": "everyone",
+        "text": "【告知】東京トランスマーチin #TokyoPride2026 🏳️‍⚧️🏳️‍🌈\n\n2026年6月7日、プライド月間に渋谷の街をいっしょに歩きましょう！\n\n参加申込はこちら：https://t.co/3uemHYeCT3\n\n政治家が「変なLGBTとかどうでもいい。教えなくていい」など差別発言をする時代に #WeAreHere のメッセージを鮮やかに発信します！ https://t.co/PdMPp1Rr6o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo           喵喵喵喵                                                小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 636,
+          "like_count": 3882,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 528
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T06:48:43.000Z",
+        "description": "11月22日に新宿中央公園水の広場で開催する #東京トランスマーチ2025 実行委員会の公式アカウント🏳️‍⚧️✨ \n今年のテーマは“We Are Here-わたしたちはここにいる-” 世界中でLGBTQ+、トランスジェンダーに対するバックラッシュが起きています。そんな中で今年1年生き延びたことを、讃えあいましょう！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 23,
+                "tag": "東京トランスマーチ2025"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/tokyotransmarch",
+                "end": 23,
+                "expanded_url": "https://lit.link/tokyotransmarch",
+                "start": 0,
+                "url": "https://t.co/OveDr1CLHR"
+              }
+            ]
+          }
+        },
+        "id": "1829410875746459648",
+        "location": "新宿中央公園水の広場",
+        "name": "東京トランスマーチinTokyoPride2026@2026.6.7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955269789863342080/jRYxTnJ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 414,
+          "like_count": 632,
+          "listed_count": 11,
+          "media_count": 210,
+          "tweet_count": 926
+        },
+        "url": "https://t.co/OveDr1CLHR",
+        "username": "tokyotransmarch",
+        "verified": true
+      }
+    ]
+  }
+}

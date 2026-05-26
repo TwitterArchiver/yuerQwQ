@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2058701515528020275",
+    "created_at": "2026-05-25T00:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T01:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058701515528020275"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hu_qin_/status…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/hu_qin_/status/2058665016270655497",
+          "start": 22,
+          "url": "https://t.co/Mg8ZoscdvH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058701515528020275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058665016270655497",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶…发生什么了这是\n\n我是小资历不认识人😭 https://t.co/Mg8ZoscdvH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2058664855997923329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJHYx31WQAEbnZm.jpg",
+        "width": 1069
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2058664869038071808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJHYyoaXIAAQcsq.jpg",
+        "width": 845
+      },
+      {
+        "height": 1115,
+        "media_key": "3_2058664883067944960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJHYzcrWAAA_nGA.jpg",
+        "width": 506
+      },
+      {
+        "height": 961,
+        "media_key": "3_2058664904609935360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJHY0s7WsAAy2Lq.jpg",
+        "width": 506
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2058701515528020275",
+        "created_at": "2026-05-25T00:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T01:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058701515528020275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hu_qin_/status…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/hu_qin_/status/2058665016270655497",
+              "start": 22,
+              "url": "https://t.co/Mg8ZoscdvH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058701515528020275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058665016270655497",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶…发生什么了这是\n\n我是小资历不认识人😭 https://t.co/Mg8ZoscdvH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058664855997923329",
+            "3_2058664869038071808",
+            "3_2058664883067944960",
+            "3_2058664904609935360"
+          ]
+        },
+        "author_id": "918593759121690625",
+        "conversation_id": "2058661675612663945",
+        "created_at": "2026-05-24T21:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T22:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058665016270655497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DQ4YJeRz3y",
+              "end": 134,
+              "expanded_url": "https://x.com/hu_qin_/status/2058665016270655497/photo/1",
+              "media_key": "3_2058664855997923329",
+              "start": 111,
+              "url": "https://t.co/DQ4YJeRz3y"
+            },
+            {
+              "display_url": "pic.x.com/DQ4YJeRz3y",
+              "end": 134,
+              "expanded_url": "https://x.com/hu_qin_/status/2058665016270655497/photo/1",
+              "media_key": "3_2058664869038071808",
+              "start": 111,
+              "url": "https://t.co/DQ4YJeRz3y"
+            },
+            {
+              "display_url": "pic.x.com/DQ4YJeRz3y",
+              "end": 134,
+              "expanded_url": "https://x.com/hu_qin_/status/2058665016270655497/photo/1",
+              "media_key": "3_2058664883067944960",
+              "start": 111,
+              "url": "https://t.co/DQ4YJeRz3y"
+            },
+            {
+              "display_url": "pic.x.com/DQ4YJeRz3y",
+              "end": 134,
+              "expanded_url": "https://x.com/hu_qin_/status/2058665016270655497/photo/1",
+              "media_key": "3_2058664904609935360",
+              "start": 111,
+              "url": "https://t.co/DQ4YJeRz3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058665016270655497",
+        "in_reply_to_user_id": "918593759121690625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 255,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058661675612663945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一些推特上公开站出来指控寒涟漪强奸的证词。图片描述比较露骨所以单独发一下，大家慎点。第一位浅羽悠月后来25年6月的时候跳楼了。\n\n我也写了一个英文的举报模板，见下。（不过寒涟漪大号被封和我没关系！我也是刷到消息才知道的） https://t.co/DQ4YJeRz3y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 775,
+          "like_count": 8914,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 1643
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, queer, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "location": "PRC／UK／nonbinary transfem🏳️‍⚧",
+        "name": "胡琴",
+        "pinned_tweet_id": "2045736690673741968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 1818,
+          "like_count": 20627,
+          "listed_count": 3,
+          "media_count": 264,
+          "tweet_count": 5307
+        },
+        "username": "hu_qin_",
+        "verified": false
+      }
+    ]
+  }
+}

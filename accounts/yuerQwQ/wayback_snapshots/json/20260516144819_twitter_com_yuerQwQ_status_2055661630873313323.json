@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2055642551072542928",
+    "created_at": "2026-05-16T14:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055661630873313323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926295797932474368",
+          "start": 0,
+          "username": "wuxin0009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055661630873313323",
+    "in_reply_to_user_id": "1926295797932474368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055642551072542928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuxin0009 喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055642538686697472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcb_2eaUAAH6xB.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055642538669903872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcb_2aaEAAbcwn.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2055642551072542928",
+        "created_at": "2026-05-16T14:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055661630873313323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926295797932474368",
+              "start": 0,
+              "username": "wuxin0009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055661630873313323",
+        "in_reply_to_user_id": "1926295797932474368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055642551072542928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuxin0009 喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055642538686697472",
+            "3_2055642538669903872"
+          ]
+        },
+        "author_id": "1926295797932474368",
+        "conversation_id": "2055642551072542928",
+        "created_at": "2026-05-16T13:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055642551072542928"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "互关"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/39C8sR2Dwd",
+              "end": 85,
+              "expanded_url": "https://x.com/wuxin0009/status/2055642551072542928/photo/1",
+              "media_key": "3_2055642538686697472",
+              "start": 62,
+              "url": "https://t.co/39C8sR2Dwd"
+            },
+            {
+              "display_url": "pic.x.com/39C8sR2Dwd",
+              "end": 85,
+              "expanded_url": "https://x.com/wuxin0009/status/2055642551072542928/photo/1",
+              "media_key": "3_2055642538669903872",
+              "start": 62,
+              "url": "https://t.co/39C8sR2Dwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055642551072542928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 500,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢🙏大家的认可，一一再回了，一下子回关不完，今日又互关200+粉丝！再次感谢大家，如有怠慢请见谅🙏🙏🙏#互关 #蓝v互关 https://t.co/39C8sR2Dwd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 828,
+          "like_count": 7316,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1187
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-24T15:14:55.000Z",
+        "description": "#Bitget钱包产品体验官 Bitget Wallet 体验官，你的币圈支付宝，你的银行理财宝，快快点击注册吧：邀请码aD1aAz  链接：https://t.co/U3Fm9ZR0dg",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 0,
+                "tag": "Bitget钱包产品体验官"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.bitget.com/share/2yn1Q7?i…",
+                "end": 94,
+                "expanded_url": "https://web3.bitget.com/share/2yn1Q7?inviteCode=aD1aAz",
+                "start": 71,
+                "url": "https://t.co/U3Fm9ZR0dg"
+              }
+            ]
+          }
+        },
+        "id": "1926295797932474368",
+        "name": "QC青茶🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017719190908772352/q8xMiZKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4492,
+          "following_count": 4250,
+          "like_count": 1228,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 1982
+        },
+        "username": "wuxin0009",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042589821345099777",
+        "3_2042590774316142594"
+      ],
+      "media_source_tweet_id": [
+        "2042590782981575033",
+        "2042590782981575033"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2042898218103771457",
+    "created_at": "2026-04-11T09:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042898218103771457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1816178308813578243",
+          "start": 3,
+          "username": "tgxjg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/toDYzWLrkQ",
+          "end": 59,
+          "expanded_url": "https://x.com/tgxjg/status/2042590782981575033/photo/1",
+          "media_key": "3_2042589821345099777",
+          "start": 36,
+          "url": "https://t.co/toDYzWLrkQ"
+        },
+        {
+          "display_url": "pic.x.com/toDYzWLrkQ",
+          "end": 59,
+          "expanded_url": "https://x.com/tgxjg/status/2042590782981575033/photo/1",
+          "media_key": "3_2042590774316142594",
+          "start": 36,
+          "url": "https://t.co/toDYzWLrkQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042898218103771457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042590782981575033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tgxjg: 大号炸了\n求你们帮我转转抽两个8.8 ꒦ິ^꒦ິ https://t.co/toDYzWLrkQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1273,
+        "media_key": "3_2042589821345099777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFi8ntMacAElBUu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1015,
+        "media_key": "3_2042590774316142594",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFi9fLSakAIO9s-.jpg",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042589821345099777",
+            "3_2042590774316142594"
+          ],
+          "media_source_tweet_id": [
+            "2042590782981575033",
+            "2042590782981575033"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2042898218103771457",
+        "created_at": "2026-04-11T09:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042898218103771457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1816178308813578243",
+              "start": 3,
+              "username": "tgxjg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/toDYzWLrkQ",
+              "end": 59,
+              "expanded_url": "https://x.com/tgxjg/status/2042590782981575033/photo/1",
+              "media_key": "3_2042589821345099777",
+              "start": 36,
+              "url": "https://t.co/toDYzWLrkQ"
+            },
+            {
+              "display_url": "pic.x.com/toDYzWLrkQ",
+              "end": 59,
+              "expanded_url": "https://x.com/tgxjg/status/2042590782981575033/photo/1",
+              "media_key": "3_2042590774316142594",
+              "start": 36,
+              "url": "https://t.co/toDYzWLrkQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042898218103771457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042590782981575033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tgxjg: 大号炸了\n求你们帮我转转抽两个8.8 ꒦ິ^꒦ິ https://t.co/toDYzWLrkQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042589821345099777",
+            "3_2042590774316142594"
+          ]
+        },
+        "author_id": "1816178308813578243",
+        "conversation_id": "2042590782981575033",
+        "created_at": "2026-04-10T13:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042590782981575033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/toDYzWLrkQ",
+              "end": 48,
+              "expanded_url": "https://x.com/tgxjg/status/2042590782981575033/photo/1",
+              "media_key": "3_2042589821345099777",
+              "start": 25,
+              "url": "https://t.co/toDYzWLrkQ"
+            },
+            {
+              "display_url": "pic.x.com/toDYzWLrkQ",
+              "end": 48,
+              "expanded_url": "https://x.com/tgxjg/status/2042590782981575033/photo/1",
+              "media_key": "3_2042590774316142594",
+              "start": 25,
+              "url": "https://t.co/toDYzWLrkQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042590782981575033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 518,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "大号炸了\n求你们帮我转转抽两个8.8 ꒦ິ^꒦ິ https://t.co/toDYzWLrkQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/未含糖/修正马主义☭/民主青年🇹🇼/广东/近视/178身高体重115/欢迎互fo                 小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 213,
+          "like_count": 664,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 88
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T18:27:26.000Z",
+        "description": "@vldanj    🚪想给多少给多少(仅好友位    看到消息会回)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "vldanj"
+              }
+            ]
+          }
+        },
+        "id": "1816178308813578243",
+        "name": "柯柯♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042597876107481093/THuwwOhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 91,
+          "like_count": 523,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 65
+        },
+        "username": "tgxjg",
+        "verified": false
+      }
+    ]
+  }
+}

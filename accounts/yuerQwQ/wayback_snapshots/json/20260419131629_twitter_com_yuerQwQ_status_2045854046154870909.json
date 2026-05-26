@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2045843278508285953",
+    "created_at": "2026-04-19T13:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045854046154870909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2552819732",
+          "start": 0,
+          "username": "shiranami_oruka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045854046154870909",
+    "in_reply_to_user_id": "2552819732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045843278508285953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiranami_oruka 如果可以的话，我很希望在「证明身份的证件」上可以同时填写生理性别与社会性别\n只是可惜，现在的共产党中国应该是不会有了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2045843278508285953",
+        "created_at": "2026-04-19T13:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045854046154870909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2552819732",
+              "start": 0,
+              "username": "shiranami_oruka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045854046154870909",
+        "in_reply_to_user_id": "2552819732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045843278508285953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiranami_oruka 如果可以的话，我很希望在「证明身份的证件」上可以同时填写生理性别与社会性别\n只是可惜，现在的共产党中国应该是不会有了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2552819732",
+        "conversation_id": "2045843278508285953",
+        "created_at": "2026-04-19T12:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045843278508285953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuerQwQ/status…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/yuerQwQ/status/2045683111888056730",
+              "start": 146,
+              "url": "https://t.co/5qxc23Vc5D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045843278508285953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045683111888056730",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "そもそも、\n\n「ジェンダー」は「社会的性別観念（≒良くも悪くも、性別の\"イメージ\"でしかないもの）」\n\n「セックス」は「生物学的性別分類」\n\nです。\n\n「原因」と「結果」について気になっているようですが、結果としても、男性が整形や無理なホルモン投与をしても女性の身体になることはありません。 https://t.co/5qxc23Vc5D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo           喵喵喵喵                                                小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 611,
+          "like_count": 3646,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 488
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-07T15:33:42.000Z",
+        "description": "漫画・イラスト・小説描けたいポケモントレーナーエンジョイ勢♪　田舎と街を最高の比率で配合したジモトタウンに生息🐟🌼🌾🌿🌴🌊🗾　面倒なので全員幸せになる世界にしようぜ派の厨二性　ポケモン、SB69、ツムツム、グラブルたのしー！　作品ピックアップ：@oruka_pokegi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "oruka_pokegi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/shiranami_oruka",
+                "end": 23,
+                "expanded_url": "http://twpf.jp/shiranami_oruka",
+                "start": 0,
+                "url": "https://t.co/XeUdtOyjfD"
+              }
+            ]
+          }
+        },
+        "id": "2552819732",
+        "location": "アキタ地方ケンナンシティ ジモトタウン",
+        "name": "白波オルカ🦐💫@ハナビラアイス🌸",
+        "pinned_tweet_id": "2023633344463073510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1391487939423526912/I3cud9R__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2269,
+          "following_count": 2972,
+          "like_count": 907234,
+          "listed_count": 71,
+          "media_count": 5791,
+          "tweet_count": 609383
+        },
+        "url": "https://t.co/XeUdtOyjfD",
+        "username": "shiranami_oruka",
+        "verified": false
+      }
+    ]
+  }
+}

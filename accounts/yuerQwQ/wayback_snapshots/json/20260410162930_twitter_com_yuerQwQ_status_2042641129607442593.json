@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2042106110799442379",
+    "created_at": "2026-04-10T16:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042641129607442593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1856186701280075776",
+          "start": 0,
+          "username": "baizhouzi520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042641129607442593",
+    "in_reply_to_user_id": "1856186701280075776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042106110799442379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhouzi520 喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5360,
+        "height": 960,
+        "media_key": "13_2042106076318076928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042106076318076928/img/S4EK-yEjs_eWLoL6.jpg",
+        "public_metrics": {
+          "view_count": 84
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042106076318076928/vid/avc1/320x564/E-_jwkT4Rq2ThCt9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042106076318076928/vid/avc1/480x846/1hVi9_OQS2iIrwfY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042106076318076928/vid/avc1/544x960/MPdebxF7CUYfsxuO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042106076318076928/pl/zXzuVek6stHnaizS.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2042106110799442379",
+        "created_at": "2026-04-10T16:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042641129607442593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1856186701280075776",
+              "start": 0,
+              "username": "baizhouzi520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042641129607442593",
+        "in_reply_to_user_id": "1856186701280075776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042106110799442379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhouzi520 喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042106076318076928"
+          ]
+        },
+        "author_id": "1856186701280075776",
+        "conversation_id": "2042106110799442379",
+        "created_at": "2026-04-09T05:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042106110799442379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2xdgFhRFR",
+              "end": 87,
+              "expanded_url": "https://x.com/baizhouzi520/status/2042106110799442379/video/1",
+              "media_key": "13_2042106076318076928",
+              "start": 64,
+              "url": "https://t.co/J2xdgFhRFR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042106110799442379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 222,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵，我们的日雌到货了，\n这次一共有10盒，第一次卖做活动\n380一盒不包邮，大概5月初到货，需要的可以滴滴咱，先到先得喵! https://t.co/J2xdgFhRFR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/未含糖/修正马主义☭/民主青年🇹🇼/广东/近视/178身高体重115/欢迎互fo                 小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 153,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 66
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T04:06:17.000Z",
+        "description": "小证含糖半家长党（?）|hrt2024.12.15|死精神病一个|有时候会od，自残|多意识体（白洲/黎星/诗遥/haku）|最爱的姐姐/爱人/老公：@mishamimihemumu|有凝胶和日雌出售喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "mishamimihemumu"
+              }
+            ]
+          }
+        },
+        "id": "1856186701280075776",
+        "location": "姐姐的怀里",
+        "name": "白白白白洲洲洲洲🍥🍔🍙💊凝胶有售喵",
+        "pinned_tweet_id": "2036634550647038008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035716012918886400/w1JKUgDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 658,
+          "like_count": 11766,
+          "listed_count": 3,
+          "media_count": 507,
+          "tweet_count": 1751
+        },
+        "username": "baizhouzi520",
+        "verified": false
+      }
+    ]
+  }
+}

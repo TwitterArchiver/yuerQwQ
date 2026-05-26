@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2051177194999984241",
+    "created_at": "2026-05-04T15:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T16:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051316645268967644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2041155426541060096",
+          "start": 0,
+          "username": "ShiauPa0746"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051316645268967644",
+    "in_reply_to_user_id": "2041155426541060096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051177194999984241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiauPa0746 看见我了喵꜀(^. .^꜀  )꜆੭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2051177191132782592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHc-yajaYAAlma3.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2051177194999984241",
+        "created_at": "2026-05-04T15:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051316645268967644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2041155426541060096",
+              "start": 0,
+              "username": "ShiauPa0746"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051316645268967644",
+        "in_reply_to_user_id": "2041155426541060096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051177194999984241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiauPa0746 看见我了喵꜀(^. .^꜀  )꜆੭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051177191132782592"
+          ]
+        },
+        "author_id": "2041155426541060096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2051177194999984241",
+        "created_at": "2026-05-04T05:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T06:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051177194999984241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 44,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=ja",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2050753451685298176/9hiNtoL5?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2050753451685298176/9hiNtoL5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=ja",
+              "url": "https://t.co/qhPwofska8"
+            },
+            {
+              "display_url": "pic.x.com/W8bVage3X7",
+              "end": 68,
+              "expanded_url": "https://x.com/ShiauPa0746/status/2051177194999984241/photo/1",
+              "media_key": "3_2051177191132782592",
+              "start": 45,
+              "url": "https://t.co/W8bVage3X7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051177194999984241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 290,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私のTwitterやりとりークル\n\n➡️ https://t.co/qhPwofska8 https://t.co/W8bVage3X7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2049899118508863784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 708,
+          "like_count": 5298,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 857
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:06:11.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️MtX|Shotacon|🎂4.6|中,En,日|Voicaloidボカロ,Font Design字體設計,Mincraft,Conlang人造語言|亞文化大手子|无涩里推@ShiauPa_elo|bsky: https://t.co/NE5MqKO1WK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "ShiauPa_elo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/shiaup…",
+                "end": 137,
+                "expanded_url": "https://bsky.app/profile/shiaupa.top",
+                "start": 114,
+                "url": "https://t.co/NE5MqKO1WK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shiaupa.top",
+                "end": 23,
+                "expanded_url": "http://shiaupa.top",
+                "start": 0,
+                "url": "https://t.co/ORPjphxTBT"
+              }
+            ]
+          }
+        },
+        "id": "2041155426541060096",
+        "location": "Earth",
+        "name": "晓怕ShiauPa | 重生互fo寻回中😭",
+        "pinned_tweet_id": "2049781466733887547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049866813350285312/rb7sDNhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 334,
+          "like_count": 1182,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 295
+        },
+        "url": "https://t.co/ORPjphxTBT",
+        "username": "ShiauPa0746",
+        "verified": false
+      }
+    ]
+  }
+}

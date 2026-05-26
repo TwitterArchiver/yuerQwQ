@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2058909260101337555",
+    "created_at": "2026-05-25T13:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058909260101337555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2050537864908128256",
+          "start": 3,
+          "username": "guoqu10086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058909260101337555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058854129943167182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guoqu10086: 这条贴子抽奖\n点赞评论关注转即可参与\n36¥（对标国补）*1\n5.2¥*3\n别嫌弃就好\n小程序随机数\n5.26 17.00开奖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2058909260101337555",
+        "created_at": "2026-05-25T13:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058909260101337555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050537864908128256",
+              "start": 3,
+              "username": "guoqu10086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058909260101337555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058854129943167182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @guoqu10086: 这条贴子抽奖\n点赞评论关注转即可参与\n36¥（对标国补）*1\n5.2¥*3\n别嫌弃就好\n小程序随机数\n5.26 17.00开奖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050537864908128256",
+        "conversation_id": "2058854129943167182",
+        "created_at": "2026-05-25T10:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058854129943167182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058854129943167182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 513,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "这条贴子抽奖\n点赞评论关注转即可参与\n36¥（对标国补）*1\n5.2¥*3\n别嫌弃就好\n小程序随机数\n5.26 17.00开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 778,
+          "like_count": 9067,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1679
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-02T11:28:32.000Z",
+        "description": "年龄党丨mtf丨半不管党（母亲不管反对父亲超级反对)丨出厂日期:10.3.4丨🍥hrt:26.5.18丨无证含糖丨上班族丨不o丨不刀丨同类互fo丨各类fps又菜又爱玩",
+        "id": "2050537864908128256",
+        "location": "翁法罗斯",
+        "name": "玖桃🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056834328089518080/v3MzTviX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 98,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 26
+        },
+        "username": "guoqu10086",
+        "verified": false
+      }
+    ]
+  }
+}

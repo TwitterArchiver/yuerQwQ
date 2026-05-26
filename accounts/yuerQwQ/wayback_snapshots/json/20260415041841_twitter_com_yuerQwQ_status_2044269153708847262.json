@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2044269153708847262",
+    "created_at": "2026-04-15T04:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T05:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044269153708847262"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hhh84672361/st…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/hhh84672361/status/2043194112250359846",
+          "start": 19,
+          "url": "https://t.co/loamSVtujV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044269153708847262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043194112250359846",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在怀疑唐毓文是来清理跨圈人数的🤓 https://t.co/loamSVtujV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043194102444101632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFriNftakAALR4d.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043194102981029888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFriNhtbcAAPReA.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043194103215882240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFriNilbAAARzio.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043194103266258944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFriNixbsAApTxI.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2044269153708847262",
+        "created_at": "2026-04-15T04:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044269153708847262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hhh84672361/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/hhh84672361/status/2043194112250359846",
+              "start": 19,
+              "url": "https://t.co/loamSVtujV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044269153708847262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043194112250359846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在怀疑唐毓文是来清理跨圈人数的🤓 https://t.co/loamSVtujV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043194102444101632",
+            "3_2043194102981029888",
+            "3_2043194103215882240",
+            "3_2043194103266258944"
+          ]
+        },
+        "author_id": "1581209973094109185",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043194112250359846",
+        "created_at": "2026-04-12T05:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043194112250359846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GcY8VgUkXo",
+              "end": 39,
+              "expanded_url": "https://x.com/hhh84672361/status/2043194112250359846/photo/1",
+              "media_key": "3_2043194102444101632",
+              "start": 16,
+              "url": "https://t.co/GcY8VgUkXo"
+            },
+            {
+              "display_url": "pic.x.com/GcY8VgUkXo",
+              "end": 39,
+              "expanded_url": "https://x.com/hhh84672361/status/2043194112250359846/photo/1",
+              "media_key": "3_2043194102981029888",
+              "start": 16,
+              "url": "https://t.co/GcY8VgUkXo"
+            },
+            {
+              "display_url": "pic.x.com/GcY8VgUkXo",
+              "end": 39,
+              "expanded_url": "https://x.com/hhh84672361/status/2043194112250359846/photo/1",
+              "media_key": "3_2043194103215882240",
+              "start": 16,
+              "url": "https://t.co/GcY8VgUkXo"
+            },
+            {
+              "display_url": "pic.x.com/GcY8VgUkXo",
+              "end": 39,
+              "expanded_url": "https://x.com/hhh84672361/status/2043194112250359846/photo/1",
+              "media_key": "3_2043194103266258944",
+              "start": 16,
+              "url": "https://t.co/GcY8VgUkXo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043194112250359846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 63489,
+          "like_count": 162,
+          "quote_count": 15,
+          "reply_count": 43,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "唐毓文不给代理发货逼死两个药娘 https://t.co/GcY8VgUkXo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/未含糖 目前友跨顺直🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                                 小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 365,
+          "like_count": 1884,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 230
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T09:06:57.000Z",
+        "description": "",
+        "id": "1581209973094109185",
+        "name": "eabab🪺🍥💙💛🇵🇸🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938289246164684806/cr4zfItR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 1688,
+          "like_count": 6152,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1277
+        },
+        "username": "hhh84672361",
+        "verified": false
+      }
+    ]
+  }
+}

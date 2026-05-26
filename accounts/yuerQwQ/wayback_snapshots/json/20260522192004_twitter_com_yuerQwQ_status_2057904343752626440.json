@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2057887552129187934",
+    "created_at": "2026-05-22T19:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T20:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057904343752626440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684411421256466432",
+          "start": 0,
+          "username": "xiaomeinuya_GST"
+        },
+        {
+          "end": 25,
+          "id": "2012423737887379456",
+          "start": 17,
+          "username": "Xzz__64"
+        },
+        {
+          "end": 36,
+          "id": "2016175327069011971",
+          "start": 26,
+          "username": "shanhu_mi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057904343752626440",
+    "in_reply_to_user_id": "1684411421256466432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057887552129187934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomeinuya_GST @Xzz__64 @shanhu_mi 好诶~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2057887549805457408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI8V0snacAAuwWn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2057887552129187934",
+        "created_at": "2026-05-22T19:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T20:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057904343752626440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684411421256466432",
+              "start": 0,
+              "username": "xiaomeinuya_GST"
+            },
+            {
+              "end": 25,
+              "id": "2012423737887379456",
+              "start": 17,
+              "username": "Xzz__64"
+            },
+            {
+              "end": 36,
+              "id": "2016175327069011971",
+              "start": 26,
+              "username": "shanhu_mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057904343752626440",
+        "in_reply_to_user_id": "1684411421256466432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057887552129187934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomeinuya_GST @Xzz__64 @shanhu_mi 好诶~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057887549805457408"
+          ]
+        },
+        "author_id": "1684411421256466432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2057887552129187934",
+        "created_at": "2026-05-22T18:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T19:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057887552129187934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "2012423737887379456",
+              "start": 24,
+              "username": "Xzz__64"
+            },
+            {
+              "end": 53,
+              "id": "1962302660541079552",
+              "start": 45,
+              "username": "yuerQwQ"
+            },
+            {
+              "end": 73,
+              "id": "2016175327069011971",
+              "start": 63,
+              "username": "shanhu_mi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YBspi10fTW",
+              "end": 152,
+              "expanded_url": "https://x.com/xiaomeinuya_GST/status/2057887552129187934/photo/1",
+              "media_key": "3_2057887549805457408",
+              "start": 129,
+              "url": "https://t.co/YBspi10fTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057887552129187934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "公布一下中奖名单：\n一等奖：序章MuKe__🍥(@Xzz__64)\n二等奖：yuer 🍥(@yuerQwQ)\n三等奖：T^ (@shanhu_mi)\n请一二等奖私发我赞赏码，三等奖私我地址，5月24日后未兑奖则作废\n(本次抽奖由Gemini AI随机抽取) https://t.co/YBspi10fTW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 741,
+          "like_count": 8413,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1509
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-27T03:52:44.000Z",
+        "description": "无证含糖🍥/双性恋/抑郁/焦虑/阳痿/制造日期2007.12.13/170cm 60kg 39码/INFP/hrt2026.02.10/家里蹲好无聊想认识更多朋友😭小男娘小药娘来互fo😭",
+        "id": "1684411421256466432",
+        "name": "🍥顾诗钿.🏳️‍⚧️",
+        "pinned_tweet_id": "2052064351717359647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052666153844027398/wuqocx2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 65,
+          "like_count": 16914,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1397
+        },
+        "username": "xiaomeinuya_GST",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T07:16:35.000Z",
+        "description": "生在春风中，活在药效里\nMTX🏳️‍⚧️｜无证含糖ing🍥｜HRT2024.1｜💊Oder｜INFP-T🦋｜怕疼不自残｜不键政｜摆烂高中生🏫｜喜互fo🤗",
+        "id": "2012423737887379456",
+        "location": "幻境里",
+        "name": "序章MuKe__🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047981238959722496/_ZLFlv0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 361,
+          "like_count": 2747,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 342
+        },
+        "username": "Xzz__64",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T15:44:09.000Z",
+        "description": "叫我板栗就好！\n年龄你猜。\nod。自残。抽烟 \n我比较喜欢自言自语 \n欢迎同类互fo呀 私信说一下就好 ！\n🚪13.14 好友位和圈圈\n🚪52 被动聊天\n🚪152 主动聊天分享日常",
+        "id": "2016175327069011971",
+        "name": "T^",
+        "pinned_tweet_id": "2057753073922277842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043617995340288000/Ggj4GW0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 154,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 825
+        },
+        "username": "shanhu_mi",
+        "verified": false
+      }
+    ]
+  }
+}

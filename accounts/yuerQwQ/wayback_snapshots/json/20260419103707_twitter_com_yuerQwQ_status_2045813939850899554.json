@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2045738316826603871",
+    "created_at": "2026-04-19T10:37:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T11:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045813939850899554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763034943599607808",
+          "start": 0,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045813939850899554",
+    "in_reply_to_user_id": "1763034943599607808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045738316826603871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonlight_ruri 喵）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 252,
+        "media_key": "3_2045738306655379456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPsJq-aYAAd1Qg.jpg",
+        "width": 223
+      },
+      {
+        "height": 1337,
+        "media_key": "3_2045738306659577856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPsJq_acAABhsA.jpg",
+        "width": 915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2045738316826603871",
+        "created_at": "2026-04-19T10:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045813939850899554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045813939850899554",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045738316826603871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri 喵）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045738306655379456",
+            "3_2045738306659577856"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041635245",
+              "name": "NBA 2K"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041635245",
+              "name": "NBA 2K"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898362609631238",
+              "name": "Sports games"
+            }
+          }
+        ],
+        "conversation_id": "2045738316826603871",
+        "created_at": "2026-04-19T05:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045738316826603871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2W5NiBOH3i",
+              "end": 152,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2045738316826603871/photo/1",
+              "media_key": "3_2045738306655379456",
+              "start": 129,
+              "url": "https://t.co/2W5NiBOH3i"
+            },
+            {
+              "display_url": "pic.x.com/2W5NiBOH3i",
+              "end": 152,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2045738316826603871/photo/1",
+              "media_key": "3_2045738306659577856",
+              "start": 129,
+              "url": "https://t.co/2W5NiBOH3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045738316826603871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5421,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "预告：粉丝达2k将举办抽奖（千粉涨太快就跳过了见谅）。一等奖：微软Surface电脑；二等奖：nfcMTF钥匙扣；三等奖：🍥挂件。另赠nekobox安卓端（相当于小火箭），纯净无广，图标非常可爱，老推友都懂，可惜已下架。希望大家别用垃圾APP了，敬请期待😊 https://t.co/2W5NiBOH3i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo           喵喵喵喵                                                小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 612,
+          "like_count": 3624,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 484
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "男娘｜正義的夥伴｜femboy｜not trans｜friendly to trans｜EN CN JP｜An ally of justice and fairness｜love cute things｜168cm50kg｜music、comic、animation、pcgame｜thanks！",
+        "id": "1763034943599607808",
+        "location": "鄂｜saitama｜🉑🌙｜🚪48｜✈️｜DM",
+        "name": "月光的琉璃梦🏳️‍⚧️🍥🌸4代目",
+        "pinned_tweet_id": "2042448880512684506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041518071383527424/Ikw4pdSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 105,
+          "like_count": 368,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 1135
+        },
+        "username": "moonlight_ruri",
+        "verified": false
+      }
+    ]
+  }
+}

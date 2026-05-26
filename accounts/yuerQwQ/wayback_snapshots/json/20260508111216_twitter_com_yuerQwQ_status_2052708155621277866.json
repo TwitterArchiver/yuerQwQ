@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052428365534294017",
+        "3_2052428365559390208"
+      ],
+      "media_source_tweet_id": [
+        "2052428367979573527",
+        "2052428367979573527"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052708155621277866",
+    "created_at": "2026-05-08T11:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052708155621277866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "289298525",
+          "start": 3,
+          "username": "jiandu23333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GwETSptXoN",
+          "end": 95,
+          "expanded_url": "https://x.com/jiandu23333/status/2052428367979573527/photo/1",
+          "media_key": "3_2052428365534294017",
+          "start": 72,
+          "url": "https://t.co/GwETSptXoN"
+        },
+        {
+          "display_url": "pic.x.com/GwETSptXoN",
+          "end": 95,
+          "expanded_url": "https://x.com/jiandu23333/status/2052428367979573527/photo/1",
+          "media_key": "3_2052428365559390208",
+          "start": 72,
+          "url": "https://t.co/GwETSptXoN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052708155621277866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052428367979573527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiandu23333: 20fo\n关注+转帖+评论+❤️\n抽奖\n东方冰之勇者记CDK一份（折19r）\n5月8日—5月11日\nAI开奖 https://t.co/GwETSptXoN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052428365534294017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuwuWabcAEyzOe.jpg",
+        "width": 946
+      },
+      {
+        "height": 1389,
+        "media_key": "3_2052428365559390208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuwuWgaYAA6pAD.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052428365534294017",
+            "3_2052428365559390208"
+          ],
+          "media_source_tweet_id": [
+            "2052428367979573527",
+            "2052428367979573527"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052708155621277866",
+        "created_at": "2026-05-08T11:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052708155621277866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "289298525",
+              "start": 3,
+              "username": "jiandu23333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwETSptXoN",
+              "end": 95,
+              "expanded_url": "https://x.com/jiandu23333/status/2052428367979573527/photo/1",
+              "media_key": "3_2052428365534294017",
+              "start": 72,
+              "url": "https://t.co/GwETSptXoN"
+            },
+            {
+              "display_url": "pic.x.com/GwETSptXoN",
+              "end": 95,
+              "expanded_url": "https://x.com/jiandu23333/status/2052428367979573527/photo/1",
+              "media_key": "3_2052428365559390208",
+              "start": 72,
+              "url": "https://t.co/GwETSptXoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052708155621277866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052428367979573527",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiandu23333: 20fo\n关注+转帖+评论+❤️\n抽奖\n东方冰之勇者记CDK一份（折19r）\n5月8日—5月11日\nAI开奖 https://t.co/GwETSptXoN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052428365534294017",
+            "3_2052428365559390208"
+          ]
+        },
+        "author_id": "289298525",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052428367979573527",
+        "created_at": "2026-05-07T16:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052428367979573527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwETSptXoN",
+              "end": 78,
+              "expanded_url": "https://x.com/jiandu23333/status/2052428367979573527/photo/1",
+              "media_key": "3_2052428365534294017",
+              "start": 55,
+              "url": "https://t.co/GwETSptXoN"
+            },
+            {
+              "display_url": "pic.x.com/GwETSptXoN",
+              "end": 78,
+              "expanded_url": "https://x.com/jiandu23333/status/2052428367979573527/photo/1",
+              "media_key": "3_2052428365559390208",
+              "start": 55,
+              "url": "https://t.co/GwETSptXoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052428367979573527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 453,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "20fo\n关注+转帖+评论+❤️\n抽奖\n东方冰之勇者记CDK一份（折19r）\n5月8日—5月11日\nAI开奖 https://t.co/GwETSptXoN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2049899118508863784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 753,
+          "like_count": 5794,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 945
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "description": "沃尔玛塑料袋/INTP/06年/19+/轻度游戏爱好/東方/互fo私信/颓废中/提问箱在这↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "http://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/lwH4XonMoS"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "pinned_tweet_id": "2052428367979573527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051385937419186176/ZRhKnOoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 97,
+          "like_count": 562,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 53
+        },
+        "url": "https://t.co/lwH4XonMoS",
+        "username": "jiandu23333",
+        "verified": false
+      }
+    ]
+  }
+}

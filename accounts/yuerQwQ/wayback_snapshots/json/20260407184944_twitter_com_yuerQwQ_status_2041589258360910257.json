@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2041580852472365196",
+    "created_at": "2026-04-07T18:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T19:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041589258360910257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1856186701280075776",
+          "start": 0,
+          "username": "baizhouzi520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041589258360910257",
+    "in_reply_to_user_id": "1856186701280075776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041580852472365196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhouzi520 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2041580852472365196",
+        "created_at": "2026-04-07T18:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T19:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041589258360910257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1856186701280075776",
+              "start": 0,
+              "username": "baizhouzi520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041589258360910257",
+        "in_reply_to_user_id": "1856186701280075776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041580852472365196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhouzi520 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856186701280075776",
+        "conversation_id": "2041580852472365196",
+        "created_at": "2026-04-07T18:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T19:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041580852472365196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/baizhouzi520/s…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/baizhouzi520/status/2041562998687592846",
+              "start": 57,
+              "url": "https://t.co/ugXoCuqbrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041580852472365196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041562998687592846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新的抽奖贴来啦，关注+转发+点赞+评论在评论区随机抽取一位幸运观众送出普通款10倍凝胶一瓶!\n4月10日开奖喵! https://t.co/ugXoCuqbrt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "羽儿的未来在何方呢……？",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 51,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-12T04:06:17.000Z",
+        "description": "小证含糖半家长党（?）|hrt2024.12.15|死精神病一个|有时候会od，自残|多意识体（白洲/黎星/诗遥/haku）|最爱的姐姐/爱人：@mishamimihemumu|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "mishamimihemumu"
+              }
+            ]
+          }
+        },
+        "id": "1856186701280075776",
+        "location": "姐姐的怀里",
+        "name": "白白白白洲洲洲洲🍥🍔🍙💊凝胶有售喵",
+        "pinned_tweet_id": "2036634550647038008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035716012918886400/w1JKUgDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 645,
+          "like_count": 11660,
+          "listed_count": 3,
+          "media_count": 495,
+          "tweet_count": 1731
+        },
+        "username": "baizhouzi520",
+        "verified": false
+      }
+    ]
+  }
+}

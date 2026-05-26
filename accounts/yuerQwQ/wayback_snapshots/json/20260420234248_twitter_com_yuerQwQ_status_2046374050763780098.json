@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2046374050763780098",
+    "created_at": "2026-04-20T23:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T00:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046374050763780098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2842225148",
+          "start": 3,
+          "username": "mimememz"
+        },
+        {
+          "end": 28,
+          "id": "1748763011140169729",
+          "start": 14,
+          "username": "lovelyshuimao"
+        },
+        {
+          "end": 39,
+          "id": "1608637128132685825",
+          "start": 29,
+          "username": "nyaepheia"
+        },
+        {
+          "end": 56,
+          "id": "1313383273079345152",
+          "start": 40,
+          "username": "ValeriaEulabeia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046374050763780098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046214423505989982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mimememz: @lovelyshuimao @nyaepheia @ValeriaEulabeia 无视本身就是一种歧视和迫害，除非他们有什么精神问题导致他们真的看不到\n所谓的无视性少数，不是真的无视了性少数，而只是无视了一个人正面表达性少数的部分，性少数的税还是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2046374050763780098",
+        "created_at": "2026-04-20T23:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T00:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046374050763780098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2842225148",
+              "start": 3,
+              "username": "mimememz"
+            },
+            {
+              "end": 28,
+              "id": "1748763011140169729",
+              "start": 14,
+              "username": "lovelyshuimao"
+            },
+            {
+              "end": 39,
+              "id": "1608637128132685825",
+              "start": 29,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 56,
+              "id": "1313383273079345152",
+              "start": 40,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046374050763780098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046214423505989982",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mimememz: @lovelyshuimao @nyaepheia @ValeriaEulabeia 无视本身就是一种歧视和迫害，除非他们有什么精神问题导致他们真的看不到\n所谓的无视性少数，不是真的无视了性少数，而只是无视了一个人正面表达性少数的部分，性少数的税还是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2842225148",
+        "conversation_id": "2046024813073007101",
+        "created_at": "2026-04-20T13:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046214423505989982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            },
+            {
+              "end": 25,
+              "id": "1608637128132685825",
+              "start": 15,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 42,
+              "id": "1313383273079345152",
+              "start": 26,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046214423505989982",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 534,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046148137128185952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao @nyaepheia @ValeriaEulabeia 无视本身就是一种歧视和迫害，除非他们有什么精神问题导致他们真的看不到\n所谓的无视性少数，不是真的无视了性少数，而只是无视了一个人正面表达性少数的部分，性少数的税还是照收的，人还是要管的，支持性少数的观点是要限流删评的\n如果说性少数的存在就是对恶意的反抗，那无视显然就是恶意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo           喵喵喵喵                                                小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 644,
+          "like_count": 4015,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 554
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-06T10:29:06.000Z",
+        "description": "",
+        "id": "2842225148",
+        "name": "mi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1278765130231119872/vau7Trvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 29,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 88
+        },
+        "username": "mimememz",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜INTJ\n｜永遠14\n｜❤️ZhiWei @saonanaa\n｜提問——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2046127996961161240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4792,
+          "following_count": 1009,
+          "like_count": 273,
+          "listed_count": 13,
+          "media_count": 3167,
+          "tweet_count": 14031
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 724,
+          "like_count": 15619,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2393
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "È la vita una battaglia,\ne il cammino irto d'inganni,\nma siam forti: abbiam vent'anni,\nl'avvenire non temiam...\n🗡️💣🖤",
+        "id": "1313383273079345152",
+        "location": "Queensland, Australia",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2028669028810838138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010705759475208194/F3qst3e9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6912,
+          "following_count": 3795,
+          "like_count": 155251,
+          "listed_count": 19,
+          "media_count": 2651,
+          "tweet_count": 24697
+        },
+        "username": "ValeriaEulabeia",
+        "verified": true
+      }
+    ]
+  }
+}

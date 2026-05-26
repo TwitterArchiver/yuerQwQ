@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2047664751803797987",
+    "created_at": "2026-04-24T13:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047664751803797987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1569933180270161920",
+          "start": 3,
+          "username": "AcdeAsdff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047664751803797987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047492044374036775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AcdeAsdff: 说起来，烟酒槟榔之类，要是按照中修的禁毒宣传，也得是毒品（（（\n抽烟喝酒嚼槟榔不好\n不要抽烟喝酒嚼槟榔\n禁掉至少还能阻止一部分人跟风（x）\n好吧还是打倒旧社会吧毕竟把人变成鬼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2047664751803797987",
+        "created_at": "2026-04-24T13:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047664751803797987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1569933180270161920",
+              "start": 3,
+              "username": "AcdeAsdff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047664751803797987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047492044374036775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AcdeAsdff: 说起来，烟酒槟榔之类，要是按照中修的禁毒宣传，也得是毒品（（（\n抽烟喝酒嚼槟榔不好\n不要抽烟喝酒嚼槟榔\n禁掉至少还能阻止一部分人跟风（x）\n好吧还是打倒旧社会吧毕竟把人变成鬼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569933180270161920",
+        "conversation_id": "2047492044374036775",
+        "created_at": "2026-04-24T01:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T02:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047492044374036775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047492044374036775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 299,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "说起来，烟酒槟榔之类，要是按照中修的禁毒宣传，也得是毒品（（（\n抽烟喝酒嚼槟榔不好\n不要抽烟喝酒嚼槟榔\n禁掉至少还能阻止一部分人跟风（x）\n好吧还是打倒旧社会吧毕竟把人变成鬼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo           喵喵喵喵                                                小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 662,
+          "like_count": 4537,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 686
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T06:17:08.000Z",
+        "description": "(with mental illness)\ngf:@AnqilaSong \ntgID:@Algebraic39\n性别未定大葱妹\ncn/en.\n要qq号私聊找我\nhttps://t.co/Sz8mm2tTQL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "AnqilaSong"
+              },
+              {
+                "end": 55,
+                "start": 43,
+                "username": "Algebraic39"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/acdeasdff1",
+                "end": 103,
+                "expanded_url": "https://ngl.link/acdeasdff1",
+                "start": 80,
+                "url": "https://t.co/Sz8mm2tTQL"
+              }
+            ]
+          }
+        },
+        "id": "1569933180270161920",
+        "location": "39,39,39",
+        "name": "AcdeAsdff",
+        "pinned_tweet_id": "1913861360020308384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998327605788082176/wWqEOTX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 275,
+          "like_count": 18806,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 1967
+        },
+        "username": "AcdeAsdff",
+        "verified": false
+      }
+    ]
+  }
+}

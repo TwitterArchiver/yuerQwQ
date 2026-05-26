@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2046226783662486001",
+    "created_at": "2026-04-21T04:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T05:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046451362314194950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1347364325892055040",
+          "start": 0,
+          "username": "saifgh67071815"
+        },
+        {
+          "end": 26,
+          "id": "1452123941686976519",
+          "start": 16,
+          "username": "C21Koy_7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046451362314194950",
+    "in_reply_to_user_id": "1347364325892055040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046449550450385050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saifgh67071815 @C21Koy_7c 联系上下文得知，“要了1w分ta200”是一个借口，目的是让ta收下这200\n实际上的对方应该已经离去了🤔\n（离别的馈赠😦）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2046226783662486001",
+        "created_at": "2026-04-21T04:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T05:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046451362314194950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1347364325892055040",
+              "start": 0,
+              "username": "saifgh67071815"
+            },
+            {
+              "end": 26,
+              "id": "1452123941686976519",
+              "start": 16,
+              "username": "C21Koy_7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046451362314194950",
+        "in_reply_to_user_id": "1347364325892055040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046449550450385050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saifgh67071815 @C21Koy_7c 联系上下文得知，“要了1w分ta200”是一个借口，目的是让ta收下这200\n实际上的对方应该已经离去了🤔\n（离别的馈赠😦）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1347364325892055040",
+        "conversation_id": "2046226783662486001",
+        "created_at": "2026-04-21T04:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T05:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046449550450385050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1452123941686976519",
+              "start": 0,
+              "username": "C21Koy_7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046449550450385050",
+        "in_reply_to_user_id": "1452123941686976519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046226783662486001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C21Koy_7c 前因后果是什么呀、这个药娘管它妈要了1w给你两百后自杀了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo           喵喵喵喵                                                小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 647,
+          "like_count": 4144,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 570
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-08T02:07:50.000Z",
+        "description": "夏～～嫌だ",
+        "id": "1347364325892055040",
+        "name": "クマクマ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1556783790340526082/p83Z1pCo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 332,
+          "like_count": 8745,
+          "listed_count": 4,
+          "media_count": 1165,
+          "tweet_count": 7849
+        },
+        "username": "saifgh67071815",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509775703715840/ZUhNV6-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 3488,
+          "like_count": 31074,
+          "listed_count": 5,
+          "media_count": 2217,
+          "tweet_count": 29090
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": true
+      }
+    ]
+  }
+}

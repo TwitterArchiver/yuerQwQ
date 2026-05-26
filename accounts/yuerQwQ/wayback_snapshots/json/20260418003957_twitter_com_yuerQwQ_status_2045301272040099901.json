@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2045169114906612181",
+    "created_at": "2026-04-18T00:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T01:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045301272040099901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761282483834998784",
+          "start": 0,
+          "username": "10waterlili"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045301272040099901",
+    "in_reply_to_user_id": "1761282483834998784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045169114906612181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10waterlili 我似乎也是这么想的呢…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2045169114906612181",
+        "created_at": "2026-04-18T00:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045301272040099901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761282483834998784",
+              "start": 0,
+              "username": "10waterlili"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045301272040099901",
+        "in_reply_to_user_id": "1761282483834998784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045169114906612181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10waterlili 我似乎也是这么想的呢…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761282483834998784",
+        "conversation_id": "2045169114906612181",
+        "created_at": "2026-04-17T15:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045169114906612181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045169114906612181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我可能并不是很想成为女生，只是我很讨厌被当成男生，而我又不想当非二元性别，所以只能当女生了…毕竟除了当个女生外我想不到更适合自己的身分了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/hrt 2026/4/17  🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo           喵喵喵喵                                                      小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 566,
+          "like_count": 3179,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 405
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 26.2.21｜出厂日期🍰 09.3.14\n深柜中（坐以待炸）\nɪɴғᴘ-ᴛ｜重度抑郁中｜ex-音游人｜民间天文学家🔭\n喜欢xyn｜同类会回fo｜不开心可以找我聊天\n对所有人友善💕\ntg: https://t.co/aydtYwiuQK\n下面的链接是详细自介喵～（持续更新） \nhttps://t.co/KKvURpVMfQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/tennchu",
+                "end": 124,
+                "expanded_url": "http://t.me/tennchu",
+                "start": 101,
+                "url": "https://t.co/aydtYwiuQK"
+              },
+              {
+                "display_url": "lit.link/zh-tw/tennOvO",
+                "end": 168,
+                "expanded_url": "http://lit.link/zh-tw/tennOvO",
+                "start": 145,
+                "url": "https://t.co/KKvURpVMfQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lifv"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "深海",
+        "name": "𝒕𝒆𝒏𝒏 ᐝ 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045294990817910853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045004879303958528/xNxtLn0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 353,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 213
+        },
+        "url": "https://t.co/e8l2h7lifv",
+        "username": "10waterlili",
+        "verified": false
+      }
+    ]
+  }
+}

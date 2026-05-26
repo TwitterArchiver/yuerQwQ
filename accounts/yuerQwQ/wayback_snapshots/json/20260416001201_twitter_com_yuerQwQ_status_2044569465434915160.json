@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2036634550647038008",
+    "created_at": "2026-04-16T00:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T01:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044569465434915160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1856186701280075776",
+          "start": 0,
+          "username": "baizhouzi520"
+        },
+        {
+          "end": 30,
+          "id": "1596939907859202049",
+          "start": 14,
+          "username": "mishamimihemumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044569465434915160",
+    "in_reply_to_user_id": "1856186701280075776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036634550647038008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhouzi520 @mishamimihemumu 我要问一个很蠢的问题了）\n\n在配合每日12.5mg色普龙使用的情况下，凝胶的用量应该是多少😦"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [mishamimihemumu].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "mishamimihemumu",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "mishamimihemumu"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2036634541432123392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEOUUytaMAA8i-E.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2036634541704773632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEOUUzuagAA4pL1.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2036634550647038008",
+        "created_at": "2026-04-16T00:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T01:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044569465434915160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1856186701280075776",
+              "start": 0,
+              "username": "baizhouzi520"
+            },
+            {
+              "end": 30,
+              "id": "1596939907859202049",
+              "start": 14,
+              "username": "mishamimihemumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044569465434915160",
+        "in_reply_to_user_id": "1856186701280075776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036634550647038008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhouzi520 @mishamimihemumu 我要问一个很蠢的问题了）\n\n在配合每日12.5mg色普龙使用的情况下，凝胶的用量应该是多少😦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036634541432123392",
+            "3_2036634541704773632"
+          ]
+        },
+        "author_id": "1856186701280075776",
+        "conversation_id": "2036634550647038008",
+        "created_at": "2026-03-25T02:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T03:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036634550647038008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1596939907859202049",
+              "start": 12,
+              "username": "mishamimihemumu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VqcyDh0I6r",
+              "end": 173,
+              "expanded_url": "https://x.com/baizhouzi520/status/2036634550647038008/photo/1",
+              "media_key": "3_2036634541432123392",
+              "start": 150,
+              "url": "https://t.co/VqcyDh0I6r"
+            },
+            {
+              "display_url": "pic.x.com/VqcyDh0I6r",
+              "end": 173,
+              "expanded_url": "https://x.com/baizhouzi520/status/2036634550647038008/photo/1",
+              "media_key": "3_2036634541704773632",
+              "start": 150,
+              "url": "https://t.co/VqcyDh0I6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036634550647038008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 11722,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "有没有需要凝胶的ww\n是@mishamimihemumu姐姐做的ww，手艺传承自安然姐，咱用了一个月感觉效果很好，每天奶子都涨涨的ww）价格在下面\n七倍浓度40r一支，三支包邮，十倍浓度65r一支三支包邮，十五倍浓度88r一支两支，       用法：左右大腿八泵阴囊上五泵抗雄，每天一次一瓶一个月 https://t.co/VqcyDh0I6r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/未含糖 目前友跨顺直🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                                 小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 409,
+          "like_count": 2271,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 283
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T04:06:17.000Z",
+        "description": "小证含糖半家长党（?）|hrt2024.12.15|死精神病一个|有时候会od，自残|多意识体（白洲/黎星/诗遥/haku）|最好的姐姐/合作伙伴：@mishamimihemumu|有凝胶和日雌出售喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "mishamimihemumu"
+              }
+            ]
+          }
+        },
+        "id": "1856186701280075776",
+        "location": "姐姐的怀里",
+        "name": "白白白白洲洲洲洲🍥🍔🍙💊凝胶有售喵",
+        "pinned_tweet_id": "2042456024683282458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035716012918886400/w1JKUgDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 664,
+          "like_count": 11859,
+          "listed_count": 3,
+          "media_count": 521,
+          "tweet_count": 1778
+        },
+        "username": "baizhouzi520",
+        "verified": false
+      }
+    ]
+  }
+}

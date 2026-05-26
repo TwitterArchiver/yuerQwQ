@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2055990729206579680",
+    "created_at": "2026-05-17T13:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055998849714684009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1644244950786228225",
+          "start": 0,
+          "username": "poka22332"
+        },
+        {
+          "end": 18,
+          "id": "2015213345847300096",
+          "start": 11,
+          "username": "XynUnk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055998849714684009",
+    "in_reply_to_user_id": "1644244950786228225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055990729206579680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@poka22332 @XynUnk 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2055990729206579680",
+        "created_at": "2026-05-17T13:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055998849714684009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1644244950786228225",
+              "start": 0,
+              "username": "poka22332"
+            },
+            {
+              "end": 18,
+              "id": "2015213345847300096",
+              "start": 11,
+              "username": "XynUnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055998849714684009",
+        "in_reply_to_user_id": "1644244950786228225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055990729206579680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@poka22332 @XynUnk 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644244950786228225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2055990729206579680",
+        "created_at": "2026-05-17T12:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055990729206579680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055990729206579680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "100fo抽奖活动来了喵&gt;ᴗoಣ\n\n时间:5月17日20:35-5月18日12:00\n要求:评论+转发+关注+点赞\n奖品:30r(对标一盒补佳乐喵)\n抽取人数:1人\n评选机制:截止时间5月18日12:00，\n将符合要求的人员进行排序并使用grok随机抽选出一位获奖者喵ᗜ𖥦ᗜ\n\n5月18日12:20会公布获奖人喵🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 690,
+          "like_count": 7552,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1244
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-07T07:45:31.000Z",
+        "description": "喵喵|友好|关注我的话我会很开心的喵🥹|请不要对我说奇怪的话，谢谢喵",
+        "id": "1644244950786228225",
+        "name": "soznwj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051585214191915008/ZKrKKO0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 89,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 117
+        },
+        "username": "poka22332",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T00:02:43.000Z",
+        "description": "MtX?🏳️‍⚧️|Hrt🍥01.28.2026，无证含糖|年龄党+家长不管党|已炸柜|生产日期:11.13.2011|161cm52kg|INFP-T，重度社恐|初二牲，成绩倒数，休学中🥰|同类互fo喵～|一代目@UnkXyn|https://t.co/aB65o8oOXI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 107,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 138,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 115,
+                "url": "https://t.co/aB65o8oOXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/2KoP9pAGCu"
+              }
+            ]
+          }
+        },
+        "id": "2015213345847300096",
+        "name": "Unk~🍥🏳️‍⚧️(二代目",
+        "pinned_tweet_id": "2054692978460078311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053140552099749888/BhRMG_MC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 490,
+          "like_count": 557,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/2KoP9pAGCu",
+        "username": "XynUnk",
+        "verified": false
+      }
+    ]
+  }
+}

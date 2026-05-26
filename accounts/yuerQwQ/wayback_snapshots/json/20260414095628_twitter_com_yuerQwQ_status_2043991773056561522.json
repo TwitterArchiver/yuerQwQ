@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2043991773056561522",
+    "created_at": "2026-04-14T09:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T10:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043991773056561522"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "避雷"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "816647513826439169",
+          "start": 3,
+          "username": "Midori_fufu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043991773056561522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 836
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043972631100305773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Midori_fufu: ＃避雷\n事情經過：\nVtuber「晴天神奈」未經同意盜用我的原創設計圖進行接頭和餵給AI進行算圖\n1.發現時，我第一時間留言我的不適，並請對方刪文及道歉。\n2.對方刪文後又馬上將同一張圖用AI算別套衣服後進行發文，內文說「用到別人設計的衣服我很…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3744,
+        "media_key": "3_2043972229860601857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2l6eOasAEuNvR.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2043972328196059136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2mAMjasAAL9Sq.jpg",
+        "width": 1170
+      },
+      {
+        "height": 636,
+        "media_key": "3_2043972346554527744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2mBQ8asAAwaNW.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2043972383351156739",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2mDaBasAMtrs5.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2043991773056561522",
+        "created_at": "2026-04-14T09:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043991773056561522"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "避雷"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "816647513826439169",
+              "start": 3,
+              "username": "Midori_fufu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043991773056561522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 836
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043972631100305773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Midori_fufu: ＃避雷\n事情經過：\nVtuber「晴天神奈」未經同意盜用我的原創設計圖進行接頭和餵給AI進行算圖\n1.發現時，我第一時間留言我的不適，並請對方刪文及道歉。\n2.對方刪文後又馬上將同一張圖用AI算別套衣服後進行發文，內文說「用到別人設計的衣服我很…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043972229860601857",
+            "3_2043972328196059136",
+            "3_2043972346554527744",
+            "3_2043972383351156739"
+          ]
+        },
+        "author_id": "816647513826439169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2043972631100305773",
+        "created_at": "2026-04-14T08:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043972631100305773"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "避雷"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nUkLYfhnve",
+              "end": 163,
+              "expanded_url": "https://x.com/Midori_fufu/status/2043972631100305773/photo/1",
+              "media_key": "3_2043972229860601857",
+              "start": 140,
+              "url": "https://t.co/nUkLYfhnve"
+            },
+            {
+              "display_url": "pic.x.com/nUkLYfhnve",
+              "end": 163,
+              "expanded_url": "https://x.com/Midori_fufu/status/2043972631100305773/photo/1",
+              "media_key": "3_2043972328196059136",
+              "start": 140,
+              "url": "https://t.co/nUkLYfhnve"
+            },
+            {
+              "display_url": "pic.x.com/nUkLYfhnve",
+              "end": 163,
+              "expanded_url": "https://x.com/Midori_fufu/status/2043972631100305773/photo/1",
+              "media_key": "3_2043972346554527744",
+              "start": 140,
+              "url": "https://t.co/nUkLYfhnve"
+            },
+            {
+              "display_url": "pic.x.com/nUkLYfhnve",
+              "end": 163,
+              "expanded_url": "https://x.com/Midori_fufu/status/2043972631100305773/photo/1",
+              "media_key": "3_2043972383351156739",
+              "start": 140,
+              "url": "https://t.co/nUkLYfhnve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043972631100305773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "避雷"
+              }
+            ]
+          },
+          "text": "＃避雷\n事情經過：\nVtuber「晴天神奈」未經同意盜用我的原創設計圖進行接頭和餵給AI進行算圖\n1.發現時，我第一時間留言我的不適，並請對方刪文及道歉。\n2.對方刪文後又馬上將同一張圖用AI算別套衣服後進行發文，內文說「用到別人設計的衣服我很抱歉」，並未對盜圖及AI算圖道歉。\n3.我方留言反應我並未同意使用AI算圖後，對方反駁說自己只是學排版，並回覆「你到底想要怎樣？」，但圖片中人物動作明顯是使用我的原創圖進行AI算圖。此時對方態度已經讓我非常不適。\n4.再次刪文後又重發一篇用同一張圖進行AI算圖的文章，文案打「哈哈」，雖圖中人物的動作有一些變動，但還是明顯看的出來是使用我的原創圖進行算圖的，對方文案也讓我覺得有挑釁意味。\n其實我一直在猶豫是否要發文佔用大家的時間及社群資源\n我並不想縱容他的行為，但若他是想黑紅的話，我也不想給他流量...\n在深思過後我決定還是發文講講我的想法，藉此機會也和大家聊聊\n如今創作者要背負的壓力真的不小，AI的盛行加上一些惡意人士的不當使用，讓創作者越來越難生存，心理上也會受到這些惡意行為的影響，並不是單單AI是否會搶飯碗這麼簡單的事情。\n如果有人因為AI能夠快速更改他人的創作並當作自身作品使用，並用如此囂張的態度對待原作者，那真的是連基本的「尊重」都沒有。\n我的作品並不是素材，我對於大家喜歡我的作品而感到開心，若真的喜歡的話可以欣賞、轉發、留言支持，甚至可以私訊詢問我正當的授權使用，但是！絕對不可以擅自拿走我用心創作的作品進行任何的二次加工或其他用途。\n希望大家都可以好好尊重、愛護創作者們！\n不好意思打擾大家了～最後也請大家不要去給他流量喔！🙏\n圖解：\n圖1:我繪製的原創角色設計原圖\n圖2:第一篇盜圖貼文（已刪文）\n圖3:我留言表示對於這件事感到不愉快\n圖4:用Ai算別套衣服再次發文（已刪文）\n圖5:我的二次聲明以及對方的無禮回覆（放留言）\n圖6:再次算圖變更動作後發文，文案有挑釁意味（放留言）（已刪文）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 310,
+          "impression_count": 132641,
+          "like_count": 2788,
+          "quote_count": 51,
+          "reply_count": 84,
+          "retweet_count": 836
+        },
+        "reply_settings": "everyone",
+        "text": "＃避雷\n事情經過：\nVtuber「晴天神奈」未經同意盜用我的原創設計圖進行接頭和餵給AI進行算圖\n1.發現時，我第一時間留言我的不適，並請對方刪文及道歉。\n2.對方刪文後又馬上將同一張圖用AI算別套衣服後進行發文，內文說「用到別人設計的衣服我很抱歉」，並未對盜圖及AI算圖道歉。 https://t.co/nUkLYfhnve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/未含糖/修正马主义☭/民主青年🇹🇼/广东/近视/178身高体重115/欢迎互fo                           小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 337,
+          "like_count": 1596,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 192
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-04T14:08:34.000Z",
+        "description": "illustrator/台湾人/繪圖實況\n\nColoso課程:🔗 https://t.co/YktekZQz59\n\nV皮繪製:自己  L2D把拔:@juiceneko\n\n目前委託關閉中~\n\n胖胖龍女兒:@Paroniie\n怪怪小海鷗:@omaimaimai_0401\n\n※AI学習禁止\n※無断転載禁止",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "juiceneko"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "Paroniie"
+              },
+              {
+                "end": 133,
+                "start": 117,
+                "username": "omaimaimai_0401"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/4mPsH0i",
+                "end": 56,
+                "expanded_url": "https://bit.ly/4mPsH0i",
+                "start": 33,
+                "url": "https://t.co/YktekZQz59"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/midori1998831",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/midori1998831",
+                "start": 0,
+                "url": "https://t.co/ab7GgyfF2v"
+              }
+            ]
+          }
+        },
+        "id": "816647513826439169",
+        "location": "台灣",
+        "name": "米豆綠Midori",
+        "pinned_tweet_id": "1957337309906678171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752333177253945344/DXOiBpo7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205531,
+          "following_count": 851,
+          "like_count": 4866,
+          "listed_count": 1094,
+          "media_count": 391,
+          "tweet_count": 1341
+        },
+        "url": "https://t.co/ab7GgyfF2v",
+        "username": "Midori_fufu",
+        "verified": true
+      }
+    ]
+  }
+}

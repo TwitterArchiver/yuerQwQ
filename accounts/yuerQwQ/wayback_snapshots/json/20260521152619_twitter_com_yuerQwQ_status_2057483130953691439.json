@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2057454713021608359",
+    "created_at": "2026-05-21T15:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057483130953691439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2014653785877209088",
+          "start": 0,
+          "username": "wreyesjruc9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057483130953691439",
+    "in_reply_to_user_id": "2014653785877209088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057454713021608359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wreyesjruc9 期待包包翻车（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1210,
+        "media_key": "3_2057454708881809408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2MKCha4AAY2ul.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2057454713021608359",
+        "created_at": "2026-05-21T15:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057483130953691439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2014653785877209088",
+              "start": 0,
+              "username": "wreyesjruc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057483130953691439",
+        "in_reply_to_user_id": "2014653785877209088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057454713021608359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wreyesjruc9 期待包包翻车（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057454708881809408"
+          ]
+        },
+        "author_id": "2014653785877209088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2057454713021608359",
+        "created_at": "2026-05-21T13:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057454713021608359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j5dDXArQUW",
+              "end": 33,
+              "expanded_url": "https://x.com/wreyesjruc9/status/2057454713021608359/photo/1",
+              "media_key": "3_2057454708881809408",
+              "start": 10,
+              "url": "https://t.co/j5dDXArQUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057454713021608359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "习近平好可爱🥵🥵🥵 https://t.co/j5dDXArQUW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 744,
+          "like_count": 8307,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1487
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-23T10:57:59.000Z",
+        "description": "09年/药娘/mtf/ 同类互fo可私信/己出柜/家长党",
+        "id": "2014653785877209088",
+        "name": "王晓宪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047789879447404544/AUxrwbLS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 45,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 86
+        },
+        "username": "wreyesjruc9",
+        "verified": false
+      }
+    ]
+  }
+}

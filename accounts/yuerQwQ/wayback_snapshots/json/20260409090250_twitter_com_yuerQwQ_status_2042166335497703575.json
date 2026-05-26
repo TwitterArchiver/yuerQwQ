@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2042063464932503832",
+    "created_at": "2026-04-09T09:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T10:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042166335497703575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "973935307375587331",
+          "start": 0,
+          "username": "yukiricc"
+        },
+        {
+          "end": 21,
+          "id": "2028899853716320256",
+          "start": 10,
+          "username": "zzz1043903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042166335497703575",
+    "in_reply_to_user_id": "973935307375587331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042165985827057941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukiricc @zzz1043903 这个嘛，看个人咯，私德对我来说是无所谓的\n多研究一下理论总归是好事\n我还想看看牢墨的fxs呢（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2042063464932503832",
+        "created_at": "2026-04-09T09:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042166335497703575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "973935307375587331",
+              "start": 0,
+              "username": "yukiricc"
+            },
+            {
+              "end": 21,
+              "id": "2028899853716320256",
+              "start": 10,
+              "username": "zzz1043903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042166335497703575",
+        "in_reply_to_user_id": "973935307375587331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042165985827057941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukiricc @zzz1043903 这个嘛，看个人咯，私德对我来说是无所谓的\n多研究一下理论总归是好事\n我还想看看牢墨的fxs呢（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "973935307375587331",
+        "conversation_id": "2042063464932503832",
+        "created_at": "2026-04-09T09:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042165985827057941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            },
+            {
+              "end": 20,
+              "id": "2028899853716320256",
+              "start": 9,
+              "username": "zzz1043903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042165985827057941",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042164564062843235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ @zzz1043903 🤪信列斯毛... 不敢苟同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/未含糖/修正马哲☭/民主青年🇹🇼/广东/近视/178身高体重115/欢迎互fo                 小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 121,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-14T14:54:06.000Z",
+        "description": "一个正在流浪的INFP-T型MTF虎式坦克\nA wandering INFP-T Tiger Tank, currently deployed as an MTF unit.",
+        "id": "973935307375587331",
+        "location": "Earth",
+        "name": "Konno Yuuki",
+        "pinned_tweet_id": "1866731019988349242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808725503060422656/UzGChCv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2561,
+          "following_count": 491,
+          "like_count": 14402,
+          "listed_count": 12,
+          "media_count": 480,
+          "tweet_count": 8380
+        },
+        "username": "yukiricc",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T18:26:54.000Z",
+        "description": "友跨|无证含糖 MTF 10.11.2025 重抑\n休学在家偶尔上学玩玩 规律含糖3.6.2026\n严重社恐长期宅家|建制-改良自由派\n除侮辱和谣言外欢迎键政\nOverdose|Pr 玉米 晚安\n5.24.2010出厂|172cm 60.5kg 42码😭\n家长略支持",
+        "id": "2028899853716320256",
+        "location": "中华人民共和国 台湾省 台北市",
+        "name": "许的什么愿🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029133812505165824/mqsMZ_Mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 44,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 190
+        },
+        "username": "zzz1043903",
+        "verified": false
+      }
+    ]
+  }
+}

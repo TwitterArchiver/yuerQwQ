@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2058493738910142621",
+    "created_at": "2026-05-24T10:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T11:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058493738910142621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/takaichi_sanae…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/takaichi_sanae/status/2058158942388457905",
+          "start": 110,
+          "url": "https://t.co/UcRk41blsN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058493738910142621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058158942388457905",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一次在推上刷到高市（\n\n发现我对高市其实倾向无感🤔\n并不是因为这条推文改观，以前也是倾向无感🤔\n好像我对所有政治人物都差不多，立场不同（（\n\n但我每一次发现唐毓文就会莫名生出一种恶心的感觉（？）\n\n（我会被踢出跨圈吗 https://t.co/UcRk41blsN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2058493738910142621",
+        "created_at": "2026-05-24T10:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058493738910142621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/takaichi_sanae…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/takaichi_sanae/status/2058158942388457905",
+              "start": 110,
+              "url": "https://t.co/UcRk41blsN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058493738910142621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058158942388457905",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一次在推上刷到高市（\n\n发现我对高市其实倾向无感🤔\n并不是因为这条推文改观，以前也是倾向无感🤔\n好像我对所有政治人物都差不多，立场不同（（\n\n但我每一次发现唐毓文就会莫名生出一种恶心的感觉（？）\n\n（我会被踢出跨圈吗 https://t.co/UcRk41blsN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "218434058",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "2058158942388457905",
+        "created_at": "2026-05-23T12:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058158942388457905"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058158942388457905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "この度、中国山西省の炭鉱内でガス爆発事故が発生し、大きな被害が生じていることに、大変心を痛めています。\n犠牲になられた方々に哀悼の意を表すとともに、御遺族に対し謹んでお悔やみ申し上げます。\nまた、被害に遭われた方々に対し、心からお見舞い申し上げます。\n\nI am deeply saddened by the gas explosion that occurred at a coal mine in Shanxi Province, China, causing significant loss.\nI express my deepest condolences to those who lost their lives and offer my sincere sympathies to their families. \nI also extend my heartfelt sympathies to the affected people.\n\n惊悉贵国山西省发生煤矿爆炸事故，造成重大灾害，对此深感悲痛。\n谨对遇难者致以深切哀悼，并向遇难者家属致以哀思。\n同时，向受灾人民致以衷心慰问。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1124,
+          "impression_count": 3948224,
+          "like_count": 37095,
+          "quote_count": 684,
+          "reply_count": 3169,
+          "retweet_count": 3847
+        },
+        "reply_settings": "everyone",
+        "text": "この度、中国山西省の炭鉱内でガス爆発事故が発生し、大きな被害が生じていることに、大変心を痛めています。\n犠牲になられた方々に哀悼の意を表すとともに、御遺族に対し謹んでお悔やみ申し上げます。\nまた、被害に遭われた方々に対し、心からお見舞い申し上げます。\n\nI am deeply saddened by the"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 764,
+          "like_count": 8763,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1600
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2010-11-22T10:18:33.000Z",
+        "description": "衆議院議員 自由民主党奈良県第2選挙区支部長\n※総理在任中の投稿は、一部広報スタッフによるものを含みます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanae.gr.jp",
+                "end": 23,
+                "expanded_url": "https://www.sanae.gr.jp/",
+                "start": 0,
+                "url": "https://t.co/VNedKNe7ny"
+              }
+            ]
+          }
+        },
+        "id": "218434058",
+        "name": "高市早苗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985639760669655041/3yz_lJbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2894413,
+          "following_count": 0,
+          "like_count": 46,
+          "listed_count": 6292,
+          "media_count": 403,
+          "tweet_count": 1511
+        },
+        "url": "https://t.co/VNedKNe7ny",
+        "username": "takaichi_sanae",
+        "verified": true
+      }
+    ]
+  }
+}

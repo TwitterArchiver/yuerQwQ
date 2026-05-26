@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2058500943428407454",
+    "created_at": "2026-05-24T15:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T16:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058574275427402106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1108658732295028737",
+          "start": 0,
+          "username": "hatachi0525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058574275427402106",
+    "in_reply_to_user_id": "1108658732295028737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058572665477341467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hatachi0525 实际上甩掉了多少水我也不知道）\n但就是会下意识甩一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2058500943428407454",
+        "created_at": "2026-05-24T15:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058574275427402106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1108658732295028737",
+              "start": 0,
+              "username": "hatachi0525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058574275427402106",
+        "in_reply_to_user_id": "1108658732295028737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058572665477341467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatachi0525 实际上甩掉了多少水我也不知道）\n但就是会下意识甩一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1108658732295028737",
+        "conversation_id": "2058500943428407454",
+        "created_at": "2026-05-24T15:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058572665477341467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058572665477341467",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058500943428407454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 大概會先甩到頭暈 然後沒乾一點"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 774,
+          "like_count": 8861,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 1636
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-21T09:16:54.000Z",
+        "description": "171/47 1997.5.25出廠\n2016.12.19取證 含糖起始日不可考約早一年\n\n泛性戀？但是可以確定是個顏值控，母胎單\n精神狀態良好（大概\n歡迎同類互fo",
+        "id": "1108658732295028737",
+        "location": "台灣",
+        "name": "柔柔🍥",
+        "pinned_tweet_id": "2056158364057706737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057181420041510912/OOZ-jWJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 44,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 46
+        },
+        "username": "hatachi0525",
+        "verified": false
+      }
+    ]
+  }
+}

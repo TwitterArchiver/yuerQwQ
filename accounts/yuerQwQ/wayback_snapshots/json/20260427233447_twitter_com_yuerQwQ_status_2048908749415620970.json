@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2048767936064888888",
+    "created_at": "2026-04-27T23:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T00:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048908749415620970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885218193494736896",
+          "start": 0,
+          "username": "Xnmurrr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048908749415620970",
+    "in_reply_to_user_id": "1885218193494736896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048767936064888888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xnmurrr_ 蹲蹲喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2048767936064888888",
+        "created_at": "2026-04-27T23:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T00:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048908749415620970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885218193494736896",
+              "start": 0,
+              "username": "Xnmurrr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048908749415620970",
+        "in_reply_to_user_id": "1885218193494736896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048767936064888888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xnmurrr_ 蹲蹲喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885218193494736896",
+        "conversation_id": "2048767936064888888",
+        "created_at": "2026-04-27T14:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048767936064888888"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "餐券"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "互fo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048767936064888888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 898,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "#餐券 #互fo 100fo抽个52呀谢谢宝宝们 转发参与"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 696,
+          "like_count": 4845,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 748
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T06:47:07.000Z",
+        "description": "=南 可以叫我南南\n低浮上｜双向｜餐券｜自伤｜中文⭕️",
+        "id": "1885218193494736896",
+        "name": "🧊",
+        "pinned_tweet_id": "2048422337746518047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047309529088688128/CjD2cBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 111,
+          "like_count": 1951,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 167
+        },
+        "username": "Xnmurrr_",
+        "verified": false
+      }
+    ]
+  }
+}

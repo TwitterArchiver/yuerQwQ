@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2055619437555064846",
+    "created_at": "2026-05-16T13:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055645147514495135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938273900192010240",
+          "start": 0,
+          "username": "tangsanzangbtc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055645147514495135",
+    "in_reply_to_user_id": "1938273900192010240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055619437555064846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangsanzangbtc 喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_2055619429116039169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcG-snaUAEEpDb.jpg",
+        "width": 827
+      },
+      {
+        "height": 680,
+        "media_key": "3_2055619429099335680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcG-sjbcAAj9at.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2055619437555064846",
+        "created_at": "2026-05-16T13:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055645147514495135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938273900192010240",
+              "start": 0,
+              "username": "tangsanzangbtc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055645147514495135",
+        "in_reply_to_user_id": "1938273900192010240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055619437555064846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangsanzangbtc 喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055619429116039169",
+            "3_2055619429099335680"
+          ]
+        },
+        "author_id": "1938273900192010240",
+        "conversation_id": "2055619437555064846",
+        "created_at": "2026-05-16T12:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055619437555064846"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "互关"
+            },
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "永不取关"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "诚信互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/79BFyFUo2E",
+              "end": 209,
+              "expanded_url": "https://x.com/tangsanzangbtc/status/2055619437555064846/photo/1",
+              "media_key": "3_2055619429116039169",
+              "start": 186,
+              "url": "https://t.co/79BFyFUo2E"
+            },
+            {
+              "display_url": "pic.x.com/79BFyFUo2E",
+              "end": 209,
+              "expanded_url": "https://x.com/tangsanzangbtc/status/2055619437555064846/photo/1",
+              "media_key": "3_2055619429099335680",
+              "start": 186,
+              "url": "https://t.co/79BFyFUo2E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055619437555064846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 69,
+                "tag": "互关"
+              },
+              {
+                "end": 78,
+                "start": 73,
+                "tag": "永不取关"
+              },
+              {
+                "end": 84,
+                "start": 79,
+                "tag": "诚信互关"
+              }
+            ]
+          },
+          "text": "粉丝目前8923冲刺1万还差1077个\n\n互关的 老师们 我长期刷到你们帖子都会点赞评论！一起互动做做权重，而不是点个关注就完事儿那种！\n#互关 #永不取关 #诚信互关 \n利他就是利己，先给别人捧场，才有人给你撑场面。\n\nIf you need 10000 new active followers 🎊\nDrop = Hello 👋 💝\nLet’s follow you instantly 🙋‍♀️🙋‍♂️🔔🔔\n\n很多人说你8千多粉丝关注才4千能全回关吗？以前我也有发过互关贴全部人都回关了其他粉丝是一些爆贴来关注一天涨好几千所以没去回关\n尽量用各位对我的信任度，为你们的互关增加一份力量，如果发了互关贴和平时有兄弟朋友要互关我都会秒回"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1702,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 56,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "粉丝目前8923冲刺1万还差1077个\n\n互关的 老师们 我长期刷到你们帖子都会点赞评论！一起互动做做权重，而不是点个关注就完事儿那种！\n#互关 #永不取关 #诚信互关 \n利他就是利己，先给别人捧场，才有人给你撑场面。\n\nIf you need 10000 new active followers 🎊\nDrop = Hello 👋 💝\nLet’s follow you https://t.co/79BFyFUo2E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 862,
+          "like_count": 7300,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1175
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T16:31:41.000Z",
+        "description": "日常看片 研究链上数据和加密市场，构建自己的交易思维。链上单币A8｜一级meme爱好者｜天才交易员｜Hope for brighter days ahead and a stronger motherland #Binance #okx #sol TG：https://t.co/izvEPozw3l",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 105,
+                "tag": "Binance"
+              },
+              {
+                "end": 118,
+                "start": 114,
+                "tag": "okx"
+              },
+              {
+                "end": 123,
+                "start": 119,
+                "tag": "sol"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/bitetangsanzang",
+                "end": 150,
+                "expanded_url": "https://t.me/bitetangsanzang",
+                "start": 127,
+                "url": "https://t.co/izvEPozw3l"
+              }
+            ]
+          }
+        },
+        "id": "1938273900192010240",
+        "name": "比特唐三藏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009983788953260032/Es_a39BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8960,
+          "following_count": 4649,
+          "like_count": 18069,
+          "listed_count": 9,
+          "media_count": 637,
+          "tweet_count": 11434
+        },
+        "username": "tangsanzangbtc",
+        "verified": true
+      }
+    ]
+  }
+}

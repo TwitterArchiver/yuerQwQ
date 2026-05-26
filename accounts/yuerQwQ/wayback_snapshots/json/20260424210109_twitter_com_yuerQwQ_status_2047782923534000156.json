@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2047782923534000156",
+    "created_at": "2026-04-24T21:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T22:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047782923534000156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1401718140376174592",
+          "start": 3,
+          "username": "MalakNO_2"
+        },
+        {
+          "end": 31,
+          "id": "1788485889225834496",
+          "start": 15,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047782923534000156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047532718850748664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MalakNO_2: @YesterdayOrange 说明寄主死亡后，寄生物如果没有在短时间内找到新的寄主，也会死亡。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2047782923534000156",
+        "created_at": "2026-04-24T21:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T22:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047782923534000156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1401718140376174592",
+              "start": 3,
+              "username": "MalakNO_2"
+            },
+            {
+              "end": 31,
+              "id": "1788485889225834496",
+              "start": 15,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047782923534000156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047532718850748664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MalakNO_2: @YesterdayOrange 说明寄主死亡后，寄生物如果没有在短时间内找到新的寄主，也会死亡。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401718140376174592",
+        "conversation_id": "2047460533088276734",
+        "created_at": "2026-04-24T04:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047532718850748664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047532718850748664",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 29037,
+          "like_count": 576,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047460533088276734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 说明寄主死亡后，寄生物如果没有在短时间内找到新的寄主，也会死亡。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo           喵喵喵喵                                                小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 664,
+          "like_count": 4580,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 690
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T01:50:29.000Z",
+        "description": "不生则死，不战则亡",
+        "id": "1401718140376174592",
+        "name": "Laphicet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840614650141978624/2PfBLwBu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204,
+          "following_count": 679,
+          "like_count": 48063,
+          "listed_count": 20,
+          "media_count": 1960,
+          "tweet_count": 12325
+        },
+        "username": "MalakNO_2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2047196207223910858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11706,
+          "following_count": 4963,
+          "like_count": 88239,
+          "listed_count": 23,
+          "media_count": 2167,
+          "tweet_count": 19414
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

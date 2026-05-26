@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2045125584913854721",
+    "created_at": "2026-04-17T13:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T14:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045125584913854721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuerQwQ/status…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/yuerQwQ/status/2045124628369285488",
+          "start": 59,
+          "url": "https://t.co/9cRyW4eDYu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045125584913854721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045124628369285488",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在我想要不顾一切不择手段，但却仅仅只是为了变得阳痿的时候……我的心中也会因此而仿佛有一阵电流通过……\n为什么……？？ https://t.co/9cRyW4eDYu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2045125584913854721",
+        "created_at": "2026-04-17T13:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045125584913854721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuerQwQ/status…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/yuerQwQ/status/2045124628369285488",
+              "start": 59,
+              "url": "https://t.co/9cRyW4eDYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045125584913854721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045124628369285488",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在我想要不顾一切不择手段，但却仅仅只是为了变得阳痿的时候……我的心中也会因此而仿佛有一阵电流通过……\n为什么……？？ https://t.co/9cRyW4eDYu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2045124628369285488",
+        "created_at": "2026-04-17T12:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045124628369285488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045124628369285488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我会在想到那些会让我“失去男性尊严”的事情的时候感到很兴奋啊？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/未含糖 目前友跨顺直🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                                 小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 497,
+          "like_count": 2828,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 351
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

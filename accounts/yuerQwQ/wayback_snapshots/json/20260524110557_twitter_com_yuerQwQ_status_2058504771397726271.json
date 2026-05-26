@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2058504771397726271",
+    "created_at": "2026-05-24T11:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058504771397726271"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dearemon/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/dearemon/status/2058349580161528143",
+          "start": 11,
+          "url": "https://t.co/ZLRKBErOCX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058504771397726271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058349580161528143",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉会很多蚊子（？） https://t.co/ZLRKBErOCX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1592,
+        "media_key": "3_2058349572636962816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJC6B9yacAAJRkI.jpg",
+        "width": 1061
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2058504771397726271",
+        "created_at": "2026-05-24T11:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058504771397726271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dearemon/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/dearemon/status/2058349580161528143",
+              "start": 11,
+              "url": "https://t.co/ZLRKBErOCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058504771397726271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058349580161528143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉会很多蚊子（？） https://t.co/ZLRKBErOCX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058349572636962816"
+          ]
+        },
+        "author_id": "126581934",
+        "conversation_id": "2058349580161528143",
+        "created_at": "2026-05-24T00:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058349580161528143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XtSORs7hwS",
+              "end": 56,
+              "expanded_url": "https://x.com/dearemon/status/2058349580161528143/photo/1",
+              "media_key": "3_2058349572636962816",
+              "start": 33,
+              "url": "https://t.co/XtSORs7hwS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058349580161528143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 164273,
+          "like_count": 953,
+          "quote_count": 29,
+          "reply_count": 465,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "每個月給你 1萬 手機吃喝都有\n叫你待在這間房間 你可以撐多久？ https://t.co/XtSORs7hwS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 770,
+          "like_count": 8780,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1608
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59059,
+          "following_count": 696,
+          "like_count": 5857,
+          "listed_count": 222,
+          "media_count": 30121,
+          "tweet_count": 393382
+        },
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

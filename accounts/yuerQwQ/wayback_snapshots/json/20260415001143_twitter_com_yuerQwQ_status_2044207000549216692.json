@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2043615386068029455",
+    "created_at": "2026-04-15T00:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T01:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044207000549216692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1887391023976038400",
+          "start": 0,
+          "username": "xiey57828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044207000549216692",
+    "in_reply_to_user_id": "1887391023976038400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043615386068029455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiey57828 补药这样说自己口牙\n꜀(˘꒳˘ ꜀)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2043615386068029455",
+        "created_at": "2026-04-15T00:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T01:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044207000549216692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044207000549216692",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043615386068029455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 补药这样说自己口牙\n꜀(˘꒳˘ ꜀)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2043615386068029455",
+        "created_at": "2026-04-13T09:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T10:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043615386068029455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043615386068029455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 760,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实是很贱的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/未含糖 目前友跨顺直🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                                 小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 364,
+          "like_count": 1868,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 228
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "怀所以之本心，沐幽而行，浴桃源一梦🥵。精神状态取决于我的父亲🥺，o！😣。碎碎念😇....自我介绍在@520xiey57828。宝宝@xyu1182202 好妹妹@ST_Bed0721讨厌0721😡https://t.co/ukTVcAQw7k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "520xiey57828"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "xyu1182202"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "ST_Bed0721"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiey57828",
+                "end": 121,
+                "expanded_url": "https://t.me/xiey57828",
+                "start": 98,
+                "url": "https://t.co/ukTVcAQw7k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "阎王殿",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2043615386068029455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 506,
+          "like_count": 2615,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1068
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

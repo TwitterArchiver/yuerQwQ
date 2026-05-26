@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2054010922222731339",
+    "created_at": "2026-05-14T00:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T01:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054715975325585689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1370157861376905218",
+          "start": 0,
+          "username": "4sg6g2HKkO9PGYl"
+        },
+        {
+          "end": 29,
+          "id": "1165473640307023872",
+          "start": 17,
+          "username": "armidzy0729"
+        },
+        {
+          "end": 37,
+          "id": "2548490508",
+          "start": 30,
+          "username": "xaxuez"
+        },
+        {
+          "end": 50,
+          "id": "1574300405026017280",
+          "start": 38,
+          "username": "yantanzhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054715975325585689",
+    "in_reply_to_user_id": "1370157861376905218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054238857823211796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4sg6g2HKkO9PGYl @armidzy0729 @xaxuez @yantanzhang “没有掌握生产资料”……原来女性之中没有存在资本家吗🤔\n男性也并不是所有人都掌握生产资料吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2054010922222731339",
+        "created_at": "2026-05-14T00:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054715975325585689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1370157861376905218",
+              "start": 0,
+              "username": "4sg6g2HKkO9PGYl"
+            },
+            {
+              "end": 29,
+              "id": "1165473640307023872",
+              "start": 17,
+              "username": "armidzy0729"
+            },
+            {
+              "end": 37,
+              "id": "2548490508",
+              "start": 30,
+              "username": "xaxuez"
+            },
+            {
+              "end": 50,
+              "id": "1574300405026017280",
+              "start": 38,
+              "username": "yantanzhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054715975325585689",
+        "in_reply_to_user_id": "1370157861376905218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054238857823211796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4sg6g2HKkO9PGYl @armidzy0729 @xaxuez @yantanzhang “没有掌握生产资料”……原来女性之中没有存在资本家吗🤔\n男性也并不是所有人都掌握生产资料吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1370157861376905218",
+        "conversation_id": "2054010922222731339",
+        "created_at": "2026-05-12T16:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054238857823211796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165473640307023872",
+              "start": 0,
+              "username": "armidzy0729"
+            },
+            {
+              "end": 20,
+              "id": "2548490508",
+              "start": 13,
+              "username": "xaxuez"
+            },
+            {
+              "end": 33,
+              "id": "1574300405026017280",
+              "start": 21,
+              "username": "yantanzhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054238857823211796",
+        "in_reply_to_user_id": "1165473640307023872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054237816331395409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@armidzy0729 @xaxuez @yantanzhang 没有掌握生产资料的人你凭啥有话语权？你是不是女频小说看多了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 810,
+          "like_count": 6687,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1090
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-11T23:41:16.000Z",
+        "description": "无聊",
+        "id": "1370157861376905218",
+        "name": "悸动的心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978648582233427968/NxAsqMRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 441,
+          "like_count": 573,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1480
+        },
+        "username": "4sg6g2HKkO9PGYl",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-25T03:59:20.000Z",
+        "description": "女，24歲，Chinese/English。fsf 獅心🦁、FGO施授 Arjuna🪷 & Karna☀️、HSR Sunday🌠 🕊️、BTS suga😼",
+        "id": "1165473640307023872",
+        "location": "Taoyuan County, Taiwan",
+        "name": "aniol🇵🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503059940851679233/PRIOGnZO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 380,
+          "like_count": 9099,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 5756
+        },
+        "username": "armidzy0729",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-05T17:44:07.000Z",
+        "description": "是个喜欢とある系列的肥宅",
+        "id": "2548490508",
+        "location": "楚",
+        "name": "Xaxuez",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706516181631500288/UR_PiRjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 553,
+          "like_count": 5971,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 2381
+        },
+        "username": "xaxuez",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T07:30:49.000Z",
+        "description": "自由主义男性，拒绝宏大叙事，热爱新鲜事物，为男性发声超十年《舔狗经济学》《男性自救指南》作者",
+        "id": "1574300405026017280",
+        "name": "颜克权",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928097044138274817/NdI_xr1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50139,
+          "following_count": 393,
+          "like_count": 3981,
+          "listed_count": 139,
+          "media_count": 4986,
+          "tweet_count": 6239
+        },
+        "username": "yantanzhang",
+        "verified": true
+      }
+    ]
+  }
+}

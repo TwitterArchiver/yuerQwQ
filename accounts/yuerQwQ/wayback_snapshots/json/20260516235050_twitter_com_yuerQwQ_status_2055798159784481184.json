@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2055798159784481184",
+    "created_at": "2026-05-16T23:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T00:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055798159784481184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Poca2381/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Poca2381/status/2055699090915438956",
+          "start": 11,
+          "url": "https://t.co/z6VGa8RmKr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055798159784481184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055699090915438956",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这报道了个什么（？） https://t.co/z6VGa8RmKr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055699085500502016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdPbTxaUAAar4r.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055699085496385536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdPbTwbgAA7BEz.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055699085496332288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdPbTwasAAAeaM.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2055798159784481184",
+        "created_at": "2026-05-16T23:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T00:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055798159784481184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Poca2381/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Poca2381/status/2055699090915438956",
+              "start": 11,
+              "url": "https://t.co/z6VGa8RmKr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055798159784481184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055699090915438956",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这报道了个什么（？） https://t.co/z6VGa8RmKr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055699085500502016",
+            "3_2055699085496385536",
+            "3_2055699085496332288"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2055699090915438956",
+        "created_at": "2026-05-16T17:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055699090915438956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yahEoJxzaW",
+              "end": 26,
+              "expanded_url": "https://x.com/Poca2381/status/2055699090915438956/photo/1",
+              "media_key": "3_2055699085500502016",
+              "start": 3,
+              "url": "https://t.co/yahEoJxzaW"
+            },
+            {
+              "display_url": "pic.x.com/yahEoJxzaW",
+              "end": 26,
+              "expanded_url": "https://x.com/Poca2381/status/2055699090915438956/photo/1",
+              "media_key": "3_2055699085496385536",
+              "start": 3,
+              "url": "https://t.co/yahEoJxzaW"
+            },
+            {
+              "display_url": "pic.x.com/yahEoJxzaW",
+              "end": 26,
+              "expanded_url": "https://x.com/Poca2381/status/2055699090915438956/photo/1",
+              "media_key": "3_2055699085496332288",
+              "start": 3,
+              "url": "https://t.co/yahEoJxzaW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055699090915438956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 585,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幽默 https://t.co/yahEoJxzaW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 865,
+          "like_count": 7424,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1202
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20546,
+          "following_count": 8058,
+          "like_count": 150723,
+          "listed_count": 50,
+          "media_count": 4202,
+          "tweet_count": 48606
+        },
+        "username": "Poca2381",
+        "verified": false
+      }
+    ]
+  }
+}

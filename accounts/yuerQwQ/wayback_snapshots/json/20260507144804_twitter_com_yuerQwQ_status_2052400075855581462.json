@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2051365713512980919",
+    "created_at": "2026-05-07T14:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052400075855581462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2037433783218008064",
+          "start": 0,
+          "username": "wu31878"
+        },
+        {
+          "end": 25,
+          "id": "1578246259818860544",
+          "start": 9,
+          "username": "Protho_protogen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052400075855581462",
+    "in_reply_to_user_id": "2037433783218008064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052399944020197786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wu31878 @Protho_protogen 笨蛋，你应该说我们这里是北京时间22:47"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2051365713512980919",
+        "created_at": "2026-05-07T14:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052400075855581462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2037433783218008064",
+              "start": 0,
+              "username": "wu31878"
+            },
+            {
+              "end": 25,
+              "id": "1578246259818860544",
+              "start": 9,
+              "username": "Protho_protogen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052400075855581462",
+        "in_reply_to_user_id": "2037433783218008064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052399944020197786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu31878 @Protho_protogen 笨蛋，你应该说我们这里是北京时间22:47"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037433783218008064",
+        "conversation_id": "2051365713512980919",
+        "created_at": "2026-05-07T14:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052399944020197786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1578246259818860544",
+              "start": 0,
+              "username": "Protho_protogen"
+            },
+            {
+              "end": 25,
+              "id": "1962302660541079552",
+              "start": 17,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052399944020197786",
+        "in_reply_to_user_id": "1578246259818860544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052399851392913880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Protho_protogen @yuerQwQ 我们当前是22:47"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2049899118508863784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 753,
+          "like_count": 5737,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 940
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T07:37:48.000Z",
+        "description": "",
+        "id": "2037433783218008064",
+        "name": "陈无声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042663434911903744/qeRZ2Dog_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 12,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "wu31878",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T04:50:16.000Z",
+        "description": "Artist in practice, ye I can't draw anatomy 😭😭😭\n\npfp by: l0op\nbanner by: unknownfur\n\nESPAÑAA 🇪🇸🇪🇸🇪🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/un_protogen_ra…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/un_protogen_random?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/001QgUT1tJ"
+              }
+            ]
+          }
+        },
+        "id": "1578246259818860544",
+        "location": "Barcelona, Spain",
+        "name": "Protho_uwu",
+        "pinned_tweet_id": "1733460042471374945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933315663843520512/XCEKIO-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 1108,
+          "like_count": 27830,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 3095
+        },
+        "url": "https://t.co/001QgUT1tJ",
+        "username": "Protho_protogen",
+        "verified": false
+      }
+    ]
+  }
+}

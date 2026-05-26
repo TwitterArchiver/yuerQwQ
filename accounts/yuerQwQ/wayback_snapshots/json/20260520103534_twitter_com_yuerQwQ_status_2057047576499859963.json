@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2057045041970061462",
+    "created_at": "2026-05-20T10:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057047576499859963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1978352432301387776",
+          "start": 0,
+          "username": "zhngjing322708"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057047576499859963",
+    "in_reply_to_user_id": "1978352432301387776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057045041970061462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngjing322708 我记得原话好像是与天奋斗，与地奋斗和与人奋斗吧（？）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 927,
+        "media_key": "3_2057045031765295104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwXjsVaQAAiF4P.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2057045041970061462",
+        "created_at": "2026-05-20T10:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057047576499859963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1978352432301387776",
+              "start": 0,
+              "username": "zhngjing322708"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057047576499859963",
+        "in_reply_to_user_id": "1978352432301387776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057045041970061462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngjing322708 我记得原话好像是与天奋斗，与地奋斗和与人奋斗吧（？）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057045031765295104"
+          ]
+        },
+        "author_id": "1978352432301387776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057045041970061462",
+        "created_at": "2026-05-20T10:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057045041970061462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20570…",
+              "end": 27,
+              "expanded_url": "https://x.com/i/status/2057034101098704994",
+              "start": 4,
+              "url": "https://t.co/UiOBQ8aley"
+            },
+            {
+              "display_url": "pic.x.com/lgvBwIOGuc",
+              "end": 51,
+              "expanded_url": "https://x.com/zhngjing322708/status/2057045041970061462/photo/1",
+              "media_key": "3_2057045031765295104",
+              "start": 28,
+              "url": "https://t.co/lgvBwIOGuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057045041970061462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057034101098704994",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已嚇哭https://t.co/UiOBQ8aley https://t.co/lgvBwIOGuc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 717,
+          "like_count": 8032,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1392
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-15T06:49:29.000Z",
+        "description": "自由若沒有社會主義，就是特權與不公；社會主義若沒有自由，就是奴役與野蠻.中國共產黨新左派|左翼|自由意志社會主義|民主社會主義|共產主義|Liberté· Égalité· Fraternité🇫🇷|王粉，或許是夢女|妹妹@Zhmgws19120101",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 111,
+                "username": "Zhmgws19120101"
+              }
+            ]
+          }
+        },
+        "id": "1978352432301387776",
+        "name": "征酱☭❂🇹🇼🇨🇳",
+        "pinned_tweet_id": "2046890809912701151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048333279439527936/OofHnm3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 244,
+          "like_count": 9956,
+          "listed_count": 6,
+          "media_count": 1188,
+          "tweet_count": 3785
+        },
+        "username": "zhngjing322708",
+        "verified": false
+      }
+    ]
+  }
+}

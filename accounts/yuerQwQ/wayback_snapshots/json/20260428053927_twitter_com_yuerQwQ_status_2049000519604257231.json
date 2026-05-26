@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048900403144863744"
+      ],
+      "media_source_tweet_id": [
+        "2048900405120381057"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049000519604257231",
+    "created_at": "2026-04-28T05:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T06:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049000519604257231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2045308579729625089",
+          "start": 3,
+          "username": "cybercat868"
+        },
+        {
+          "end": 36,
+          "id": "2013100592202194945",
+          "start": 25,
+          "username": "Viki211027"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uuLmVn0WM5",
+          "end": 75,
+          "expanded_url": "https://x.com/cybercat868/status/2048900405120381057/photo/1",
+          "media_key": "3_2048900403144863744",
+          "start": 52,
+          "url": "https://t.co/uuLmVn0WM5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049000519604257231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048900405120381057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cybercat868: 目前土豆泥姐姐 @Viki211027 的社交在母亲的要求下被迫切断 https://t.co/uuLmVn0WM5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2048900403144863744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8oD6WasAAaH40.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048900403144863744"
+          ],
+          "media_source_tweet_id": [
+            "2048900405120381057"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049000519604257231",
+        "created_at": "2026-04-28T05:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049000519604257231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2045308579729625089",
+              "start": 3,
+              "username": "cybercat868"
+            },
+            {
+              "end": 36,
+              "id": "2013100592202194945",
+              "start": 25,
+              "username": "Viki211027"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uuLmVn0WM5",
+              "end": 75,
+              "expanded_url": "https://x.com/cybercat868/status/2048900405120381057/photo/1",
+              "media_key": "3_2048900403144863744",
+              "start": 52,
+              "url": "https://t.co/uuLmVn0WM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049000519604257231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048900405120381057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cybercat868: 目前土豆泥姐姐 @Viki211027 的社交在母亲的要求下被迫切断 https://t.co/uuLmVn0WM5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048900403144863744"
+          ]
+        },
+        "author_id": "2045308579729625089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048900405120381057",
+        "created_at": "2026-04-27T23:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T00:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048900405120381057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2013100592202194945",
+              "start": 8,
+              "username": "Viki211027"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uuLmVn0WM5",
+              "end": 58,
+              "expanded_url": "https://x.com/cybercat868/status/2048900405120381057/photo/1",
+              "media_key": "3_2048900403144863744",
+              "start": 35,
+              "url": "https://t.co/uuLmVn0WM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048900405120381057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "目前土豆泥姐姐 @Viki211027 的社交在母亲的要求下被迫切断 https://t.co/uuLmVn0WM5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 696,
+          "like_count": 4879,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 753
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T01:11:09.000Z",
+        "description": "大家好喵，我是白鸠叶，一位mtf，喜欢电脑，archlinuxcn社区,不自残与od",
+        "id": "2045308579729625089",
+        "name": "cybercat（白鸠叶）🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045309124850671616/F0k1u4nr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 95,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 208
+        },
+        "username": "cybercat868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T04:06:07.000Z",
+        "description": "mtf/ENTP/10年1月/想雌爆/想和对象永远在一起/长相拟人/想srs/想进女厕所/想扎日雌/家长党/双向情感障碍/小证2026.1.16/老婆@xieerfan\n天上给我掉下个妹妹多好啊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "xieerfan"
+              }
+            ]
+          }
+        },
+        "id": "2013100592202194945",
+        "name": "🍥Dr土豆尼🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023723831308021761/dqlJKqFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 19,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 132
+        },
+        "username": "Viki211027",
+        "verified": false
+      }
+    ]
+  }
+}

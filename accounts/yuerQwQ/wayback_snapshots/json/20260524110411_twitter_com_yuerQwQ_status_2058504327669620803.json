@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2058342030347293167",
+    "created_at": "2026-05-24T11:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058504327669620803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1422560510680043523",
+          "start": 0,
+          "username": "0xchal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058504327669620803",
+    "in_reply_to_user_id": "1422560510680043523",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058342030347293167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xchal 喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058342023305035776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJCzKiVbAAAh6eb.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2058342030347293167",
+        "created_at": "2026-05-24T11:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058504327669620803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1422560510680043523",
+              "start": 0,
+              "username": "0xchal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058504327669620803",
+        "in_reply_to_user_id": "1422560510680043523",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058342030347293167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xchal 喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058342023305035776"
+          ]
+        },
+        "author_id": "1422560510680043523",
+        "conversation_id": "2058342030347293167",
+        "created_at": "2026-05-24T00:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058342030347293167"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VS4IED0zeP",
+              "end": 136,
+              "expanded_url": "https://x.com/0xchal/status/2058342030347293167/photo/1",
+              "media_key": "3_2058342023305035776",
+              "start": 113,
+              "url": "https://t.co/VS4IED0zeP"
+            },
+            {
+              "display_url": "x.com/0xchal/status/…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/0xchal/status/2057969415497580753",
+              "start": 137,
+              "url": "https://t.co/PFkqCTzzl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058342030347293167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7040,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 148,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057969415497580753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢昨日 401 位新人蓝 V 关注\n\n#蓝V互关 对新人来说，真的是非常好的一个机会，特别是在Crypto这个赛道上\n\n并且推特对比其他社媒变现还是很低的\n\n今天继续互关第五弹，后面打算弄个专门用来互关的频道或是 TG 群 https://t.co/VS4IED0zeP https://t.co/PFkqCTzzl6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 770,
+          "like_count": 8779,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1607
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-03T14:10:51.000Z",
+        "description": "#Binance 广场认证创作者/联盟KOL成员 Arbitrum 华语大使 | 推文内容仅代表个人思路，不构成投资建议 商务合作DM✉️ https://t.co/4k4SB2aH2K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/0xchal",
+                "end": 93,
+                "expanded_url": "https://linktr.ee/0xchal",
+                "start": 70,
+                "url": "https://t.co/4k4SB2aH2K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TheCharlieGard…",
+                "end": 23,
+                "expanded_url": "https://t.me/TheCharlieGarden",
+                "start": 0,
+                "url": "https://t.co/IXOHwnFOuA"
+              }
+            ]
+          }
+        },
+        "id": "1422560510680043523",
+        "location": "TG群👉",
+        "name": "Charlie",
+        "pinned_tweet_id": "2058342030347293167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938806762007678976/kr4xnXUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8696,
+          "following_count": 6472,
+          "like_count": 35199,
+          "listed_count": 24,
+          "media_count": 559,
+          "tweet_count": 23587
+        },
+        "url": "https://t.co/IXOHwnFOuA",
+        "username": "0xchal",
+        "verified": true
+      }
+    ]
+  }
+}

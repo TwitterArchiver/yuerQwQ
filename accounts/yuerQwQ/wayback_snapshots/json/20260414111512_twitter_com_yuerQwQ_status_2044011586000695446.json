@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2043993039480467793",
+    "created_at": "2026-04-14T11:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044011586000695446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1915124824126427137",
+          "start": 0,
+          "username": "Grtr_nk"
+        },
+        {
+          "end": 20,
+          "id": "1688015387663949824",
+          "start": 9,
+          "username": "TOWinZH_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044011586000695446",
+    "in_reply_to_user_id": "1915124824126427137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043997522629407043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Grtr_nk @TOWinZH_CN 反正赚了（大嘘）\n这cs现在是名声有了钱也圈到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2043993039480467793",
+        "created_at": "2026-04-14T11:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044011586000695446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1915124824126427137",
+              "start": 0,
+              "username": "Grtr_nk"
+            },
+            {
+              "end": 20,
+              "id": "1688015387663949824",
+              "start": 9,
+              "username": "TOWinZH_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044011586000695446",
+        "in_reply_to_user_id": "1915124824126427137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043997522629407043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grtr_nk @TOWinZH_CN 反正赚了（大嘘）\n这cs现在是名声有了钱也圈到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915124824126427137",
+        "conversation_id": "2043993039480467793",
+        "created_at": "2026-04-14T10:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043997522629407043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1688015387663949824",
+              "start": 0,
+              "username": "TOWinZH_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043997522629407043",
+        "in_reply_to_user_id": "1688015387663949824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043994283339063434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOWinZH_CN 不能说不成熟，我看他挺理解怎么操控缺爱比感情的怎么博流量的，这么小的年龄就这么坏，其实挺精的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/未含糖/修正马主义☭/民主青年🇹🇼/广东/近视/178身高体重115/欢迎互fo                           小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 343,
+          "like_count": 1644,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 200
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T19:25:21.000Z",
+        "description": "暴论bot\n翻车顺女HRT23.05.29/多意识体OSDD+cptsd/od💊ed BMI14.2😇/ pfp @LeonRui_ / 里帐 @Luminme_Vas 互关请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "LeonRui_"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Luminme_Vas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://confess.ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/C5qsiDuDPc"
+              }
+            ]
+          }
+        },
+        "id": "1915124824126427137",
+        "name": "🐱🍥灰尾猫🍥🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998235803676463104/qPOn02np_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 680,
+          "like_count": 174,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 335
+        },
+        "url": "https://t.co/C5qsiDuDPc",
+        "username": "Grtr_nk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T02:33:34.000Z",
+        "description": "某19INFP/双相情感障碍/休学中/自学各种东西中/日常推~/计算机领域笨蛋大猫咪/不可以鉴证/缺觉但睡不着ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.towdesite.top",
+                "end": 23,
+                "expanded_url": "https://blog.towdesite.top/",
+                "start": 0,
+                "url": "https://t.co/8qsI49I7s3"
+              }
+            ]
+          }
+        },
+        "id": "1688015387663949824",
+        "name": "TOW",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906937186551058432/aIBGuDqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 164,
+          "like_count": 1599,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/8qsI49I7s3",
+        "username": "TOWinZH_CN",
+        "verified": false
+      }
+    ]
+  }
+}

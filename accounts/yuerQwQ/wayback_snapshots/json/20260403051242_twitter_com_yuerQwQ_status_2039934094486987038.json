@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2039934094486987038",
+    "created_at": "2026-04-03T05:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T06:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039934094486987038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1844926832967286785",
+          "start": 3,
+          "username": "ZX65535plus1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039934094486987038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039919420919964135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZX65535plus1: 要是能青春期的时候搜到药娘内容就开始自己偷偷hrt后面直接术完改证该多好啊，没准我也可以去学个计算机美其名曰打破女性刻板印象，无论如何都比现在这样好，我不想当现在这种奇异搞笑角色我也想当普通女孩子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2039934094486987038",
+        "created_at": "2026-04-03T05:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T06:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039934094486987038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1844926832967286785",
+              "start": 3,
+              "username": "ZX65535plus1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039934094486987038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039919420919964135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZX65535plus1: 要是能青春期的时候搜到药娘内容就开始自己偷偷hrt后面直接术完改证该多好啊，没准我也可以去学个计算机美其名曰打破女性刻板印象，无论如何都比现在这样好，我不想当现在这种奇异搞笑角色我也想当普通女孩子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "2039919420919964135",
+        "created_at": "2026-04-03T04:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039919420919964135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2039903038429598196",
+              "start": 99,
+              "url": "https://t.co/WhVT484nwK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039919420919964135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 261,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039903038429598196",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要是能青春期的时候搜到药娘内容就开始自己偷偷hrt后面直接术完改证该多好啊，没准我也可以去学个计算机美其名曰打破女性刻板印象，无论如何都比现在这样好，我不想当现在这种奇异搞笑角色我也想当普通女孩子 https://t.co/WhVT484nwK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "羽儿的未来在何方呢……？",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 33,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "过于调皮有时被当做S的欠拴brat  |  \n只要不去就诊我就是健全B  |  \n大体上是直的，除非女人你在玩火",
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "小竹子一掰就断🏳️‍⚧️",
+        "pinned_tweet_id": "2039690945193734184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4000,
+          "following_count": 1433,
+          "like_count": 71523,
+          "listed_count": 4,
+          "media_count": 1014,
+          "tweet_count": 20103
+        },
+        "username": "ZX65535plus1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2050613435885580356",
+    "created_at": "2026-05-02T16:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T17:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050613435885580356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2050412856290557952",
+          "start": 3,
+          "username": "LiZi_TAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050613435885580356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050413816945737832",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LiZi_TAT: 因被健人举报🌰3.0出世……寻回1.0 2.0互关TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2050613435885580356",
+        "created_at": "2026-05-02T16:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050613435885580356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2050412856290557952",
+              "start": 3,
+              "username": "LiZi_TAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050613435885580356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050413816945737832",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LiZi_TAT: 因被健人举报🌰3.0出世……寻回1.0 2.0互关TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050412856290557952",
+        "conversation_id": "2050413816945737832",
+        "created_at": "2026-05-02T03:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T04:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050413816945737832"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050413816945737832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2410,
+          "like_count": 71,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "因被健人举报🌰3.0出世……寻回1.0 2.0互关TT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2049899118508863784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 698,
+          "like_count": 5100,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 820
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T03:11:44.000Z",
+        "description": "od丨餐券丨这里只有黑泥丨举报我的你的全价飞升",
+        "id": "2050412856290557952",
+        "name": "🌰3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050414319691829248/VKxpCrga_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 121,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "username": "LiZi_TAT",
+        "verified": false
+      }
+    ]
+  }
+}

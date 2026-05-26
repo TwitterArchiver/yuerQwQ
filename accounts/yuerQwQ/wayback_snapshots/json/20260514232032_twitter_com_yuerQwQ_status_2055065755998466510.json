@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2055065755998466510",
+    "created_at": "2026-05-14T23:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T00:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055065755998466510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047687133708599296",
+          "start": 3,
+          "username": "themaniachan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055065755998466510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054947934656208993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @themaniachan: 大家好我是狂酱2.0！新号已经一个月了但有点死死的💔求见过我的大家和刚认识狂酱帮我转转！狂酱想要和同成分互fo🥺以及狂酱最近缺钱💔求求投喂谢谢大家🥲❤️\n转发➕关注➕评论来参与抽奖！80fo后AI开奖\n一等：喝四瓶魔爪25r\n二等：吃一顿麻辣…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054946788839415808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISjN4UaYAAF_nP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054946788906582016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISjN4kbQAAQ7Pb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1090,
+        "media_key": "3_2054946788998868992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISjN46bcAAuJMj.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2055065755998466510",
+        "created_at": "2026-05-14T23:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T00:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055065755998466510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047687133708599296",
+              "start": 3,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055065755998466510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054947934656208993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @themaniachan: 大家好我是狂酱2.0！新号已经一个月了但有点死死的💔求见过我的大家和刚认识狂酱帮我转转！狂酱想要和同成分互fo🥺以及狂酱最近缺钱💔求求投喂谢谢大家🥲❤️\n转发➕关注➕评论来参与抽奖！80fo后AI开奖\n一等：喝四瓶魔爪25r\n二等：吃一顿麻辣…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054946788839415808",
+            "3_2054946788906582016",
+            "3_2054946788998868992"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2054947934656208993",
+        "created_at": "2026-05-14T15:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054947934656208993"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 138,
+              "tag": "互fo"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "互转"
+            },
+            {
+              "end": 151,
+              "start": 147,
+              "tag": "地雷女"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XcqOcT2l6V",
+              "end": 175,
+              "expanded_url": "https://x.com/themaniachan/status/2054947934656208993/photo/1",
+              "media_key": "3_2054946788839415808",
+              "start": 152,
+              "url": "https://t.co/XcqOcT2l6V"
+            },
+            {
+              "display_url": "pic.x.com/XcqOcT2l6V",
+              "end": 175,
+              "expanded_url": "https://x.com/themaniachan/status/2054947934656208993/photo/1",
+              "media_key": "3_2054946788906582016",
+              "start": 152,
+              "url": "https://t.co/XcqOcT2l6V"
+            },
+            {
+              "display_url": "pic.x.com/XcqOcT2l6V",
+              "end": 175,
+              "expanded_url": "https://x.com/themaniachan/status/2054947934656208993/photo/1",
+              "media_key": "3_2054946788998868992",
+              "start": 152,
+              "url": "https://t.co/XcqOcT2l6V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054947934656208993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是狂酱2.0！新号已经一个月了但有点死死的💔求见过我的大家和刚认识狂酱帮我转转！狂酱想要和同成分互fo🥺以及狂酱最近缺钱💔求求投喂谢谢大家🥲❤️\n转发➕关注➕评论来参与抽奖！80fo后AI开奖\n一等：喝四瓶魔爪25r\n二等：吃一顿麻辣烫18r\n三等*2：一杯奶茶6r\n#互fo #互转 #地雷女 https://t.co/XcqOcT2l6V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 823,
+          "like_count": 6849,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1108
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 96,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 199
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

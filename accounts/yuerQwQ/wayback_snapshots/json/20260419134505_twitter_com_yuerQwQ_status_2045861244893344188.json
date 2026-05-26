@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2045753844894978175",
+    "created_at": "2026-04-19T13:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045861244893344188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2008412284801216513",
+          "start": 0,
+          "username": "pyromaniac0911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045861244893344188",
+    "in_reply_to_user_id": "2008412284801216513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045753846983762392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyromaniac0911 中国太大了，您可以将目光看向「小一些的城市」\n还有很多地区都是落后保守的（或许基础建设看起来很好，但教育并没有跟上呢）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2045753844894978175",
+        "created_at": "2026-04-19T13:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045861244893344188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2008412284801216513",
+              "start": 0,
+              "username": "pyromaniac0911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045861244893344188",
+        "in_reply_to_user_id": "2008412284801216513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045753846983762392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyromaniac0911 中国太大了，您可以将目光看向「小一些的城市」\n还有很多地区都是落后保守的（或许基础建设看起来很好，但教育并没有跟上呢）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008412284801216513",
+        "conversation_id": "2045753844894978175",
+        "created_at": "2026-04-19T06:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045753846983762392"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045753846983762392",
+        "in_reply_to_user_id": "2008412284801216513",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2847,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045753844894978175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "관련 컨텐츠 검열하는 것도 맞고 시민결합 절대 안된단 스탠스도 맞는데, 어떤 지점에선 한국보다 진보적이고, 광저우나 상하이 등지는 한국보다 훨씬 퀴어프렌들리한 분위기라 천편일률적으로 말할 수 없어요."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo           喵喵喵喵                                                小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 611,
+          "like_count": 3679,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 499
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T05:36:50.000Z",
+        "description": "닫힌 사회와 그 친구들",
+        "id": "2008412284801216513",
+        "name": "열린 사회의 적",
+        "pinned_tweet_id": "2045827281768292704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650223620210688/h_1WWtKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 107,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 990
+        },
+        "username": "pyromaniac0911",
+        "verified": false
+      }
+    ]
+  }
+}

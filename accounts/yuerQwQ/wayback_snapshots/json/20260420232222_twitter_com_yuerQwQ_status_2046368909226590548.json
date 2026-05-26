@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046236694874324992"
+      ],
+      "media_source_tweet_id": [
+        "2046236704294817916"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046368909226590548",
+    "created_at": "2026-04-20T23:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T00:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046368909226590548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882671462210998272",
+          "start": 3,
+          "username": "HosinoEJ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NNC4Mqc5cC",
+          "end": 138,
+          "expanded_url": "https://x.com/HosinoEJ/status/2046236704294817916/photo/1",
+          "media_key": "3_2046236694874324992",
+          "start": 115,
+          "url": "https://t.co/NNC4Mqc5cC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046368909226590548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046236704294817916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HosinoEJ: 现在救援社群的问题\n\n1,联系不到\n有些受害者可能只认识温柔，有些甚至不认识。因为有些机构会冒充受害者来联系温柔，因此联系温柔会有一些门槛，更何况还有那些不认识温柔，谁也不认识的人。\n2,求救声音小… https://t.co/NNC4Mqc5cC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2664,
+        "media_key": "3_2046236694874324992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWxbrxagAAXLYP.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046236694874324992"
+          ],
+          "media_source_tweet_id": [
+            "2046236704294817916"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046368909226590548",
+        "created_at": "2026-04-20T23:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T00:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046368909226590548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882671462210998272",
+              "start": 3,
+              "username": "HosinoEJ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NNC4Mqc5cC",
+              "end": 138,
+              "expanded_url": "https://x.com/HosinoEJ/status/2046236704294817916/photo/1",
+              "media_key": "3_2046236694874324992",
+              "start": 115,
+              "url": "https://t.co/NNC4Mqc5cC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046368909226590548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046236704294817916",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HosinoEJ: 现在救援社群的问题\n\n1,联系不到\n有些受害者可能只认识温柔，有些甚至不认识。因为有些机构会冒充受害者来联系温柔，因此联系温柔会有一些门槛，更何况还有那些不认识温柔，谁也不认识的人。\n2,求救声音小… https://t.co/NNC4Mqc5cC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046236694874324992"
+          ]
+        },
+        "author_id": "1882671462210998272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046236704294817916",
+        "created_at": "2026-04-20T14:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046236704294817916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NNC4Mqc5cC",
+              "end": 123,
+              "expanded_url": "https://x.com/HosinoEJ/status/2046236704294817916/photo/1",
+              "media_key": "3_2046236694874324992",
+              "start": 100,
+              "url": "https://t.co/NNC4Mqc5cC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046236704294817916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "现在救援社群的问题\n\n1,联系不到\n有些受害者可能只认识温柔，有些甚至不认识。因为有些机构会冒充受害者来联系温柔，因此联系温柔会有一些门槛，更何况还有那些不认识温柔，谁也不认识的人。\n2,求救声音小\n我有一个很切实的感受：2月11日我离开扭转机构，很快就开始在网上发布求救信号。结果是我很难联系到谁。因为我自己并没有什么社交圈子，尤其是同省同城的，况且近5个月没有任何消息。最后是一位与救援圈子毫无关联的人表示可以收留，我才有胆子前往上海。并且当时仅携带500块钱，其中大部分花费在了前往上海的火车票，连吃饭都是问题。\n而现在，我作为NCT项目的前站长，积累了不少关注。在前几天我被上海警方调查并通知房东不允许我继续居住的那一天，包括我第二次面临流浪的那一天，很多人向我伸出了援手，让我免受了两次流浪街头的痛苦。在此向所有愿意收留我的人们表示我的敬意。\n在此我突然想到，现在的我和刚出来的我已经不是一回事了，大家现在看到网上我们救人很成功，也很快速。但是我们还有一个问题就是：对于当时的我那一种受害者，我们很难看到ta们的求救。就像下图：我一看这70%可能是一位Transgender，但是ta是谁，我们不知道，也无法知道。\n\n突然想到的，之后会慢慢修改成一个报告"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 5911,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "现在救援社群的问题\n\n1,联系不到\n有些受害者可能只认识温柔，有些甚至不认识。因为有些机构会冒充受害者来联系温柔，因此联系温柔会有一些门槛，更何况还有那些不认识温柔，谁也不认识的人。\n2,求救声音小 https://t.co/NNC4Mqc5cC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo           喵喵喵喵                                                小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 644,
+          "like_count": 3988,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 549
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "點解我眼角長期都帶住淚？因為我一直被困喺一個暗無天日嘅十月入面。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/2FBvyw1HI8"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "location": "shanghai",
+        "name": "星野寧子 | HosinoNeko",
+        "pinned_tweet_id": "2045296996916027852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969203560090124288/UXWVrJV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 520,
+          "like_count": 3718,
+          "listed_count": 4,
+          "media_count": 656,
+          "tweet_count": 3392
+        },
+        "url": "https://t.co/2FBvyw1HI8",
+        "username": "HosinoEJ",
+        "verified": false
+      }
+    ]
+  }
+}

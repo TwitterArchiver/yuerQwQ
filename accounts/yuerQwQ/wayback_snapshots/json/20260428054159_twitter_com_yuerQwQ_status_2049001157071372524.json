@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049001119909806080"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2049001157071372524",
+    "created_at": "2026-04-28T05:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T06:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049001157071372524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mm0lmHgLCp",
+          "end": 30,
+          "expanded_url": "https://x.com/yuerQwQ/status/2049001157071372524/photo/1",
+          "media_key": "3_2049001119909806080",
+          "start": 7,
+          "url": "https://t.co/mm0lmHgLCp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049001157071372524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我将严肃被电 https://t.co/mm0lmHgLCp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049001119909806080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-DqZiaAAAbOgj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049001119909806080"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049001157071372524",
+        "created_at": "2026-04-28T05:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049001157071372524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mm0lmHgLCp",
+              "end": 30,
+              "expanded_url": "https://x.com/yuerQwQ/status/2049001157071372524/photo/1",
+              "media_key": "3_2049001119909806080",
+              "start": 7,
+              "url": "https://t.co/mm0lmHgLCp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049001157071372524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将严肃被电 https://t.co/mm0lmHgLCp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 697,
+          "like_count": 4881,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 754
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

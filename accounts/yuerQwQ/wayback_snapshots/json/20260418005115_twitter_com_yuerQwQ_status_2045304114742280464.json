@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2044678694216867904",
+    "created_at": "2026-04-18T00:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T01:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045304114742280464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1507396901594820608",
+          "start": 0,
+          "username": "hgds0"
+        },
+        {
+          "end": 16,
+          "id": "2026351964775395330",
+          "start": 7,
+          "username": "ThClub_3"
+        },
+        {
+          "end": 26,
+          "id": "1795063198573559808",
+          "start": 17,
+          "username": "ThClub_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045304114742280464",
+    "in_reply_to_user_id": "1507396901594820608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044678694216867904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds0 @ThClub_3 @ThClub_2 喵喵喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76786,
+        "height": 1080,
+        "media_key": "13_2044677842785669120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044677842785669120/img/fKpqqnskQ92RCNMO.jpg",
+        "public_metrics": {
+          "view_count": 8081
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044677842785669120/vid/avc1/1280x720/gHv0F3GakIgT1hZP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044677842785669120/vid/avc1/640x360/hGmhvJS3iwd_JMi8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044677842785669120/pl/1Vng4J0qtXW6-Jcs.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044677842785669120/vid/avc1/1920x1080/zvTwftU8ycipo7LA.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044677842785669120/vid/avc1/480x270/AlmflmDTnltFzCiA.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 55833,
+        "height": 1080,
+        "media_key": "13_2044676280453632000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044676280453632000/img/FkAuDUWRD06pBBWE.jpg",
+        "public_metrics": {
+          "view_count": 254
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044676280453632000/vid/avc1/640x360/-sY9Nkk3f-BpFT7j.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044676280453632000/pl/h7RF0RilWY4EipWM.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044676280453632000/vid/avc1/1280x720/LufYIfNAV1JNdIiW.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044676280453632000/vid/avc1/480x270/xFC5GEOZiDHOo_xf.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044676280453632000/vid/avc1/1920x1080/3YHDUnk3eocDvg4N.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044675046204223488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAlHxIbsAACPBh.jpg",
+        "width": 706
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2044675046170587136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAlHxAacAADAp-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2044678694216867904",
+        "created_at": "2026-04-18T00:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045304114742280464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds0"
+            },
+            {
+              "end": 16,
+              "id": "2026351964775395330",
+              "start": 7,
+              "username": "ThClub_3"
+            },
+            {
+              "end": 26,
+              "id": "1795063198573559808",
+              "start": 17,
+              "username": "ThClub_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045304114742280464",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044678694216867904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds0 @ThClub_3 @ThClub_2 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044677842785669120",
+            "13_2044676280453632000",
+            "3_2044675046204223488",
+            "3_2044675046170587136"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044678694216867904",
+        "created_at": "2026-04-16T07:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044678694216867904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "2026351964775395330",
+              "start": 31,
+              "username": "ThClub_3"
+            },
+            {
+              "end": 50,
+              "id": "1795063198573559808",
+              "start": 41,
+              "username": "ThClub_2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SCBeylDfTQ",
+              "end": 186,
+              "expanded_url": "https://x.com/hgds0/status/2044678694216867904/video/1",
+              "media_key": "13_2044677842785669120",
+              "start": 163,
+              "url": "https://t.co/SCBeylDfTQ"
+            },
+            {
+              "display_url": "pic.x.com/SCBeylDfTQ",
+              "end": 186,
+              "expanded_url": "https://x.com/hgds0/status/2044678694216867904/video/1",
+              "media_key": "13_2044676280453632000",
+              "start": 163,
+              "url": "https://t.co/SCBeylDfTQ"
+            },
+            {
+              "display_url": "pic.x.com/SCBeylDfTQ",
+              "end": 186,
+              "expanded_url": "https://x.com/hgds0/status/2044678694216867904/video/1",
+              "media_key": "3_2044675046204223488",
+              "start": 163,
+              "url": "https://t.co/SCBeylDfTQ"
+            },
+            {
+              "display_url": "pic.x.com/SCBeylDfTQ",
+              "end": 186,
+              "expanded_url": "https://x.com/hgds0/status/2044678694216867904/video/1",
+              "media_key": "3_2044675046170587136",
+              "start": 163,
+              "url": "https://t.co/SCBeylDfTQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044678694216867904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 38016,
+          "like_count": 97,
+          "quote_count": 3,
+          "reply_count": 120,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "我来给大家抽奖啦🎁\n暧昧陪玩店开业啦❤️\n领奖条件：❤️关注 @ThClub_3 @ThClub_2 点赞 🌹转发🌹评论 此抽奖贴参与\n点单V：LinkOvO0或hxhtqq629\n需要点单的宝宝可以私信V帐号\n一等奖：288🧧\n二等奖：188🧧\n三等奖：99🧧\n四等奖：奶茶5杯\n4.26开奖，大家想点男女陪的可以来看看哟 https://t.co/SCBeylDfTQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/hrt 2026/4/17  🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo           喵喵喵喵                                                      小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 571,
+          "like_count": 3196,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 411
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删/推广自辩‼️",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2044678694216867904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95245,
+          "following_count": 2471,
+          "like_count": 43987,
+          "listed_count": 133,
+          "media_count": 3994,
+          "tweet_count": 8380
+        },
+        "username": "hgds0",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-24T17:42:19.000Z",
+        "description": "此号为暧昧Club男陪官号，本店24h营业，主营 #聊天 #游戏 #哄睡 #唱歌 #kp等，店内男陪300+无任何线下业务，任何涉及政治敏感话题单子均不接，点女陪@ThClub_2 | 长期招优质男陪 照骗变声器勿扰",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 25,
+                "tag": "聊天"
+              },
+              {
+                "end": 32,
+                "start": 29,
+                "tag": "游戏"
+              },
+              {
+                "end": 36,
+                "start": 33,
+                "tag": "哄睡"
+              },
+              {
+                "end": 40,
+                "start": 37,
+                "tag": "唱歌"
+              },
+              {
+                "end": 45,
+                "start": 41,
+                "tag": "kp等"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "ThClub_2"
+              }
+            ]
+          }
+        },
+        "id": "2026351964775395330",
+        "location": "Q群：791258246 Vx：LinkOvO0",
+        "name": "暧昧Club男陪店",
+        "pinned_tweet_id": "2027640181235585292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043816390394818561/dG8wf9yM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 2,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 21
+        },
+        "username": "ThClub_3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:03:21.000Z",
+        "description": "此号为暧昧Club女陪官号，本店24h营业，主营 #聊天 #哄睡 #唱歌 #kp等 无任何线下/无视频业务 任何涉及政治敏感话题单子均不接 点男陪@ThClub_3 点单电报⬇️⬇️长期招优质女陪 照骗变声器勿扰",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 25,
+                "tag": "聊天"
+              },
+              {
+                "end": 32,
+                "start": 29,
+                "tag": "哄睡"
+              },
+              {
+                "end": 36,
+                "start": 33,
+                "tag": "唱歌"
+              },
+              {
+                "end": 41,
+                "start": 37,
+                "tag": "kp等"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 73,
+                "username": "ThClub_3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BmClubpw1Bot",
+                "end": 23,
+                "expanded_url": "https://t.me/BmClubpw1Bot",
+                "start": 0,
+                "url": "https://t.co/UHv0gyt022"
+              }
+            ]
+          }
+        },
+        "id": "1795063198573559808",
+        "location": "Q群：152330765",
+        "name": "暧昧Club女陪店",
+        "pinned_tweet_id": "2015009475820945637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040496990820425728/qNr-AEQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9157,
+          "following_count": 6,
+          "like_count": 26,
+          "listed_count": 27,
+          "media_count": 110,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/UHv0gyt022",
+        "username": "ThClub_2",
+        "verified": false
+      }
+    ]
+  }
+}

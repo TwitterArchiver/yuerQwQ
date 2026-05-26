@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2036637314798272893",
+    "created_at": "2026-03-25T15:59:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T16:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036835413621702992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1856186701280075776",
+          "start": 0,
+          "username": "baizhouzi520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036835413621702992",
+    "in_reply_to_user_id": "1856186701280075776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036637314798272893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhouzi520 抽奖喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036637286612500480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEOW0lTagAAQ7SQ.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036637288630022144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEOW0s0bcAAq40g.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036637287992401920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEOW0qcaIAAzLG1.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2036637314798272893",
+        "created_at": "2026-03-25T15:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036835413621702992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1856186701280075776",
+              "start": 0,
+              "username": "baizhouzi520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036835413621702992",
+        "in_reply_to_user_id": "1856186701280075776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036637314798272893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhouzi520 抽奖喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036637286612500480",
+            "3_2036637288630022144",
+            "3_2036637287992401920"
+          ]
+        },
+        "author_id": "1856186701280075776",
+        "conversation_id": "2036637314798272893",
+        "created_at": "2026-03-25T02:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T03:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036637314798272893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sCt4qEG8gT",
+              "end": 150,
+              "expanded_url": "https://x.com/baizhouzi520/status/2036637314798272893/photo/1",
+              "media_key": "3_2036637286612500480",
+              "start": 127,
+              "url": "https://t.co/sCt4qEG8gT"
+            },
+            {
+              "display_url": "pic.x.com/sCt4qEG8gT",
+              "end": 150,
+              "expanded_url": "https://x.com/baizhouzi520/status/2036637314798272893/photo/1",
+              "media_key": "3_2036637288630022144",
+              "start": 127,
+              "url": "https://t.co/sCt4qEG8gT"
+            },
+            {
+              "display_url": "pic.x.com/sCt4qEG8gT",
+              "end": 150,
+              "expanded_url": "https://x.com/baizhouzi520/status/2036637314798272893/photo/1",
+              "media_key": "3_2036637287992401920",
+              "start": 127,
+              "url": "https://t.co/sCt4qEG8gT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036637314798272893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 456,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "1314fo了来抽个奖\n一等奖1人：pr80一盒（折现10r）\n二等奖2个：鱼板挂件一个（可折现4r）\n三等奖3个：鱼板发卡一个（可折现3r）\n抽奖方式：关注加评论喵\n（雌二醇凝胶有售可以联系咱喵）\n可以加咱好友和群聊玩玩\nQQ号：3808755818 https://t.co/sCt4qEG8gT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "awa",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962302809321472000/Fh488z7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 20,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T04:06:17.000Z",
+        "description": "小证含糖半家长党（?）|hrt2024.12.15|死精神病一个|有时候会od，自残|多意识体（白洲/黎星/诗遥/haku）|最爱的姐姐：@mishamimihemumu|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "mishamimihemumu"
+              }
+            ]
+          }
+        },
+        "id": "1856186701280075776",
+        "location": "姐姐的怀里",
+        "name": "白白白白洲洲洲洲🍥🍔🍙💊",
+        "pinned_tweet_id": "2036634550647038008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035716012918886400/w1JKUgDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 637,
+          "like_count": 11501,
+          "listed_count": 3,
+          "media_count": 473,
+          "tweet_count": 1671
+        },
+        "username": "baizhouzi520",
+        "verified": false
+      }
+    ]
+  }
+}

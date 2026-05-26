@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2056901200327639158",
+    "created_at": "2026-05-20T09:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T10:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057038220517609685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1847854395037536258",
+          "start": 0,
+          "username": "Ksoulness"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057038220517609685",
+    "in_reply_to_user_id": "1847854395037536258",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056901200327639158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ksoulness 互关喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 356,
+        "media_key": "3_2056901190668148736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIuUvCfaYAAQlGM.png",
+        "width": 459
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2056901200327639158",
+        "created_at": "2026-05-20T09:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057038220517609685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1847854395037536258",
+              "start": 0,
+              "username": "Ksoulness"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057038220517609685",
+        "in_reply_to_user_id": "1847854395037536258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056901200327639158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ksoulness 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056901190668148736"
+          ]
+        },
+        "author_id": "1847854395037536258",
+        "conversation_id": "2056901200327639158",
+        "created_at": "2026-05-20T00:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T01:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056901200327639158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UOnqQYGaqX",
+              "end": 55,
+              "expanded_url": "https://x.com/Ksoulness/status/2056901200327639158/photo/1",
+              "media_key": "3_2056901190668148736",
+              "start": 32,
+              "url": "https://t.co/UOnqQYGaqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056901200327639158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5644,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 197,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V互关第2天，喜提30多个新朋友。  感谢中文V圈兄弟们。🙏 https://t.co/UOnqQYGaqX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 717,
+          "like_count": 8018,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1383
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-20T04:17:26.000Z",
+        "description": "",
+        "id": "1847854395037536258",
+        "name": "Catch.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047123309381480448/jC3g8YJI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 369,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 48
+        },
+        "username": "Ksoulness",
+        "verified": true
+      }
+    ]
+  }
+}

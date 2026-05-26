@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2044183875665179065",
+    "created_at": "2026-04-14T23:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T00:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044193170624520519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708446662514110464",
+          "start": 0,
+          "username": "TixItem4527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044193170624520519",
+    "in_reply_to_user_id": "1708446662514110464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044183875665179065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TixItem4527 并不幼稚呀，很可爱噢~\nʕ ◦`꒳´◦ʔ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2408,
+        "media_key": "3_2044183574396710913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF5mIV-asAEXlUD.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2408,
+        "media_key": "3_2044183701119172608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF5mPuDaAAA26XG.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2408,
+        "media_key": "3_2044183850339971077",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF5mYZ8asAU1z79.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2044183875665179065",
+        "created_at": "2026-04-14T23:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T00:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044193170624520519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044193170624520519",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044183875665179065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 并不幼稚呀，很可爱噢~\nʕ ◦`꒳´◦ʔ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044183574396710913",
+            "3_2044183701119172608",
+            "3_2044183850339971077"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044183875665179065",
+        "created_at": "2026-04-14T22:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T23:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044183875665179065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/djKP7RhZSm",
+              "end": 46,
+              "expanded_url": "https://x.com/TixItem4527/status/2044183875665179065/photo/1",
+              "media_key": "3_2044183574396710913",
+              "start": 23,
+              "url": "https://t.co/djKP7RhZSm"
+            },
+            {
+              "display_url": "pic.x.com/djKP7RhZSm",
+              "end": 46,
+              "expanded_url": "https://x.com/TixItem4527/status/2044183875665179065/photo/1",
+              "media_key": "3_2044183701119172608",
+              "start": 23,
+              "url": "https://t.co/djKP7RhZSm"
+            },
+            {
+              "display_url": "pic.x.com/djKP7RhZSm",
+              "end": 46,
+              "expanded_url": "https://x.com/TixItem4527/status/2044183875665179065/photo/1",
+              "media_key": "3_2044183850339971077",
+              "start": 23,
+              "url": "https://t.co/djKP7RhZSm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044183875665179065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我真的很幼稚，玩着幼稚的游戏说着幼稚的话 https://t.co/djKP7RhZSm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/未含糖/修正马主义☭/民主青年🇹🇼/广东/近视/178身高体重115/欢迎互fo                                             小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 352,
+          "like_count": 1696,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 207
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo\n家长不管党|Hrt日期26.01.12|2011.03.25出现!|15岁|无心理疾病|不割手手|174cm(有点高烦恼)|58kg|有点社恐|INFP|\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，有问题可发邮件至430830097@qq.com哦\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 148,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://www.x.com",
+                "start": 0,
+                "url": "https://t.co/69aJorWE72"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 376,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 357
+        },
+        "url": "https://t.co/69aJorWE72",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}

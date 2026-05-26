@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2052733047699620194",
+    "created_at": "2026-05-08T14:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052757455407665371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2012423737887379456",
+          "start": 0,
+          "username": "Xzz__64"
+        },
+        {
+          "end": 18,
+          "id": "2028397856814764032",
+          "start": 9,
+          "username": "Poca5150"
+        },
+        {
+          "end": 27,
+          "id": "1819517540756082689",
+          "start": 19,
+          "username": "dsf2vvv"
+        },
+        {
+          "end": 44,
+          "id": "1970857021588262912",
+          "start": 28,
+          "username": "RainEngine_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052757455407665371",
+    "in_reply_to_user_id": "2012423737887379456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052733047699620194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xzz__64 @Poca5150 @dsf2vvv @RainEngine_2024 好诶~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052733020482772993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzFzmiXIAEVwXK.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052733020516270081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzFzmqWQAEhJ5p.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2052733047699620194",
+        "created_at": "2026-05-08T14:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052757455407665371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2012423737887379456",
+              "start": 0,
+              "username": "Xzz__64"
+            },
+            {
+              "end": 18,
+              "id": "2028397856814764032",
+              "start": 9,
+              "username": "Poca5150"
+            },
+            {
+              "end": 27,
+              "id": "1819517540756082689",
+              "start": 19,
+              "username": "dsf2vvv"
+            },
+            {
+              "end": 44,
+              "id": "1970857021588262912",
+              "start": 28,
+              "username": "RainEngine_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052757455407665371",
+        "in_reply_to_user_id": "2012423737887379456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052733047699620194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xzz__64 @Poca5150 @dsf2vvv @RainEngine_2024 好诶~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052733020482772993",
+            "3_2052733020516270081"
+          ]
+        },
+        "author_id": "2012423737887379456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052733047699620194",
+        "created_at": "2026-05-08T12:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052733047699620194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 71,
+              "id": "1962302660541079552",
+              "start": 63,
+              "username": "yuerQwQ"
+            },
+            {
+              "end": 81,
+              "id": "2028397856814764032",
+              "start": 72,
+              "username": "Poca5150"
+            },
+            {
+              "end": 94,
+              "id": "1819517540756082689",
+              "start": 86,
+              "username": "dsf2vvv"
+            },
+            {
+              "end": 115,
+              "id": "1970857021588262912",
+              "start": 99,
+              "username": "RainEngine_2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ssH3UWumz0",
+              "end": 153,
+              "expanded_url": "https://x.com/Xzz__64/status/2052733047699620194/photo/1",
+              "media_key": "3_2052733020482772993",
+              "start": 130,
+              "url": "https://t.co/ssH3UWumz0"
+            },
+            {
+              "display_url": "pic.x.com/ssH3UWumz0",
+              "end": 153,
+              "expanded_url": "https://x.com/Xzz__64/status/2052733047699620194/photo/1",
+              "media_key": "3_2052733020516270081",
+              "start": 130,
+              "url": "https://t.co/ssH3UWumz0"
+            },
+            {
+              "display_url": "x.com/xzz__64/status…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/xzz__64/status/2051548771469652428",
+              "start": 154,
+              "url": "https://t.co/sVSp0dQaZy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052733047699620194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051548771469652428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "180fo小目标达到了喵～ 来为大家开奖啦\n（为了防止怀疑黑幕最后还是用了ai来开奖）\n恭喜中奖的宝宝们(о´∀`о)\n三等奖@yuerQwQ @Poca5150 \n二等奖@dsf2vvv \n一等奖@RainEngine_2024 \n请于一周内私信联系窝哦喵 https://t.co/ssH3UWumz0 https://t.co/sVSp0dQaZy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2049899118508863784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 756,
+          "like_count": 5796,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 947
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T07:16:35.000Z",
+        "description": "生在春风中，活在药效里\nMTX🏳️‍⚧️｜无证含糖ing🍥｜HRT2024.1｜💊Oder｜INFP-T🦋｜怕疼不自残｜摆烂高中生🏫｜喜互fo🤗",
+        "id": "2012423737887379456",
+        "location": "幻境里",
+        "name": "序章MuKe__🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047981238959722496/_ZLFlv0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 282,
+          "like_count": 1956,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 267
+        },
+        "username": "Xzz__64",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T09:11:59.000Z",
+        "description": "是 @ddaquaforever @Poca2381 的逃生仓\n娃娃专用号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "ddaquaforever"
+              },
+              {
+                "end": 26,
+                "start": 17,
+                "username": "Poca2381"
+              }
+            ]
+          }
+        },
+        "id": "2028397856814764032",
+        "location": "香港上水",
+        "name": "早露夸夸兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029095703281324032/rQmNHPkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 874,
+          "like_count": 688,
+          "listed_count": 4,
+          "media_count": 51,
+          "tweet_count": 788
+        },
+        "username": "Poca5150",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T23:36:07.000Z",
+        "description": "",
+        "id": "1819517540756082689",
+        "name": "小黄鸭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036865851232837634/fcXyptuJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 2495,
+          "like_count": 4459,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 8684
+        },
+        "username": "dsf2vvv",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "MtX?🏳️‍⚧️|Hrt🍥01.28.2026，无证含糖|年龄党+家长不管党|已炸柜|💊oder|生产日期:11.13.2011|161cm52kg75A40码|INFP-T，重度社恐|初二牲，成绩倒数，希望不登校😭，渴望在家里躺尸😭|同类互fo喵～|小号@UnkXyn|https://t.co/fG6XzUT3Y3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 129,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 160,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 137,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/l2FvEo2fLb"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "湖北省-孝感市-汉川市",
+        "name": "𝑼𝒏𝒌~🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2033121906224959578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051684783588315136/Nkhjk1Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2425,
+          "following_count": 1465,
+          "like_count": 17414,
+          "listed_count": 3,
+          "media_count": 526,
+          "tweet_count": 2781
+        },
+        "url": "https://t.co/l2FvEo2fLb",
+        "username": "RainEngine_2024",
+        "verified": true
+      }
+    ]
+  }
+}

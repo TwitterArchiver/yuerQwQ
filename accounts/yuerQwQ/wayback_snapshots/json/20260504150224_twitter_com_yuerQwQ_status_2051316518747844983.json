@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2051148885725233212",
+    "created_at": "2026-05-04T15:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T16:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051316518747844983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2012423737887379456",
+          "start": 0,
+          "username": "Xzz__64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051316518747844983",
+    "in_reply_to_user_id": "2012423737887379456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051148885725233212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xzz__64 抱抱~\n꜀(˘꒳˘ ꜀)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2051148866485977088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHclBtBXgAAzYzd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2051148885725233212",
+        "created_at": "2026-05-04T15:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051316518747844983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2012423737887379456",
+              "start": 0,
+              "username": "Xzz__64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051316518747844983",
+        "in_reply_to_user_id": "2012423737887379456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051148885725233212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xzz__64 抱抱~\n꜀(˘꒳˘ ꜀)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051148866485977088"
+          ]
+        },
+        "author_id": "2012423737887379456",
+        "conversation_id": "2051148885725233212",
+        "created_at": "2026-05-04T03:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051148885725233212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GrFCYupTi0",
+              "end": 67,
+              "expanded_url": "https://x.com/Xzz__64/status/2051148885725233212/photo/1",
+              "media_key": "3_2051148866485977088",
+              "start": 44,
+              "url": "https://t.co/GrFCYupTi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051148885725233212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家可以抱抱窝吗🥺\n带着手机上的推油们一起坐家庭过山车 窝们就是一家人了喵(o^^o) https://t.co/GrFCYupTi0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2049899118508863784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 708,
+          "like_count": 5296,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 856
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T07:16:35.000Z",
+        "description": "生在春风中，活在药效里\nMTX🏳️‍⚧️｜无证含糖ing🍥｜HRT2024.1｜💊Oder｜INFP-T🦋｜怕疼不自残｜摆烂高中生🏫｜喜互fo🤗",
+        "id": "2012423737887379456",
+        "location": "幻境里",
+        "name": "序章MuKe__🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047981238959722496/_ZLFlv0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 201,
+          "like_count": 1579,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 232
+        },
+        "username": "Xzz__64",
+        "verified": false
+      }
+    ]
+  }
+}

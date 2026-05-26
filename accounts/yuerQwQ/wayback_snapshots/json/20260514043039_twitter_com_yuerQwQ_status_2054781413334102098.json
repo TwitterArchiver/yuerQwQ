@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+          "id": "1143968237232644097",
+          "name": "Japanese Social Security"
+        }
+      }
+    ],
+    "conversation_id": "2054519372199383356",
+    "created_at": "2026-05-14T04:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T05:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054781413334102098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1573173649917485058",
+          "start": 0,
+          "username": "shnzhnzgnwchul1"
+        },
+        {
+          "end": 30,
+          "id": "1986828541930119168",
+          "start": 17,
+          "username": "shigure07288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054781413334102098",
+    "in_reply_to_user_id": "1962302660541079552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054780492571201869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shnzhnzgnwchul1 @shigure07288 就没有收入来源了（或许现代会有些社会保障或保险之类的？）\n而资产阶级（地主，工厂主，企业家……）还拥有可以倒卖/出租或者雇佣他人进行生产的能力，以此获得收入"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+              "id": "1143968237232644097",
+              "name": "Japanese Social Security"
+            }
+          }
+        ],
+        "conversation_id": "2054519372199383356",
+        "created_at": "2026-05-14T04:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054781413334102098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1573173649917485058",
+              "start": 0,
+              "username": "shnzhnzgnwchul1"
+            },
+            {
+              "end": 30,
+              "id": "1986828541930119168",
+              "start": 17,
+              "username": "shigure07288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054781413334102098",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054780492571201869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shnzhnzgnwchul1 @shigure07288 就没有收入来源了（或许现代会有些社会保障或保险之类的？）\n而资产阶级（地主，工厂主，企业家……）还拥有可以倒卖/出租或者雇佣他人进行生产的能力，以此获得收入"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2054519372199383356",
+        "created_at": "2026-05-14T04:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054780492571201869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1573173649917485058",
+              "start": 0,
+              "username": "shnzhnzgnwchul1"
+            },
+            {
+              "end": 30,
+              "id": "1986828541930119168",
+              "start": 17,
+              "username": "shigure07288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054780492571201869",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054779566611423551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shnzhnzgnwchul1 @shigure07288 如果生产资料都不掌握在自己手里，且劳动成果也不属于自己（也就是工厂出产的产品，农田出产的作物，办公楼出产的数据/代码……）\n（工资不是，工资是把劳动时间和强度卖掉了得到的）\n那么就属于无产阶级的行列了\n\n同时这意味着没有抗风险能力，在失去「出卖劳动力的渠道」（通俗的讲就是工作）之后"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 814,
+          "like_count": 6722,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1100
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T04:53:31.000Z",
+        "description": "是不是朋友又od去世啦？",
+        "id": "1573173649917485058",
+        "name": "今天你o了没？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573173696197533696/gwpuK9fO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 7,
+          "like_count": 14,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1495
+        },
+        "username": "shnzhnzgnwchul1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“马克思主义或列宁主义”\n📕🌈|INTP-A|自发毛主义|左翼共产主义|自由意志社会主义|民主社会主义|左翼平民主义|反资本主义|反帝国主义|反修正主义|平权主义|友lgbt",
+        "id": "1986828541930119168",
+        "location": "中华公社",
+        "name": "時雨☭𝕷𝖊𝖋𝖙𝖈𝖔𝖒🚩🏴‍☠️🇵🇸🇺🇦🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037543089099915264/LekdR7Q1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 607,
+          "like_count": 5238,
+          "listed_count": 7,
+          "media_count": 513,
+          "tweet_count": 6641
+        },
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

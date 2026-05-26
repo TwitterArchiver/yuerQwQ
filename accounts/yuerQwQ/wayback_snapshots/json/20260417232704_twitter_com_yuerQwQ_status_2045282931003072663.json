@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045096765909860353"
+      ],
+      "media_source_tweet_id": [
+        "2045096767369437326"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045282931003072663",
+    "created_at": "2026-04-17T23:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T00:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045282931003072663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1561753484512612353",
+          "start": 3,
+          "username": "Moutai_H_Maple"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xCH9E5JuWI",
+          "end": 92,
+          "expanded_url": "https://x.com/Moutai_H_Maple/status/2045096767369437326/photo/1",
+          "media_key": "3_2045096765909860353",
+          "start": 69,
+          "url": "https://t.co/xCH9E5JuWI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045282931003072663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045096767369437326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Moutai_H_Maple: 对于性取向不同的仇恨，甚至高于对于资产阶级的仇恨，也远远大于对女性的仇恨。\n足以写一篇报道和论文 https://t.co/xCH9E5JuWI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1420,
+        "media_key": "3_2045096765909860353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGkrFdbgAEsTfQ.jpg",
+        "width": 703
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045096765909860353"
+          ],
+          "media_source_tweet_id": [
+            "2045096767369437326"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045282931003072663",
+        "created_at": "2026-04-17T23:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T00:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045282931003072663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1561753484512612353",
+              "start": 3,
+              "username": "Moutai_H_Maple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xCH9E5JuWI",
+              "end": 92,
+              "expanded_url": "https://x.com/Moutai_H_Maple/status/2045096767369437326/photo/1",
+              "media_key": "3_2045096765909860353",
+              "start": 69,
+              "url": "https://t.co/xCH9E5JuWI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045282931003072663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045096767369437326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Moutai_H_Maple: 对于性取向不同的仇恨，甚至高于对于资产阶级的仇恨，也远远大于对女性的仇恨。\n足以写一篇报道和论文 https://t.co/xCH9E5JuWI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045096765909860353"
+          ]
+        },
+        "author_id": "1561753484512612353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045096767369437326",
+        "created_at": "2026-04-17T11:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045096767369437326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xCH9E5JuWI",
+              "end": 72,
+              "expanded_url": "https://x.com/Moutai_H_Maple/status/2045096767369437326/photo/1",
+              "media_key": "3_2045096765909860353",
+              "start": 49,
+              "url": "https://t.co/xCH9E5JuWI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045096767369437326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 33885,
+          "like_count": 348,
+          "quote_count": 6,
+          "reply_count": 34,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "对于性取向不同的仇恨，甚至高于对于资产阶级的仇恨，也远远大于对女性的仇恨。\n足以写一篇报道和论文 https://t.co/xCH9E5JuWI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/hrt 2026/4/17  🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo           喵喵喵喵                                                      小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 556,
+          "like_count": 3043,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 383
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T16:34:03.000Z",
+        "description": "男同性恋，自认携带y染负能量病毒载体，靠近会被污染。\n尝试学徒（Apprentice）、观众（Spectator）双途径｜目标是晋升真神—一只名为土豆的英短蓝白猫。",
+        "id": "1561753484512612353",
+        "location": "Edmonton, Alberta",
+        "name": "茅茅taiiiiii",
+        "pinned_tweet_id": "2044829235974717911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988309263115317248/IS5Aq8xZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 228,
+          "like_count": 1635,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 1790
+        },
+        "username": "Moutai_H_Maple",
+        "verified": true
+      }
+    ]
+  }
+}

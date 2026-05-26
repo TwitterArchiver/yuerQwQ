@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2051827167160586649",
+    "created_at": "2026-05-06T04:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T05:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051881354426741161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687876238474629120",
+          "start": 0,
+          "username": "AgNo3_xq0719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051881354426741161",
+    "in_reply_to_user_id": "1687876238474629120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051827167160586649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AgNo3_xq0719 蹲蹲喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2051827167160586649",
+        "created_at": "2026-05-06T04:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051881354426741161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687876238474629120",
+              "start": 0,
+              "username": "AgNo3_xq0719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051881354426741161",
+        "in_reply_to_user_id": "1687876238474629120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051827167160586649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AgNo3_xq0719 蹲蹲喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687876238474629120",
+        "conversation_id": "2051827167160586649",
+        "created_at": "2026-05-06T00:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T01:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051827167160586649"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051827167160586649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 548,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "200fo啦 搞个小抽奖\n关注评论转发点赞参与\n一等奖霸王茶姬 （折现20）1位\n二等奖蜜雪冰城 （折现10r）2位\n三等奖5.2r 位\n转发30开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2049899118508863784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 720,
+          "like_count": 5551,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 904
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T17:20:44.000Z",
+        "description": "09｜od｜自伤｜双相情感障碍｜istp-t｜爱人@llzvkeai @NiimiyaHoshi @fngkli131022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "llzvkeai"
+              },
+              {
+                "end": 48,
+                "start": 35,
+                "username": "NiimiyaHoshi"
+              },
+              {
+                "end": 62,
+                "start": 49,
+                "username": "fngkli131022"
+              }
+            ]
+          }
+        },
+        "id": "1687876238474629120",
+        "location": "普瑞巴林星球",
+        "name": "硝酸银#浅（三世）",
+        "pinned_tweet_id": "2051827167160586649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049376709401841665/1z8Fy-mI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 221,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 68
+        },
+        "username": "AgNo3_xq0719",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2053844257451192409",
+    "created_at": "2026-05-11T23:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T00:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053988147206443146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2001675650994999296",
+          "start": 0,
+          "username": "Pluralitysubsys"
+        },
+        {
+          "end": 33,
+          "id": "1964042844198621187",
+          "start": 17,
+          "username": "bungeikuhakushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053988147206443146",
+    "in_reply_to_user_id": "2001675650994999296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053848469719453783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Pluralitysubsys @bungeikuhakushi 我个人认为繁体（正体）只需要能看懂就行了（或许可以给到书法这种艺术活动里而不是日常生活中）\n\n对于从小写简体的我来说，书写繁体字的效率有些过低了（当然，这是我的立场，欢迎讨论qwq）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2053844257451192409",
+        "created_at": "2026-05-11T23:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T00:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053988147206443146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001675650994999296",
+              "start": 0,
+              "username": "Pluralitysubsys"
+            },
+            {
+              "end": 33,
+              "id": "1964042844198621187",
+              "start": 17,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053988147206443146",
+        "in_reply_to_user_id": "2001675650994999296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053848469719453783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Pluralitysubsys @bungeikuhakushi 我个人认为繁体（正体）只需要能看懂就行了（或许可以给到书法这种艺术活动里而不是日常生活中）\n\n对于从小写简体的我来说，书写繁体字的效率有些过低了（当然，这是我的立场，欢迎讨论qwq）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001675650994999296",
+        "conversation_id": "2053844257451192409",
+        "created_at": "2026-05-11T14:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053848469719453783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053848469719453783",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 379,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053844257451192409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@bungeikuhakushi 应该繁体和简体都会，增加效率的同时保护传统文化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2049899118508863784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 780,
+          "like_count": 6340,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1021
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T15:27:35.000Z",
+        "description": "千夜系统的子系统 | 创造型 median（mesosian）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.psychonautwiki.org/wiki/Psychoact…",
+                "end": 23,
+                "expanded_url": "https://m.psychonautwiki.org/wiki/Psychoactive%20substance%20index",
+                "start": 0,
+                "url": "https://t.co/V27J0WGYKr"
+              }
+            ]
+          }
+        },
+        "id": "2001675650994999296",
+        "location": "Hong Kong",
+        "name": "清梦与清云",
+        "pinned_tweet_id": "2053872207072477568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053847506006773760/CyK8ykSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 73,
+          "like_count": 932,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1615
+        },
+        "url": "https://t.co/V27J0WGYKr",
+        "username": "Pluralitysubsys",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義❂｜ 08年廣東文科生｜雙相\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧 English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港澳 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2014,
+          "following_count": 354,
+          "like_count": 11931,
+          "listed_count": 4,
+          "media_count": 764,
+          "tweet_count": 3794
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2057272366510801084",
+    "created_at": "2026-05-21T11:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057420561245237258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1413237287958233089",
+          "start": 0,
+          "username": "BA310370378"
+        },
+        {
+          "end": 29,
+          "id": "1852895432269234176",
+          "start": 13,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057420561245237258",
+    "in_reply_to_user_id": "1413237287958233089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057339066820051342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BA310370378 @432Ifantrygroup 是还不够好，医疗足够好的话退休年龄可以继续往后推（（（（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2057272366510801084",
+        "created_at": "2026-05-21T11:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057420561245237258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1413237287958233089",
+              "start": 0,
+              "username": "BA310370378"
+            },
+            {
+              "end": 29,
+              "id": "1852895432269234176",
+              "start": 13,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057420561245237258",
+        "in_reply_to_user_id": "1413237287958233089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057339066820051342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BA310370378 @432Ifantrygroup 是还不够好，医疗足够好的话退休年龄可以继续往后推（（（（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413237287958233089",
+        "conversation_id": "2057272366510801084",
+        "created_at": "2026-05-21T05:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057339066820051342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057339066820051342",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057272366510801084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 其实是医疗太好、命太长了、退休人士太多\n像日本这点地方一亿二千万明显还是太多、唯一问题是老年化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 742,
+          "like_count": 8271,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1477
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-08T20:43:34.000Z",
+        "description": "日本に住んていない日本永住者です。",
+        "id": "1413237287958233089",
+        "location": "TOKYO,ISTANBUL",
+        "name": "BA🇹🇷 🇬🇧",
+        "pinned_tweet_id": "2049621647863206262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048532282047082496/SCN_gjzt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 244,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 5036
+        },
+        "username": "BA310370378",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2057093487007609026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 3855,
+          "like_count": 37578,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 10173
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

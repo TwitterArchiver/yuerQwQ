@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2042593377158598754",
+    "created_at": "2026-04-10T18:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T19:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042664931284390165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766644305660420096",
+          "start": 0,
+          "username": "suikachanqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042664931284390165",
+    "in_reply_to_user_id": "1766644305660420096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042593377158598754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suikachanqwq 死掉的话朋友们会很伤心的喵…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2042593377158598754",
+        "created_at": "2026-04-10T18:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042664931284390165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766644305660420096",
+              "start": 0,
+              "username": "suikachanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042664931284390165",
+        "in_reply_to_user_id": "1766644305660420096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042593377158598754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suikachanqwq 死掉的话朋友们会很伤心的喵…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766644305660420096",
+        "conversation_id": "2042593377158598754",
+        "created_at": "2026-04-10T13:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042593377158598754"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042593377158598754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就是一個精神病我就是一個垃圾我為什麼不去死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/未含糖/修正马主义☭/民主青年🇹🇼/广东/近视/178身高体重115/欢迎互fo                 小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 182,
+          "like_count": 564,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 80
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "精̴̢̪̾͊̄神̵̘͍͛不̸̥̞̰̉̋́穩̶̼̲͒定̵̳̑͘\n我是小貓🐱\n高一/🏳️‍⚧️MtF/座標上海/\nhrt🍥114.09.30/🍰98.12.22/家長否定/181/斷糖/國男\n左翼民國派🇹🇼\n抱抱可愛的姊姊們 @xshxXXXXXXX @Yyyyy_pog @Alian123_mtf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "xshxXXXXXXX"
+              },
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 148,
+                "start": 135,
+                "username": "Alian123_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naenara.com.kp",
+                "end": 23,
+                "expanded_url": "http://naenara.com.kp",
+                "start": 0,
+                "url": "https://t.co/iBBruXvmT7"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "location": "小貓民國　上海市",
+        "name": "すいかちゃん🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2020799650144415825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040622993647550464/tyymAl98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 1767,
+          "like_count": 14448,
+          "listed_count": 3,
+          "media_count": 375,
+          "tweet_count": 7682
+        },
+        "url": "https://t.co/iBBruXvmT7",
+        "username": "suikachanqwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2048211980016812073",
+    "created_at": "2026-04-26T01:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T02:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048211980016812073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1114504530425573377",
+          "start": 3,
+          "username": "Nemi_VRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048211980016812073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047997206456946930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nemi_VRC: 中国の男の娘可愛すぎるなに？ほんとに。ずるい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2048211980016812073",
+        "created_at": "2026-04-26T01:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T02:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048211980016812073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1114504530425573377",
+              "start": 3,
+              "username": "Nemi_VRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048211980016812073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047997206456946930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nemi_VRC: 中国の男の娘可愛すぎるなに？ほんとに。ずるい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1114504530425573377",
+        "conversation_id": "2047997206456946930",
+        "created_at": "2026-04-25T11:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047997206456946930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047997206456946930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 63612,
+          "like_count": 1295,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "中国の男の娘可愛すぎるなに？ほんとに。ずるい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 683,
+          "like_count": 4777,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 736
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-06T12:26:01.000Z",
+        "description": "VRCID:Nemi_",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.co.jp/hz/wishlist/ls/2EPNWGLJ7WBJY",
+                "start": 0,
+                "url": "https://t.co/aOMsZbaEHI"
+              }
+            ]
+          }
+        },
+        "id": "1114504530425573377",
+        "location": "ピエロ大学 脅威crit学部",
+        "name": "Nemi@VRC",
+        "pinned_tweet_id": "1526080799652855808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993603751601754112/k1OWlPv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4313,
+          "following_count": 1366,
+          "like_count": 296853,
+          "listed_count": 45,
+          "media_count": 5096,
+          "tweet_count": 111926
+        },
+        "url": "https://t.co/aOMsZbaEHI",
+        "username": "Nemi_VRC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2039934025293594807",
+    "created_at": "2026-04-03T05:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T06:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039934025293594807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039934025293594807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 321
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039596609215021493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 活不下去了 打算佛系自杀\n不割腕 不过量服药不上吊也不跳楼\n我就要正常饮食 正常睡觉 正常打游戏看动漫\n缘分到了 我自然会死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2039934025293594807",
+        "created_at": "2026-04-03T05:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T06:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039934025293594807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039934025293594807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 321
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039596609215021493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 活不下去了 打算佛系自杀\n不割腕 不过量服药不上吊也不跳楼\n我就要正常饮食 正常睡觉 正常打游戏看动漫\n缘分到了 我自然会死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2039596609215021493",
+        "created_at": "2026-04-02T06:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T07:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039596609215021493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039596609215021493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 96828,
+          "like_count": 3035,
+          "quote_count": 20,
+          "reply_count": 42,
+          "retweet_count": 321
+        },
+        "reply_settings": "everyone",
+        "text": "活不下去了 打算佛系自杀\n不割腕 不过量服药不上吊也不跳楼\n我就要正常饮食 正常睡觉 正常打游戏看动漫\n缘分到了 我自然会死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "羽儿的未来在何方呢……？",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 33,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4828,
+          "following_count": 53,
+          "like_count": 5502,
+          "listed_count": 5,
+          "media_count": 127,
+          "tweet_count": 1284
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

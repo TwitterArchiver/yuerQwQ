@@ -1,0 +1,579 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2044040556037505466",
+    "created_at": "2026-04-14T13:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044047938029244527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1877920404561690624",
+          "start": 0,
+          "username": "EncounRain"
+        },
+        {
+          "end": 22,
+          "id": "1729436345913995265",
+          "start": 12,
+          "username": "p1NRed1_A"
+        },
+        {
+          "end": 36,
+          "id": "2030832351656493056",
+          "start": 23,
+          "username": "Suintouhea2t"
+        },
+        {
+          "end": 47,
+          "id": "1589235830731997188",
+          "start": 37,
+          "username": "PWaterawa"
+        },
+        {
+          "end": 61,
+          "id": "1691090887424819200",
+          "start": 48,
+          "username": "Bandim77SAYA"
+        },
+        {
+          "end": 78,
+          "id": "1505767450385690625",
+          "start": 62,
+          "username": "Alistai33955292"
+        },
+        {
+          "end": 93,
+          "id": "1999007250829230080",
+          "start": 79,
+          "username": "DDaquaforever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044047938029244527",
+    "in_reply_to_user_id": "1877920404561690624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044040556037505466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EncounRain @p1NRed1_A @Suintouhea2t @PWaterawa @Bandim77SAYA @Alistai33955292 @DDaquaforever 好诶~\n&gt;ෆ&lt;"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_2044040550442250241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3kDQOasAEepAR.jpg",
+        "width": 1220
+      },
+      {
+        "height": 899,
+        "media_key": "3_2044040454086504448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3j9pRasAAplog.jpg",
+        "width": 1220
+      },
+      {
+        "height": 685,
+        "media_key": "3_2044040454388527104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3j9qZbMAAjUbP.jpg",
+        "width": 1220
+      },
+      {
+        "height": 564,
+        "media_key": "3_2044040454682095616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3j9rfasAAbAmD.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2044040556037505466",
+        "created_at": "2026-04-14T13:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044047938029244527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1877920404561690624",
+              "start": 0,
+              "username": "EncounRain"
+            },
+            {
+              "end": 22,
+              "id": "1729436345913995265",
+              "start": 12,
+              "username": "p1NRed1_A"
+            },
+            {
+              "end": 36,
+              "id": "2030832351656493056",
+              "start": 23,
+              "username": "Suintouhea2t"
+            },
+            {
+              "end": 47,
+              "id": "1589235830731997188",
+              "start": 37,
+              "username": "PWaterawa"
+            },
+            {
+              "end": 61,
+              "id": "1691090887424819200",
+              "start": 48,
+              "username": "Bandim77SAYA"
+            },
+            {
+              "end": 78,
+              "id": "1505767450385690625",
+              "start": 62,
+              "username": "Alistai33955292"
+            },
+            {
+              "end": 93,
+              "id": "1999007250829230080",
+              "start": 79,
+              "username": "DDaquaforever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044047938029244527",
+        "in_reply_to_user_id": "1877920404561690624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044040556037505466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EncounRain @p1NRed1_A @Suintouhea2t @PWaterawa @Bandim77SAYA @Alistai33955292 @DDaquaforever 好诶~\n&gt;ෆ&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044040550442250241",
+            "3_2044040454086504448",
+            "3_2044040454388527104",
+            "3_2044040454682095616"
+          ]
+        },
+        "author_id": "1877920404561690624",
+        "conversation_id": "2044040556037505466",
+        "created_at": "2026-04-14T13:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044040556037505466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1729436345913995265",
+              "start": 29,
+              "username": "p1NRed1_A"
+            },
+            {
+              "end": 74,
+              "id": "2030832351656493056",
+              "start": 61,
+              "username": "Suintouhea2t"
+            },
+            {
+              "end": 88,
+              "id": "1589235830731997188",
+              "start": 78,
+              "username": "PWaterawa"
+            },
+            {
+              "end": 108,
+              "id": "1691090887424819200",
+              "start": 95,
+              "username": "Bandim77SAYA"
+            },
+            {
+              "end": 134,
+              "id": "1962302660541079552",
+              "start": 126,
+              "username": "yuerQwQ"
+            },
+            {
+              "end": 155,
+              "id": "1505767450385690625",
+              "start": 139,
+              "username": "Alistai33955292"
+            },
+            {
+              "end": 201,
+              "id": "1999007250829230080",
+              "start": 187,
+              "username": "DDaquaforever"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QwHgUqyv6o",
+              "end": 225,
+              "expanded_url": "https://x.com/EncounRain/status/2044040556037505466/photo/1",
+              "media_key": "3_2044040550442250241",
+              "start": 202,
+              "url": "https://t.co/QwHgUqyv6o"
+            },
+            {
+              "display_url": "pic.x.com/QwHgUqyv6o",
+              "end": 225,
+              "expanded_url": "https://x.com/EncounRain/status/2044040556037505466/photo/1",
+              "media_key": "3_2044040454086504448",
+              "start": 202,
+              "url": "https://t.co/QwHgUqyv6o"
+            },
+            {
+              "display_url": "pic.x.com/QwHgUqyv6o",
+              "end": 225,
+              "expanded_url": "https://x.com/EncounRain/status/2044040556037505466/photo/1",
+              "media_key": "3_2044040454388527104",
+              "start": 202,
+              "url": "https://t.co/QwHgUqyv6o"
+            },
+            {
+              "display_url": "pic.x.com/QwHgUqyv6o",
+              "end": 225,
+              "expanded_url": "https://x.com/EncounRain/status/2044040556037505466/photo/1",
+              "media_key": "3_2044040454682095616",
+              "start": 202,
+              "url": "https://t.co/QwHgUqyv6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044040556037505466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中奖结果公示喵\n第一轮\n 3盒玉米片（折现18元）\n咕咚：@p1NRed1_A\n\n第二轮\n1盒玉米片（折现6元）\nMoe：@Suintouhea2t\n汐汐：@PWaterawa\n半减7./：@Bandim77SAYA\n\n第三轮\n赞赏你5.2\nyuer：@yuerQwQ\n​\n🌰：@Alistai33955292\n\n第四轮\n奶茶（折现20元）\n早露泡泡兔（四代目）寻回推油中：@DDaquaforever https://t.co/QwHgUqyv6o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/未含糖/修正马主义☭/民主青年🇹🇼/广东/近视/178身高体重115/欢迎互fo                           小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 347,
+          "like_count": 1657,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 203
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T03:28:16.000Z",
+        "description": "宝宝你的号是不是被用来刷恶评了\n吐黑泥碎碎念。互fo。。",
+        "id": "1877920404561690624",
+        "location": "東京 新宿区",
+        "name": "wishele",
+        "pinned_tweet_id": "2027287927903129679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042872077460606978/DzMkazwr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 284,
+          "like_count": 10733,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 730
+        },
+        "username": "EncounRain",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "全世界第一喜欢的人@memom1229345",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "memom1229345"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 539,
+          "like_count": 1647,
+          "listed_count": 3,
+          "media_count": 348,
+          "tweet_count": 5941
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T02:27:34.000Z",
+        "description": "一个患有精神病的用户🧠🤍｜自伤🩸OD💊｜叫我醉鸡，moe｜ISFP-T 12女初(´-ω-`)｜同类回fo🎹𝄞♡🪽提问箱https://t.co/AWOjVlhb0X 请不要对我说哦，我不是很喜欢这个词，@rinii165892 我爱你老公 cnRinly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "rinii165892"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/suintouhea2t",
+                "end": 83,
+                "expanded_url": "http://ngl.link/suintouhea2t",
+                "start": 60,
+                "url": "https://t.co/AWOjVlhb0X"
+              }
+            ]
+          }
+        },
+        "id": "2030832351656493056",
+        "location": "墓地🪦",
+        "name": "Moe",
+        "pinned_tweet_id": "2043910004735127917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042123320003588097/bsh5B1an_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 399,
+          "like_count": 2537,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1804
+        },
+        "username": "Suintouhea2t",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T12:38:50.000Z",
+        "description": "为何而可爱?为何而残酷?\n因爱因恶\n爱为何物?恶为何物?\n不知不知\nPS.会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "helloworld.com",
+                "end": 23,
+                "expanded_url": "http://helloworld.com",
+                "start": 0,
+                "url": "https://t.co/alRx9jSJdp"
+              }
+            ]
+          }
+        },
+        "id": "1589235830731997188",
+        "location": "可爱的世界~也是残酷的世界…",
+        "name": "汐汐",
+        "pinned_tweet_id": "1917968098625548312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890021657315786753/VVAYoJBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 1143,
+          "like_count": 2096,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2595
+        },
+        "url": "https://t.co/alRx9jSJdp",
+        "username": "PWaterawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T14:14:30.000Z",
+        "description": "掉fo中。。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bandim77",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bandim77",
+                "start": 0,
+                "url": "https://t.co/VRdZQeaOxZ"
+              }
+            ]
+          }
+        },
+        "id": "1691090887424819200",
+        "location": "医院",
+        "name": "半减7./",
+        "pinned_tweet_id": "2019500786997461491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041029480416976896/HMHe6nBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 455,
+          "like_count": 3873,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 2466
+        },
+        "url": "https://t.co/VRdZQeaOxZ",
+        "username": "Bandim77SAYA",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T04:45:18.000Z",
+        "description": "06丨重焦重抑丨餐券(暂时戒割中)丨同性有浪漫倾向无性恋丨全性别友好丨社交极度恐惧……欢迎互fo！丨🚪52纯绿陪聊可加lxfs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nnbn17594",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nnbn17594",
+                "start": 0,
+                "url": "https://t.co/Xu9CGM7srL"
+              }
+            ]
+          }
+        },
+        "id": "1505767450385690625",
+        "location": "0.1km",
+        "name": "🌰",
+        "pinned_tweet_id": "2040861103748731388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042779674183692288/j5CnX52L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 479,
+          "like_count": 1517,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1458
+        },
+        "url": "https://t.co/Xu9CGM7srL",
+        "username": "Alistai33955292",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n逃生舱：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4351,
+          "following_count": 4963,
+          "like_count": 9034,
+          "listed_count": 13,
+          "media_count": 3164,
+          "tweet_count": 14872
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      }
+    ]
+  }
+}

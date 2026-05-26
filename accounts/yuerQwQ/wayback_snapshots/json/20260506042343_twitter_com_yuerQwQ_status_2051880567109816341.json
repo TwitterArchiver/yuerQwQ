@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2051671820559114340",
+    "created_at": "2026-05-06T04:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T05:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051880567109816341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1705499676953497600",
+          "start": 0,
+          "username": "liwanmiaohy"
+        },
+        {
+          "end": 25,
+          "id": "1965393379224944645",
+          "start": 13,
+          "username": "hagishigure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051880567109816341",
+    "in_reply_to_user_id": "1705499676953497600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051819843733840320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liwanmiaohy @hagishigure 我也好奇这段对话里的「德贴」是指的这个Hexal AG公司出产的「Estramon」还是拜耳的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051819832879009792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHmHRFna0AAG7yz.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2051671820559114340",
+        "created_at": "2026-05-06T04:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051880567109816341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            },
+            {
+              "end": 25,
+              "id": "1965393379224944645",
+              "start": 13,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051880567109816341",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051819843733840320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy @hagishigure 我也好奇这段对话里的「德贴」是指的这个Hexal AG公司出产的「Estramon」还是拜耳的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051819832879009792"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2051671820559114340",
+        "created_at": "2026-05-06T00:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T01:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051819843733840320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            },
+            {
+              "end": 21,
+              "id": "1962302660541079552",
+              "start": 13,
+              "username": "yuerQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VthJ7JtBQK",
+              "end": 68,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2051819843733840320/photo/1",
+              "media_key": "3_2051819832879009792",
+              "start": 45,
+              "url": "https://t.co/VthJ7JtBQK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051819843733840320",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051776677450018822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure @yuerQwQ 拼多多上是这样的，不知道你们那边是不是这样的 https://t.co/VthJ7JtBQK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2049899118508863784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 720,
+          "like_count": 5549,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 902
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INTP (Fi发达，Fe定向)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047737254391787748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 666,
+          "like_count": 3355,
+          "listed_count": 5,
+          "media_count": 136,
+          "tweet_count": 1896
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 149,
+          "like_count": 28339,
+          "listed_count": 2,
+          "media_count": 757,
+          "tweet_count": 6736
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

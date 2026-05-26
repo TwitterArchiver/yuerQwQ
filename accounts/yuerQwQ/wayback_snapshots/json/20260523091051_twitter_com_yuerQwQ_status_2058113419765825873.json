@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058109081622290432"
+      ],
+      "media_source_tweet_id": [
+        "2058109084528947460"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058113419765825873",
+    "created_at": "2026-05-23T09:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T10:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058113419765825873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1962302660541079552",
+          "start": 3,
+          "username": "yuerQwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZmJWuTwmTy",
+          "end": 36,
+          "expanded_url": "https://x.com/yuerQwQ/status/2058109084528947460/photo/1",
+          "media_key": "3_2058109081622290432",
+          "start": 13,
+          "url": "https://t.co/ZmJWuTwmTy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058113419765825873",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058109084528947460",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuerQwQ: https://t.co/ZmJWuTwmTy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2058109081622290432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_fTi8aIAAiWEV.jpg",
+        "width": 688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058109081622290432"
+          ],
+          "media_source_tweet_id": [
+            "2058109084528947460"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058113419765825873",
+        "created_at": "2026-05-23T09:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058113419765825873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962302660541079552",
+              "start": 3,
+              "username": "yuerQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZmJWuTwmTy",
+              "end": 36,
+              "expanded_url": "https://x.com/yuerQwQ/status/2058109084528947460/photo/1",
+              "media_key": "3_2058109081622290432",
+              "start": 13,
+              "url": "https://t.co/ZmJWuTwmTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058113419765825873",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058109084528947460",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuerQwQ: https://t.co/ZmJWuTwmTy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058109081622290432"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058109084528947460",
+        "created_at": "2026-05-23T08:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058109084528947460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZmJWuTwmTy",
+              "end": 23,
+              "expanded_url": "https://x.com/yuerQwQ/status/2058109084528947460/photo/1",
+              "media_key": "3_2058109081622290432",
+              "start": 0,
+              "url": "https://t.co/ZmJWuTwmTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058109084528947460",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZmJWuTwmTy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 747,
+          "like_count": 8497,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 1533
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

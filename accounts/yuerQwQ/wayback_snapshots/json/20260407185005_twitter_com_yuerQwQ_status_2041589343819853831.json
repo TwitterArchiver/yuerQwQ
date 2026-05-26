@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037727661557219329"
+      ],
+      "media_source_tweet_id": [
+        "2037727783179477051"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041589343819853831",
+    "created_at": "2026-04-07T18:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T19:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041589343819853831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552213521253150720",
+          "start": 3,
+          "username": "acnekot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mAvRvGwMaN",
+          "end": 36,
+          "expanded_url": "https://x.com/acnekot/status/2037727783179477051/photo/1",
+          "media_key": "3_2037727661557219329",
+          "start": 13,
+          "url": "https://t.co/mAvRvGwMaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041589343819853831",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037727783179477051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acnekot: https://t.co/mAvRvGwMaN"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "别人开朗的原因\n生活顺利\n长得好看\n有人陪伴\n我开朗的原因\n傻逼\n",
+        "height": 1124,
+        "media_key": "3_2037727661557219329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEd2gwgbAAEHvr5.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037727661557219329"
+          ],
+          "media_source_tweet_id": [
+            "2037727783179477051"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041589343819853831",
+        "created_at": "2026-04-07T18:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T19:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041589343819853831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552213521253150720",
+              "start": 3,
+              "username": "acnekot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mAvRvGwMaN",
+              "end": 36,
+              "expanded_url": "https://x.com/acnekot/status/2037727783179477051/photo/1",
+              "media_key": "3_2037727661557219329",
+              "start": 13,
+              "url": "https://t.co/mAvRvGwMaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041589343819853831",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037727783179477051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acnekot: https://t.co/mAvRvGwMaN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037727661557219329"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037727783179477051",
+        "created_at": "2026-03-28T03:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037727783179477051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mAvRvGwMaN",
+              "end": 23,
+              "expanded_url": "https://x.com/acnekot/status/2037727783179477051/photo/1",
+              "media_key": "3_2037727661557219329",
+              "start": 0,
+              "url": "https://t.co/mAvRvGwMaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037727783179477051",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 39967,
+          "like_count": 2183,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mAvRvGwMaN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "羽儿的未来在何方呢……？",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 51,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "距离你1.5KM",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1987,
+          "following_count": 791,
+          "like_count": 89402,
+          "listed_count": 6,
+          "media_count": 3409,
+          "tweet_count": 15159
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

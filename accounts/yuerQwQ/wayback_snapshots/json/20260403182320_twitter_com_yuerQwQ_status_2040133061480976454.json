@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2040133061480976454",
+    "created_at": "2026-04-03T18:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T19:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040133061480976454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2007082435109109760",
+          "start": 3,
+          "username": "kannarunrun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040133061480976454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038343647352250754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kannarunrun: 稍微高调点办个活动吧。不知道会不会被封推。\n关注本人+评论+转发or引用 \n抽两盒日雌送出去。4月6号凌晨开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2040133061480976454",
+        "created_at": "2026-04-03T18:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T19:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040133061480976454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2007082435109109760",
+              "start": 3,
+              "username": "kannarunrun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040133061480976454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038343647352250754",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kannarunrun: 稍微高调点办个活动吧。不知道会不会被封推。\n关注本人+评论+转发or引用 \n抽两盒日雌送出去。4月6号凌晨开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007082435109109760",
+        "conversation_id": "2038343647352250754",
+        "created_at": "2026-03-29T19:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T20:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038343647352250754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kannarunrun/st…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/kannarunrun/status/2038342509945028893",
+              "start": 55,
+              "url": "https://t.co/vN4Aw42OnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038343647352250754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 26476,
+          "like_count": 163,
+          "quote_count": 13,
+          "reply_count": 161,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038342509945028893",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "稍微高调点办个活动吧。不知道会不会被封推。\n关注本人+评论+转发or引用 \n抽两盒日雌送出去。4月6号凌晨开 https://t.co/vN4Aw42OnT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "羽儿的未来在何方呢……？",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 45,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T13:32:14.000Z",
+        "description": "实体药房，营业时间12：00-次日02：00，有会讲中文的药师\n推特回复比较慢还请尽量通过tg联系我！https://t.co/MiFm8gxTfA\n店铺地址https://t.co/AzpJvoumgS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Kanna_Pharmacy",
+                "end": 74,
+                "expanded_url": "https://t.me/Kanna_Pharmacy",
+                "start": 51,
+                "url": "https://t.co/MiFm8gxTfA"
+              },
+              {
+                "display_url": "maps.app.goo.gl/bdXYeRmiUHpiAy…",
+                "end": 102,
+                "expanded_url": "https://maps.app.goo.gl/bdXYeRmiUHpiAyHa9",
+                "start": 79,
+                "url": "https://t.co/AzpJvoumgS"
+              }
+            ]
+          }
+        },
+        "id": "2007082435109109760",
+        "location": "chennai",
+        "name": "kanna大药房",
+        "pinned_tweet_id": "2038998573388579283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007282021551542272/QVY-EI06_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 9,
+          "like_count": 5,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 38
+        },
+        "username": "kannarunrun",
+        "verified": false
+      }
+    ]
+  }
+}

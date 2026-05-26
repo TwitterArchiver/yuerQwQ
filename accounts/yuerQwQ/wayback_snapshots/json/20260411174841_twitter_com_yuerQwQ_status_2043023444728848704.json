@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2042934007848165531",
+    "created_at": "2026-04-11T17:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043023444728848704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1809754445162639361",
+          "start": 0,
+          "username": "sakuraiharunana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043023444728848704",
+    "in_reply_to_user_id": "1809754445162639361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042965801586872692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakuraiharunana 恭喜喵\n羡慕喵😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2042934007848165531",
+        "created_at": "2026-04-11T17:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043023444728848704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1809754445162639361",
+              "start": 0,
+              "username": "sakuraiharunana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043023444728848704",
+        "in_reply_to_user_id": "1809754445162639361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042965801586872692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakuraiharunana 恭喜喵\n羡慕喵😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809754445162639361",
+        "conversation_id": "2042934007848165531",
+        "created_at": "2026-04-11T13:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042965801586872692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042965801586872692",
+        "in_reply_to_user_id": "1809754445162639361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042934007848165531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "成为家长党"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/未含糖/修正马主义☭/民主青年🇹🇼/广东/近视/178身高体重115/欢迎互fo                 小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 221,
+          "like_count": 732,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 104
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T01:01:15.000Z",
+        "description": "aka春菜...🏳️‍⚧️🍥\nHRT26/02/23\n往前走吧，别回头。\n|已出柜|家长党",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kizumi.site",
+                "end": 23,
+                "expanded_url": "http://kizumi.site",
+                "start": 0,
+                "url": "https://t.co/gbSTeAWfnO"
+              }
+            ]
+          }
+        },
+        "id": "1809754445162639361",
+        "name": "希澈",
+        "pinned_tweet_id": "2039145283905589417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035752291907883008/IGwfrJ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 226,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/gbSTeAWfnO",
+        "username": "sakuraiharunana",
+        "verified": false
+      }
+    ]
+  }
+}

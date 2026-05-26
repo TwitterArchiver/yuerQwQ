@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2042637039695466773",
+    "created_at": "2026-04-10T16:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042637039695466773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1987074621280260096",
+          "start": 3,
+          "username": "LillaVirts23519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042637039695466773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042635099871809624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LillaVirts23519: 我想200fo了遂来抽个奖。。🥺🥺\n转赞评关即可参与\n一等奖：两盒玉米片（折现20）\n二等奖：8.88*2\n三等奖：5.2*2\n200fo之后我用ai开奖呀。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2042637039695466773",
+        "created_at": "2026-04-10T16:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042637039695466773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1987074621280260096",
+              "start": 3,
+              "username": "LillaVirts23519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042637039695466773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042635099871809624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LillaVirts23519: 我想200fo了遂来抽个奖。。🥺🥺\n转赞评关即可参与\n一等奖：两盒玉米片（折现20）\n二等奖：8.88*2\n三等奖：5.2*2\n200fo之后我用ai开奖呀。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987074621280260096",
+        "conversation_id": "2042635099871809624",
+        "created_at": "2026-04-10T16:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042635099871809624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042635099871809624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我想200fo了遂来抽个奖。。🥺🥺\n转赞评关即可参与\n一等奖：两盒玉米片（折现20）\n二等奖：8.88*2\n三等奖：5.2*2\n200fo之后我用ai开奖呀。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/未含糖/修正马主义☭/民主青年🇹🇼/广东/近视/178身高体重115/欢迎互fo                 小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 152,
+          "like_count": 422,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 56
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T08:28:03.000Z",
+        "description": "二棒｜泛性恋｜互fo请私会查成分 \n不约炮不聊骚不线下\n别问我未公开的任何信息\n喜欢有礼貌的",
+        "id": "1987074621280260096",
+        "location": "艾尔迪亚",
+        "name": "00",
+        "pinned_tweet_id": "2036840390612127899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005048584614674438/-sd0bBmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 301,
+          "like_count": 7620,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2141
+        },
+        "username": "LillaVirts23519",
+        "verified": false
+      }
+    ]
+  }
+}

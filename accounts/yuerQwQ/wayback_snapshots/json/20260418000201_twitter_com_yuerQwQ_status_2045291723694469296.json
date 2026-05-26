@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2045291723694469296",
+    "created_at": "2026-04-18T00:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T01:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045291723694469296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "4752010152",
+          "start": 3,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045291723694469296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045076629592871011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @garrulous_abyss: 对啊，我之前说，日本只是“看上去好像”比中国更开放包容。\n\n但实际上，日本的“君君臣臣父父子子”那一套传统保守价值观，是比中国更甚的。\n\n中国的传统价值观稀烂，是因为被文革全砸碎了很多（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2045291723694469296",
+        "created_at": "2026-04-18T00:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045291723694469296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "4752010152",
+              "start": 3,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045291723694469296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045076629592871011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @garrulous_abyss: 对啊，我之前说，日本只是“看上去好像”比中国更开放包容。\n\n但实际上，日本的“君君臣臣父父子子”那一套传统保守价值观，是比中国更甚的。\n\n中国的传统价值观稀烂，是因为被文革全砸碎了很多（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4752010152",
+        "conversation_id": "2045076629592871011",
+        "created_at": "2026-04-17T09:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T10:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045076629592871011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ripo0079/statu…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/ripo0079/status/2045049899419623467",
+              "start": 95,
+              "url": "https://t.co/JCSWPN3OsZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045076629592871011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 39800,
+          "like_count": 460,
+          "quote_count": 9,
+          "reply_count": 55,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045049899419623467",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对啊，我之前说，日本只是“看上去好像”比中国更开放包容。\n\n但实际上，日本的“君君臣臣父父子子”那一套传统保守价值观，是比中国更甚的。\n\n中国的传统价值观稀烂，是因为被文革全砸碎了很多（x https://t.co/JCSWPN3OsZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/080808/职高/hrt 2026/4/17  🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo           喵喵喵喵                                                      小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 559,
+          "like_count": 3097,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 392
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//科研人员//PhD//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑//\n\n欢迎预约占卜测事 https://t.co/KZBQuEa4Up",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 125,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 102,
+                "url": "https://t.co/KZBQuEa4Up"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31185,
+          "following_count": 3677,
+          "like_count": 183971,
+          "listed_count": 106,
+          "media_count": 3889,
+          "tweet_count": 67472
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

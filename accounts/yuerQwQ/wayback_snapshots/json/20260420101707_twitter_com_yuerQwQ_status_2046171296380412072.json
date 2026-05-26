@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2046157967284994433",
+    "created_at": "2026-04-20T10:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T11:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046171296380412072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1979108124985561088",
+          "start": 0,
+          "username": "yumenoWchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046171296380412072",
+    "in_reply_to_user_id": "1979108124985561088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046157967284994433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumenoWchan 喵喵喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 654,
+        "media_key": "3_2046157957755445248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVp0lJaIAAhEjy.jpg",
+        "width": 873
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2046157967284994433",
+        "created_at": "2026-04-20T10:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046171296380412072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1979108124985561088",
+              "start": 0,
+              "username": "yumenoWchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046171296380412072",
+        "in_reply_to_user_id": "1979108124985561088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046157967284994433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumenoWchan 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046157957755445248"
+          ]
+        },
+        "author_id": "1979108124985561088",
+        "conversation_id": "2046157967284994433",
+        "created_at": "2026-04-20T09:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T10:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046157967284994433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HXR7GQeTjF",
+              "end": 121,
+              "expanded_url": "https://x.com/yumenoWchan/status/2046157967284994433/photo/1",
+              "media_key": "3_2046157957755445248",
+              "start": 98,
+              "url": "https://t.co/HXR7GQeTjF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046157967284994433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 584,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "滿100fo了抽個獎喵！\n一等奖：52r*1名\n二等奖：一副專門給你畫的畫 可以畫你的oc或同人點圖 *1名\n三等奖：rmb5.20 *3名\n【参与条件】轉發評論關注\n4/24晚上9:00開獎捏 https://t.co/HXR7GQeTjF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo           喵喵喵喵                                                小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 638,
+          "like_count": 3906,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 531
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T08:52:09.000Z",
+        "description": "=呕呕/阿欠｜🇨🇳🇭🇰｜割裸o",
+        "id": "1979108124985561088",
+        "name": "えぐち",
+        "pinned_tweet_id": "2046123540102160509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979108299359318016/sRqydICY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 276,
+          "like_count": 1607,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 199
+        },
+        "username": "yumenoWchan",
+        "verified": false
+      }
+    ]
+  }
+}

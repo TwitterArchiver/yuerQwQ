@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059459653596053508",
+        "3_2059459660952784899"
+      ],
+      "media_source_tweet_id": [
+        "2059459668548702220",
+        "2059459668548702220"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2059485785011998813",
+    "created_at": "2026-05-27T04:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059485785011998813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1453575590729162758",
+          "start": 3,
+          "username": "obe_ZX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AuEh4HeGVq",
+          "end": 79,
+          "expanded_url": "https://x.com/obe_ZX/status/2059459668548702220/photo/1",
+          "media_key": "3_2059459653596053508",
+          "start": 56,
+          "url": "https://t.co/AuEh4HeGVq"
+        },
+        {
+          "display_url": "pic.x.com/AuEh4HeGVq",
+          "end": 79,
+          "expanded_url": "https://x.com/obe_ZX/status/2059459668548702220/photo/1",
+          "media_key": "3_2059459660952784899",
+          "start": 56,
+          "url": "https://t.co/AuEh4HeGVq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059485785011998813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059459668548702220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @obe_ZX: 你们能不能不要再玩那个“缺爱所以变成了跨，其实我是真男人”的梗了，真的有**会信以为真 https://t.co/AuEh4HeGVq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1085,
+        "media_key": "3_2059459653596053508",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSrpLnXgAQpIfC.jpg",
+        "width": 1220
+      },
+      {
+        "height": 725,
+        "media_key": "3_2059459660952784899",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSrpnBWUAMqDXG.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059459653596053508",
+            "3_2059459660952784899"
+          ],
+          "media_source_tweet_id": [
+            "2059459668548702220",
+            "2059459668548702220"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2059485785011998813",
+        "created_at": "2026-05-27T04:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059485785011998813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1453575590729162758",
+              "start": 3,
+              "username": "obe_ZX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AuEh4HeGVq",
+              "end": 79,
+              "expanded_url": "https://x.com/obe_ZX/status/2059459668548702220/photo/1",
+              "media_key": "3_2059459653596053508",
+              "start": 56,
+              "url": "https://t.co/AuEh4HeGVq"
+            },
+            {
+              "display_url": "pic.x.com/AuEh4HeGVq",
+              "end": 79,
+              "expanded_url": "https://x.com/obe_ZX/status/2059459668548702220/photo/1",
+              "media_key": "3_2059459660952784899",
+              "start": 56,
+              "url": "https://t.co/AuEh4HeGVq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059485785011998813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059459668548702220",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @obe_ZX: 你们能不能不要再玩那个“缺爱所以变成了跨，其实我是真男人”的梗了，真的有**会信以为真 https://t.co/AuEh4HeGVq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059459653596053508",
+            "3_2059459660952784899"
+          ]
+        },
+        "author_id": "1453575590729162758",
+        "conversation_id": "2059459668548702220",
+        "created_at": "2026-05-27T02:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059459668548702220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AuEh4HeGVq",
+              "end": 67,
+              "expanded_url": "https://x.com/obe_ZX/status/2059459668548702220/photo/1",
+              "media_key": "3_2059459653596053508",
+              "start": 44,
+              "url": "https://t.co/AuEh4HeGVq"
+            },
+            {
+              "display_url": "pic.x.com/AuEh4HeGVq",
+              "end": 67,
+              "expanded_url": "https://x.com/obe_ZX/status/2059459668548702220/photo/1",
+              "media_key": "3_2059459660952784899",
+              "start": 44,
+              "url": "https://t.co/AuEh4HeGVq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059459668548702220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 677,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们能不能不要再玩那个“缺爱所以变成了跨，其实我是真男人”的梗了，真的有**会信以为真 https://t.co/AuEh4HeGVq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 773,
+          "like_count": 9268,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1722
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-28T04:13:37.000Z",
+        "description": "07年夏季Trans girl | She/Her | 持证但是DIY HRTing | 175/57kg | 尝试增肥ing | 疑似INFP",
+        "id": "1453575590729162758",
+        "name": "栀子MOCHI 🍡🏳️‍⚧️",
+        "pinned_tweet_id": "2007341646145638708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399355464818688/q56FkSGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 538,
+          "like_count": 25875,
+          "listed_count": 4,
+          "media_count": 474,
+          "tweet_count": 2785
+        },
+        "username": "obe_ZX",
+        "verified": false
+      }
+    ]
+  }
+}

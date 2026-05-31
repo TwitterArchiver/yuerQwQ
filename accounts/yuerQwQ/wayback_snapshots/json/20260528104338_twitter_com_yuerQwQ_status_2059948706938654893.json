@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059869461818318848"
+      ],
+      "media_source_tweet_id": [
+        "2059869481422446950"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2059948706938654893",
+    "created_at": "2026-05-28T10:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059948706938654893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1701484460250890240",
+          "start": 3,
+          "username": "SonogamiRinneTS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/72BisMmNHi",
+          "end": 54,
+          "expanded_url": "https://x.com/SonogamiRinneTS/status/2059869481422446950/photo/1",
+          "media_key": "3_2059869461818318848",
+          "start": 31,
+          "url": "https://t.co/72BisMmNHi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059948706938654893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059869481422446950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SonogamiRinneTS: 什么鬼规矩，吐了🤮 https://t.co/72BisMmNHi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1614,
+        "media_key": "3_2059869461818318848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYgXKNbIAA5Fq2.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059869461818318848"
+          ],
+          "media_source_tweet_id": [
+            "2059869481422446950"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2059948706938654893",
+        "created_at": "2026-05-28T10:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059948706938654893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1701484460250890240",
+              "start": 3,
+              "username": "SonogamiRinneTS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/72BisMmNHi",
+              "end": 54,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2059869481422446950/photo/1",
+              "media_key": "3_2059869461818318848",
+              "start": 31,
+              "url": "https://t.co/72BisMmNHi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059948706938654893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059869481422446950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SonogamiRinneTS: 什么鬼规矩，吐了🤮 https://t.co/72BisMmNHi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059869461818318848"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "2059869481422446950",
+        "created_at": "2026-05-28T05:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059869481422446950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/72BisMmNHi",
+              "end": 33,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2059869481422446950/photo/1",
+              "media_key": "3_2059869461818318848",
+              "start": 10,
+              "url": "https://t.co/72BisMmNHi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059869481422446950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1214,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "什么鬼规矩，吐了🤮 https://t.co/72BisMmNHi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 786,
+          "like_count": 9487,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1771
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4623,
+          "following_count": 3474,
+          "like_count": 1360,
+          "listed_count": 15,
+          "media_count": 256,
+          "tweet_count": 1748
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

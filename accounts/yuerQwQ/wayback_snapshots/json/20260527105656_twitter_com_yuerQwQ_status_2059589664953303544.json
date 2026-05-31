@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2059589664953303544",
+    "created_at": "2026-05-27T10:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059589664953303544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1667851059346427914",
+          "start": 3,
+          "username": "hoshi_Asuka0089"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059589664953303544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059519407194538115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshi_Asuka0089: 所以说现任药娘皇帝是谁，你们要不要先分区域选举一个地区性皇帝出来，比如选举一个北京的呀，再一个上海的呀，再一个深圳的，再一个成都的这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2059589664953303544",
+        "created_at": "2026-05-27T10:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059589664953303544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1667851059346427914",
+              "start": 3,
+              "username": "hoshi_Asuka0089"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059589664953303544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059519407194538115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshi_Asuka0089: 所以说现任药娘皇帝是谁，你们要不要先分区域选举一个地区性皇帝出来，比如选举一个北京的呀，再一个上海的呀，再一个深圳的，再一个成都的这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667851059346427914",
+        "conversation_id": "2059519407194538115",
+        "created_at": "2026-05-27T06:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059519407194538115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2059275334634365082",
+              "start": 68,
+              "url": "https://t.co/VsAlpi4CVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059519407194538115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1663,
+          "like_count": 28,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059275334634365082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以说现任药娘皇帝是谁，你们要不要先分区域选举一个地区性皇帝出来，比如选举一个北京的呀，再一个上海的呀，再一个深圳的，再一个成都的这样 https://t.co/VsAlpi4CVF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 773,
+          "like_count": 9360,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1748
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-11T11:07:51.000Z",
+        "description": "あのね、空が青いのってどうやって伝えればいいんだろうね。   \n\n妹妹 @itscatroll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "itscatroll"
+              }
+            ]
+          }
+        },
+        "id": "1667851059346427914",
+        "location": "天仓 V",
+        "name": "🍍🍋飛鳥Hoshi🍥 🎻🎹🏳️‍🌈🏳️‍⚧️🍊🍋‍🟩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798046942246866945/MsvJ_ZZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 876,
+          "like_count": 88973,
+          "listed_count": 4,
+          "media_count": 1118,
+          "tweet_count": 15256
+        },
+        "username": "hoshi_Asuka0089",
+        "verified": false
+      }
+    ]
+  }
+}

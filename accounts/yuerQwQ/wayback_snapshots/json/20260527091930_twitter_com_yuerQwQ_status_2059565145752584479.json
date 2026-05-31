@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059498513315319808",
+        "3_2059498513327915009"
+      ],
+      "media_source_tweet_id": [
+        "2059503363520446590",
+        "2059503363520446590"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2059565145752584479",
+    "created_at": "2026-05-27T09:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059565145752584479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1303335410609790976",
+          "start": 3,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZJKZ7iN5ok",
+          "end": 93,
+          "expanded_url": "https://x.com/Rococo90933671/status/2059503363520446590/photo/1",
+          "media_key": "3_2059498513315319808",
+          "start": 70,
+          "url": "https://t.co/ZJKZ7iN5ok"
+        },
+        {
+          "display_url": "pic.x.com/ZJKZ7iN5ok",
+          "end": 93,
+          "expanded_url": "https://x.com/Rococo90933671/status/2059503363520446590/photo/1",
+          "media_key": "3_2059498513327915009",
+          "start": 70,
+          "url": "https://t.co/ZJKZ7iN5ok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059565145752584479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059503363520446590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rococo90933671: 在一个讲戒网瘾学校的视频下方，看到了这样一则评论。不保真，只是出于内心的情感，帮他免费做个推广：… https://t.co/ZJKZ7iN5ok"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1933,
+        "media_key": "3_2059498513315319808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTO_HWa0AApeWS.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1453,
+        "media_key": "3_2059498513327915009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTO_HZbAAEMqDl.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059498513315319808",
+            "3_2059498513327915009"
+          ],
+          "media_source_tweet_id": [
+            "2059503363520446590",
+            "2059503363520446590"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2059565145752584479",
+        "created_at": "2026-05-27T09:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059565145752584479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1303335410609790976",
+              "start": 3,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZJKZ7iN5ok",
+              "end": 93,
+              "expanded_url": "https://x.com/Rococo90933671/status/2059503363520446590/photo/1",
+              "media_key": "3_2059498513315319808",
+              "start": 70,
+              "url": "https://t.co/ZJKZ7iN5ok"
+            },
+            {
+              "display_url": "pic.x.com/ZJKZ7iN5ok",
+              "end": 93,
+              "expanded_url": "https://x.com/Rococo90933671/status/2059503363520446590/photo/1",
+              "media_key": "3_2059498513327915009",
+              "start": 70,
+              "url": "https://t.co/ZJKZ7iN5ok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059565145752584479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059503363520446590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rococo90933671: 在一个讲戒网瘾学校的视频下方，看到了这样一则评论。不保真，只是出于内心的情感，帮他免费做个推广：… https://t.co/ZJKZ7iN5ok"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059498513315319808",
+            "3_2059498513327915009"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2059503363520446590",
+        "created_at": "2026-05-27T05:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059503363520446590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZJKZ7iN5ok",
+              "end": 72,
+              "expanded_url": "https://x.com/Rococo90933671/status/2059503363520446590/photo/1",
+              "media_key": "3_2059498513315319808",
+              "start": 49,
+              "url": "https://t.co/ZJKZ7iN5ok"
+            },
+            {
+              "display_url": "pic.x.com/ZJKZ7iN5ok",
+              "end": 72,
+              "expanded_url": "https://x.com/Rococo90933671/status/2059503363520446590/photo/1",
+              "media_key": "3_2059498513327915009",
+              "start": 49,
+              "url": "https://t.co/ZJKZ7iN5ok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059503363520446590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在一个讲戒网瘾学校的视频下方，看到了这样一则评论。不保真，只是出于内心的情感，帮他免费做个推广：\n\n大伙都是在玩梗，我是真天天面对那些曾经进去过的孩子。我是一名心理咨询师，之前在医院工作的时候几乎每周都会接到几个因为曾经被浮木送进去出来后闹着要自杀然后被扭送到我们医院的孩子。可以很负责任的说，进去过的孩子出来后100%有应激创伤，一半以上的尝试过自鲨甚至想杀死浮木后自鲨。更多的则是开始每天混日子，一旦父母提出再送回去就以死相要挟，然后开始无限循环。\n\n后来我自己出来工作后，遇见了很多还没把孩子送进去的家长，我确实可以在这些父母身上感受到他们的绝望，自己亲生的孩子跟他们形同陌路，沉迷手机在家躺平，但无一例外都可以在咨询中发现有的父母真的不配称之为父母，他们的绝望也是他们自己一手促成的。\n\n而这也是我最痛苦的地方，就是你不能很直球的点出这些家长的问题，因为这样会失去他们的信任，他们就会把孩子带走或直接送去这些“学校”。你必须要共情这些家长，缓住他们的情绪，进而为孩子争取一点空间，让孩子能有所喘息。同时还需要在短时间取得孩子的信任，鼓励他们做出一些积极的改变，不然家长会认为我的咨询是无用的，最后还是可能把孩子送走，而咨询起效又是一个缓慢的规程，几乎可以说是在跟时间赛跑，家长也会在咨询途中不断询问我把孩子送进这些学校的可能，我会尽可能按住这些家长，但我也不能把这个事情告诉孩子，因为这样可能会导致孩子走极端那我就完蛋了。\n\n而最可恨的则是这些学校的销售，只能说他们内部肯定是有高人的，他们拍出来的视频（家长特供版）看着真的会很让人心动，特别是对比现在孩子的状态，很多家长都经受不住这样的诱惑，钱多少对于家长根本不重要，我见过最贵的有一个月收3W的，家长任趋之若鹜的想把孩子送进去，他们本质就是从始至终都在逃避自己的责任，这些父母在孩子身上最过的事情真的令人发指，而最恐怖的是这些事情在很多孩子那已经习以为常，甚至哪怕已经这样很多孩子依然爱着自己的父母，觉得是自己的错。\n\n有感而发写了很多，我后续有时间也会出些视频分享一下相关的经历，最后如果有需要的帮助的小伙伴，随时可以私信我，我都会免费为大家解答问题"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3254,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "在一个讲戒网瘾学校的视频下方，看到了这样一则评论。不保真，只是出于内心的情感，帮他免费做个推广： https://t.co/ZJKZ7iN5ok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 773,
+          "like_count": 9310,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1734
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12213,
+          "following_count": 3066,
+          "like_count": 39199,
+          "listed_count": 42,
+          "media_count": 4107,
+          "tweet_count": 21952
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

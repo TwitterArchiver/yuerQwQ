@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058931293434662913"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2058931308127207653",
+    "created_at": "2026-05-25T15:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058931308127207653"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ABvkSTZwkW",
+          "end": 65,
+          "expanded_url": "https://x.com/yuerQwQ/status/2058931308127207653/photo/1",
+          "media_key": "3_2058931293434662913",
+          "start": 42,
+          "url": "https://t.co/ABvkSTZwkW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058931308127207653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推u们晚安喵ᶻz ₍^_   ̫ _^₎\n\n想了想发现写不出什么东西，还是不写了） https://t.co/ABvkSTZwkW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1353,
+        "media_key": "3_2058931293434662913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLLGkob0AEgeCz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058931293434662913"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2058931308127207653",
+        "created_at": "2026-05-25T15:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058931308127207653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ABvkSTZwkW",
+              "end": 65,
+              "expanded_url": "https://x.com/yuerQwQ/status/2058931308127207653/photo/1",
+              "media_key": "3_2058931293434662913",
+              "start": 42,
+              "url": "https://t.co/ABvkSTZwkW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058931308127207653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推u们晚安喵ᶻz ₍^_   ̫ _^₎\n\n想了想发现写不出什么东西，还是不写了） https://t.co/ABvkSTZwkW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 777,
+          "like_count": 9112,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 1685
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062740870357717310",
+    "created_at": "2026-06-06T03:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T04:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063097287241576552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1761481198633680896",
+          "start": 0,
+          "username": "QS6868"
+        },
+        {
+          "end": 16,
+          "id": "37024081",
+          "start": 8,
+          "username": "ledoker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063097287241576552",
+    "in_reply_to_user_id": "1761481198633680896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062918131165569208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QS6868 @ledoker 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062740870357717310",
+        "created_at": "2026-06-06T03:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063097287241576552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1761481198633680896",
+              "start": 0,
+              "username": "QS6868"
+            },
+            {
+              "end": 16,
+              "id": "37024081",
+              "start": 8,
+              "username": "ledoker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063097287241576552",
+        "in_reply_to_user_id": "1761481198633680896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062918131165569208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QS6868 @ledoker 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761481198633680896",
+        "conversation_id": "2062740870357717310",
+        "created_at": "2026-06-05T15:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062918131165569208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "37024081",
+              "start": 0,
+              "username": "ledoker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062918131165569208",
+        "in_reply_to_user_id": "37024081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062740870357717310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ledoker 求回关 jojo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 1083,
+          "like_count": 11967,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 2458
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T20:00:45.000Z",
+        "description": "前·古法时代手工编程员 Ex-handcraft coder\n\n🧑‍💻 独立开发者｜产品经理\n💻 AI Agent｜科技投资\n📈 美股期权｜预测市场\n\nPolymarket 百万级别交易者\n超长期看多科技业\n\nThere is something new under the sun\n太阳底下总有新鲜事",
+        "id": "1761481198633680896",
+        "name": "Sunny",
+        "pinned_tweet_id": "2059058727836172515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059349973234245632/B0th1_i__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 739,
+          "like_count": 8714,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 567
+        },
+        "username": "QS6868",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-01T19:51:15.000Z",
+        "description": "记录我在 AI + Web3 的实战探索\n分享工具、项目观察和避坑心得",
+        "id": "37024081",
+        "name": "Joestar.G",
+        "pinned_tweet_id": "2062089594917863434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047937810787926016/XTaLfnyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 1154,
+          "like_count": 984,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 665
+        },
+        "username": "ledoker",
+        "verified": true
+      }
+    ]
+  }
+}

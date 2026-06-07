@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061368184381546496"
+      ],
+      "media_source_tweet_id": [
+        "2061368196540842194"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2061437470680740184",
+    "created_at": "2026-06-01T13:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061437470680740184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1489468526826082312",
+          "start": 3,
+          "username": "Diamond_Kokoro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AAm0qG3Zmj",
+          "end": 78,
+          "expanded_url": "https://x.com/Diamond_Kokoro/status/2061368196540842194/photo/1",
+          "media_key": "3_2061368184381546496",
+          "start": 55,
+          "url": "https://t.co/AAm0qG3Zmj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061437470680740184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061368196540842194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Diamond_Kokoro: 炒作狗加油 继续烂炒 继续鉴跨鉴pass 业力回馈的时候希望你别后悔 https://t.co/AAm0qG3Zmj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1063,
+        "media_key": "3_2061368184381546496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtzcS1aoAAw-xI.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061368184381546496"
+          ],
+          "media_source_tweet_id": [
+            "2061368196540842194"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2061437470680740184",
+        "created_at": "2026-06-01T13:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061437470680740184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1489468526826082312",
+              "start": 3,
+              "username": "Diamond_Kokoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AAm0qG3Zmj",
+              "end": 78,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2061368196540842194/photo/1",
+              "media_key": "3_2061368184381546496",
+              "start": 55,
+              "url": "https://t.co/AAm0qG3Zmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061437470680740184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061368196540842194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Diamond_Kokoro: 炒作狗加油 继续烂炒 继续鉴跨鉴pass 业力回馈的时候希望你别后悔 https://t.co/AAm0qG3Zmj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061368184381546496"
+          ]
+        },
+        "author_id": "1489468526826082312",
+        "conversation_id": "2061368196540842194",
+        "created_at": "2026-06-01T08:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061368196540842194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AAm0qG3Zmj",
+              "end": 58,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2061368196540842194/photo/1",
+              "media_key": "3_2061368184381546496",
+              "start": 35,
+              "url": "https://t.co/AAm0qG3Zmj"
+            },
+            {
+              "display_url": "x.com/koalaengine/st…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/koalaengine/status/2060992318497501217",
+              "start": 59,
+              "url": "https://t.co/GnvNlmFVjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061368196540842194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1715,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060992318497501217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "炒作狗加油 继续烂炒 继续鉴跨鉴pass 业力回馈的时候希望你别后悔 https://t.co/AAm0qG3Zmj https://t.co/GnvNlmFVjZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 801,
+          "like_count": 10027,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1883
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "戀人：@irisdesombres 。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "pinned_tweet_id": "2061016689874219299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060371508426592256/Gx-SAITd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 147,
+          "like_count": 7785,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 5487
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

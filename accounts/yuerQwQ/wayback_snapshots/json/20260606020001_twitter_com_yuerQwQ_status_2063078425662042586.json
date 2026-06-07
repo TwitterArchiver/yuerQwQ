@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063058314385403904"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2063078425662042586",
+    "created_at": "2026-06-06T02:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T03:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063078425662042586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5q4V7FZVCT",
+          "end": 23,
+          "expanded_url": "https://x.com/yuerQwQ/status/2063078425662042586/photo/1",
+          "media_key": "3_2063058314385403904",
+          "start": 0,
+          "url": "https://t.co/5q4V7FZVCT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063078425662042586",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/5q4V7FZVCT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1579,
+        "media_key": "3_2063058314385403904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKF0mzvbsAAoB4w.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063058314385403904"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2063078425662042586",
+        "created_at": "2026-06-06T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063078425662042586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5q4V7FZVCT",
+              "end": 23,
+              "expanded_url": "https://x.com/yuerQwQ/status/2063078425662042586/photo/1",
+              "media_key": "3_2063058314385403904",
+              "start": 0,
+              "url": "https://t.co/5q4V7FZVCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063078425662042586",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5q4V7FZVCT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 1074,
+          "like_count": 11935,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 2441
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

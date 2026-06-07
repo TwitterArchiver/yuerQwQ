@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062848978933456896"
+      ],
+      "media_source_tweet_id": [
+        "2062848988601294894"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062849597249298866",
+    "created_at": "2026-06-05T10:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062849597249298866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1598557374046179328",
+          "start": 3,
+          "username": "huihui_mikumi"
+        },
+        {
+          "end": 31,
+          "id": "1962302660541079552",
+          "start": 23,
+          "username": "yuerQwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h3qoNPusDi",
+          "end": 55,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2062848988601294894/photo/1",
+          "media_key": "3_2062848978933456896",
+          "start": 32,
+          "url": "https://t.co/h3qoNPusDi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062849597249298866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062848988601294894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huihui_mikumi: 面基啦喵@yuerQwQ https://t.co/h3qoNPusDi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062848978933456896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKC2N4abIAAfOL8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062848978933456896"
+          ],
+          "media_source_tweet_id": [
+            "2062848988601294894"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062849597249298866",
+        "created_at": "2026-06-05T10:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062849597249298866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1598557374046179328",
+              "start": 3,
+              "username": "huihui_mikumi"
+            },
+            {
+              "end": 31,
+              "id": "1962302660541079552",
+              "start": 23,
+              "username": "yuerQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3qoNPusDi",
+              "end": 55,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2062848988601294894/photo/1",
+              "media_key": "3_2062848978933456896",
+              "start": 32,
+              "url": "https://t.co/h3qoNPusDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062849597249298866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062848988601294894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huihui_mikumi: 面基啦喵@yuerQwQ https://t.co/h3qoNPusDi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062848978933456896"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062848988601294894",
+        "created_at": "2026-06-05T10:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062848988601294894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1962302660541079552",
+              "start": 4,
+              "username": "yuerQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3qoNPusDi",
+              "end": 36,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2062848988601294894/photo/1",
+              "media_key": "3_2062848978933456896",
+              "start": 13,
+              "url": "https://t.co/h3qoNPusDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062848988601294894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "面基啦喵@yuerQwQ https://t.co/h3qoNPusDi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062829521649496428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 1051,
+          "like_count": 11750,
+          "listed_count": 1,
+          "media_count": 338,
+          "tweet_count": 2402
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n恋人@NekoSukiXoX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "NekoSukiXoX"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 713,
+          "like_count": 674,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1621
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      }
+    ]
+  }
+}

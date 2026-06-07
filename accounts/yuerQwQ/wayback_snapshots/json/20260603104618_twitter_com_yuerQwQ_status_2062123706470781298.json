@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062085290454548981",
+    "created_at": "2026-06-03T10:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062123706470781298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1852556718393413633",
+          "start": 0,
+          "username": "icecreamnong"
+        },
+        {
+          "end": 22,
+          "id": "1896072530290728960",
+          "start": 14,
+          "username": "zj_show"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062123706470781298",
+    "in_reply_to_user_id": "1852556718393413633",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062109533095223364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@icecreamnong @zj_show 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062085290454548981",
+        "created_at": "2026-06-03T10:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062123706470781298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1852556718393413633",
+              "start": 0,
+              "username": "icecreamnong"
+            },
+            {
+              "end": 22,
+              "id": "1896072530290728960",
+              "start": 14,
+              "username": "zj_show"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062123706470781298",
+        "in_reply_to_user_id": "1852556718393413633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062109533095223364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icecreamnong @zj_show 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852556718393413633",
+        "conversation_id": "2062085290454548981",
+        "created_at": "2026-06-03T09:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062109533095223364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896072530290728960",
+              "start": 0,
+              "username": "zj_show"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062109533095223364",
+        "in_reply_to_user_id": "1896072530290728960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062109128294899714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zj_show 谢谢老师🫰🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 886,
+          "like_count": 10430,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 2029
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-02T03:42:16.000Z",
+        "description": "蓝v认证中...有关必回",
+        "id": "1852556718393413633",
+        "name": "Quinn(自由职业ing/外贸soho)",
+        "pinned_tweet_id": "2061504427484426302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058290871750230016/3ROfLlMn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 283,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 191
+        },
+        "username": "icecreamnong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T05:38:35.000Z",
+        "description": "东西很多，慢慢分享",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCcIqo…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCcIqoXJhmQ7NUjb9HC5rcfw?si=e1i_eqLw-WLb1Fax",
+                "start": 0,
+                "url": "https://t.co/GSQgs55Fgq"
+              }
+            ]
+          }
+        },
+        "id": "1896072530290728960",
+        "location": "sz",
+        "name": "紫襟书遥",
+        "pinned_tweet_id": "2059212592997130545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059212914373099520/MChHZsFu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 159,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 67
+        },
+        "url": "https://t.co/GSQgs55Fgq",
+        "username": "zj_show",
+        "verified": true
+      }
+    ]
+  }
+}

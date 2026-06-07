@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062412046713700352"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062539871819116742",
+    "created_at": "2026-06-04T14:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062539871819116742"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fRJQkISSyb",
+          "end": 23,
+          "expanded_url": "https://x.com/yuerQwQ/status/2062539871819116742/photo/1",
+          "media_key": "3_2062412046713700352",
+          "start": 0,
+          "url": "https://t.co/fRJQkISSyb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062539871819116742",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/fRJQkISSyb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_2062412046713700352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8o1FDbQAA4uyN.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062412046713700352"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062539871819116742",
+        "created_at": "2026-06-04T14:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062539871819116742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fRJQkISSyb",
+              "end": 23,
+              "expanded_url": "https://x.com/yuerQwQ/status/2062539871819116742/photo/1",
+              "media_key": "3_2062412046713700352",
+              "start": 0,
+              "url": "https://t.co/fRJQkISSyb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062539871819116742",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fRJQkISSyb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 994,
+          "like_count": 11264,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 2277
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062063623313449177",
+    "created_at": "2026-06-03T09:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T10:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062104443496399040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "626167369",
+          "start": 0,
+          "username": "crazyjianfeng"
+        },
+        {
+          "end": 24,
+          "id": "1702893529251663872",
+          "start": 15,
+          "username": "skynaeth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062104443496399040",
+    "in_reply_to_user_id": "626167369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062093146822213661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crazyjianfeng @skynaeth 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062063623313449177",
+        "created_at": "2026-06-03T09:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062104443496399040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "626167369",
+              "start": 0,
+              "username": "crazyjianfeng"
+            },
+            {
+              "end": 24,
+              "id": "1702893529251663872",
+              "start": 15,
+              "username": "skynaeth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062104443496399040",
+        "in_reply_to_user_id": "626167369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062093146822213661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crazyjianfeng @skynaeth 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "626167369",
+        "conversation_id": "2062063623313449177",
+        "created_at": "2026-06-03T08:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062093146822213661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1702893529251663872",
+              "start": 0,
+              "username": "skynaeth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062093146822213661",
+        "in_reply_to_user_id": "1702893529251663872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062063623313449177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skynaeth 好的👌🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 879,
+          "like_count": 10376,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 2004
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-04T04:47:03.000Z",
+        "description": "前程序员，开始探索web3.\n突破平庸，活出不一样的人生 !",
+        "id": "626167369",
+        "name": "crazy",
+        "pinned_tweet_id": "2061994745774456959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916504235182837762/WrOTQ2Tf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 294,
+          "like_count": 803,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1348
+        },
+        "username": "crazyjianfeng",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-16T03:54:00.000Z",
+        "description": "工具推荐 · 新闻解读 · 简单教程 · 实用工作流\n希望把复杂的东西变得简单又有趣\n💙Tools | Tutorials | Trends💙",
+        "id": "1702893529251663872",
+        "name": "星星糖 skyna",
+        "pinned_tweet_id": "2045882725375344703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045873566512734208/hzhOBR6W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 1018,
+          "like_count": 3090,
+          "listed_count": 5,
+          "media_count": 348,
+          "tweet_count": 4519
+        },
+        "username": "skynaeth",
+        "verified": true
+      }
+    ]
+  }
+}

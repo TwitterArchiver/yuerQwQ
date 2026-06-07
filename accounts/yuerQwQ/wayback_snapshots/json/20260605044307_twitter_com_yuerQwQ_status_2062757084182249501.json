@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062659627985301623",
+    "created_at": "2026-06-05T04:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062757084182249501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869440990970556416",
+          "start": 0,
+          "username": "SnowfairySerina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062757084182249501",
+    "in_reply_to_user_id": "1869440990970556416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062726851370569850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnowfairySerina 对不起..\n以后再发类似的我会在顶端标注【伪讣告】的QwQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062659627985301623",
+        "created_at": "2026-06-05T04:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062757084182249501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869440990970556416",
+              "start": 0,
+              "username": "SnowfairySerina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062757084182249501",
+        "in_reply_to_user_id": "1869440990970556416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062726851370569850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowfairySerina 对不起..\n以后再发类似的我会在顶端标注【伪讣告】的QwQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869440990970556416",
+        "conversation_id": "2062659627985301623",
+        "created_at": "2026-06-05T02:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062726851370569850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062726851370569850",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062659627985301623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 这样好笑吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 1018,
+          "like_count": 11482,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 2348
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "博客：https://t.co/QEDOoQWl83 星空合众国官网：https://t.co/XN1tip8x7E\n行可行之处，伴旅人之舟。在数字荒原里，种下星空绿洲。//@eztakesin 最好的战斗搭档！我是跨女同！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 87,
+                "username": "eztakesin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "snowfairyserina.homes",
+                "end": 26,
+                "expanded_url": "https://snowfairyserina.homes",
+                "start": 3,
+                "url": "https://t.co/QEDOoQWl83"
+              },
+              {
+                "display_url": "ssf.network",
+                "end": 58,
+                "expanded_url": "https://ssf.network",
+                "start": 35,
+                "url": "https://t.co/XN1tip8x7E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/novel/show.php…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+                "start": 0,
+                "url": "https://t.co/3DFuJVsHdD"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "摄平星系 星空合众国 格维克之境",
+        "name": "✨☘️🌈雨夜辰曦•雪若仙🏳️‍⚧️Together Forever✨",
+        "pinned_tweet_id": "2062275607627796614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969068756061323264/fJoUuOUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 1125,
+          "like_count": 3927,
+          "listed_count": 6,
+          "media_count": 679,
+          "tweet_count": 5469
+        },
+        "url": "https://t.co/3DFuJVsHdD",
+        "username": "SnowfairySerina",
+        "verified": false
+      }
+    ]
+  }
+}

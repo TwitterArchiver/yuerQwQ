@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060832406698106880",
+        "3_2060832407088156672",
+        "3_2060832406542934017",
+        "3_2060832407335698432"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2060832412230386108",
+    "created_at": "2026-05-30T21:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T22:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060832412230386108"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BZ6UU3Fujg",
+          "end": 30,
+          "expanded_url": "https://x.com/yuerQwQ/status/2060832412230386108/photo/1",
+          "media_key": "3_2060832406698106880",
+          "start": 7,
+          "url": "https://t.co/BZ6UU3Fujg"
+        },
+        {
+          "display_url": "pic.x.com/BZ6UU3Fujg",
+          "end": 30,
+          "expanded_url": "https://x.com/yuerQwQ/status/2060832412230386108/photo/1",
+          "media_key": "3_2060832407088156672",
+          "start": 7,
+          "url": "https://t.co/BZ6UU3Fujg"
+        },
+        {
+          "display_url": "pic.x.com/BZ6UU3Fujg",
+          "end": 30,
+          "expanded_url": "https://x.com/yuerQwQ/status/2060832412230386108/photo/1",
+          "media_key": "3_2060832406542934017",
+          "start": 7,
+          "url": "https://t.co/BZ6UU3Fujg"
+        },
+        {
+          "display_url": "pic.x.com/BZ6UU3Fujg",
+          "end": 30,
+          "expanded_url": "https://x.com/yuerQwQ/status/2060832412230386108/photo/1",
+          "media_key": "3_2060832407335698432",
+          "start": 7,
+          "url": "https://t.co/BZ6UU3Fujg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060832412230386108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猪猪表情包！ https://t.co/BZ6UU3Fujg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2060832406698106880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJmMJ7baoAAKV0Z.jpg",
+        "width": 1012
+      },
+      {
+        "height": 1092,
+        "media_key": "3_2060832407088156672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJmMJ84aUAA03E6.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2060832406542934017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJmMJ62a4AEDsd8.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2060832407335698432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJmMJ9zbgAAC1Gx.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060832406698106880",
+            "3_2060832407088156672",
+            "3_2060832406542934017",
+            "3_2060832407335698432"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2060832412230386108",
+        "created_at": "2026-05-30T21:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T22:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060832412230386108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZ6UU3Fujg",
+              "end": 30,
+              "expanded_url": "https://x.com/yuerQwQ/status/2060832412230386108/photo/1",
+              "media_key": "3_2060832406698106880",
+              "start": 7,
+              "url": "https://t.co/BZ6UU3Fujg"
+            },
+            {
+              "display_url": "pic.x.com/BZ6UU3Fujg",
+              "end": 30,
+              "expanded_url": "https://x.com/yuerQwQ/status/2060832412230386108/photo/1",
+              "media_key": "3_2060832407088156672",
+              "start": 7,
+              "url": "https://t.co/BZ6UU3Fujg"
+            },
+            {
+              "display_url": "pic.x.com/BZ6UU3Fujg",
+              "end": 30,
+              "expanded_url": "https://x.com/yuerQwQ/status/2060832412230386108/photo/1",
+              "media_key": "3_2060832406542934017",
+              "start": 7,
+              "url": "https://t.co/BZ6UU3Fujg"
+            },
+            {
+              "display_url": "pic.x.com/BZ6UU3Fujg",
+              "end": 30,
+              "expanded_url": "https://x.com/yuerQwQ/status/2060832412230386108/photo/1",
+              "media_key": "3_2060832407335698432",
+              "start": 7,
+              "url": "https://t.co/BZ6UU3Fujg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060832412230386108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猪猪表情包！ https://t.co/BZ6UU3Fujg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 793,
+          "like_count": 9837,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1849
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

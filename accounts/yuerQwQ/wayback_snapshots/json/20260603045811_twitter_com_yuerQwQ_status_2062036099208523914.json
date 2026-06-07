@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062026894619595252",
+    "created_at": "2026-06-03T04:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062036099208523914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1296008821",
+          "start": 0,
+          "username": "gulcinguder"
+        },
+        {
+          "end": 27,
+          "id": "943288872242262016",
+          "start": 13,
+          "username": "Sa1ted___Fish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062036099208523914",
+    "in_reply_to_user_id": "1296008821",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062030967657857532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gulcinguder @Sa1ted___Fish 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062026894619595252",
+        "created_at": "2026-06-03T04:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062036099208523914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1296008821",
+              "start": 0,
+              "username": "gulcinguder"
+            },
+            {
+              "end": 27,
+              "id": "943288872242262016",
+              "start": 13,
+              "username": "Sa1ted___Fish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062036099208523914",
+        "in_reply_to_user_id": "1296008821",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062030967657857532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gulcinguder @Sa1ted___Fish 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1296008821",
+        "conversation_id": "2062026894619595252",
+        "created_at": "2026-06-03T04:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062030967657857532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "943288872242262016",
+              "start": 0,
+              "username": "Sa1ted___Fish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062030967657857532",
+        "in_reply_to_user_id": "943288872242262016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062026894619595252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sa1ted___Fish 希望可以互关，保持互动交流"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 848,
+          "like_count": 10311,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1973
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2013-03-24T17:23:57.000Z",
+        "description": "中文开发者与技术账号互关站\n关注数据库、AI工具、后端技术、开源项目\n互关交流 · 技术分享 · 活动推荐\n欢迎开发者与科技号互动",
+        "id": "1296008821",
+        "name": "开发者互关站",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061739877339934720/Ce6Oro7a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 106,
+          "like_count": 1478,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 4535
+        },
+        "username": "gulcinguder",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-20T01:16:07.000Z",
+        "description": "币圈爱好者｜专注WEB3钱包｜信息发布｜钻石手｜撸毛空投教程｜KOL TEAM｜商务合作请联系TG：https://t.co/68KApbyS8q",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hzbzsz",
+                "end": 73,
+                "expanded_url": "http://t.me/hzbzsz",
+                "start": 50,
+                "url": "https://t.co/68KApbyS8q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hzbzsz",
+                "end": 23,
+                "expanded_url": "http://t.me/hzbzsz",
+                "start": 0,
+                "url": "https://t.co/68KApbyS8q"
+              }
+            ]
+          }
+        },
+        "id": "943288872242262016",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "时间",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034556508718223360/PGrOG_3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15884,
+          "following_count": 7684,
+          "like_count": 52117,
+          "listed_count": 24,
+          "media_count": 1086,
+          "tweet_count": 55121
+        },
+        "url": "https://t.co/68KApbyS8q",
+        "username": "Sa1ted___Fish",
+        "verified": true
+      }
+    ]
+  }
+}

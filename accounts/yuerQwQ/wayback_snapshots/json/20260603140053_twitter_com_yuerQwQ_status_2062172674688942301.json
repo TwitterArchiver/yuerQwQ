@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062172674688942301",
+    "created_at": "2026-06-03T14:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062172674688942301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1962302660541079552",
+          "start": 3,
+          "username": "yuerQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062172674688942301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062117730279702577",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuerQwQ: 为什么好多人都陷入二元对立了🤔\n我说一个事物有两面性还容易被打为理中客\n因为现在已经不流行辩证思考了嘛...\n我也要加入极端之中吗🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062172674688942301",
+        "created_at": "2026-06-03T14:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062172674688942301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962302660541079552",
+              "start": 3,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062172674688942301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062117730279702577",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuerQwQ: 为什么好多人都陷入二元对立了🤔\n我说一个事物有两面性还容易被打为理中客\n因为现在已经不流行辩证思考了嘛...\n我也要加入极端之中吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062117730279702577",
+        "created_at": "2026-06-03T10:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062117730279702577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062117730279702577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 261,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么好多人都陷入二元对立了🤔\n我说一个事物有两面性还容易被打为理中客\n因为现在已经不流行辩证思考了嘛...\n我也要加入极端之中吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 897,
+          "like_count": 10521,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 2068
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

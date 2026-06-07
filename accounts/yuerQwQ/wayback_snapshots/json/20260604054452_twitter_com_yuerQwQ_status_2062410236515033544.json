@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062098215122407862",
+    "created_at": "2026-06-04T05:44:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T06:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062410236515033544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1686759419311263745",
+          "start": 0,
+          "username": "nononosaysomuch"
+        },
+        {
+          "end": 27,
+          "id": "1175040334188953600",
+          "start": 17,
+          "username": "laomunova"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062410236515033544",
+    "in_reply_to_user_id": "1686759419311263745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062109500073504967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nononosaysomuch @laomunova 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062098215122407862",
+        "created_at": "2026-06-04T05:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062410236515033544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1686759419311263745",
+              "start": 0,
+              "username": "nononosaysomuch"
+            },
+            {
+              "end": 27,
+              "id": "1175040334188953600",
+              "start": 17,
+              "username": "laomunova"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062410236515033544",
+        "in_reply_to_user_id": "1686759419311263745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062109500073504967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nononosaysomuch @laomunova 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686759419311263745",
+        "conversation_id": "2062098215122407862",
+        "created_at": "2026-06-03T09:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062109500073504967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1175040334188953600",
+              "start": 0,
+              "username": "laomunova"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062109500073504967",
+        "in_reply_to_user_id": "1175040334188953600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062098215122407862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laomunova 诚信互关 有关必回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 1031,
+          "like_count": 10963,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 2215
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-02T15:23:13.000Z",
+        "description": "十年开发，进币圈亏麻了，现在情况有点困难，我跟你说不清楚",
+        "id": "1686759419311263745",
+        "name": "我跟你说不清楚",
+        "pinned_tweet_id": "2053442258880651747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052028696987598848/CRiItdEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 1271,
+          "like_count": 55,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 227
+        },
+        "username": "nononosaysomuch",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-20T13:33:55.000Z",
+        "description": "长期观察AI、科技与世界变化🌍关注主流之外的信息流📡\n分享：AI｜科技公司｜币圈｜国际热点｜互联网情绪\n有趣的时代，值得记录。",
+        "id": "1175040334188953600",
+        "location": "Lisboa, Portugal",
+        "name": "老木Nova",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059203566523355136/avPO2CZ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 1356,
+          "like_count": 5225,
+          "listed_count": 1,
+          "media_count": 332,
+          "tweet_count": 1134
+        },
+        "username": "laomunova",
+        "verified": true
+      }
+    ]
+  }
+}

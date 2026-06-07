@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062585170696319011",
+    "created_at": "2026-06-04T23:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T00:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062672087622521028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1638582940908019715",
+          "start": 0,
+          "username": "Hikari_Bai"
+        },
+        {
+          "end": 28,
+          "id": "2062140124922888193",
+          "start": 12,
+          "username": "ximaodaxianowap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062672087622521028",
+    "in_reply_to_user_id": "1638582940908019715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062670682584985691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hikari_Bai @ximaodaxianowap 唔啊……\n完全看不懂😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062585170696319011",
+        "created_at": "2026-06-04T23:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T00:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062672087622521028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1638582940908019715",
+              "start": 0,
+              "username": "Hikari_Bai"
+            },
+            {
+              "end": 28,
+              "id": "2062140124922888193",
+              "start": 12,
+              "username": "ximaodaxianowap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062672087622521028",
+        "in_reply_to_user_id": "1638582940908019715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062670682584985691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hikari_Bai @ximaodaxianowap 唔啊……\n完全看不懂😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638582940908019715",
+        "conversation_id": "2062585170696319011",
+        "created_at": "2026-06-04T22:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T23:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062670682584985691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2062140124922888193",
+              "start": 0,
+              "username": "ximaodaxianowap"
+            },
+            {
+              "end": 25,
+              "id": "1962302660541079552",
+              "start": 17,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062670682584985691",
+        "in_reply_to_user_id": "2062140124922888193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062588469306884424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ximaodaxianowap @yuerQwQ 有限项数列永远可以被更高次的多项式拟合，详见拉格朗日插值和一系列乱七八糟的插值法。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 1008,
+          "like_count": 11383,
+          "listed_count": 0,
+          "media_count": 305,
+          "tweet_count": 2317
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-22T16:46:36.000Z",
+        "description": "是折跃在2.5次元的白菜心～\n\n虽然不会有三次涩图\n\n但还是希望推止于推www",
+        "id": "1638582940908019715",
+        "name": "白辰晞_Hikari",
+        "pinned_tweet_id": "1986227016627036294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744489154040172544/6xBI873o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 209,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 477
+        },
+        "username": "Hikari_Bai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T11:52:25.000Z",
+        "description": "在读大学牲，时不时刷新来看看有没有好康的（单纯好奇外面圈子）",
+        "id": "2062140124922888193",
+        "location": "太原",
+        "name": "午睡囤囤猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062140511243378688/KfwZC8-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 21,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 33
+        },
+        "username": "ximaodaxianowap",
+        "verified": false
+      }
+    ]
+  }
+}

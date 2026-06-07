@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062872475139297412",
+    "created_at": "2026-06-05T12:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062872475139297412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qiancongxyn/st…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/qiancongxyn/status/2062798918979895738",
+          "start": 45,
+          "url": "https://t.co/1Exbb1SiBi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062872475139297412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062798918979895738",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你跨圈真是厉害\n我才入了三个月就魔怔到把当女生作为我人生唯一的意义了 不能当就要死要活的 https://t.co/1Exbb1SiBi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062872475139297412",
+        "created_at": "2026-06-05T12:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062872475139297412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qiancongxyn/st…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/qiancongxyn/status/2062798918979895738",
+              "start": 45,
+              "url": "https://t.co/1Exbb1SiBi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062872475139297412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062798918979895738",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你跨圈真是厉害\n我才入了三个月就魔怔到把当女生作为我人生唯一的意义了 不能当就要死要活的 https://t.co/1Exbb1SiBi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761282483834998784",
+        "conversation_id": "2062798918979895738",
+        "created_at": "2026-06-05T07:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062798918979895738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062798918979895738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1624,
+          "like_count": 34,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你跨圈真是厉害\n我才入了三个月就魔怔到把当女生作为我人生唯一的意义了 不能当就要死要活的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062829521649496428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 1056,
+          "like_count": 11788,
+          "listed_count": 1,
+          "media_count": 343,
+          "tweet_count": 2410
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 HRT 26.2.21｜无证含糖\n出厂日期 09.3.14\n\n已炸柜｜家暴党｜😭 断糖 26.5.26\n高二物化生｜成绩倒数｜考虑休学\n爱哭+发牢骚｜负面帖垃圾桶｜觉得我傻逼就ban我\n不阔爱不pass｜缺爱想交朋友\n\n私信互fo｜友好相处｜喜欢我就关注下呗🥺\n对象 @xiaoyimiaoaaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "xiaoyimiaoaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "浅葱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060573450616664245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460306365087744/QGhTRD4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 930,
+          "like_count": 1946,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 1564
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "qiancongxyn",
+        "verified": true
+      }
+    ]
+  }
+}

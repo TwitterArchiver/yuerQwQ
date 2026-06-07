@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2063032182763839871",
+    "created_at": "2026-06-05T23:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T00:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063044786500804795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1990931044133138432",
+          "start": 0,
+          "username": "9jqbue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063044786500804795",
+    "in_reply_to_user_id": "1990931044133138432",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063032182763839871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9jqbue 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2063032182763839871",
+        "created_at": "2026-06-05T23:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T00:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063044786500804795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1990931044133138432",
+              "start": 0,
+              "username": "9jqbue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063044786500804795",
+        "in_reply_to_user_id": "1990931044133138432",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063032182763839871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9jqbue 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990931044133138432",
+        "conversation_id": "2063032182763839871",
+        "created_at": "2026-06-05T22:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T23:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063032182763839871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063032182763839871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就想看点正常的片助眠，都快刷睡着了突然跳出来一对男同拳交……整个小臂都塞进去了……我操好恶心好倒胃口🙂世界观重塑中……他们这样需要看心理医生还是外科医生啊，为什么要这样，为什么要把发暗网的东西发推上……我心脏怎么停止跳动了，还有两只扫福瑞接我去享福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 1090,
+          "like_count": 11873,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 2426
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-18T23:52:21.000Z",
+        "description": "",
+        "id": "1990931044133138432",
+        "name": "Dione",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062999901835829248/d77a09eD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 14,
+          "like_count": 645,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 147
+        },
+        "username": "9jqbue",
+        "verified": false
+      }
+    ]
+  }
+}

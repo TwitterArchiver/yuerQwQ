@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062031991743332445",
+    "created_at": "2026-06-03T10:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062118772161585293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1823767079285350406",
+          "start": 0,
+          "username": "Faomocat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062118772161585293",
+    "in_reply_to_user_id": "1823767079285350406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062077000798675144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Faomocat 贴贴~"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062077000798675144].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062077000798675144",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062077000798675144"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062031991743332445",
+        "created_at": "2026-06-03T10:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062118772161585293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1823767079285350406",
+              "start": 0,
+              "username": "Faomocat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062118772161585293",
+        "in_reply_to_user_id": "1823767079285350406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062077000798675144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Faomocat 贴贴~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 883,
+          "like_count": 10412,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 2021
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-14T17:02:42.000Z",
+        "description": "MTF🍥🏳️‍⚧️| INFP |高三牲 | 物化地 | 备战高考ing | 数学+物理求130 | 目前无钱买糖 | 172/62 | 2008/12/10出厂 | 半炸柜 | 求赞 | 同类互fo | 支持语言CHI😀ENG😉JAP😮‍💨",
+        "id": "1823767079285350406",
+        "name": "寒月喵🍥🏳️‍⚧️~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053542630076866561/9rlS9Jmt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 367,
+          "like_count": 2525,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 501
+        },
+        "username": "Faomocat",
+        "verified": false
+      }
+    ]
+  }
+}

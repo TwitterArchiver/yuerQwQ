@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062880424364569081",
+    "created_at": "2026-06-05T12:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062881587809902766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1312615355919953923",
+          "start": 0,
+          "username": "arcknightx01"
+        },
+        {
+          "end": 25,
+          "id": "1857042252880560128",
+          "start": 14,
+          "username": "Web3corexp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062881587809902766",
+    "in_reply_to_user_id": "1312615355919953923",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062881137664667751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arcknightx01 @Web3corexp 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062880424364569081",
+        "created_at": "2026-06-05T12:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062881587809902766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1312615355919953923",
+              "start": 0,
+              "username": "arcknightx01"
+            },
+            {
+              "end": 25,
+              "id": "1857042252880560128",
+              "start": 14,
+              "username": "Web3corexp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062881587809902766",
+        "in_reply_to_user_id": "1312615355919953923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062881137664667751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arcknightx01 @Web3corexp 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1312615355919953923",
+        "conversation_id": "2062880424364569081",
+        "created_at": "2026-06-05T12:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062881137664667751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857042252880560128",
+              "start": 0,
+              "username": "Web3corexp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062881137664667751",
+        "in_reply_to_user_id": "1857042252880560128",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062880424364569081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Web3corexp done boss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062829521649496428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 1059,
+          "like_count": 11814,
+          "listed_count": 1,
+          "media_count": 344,
+          "tweet_count": 2415
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-04T04:47:51.000Z",
+        "description": "Cryptocurrency Lover | 专注于加密货币\n⚛️ Daily Crypto News| 日更币圈新闻\n📊 Daily Investment quote| 日更投资金句 \n⚔️ Practical Three Forces | 实战三方力道\n一日加密人，一世加密魂",
+        "id": "1312615355919953923",
+        "name": "Arc 镇守使⚛️",
+        "pinned_tweet_id": "2060312007220605089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058937129020112896/-2MJvA7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 1359,
+          "like_count": 5821,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 5662
+        },
+        "username": "arcknightx01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-14T12:46:38.000Z",
+        "description": "𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐂𝐫𝐞𝐚𝐭𝐨𝐫, 𝐂𝐫𝐲𝐩𝐭𝐨 𝐈𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞𝐫, 𝐖𝐞𝐛3 𝐑𝐞𝐜𝐡𝐚𝐫𝐠𝐞𝐫",
+        "id": "1857042252880560128",
+        "location": "Dhaka, Bangladesh",
+        "name": "𝐎𝐋𝐈𝐕𝐈𝐀",
+        "pinned_tweet_id": "2062075042301894755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061070787365535745/n3EsXZ4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3363,
+          "following_count": 3374,
+          "like_count": 4189,
+          "listed_count": 2,
+          "media_count": 511,
+          "tweet_count": 7695
+        },
+        "username": "Web3corexp",
+        "verified": true
+      }
+    ]
+  }
+}

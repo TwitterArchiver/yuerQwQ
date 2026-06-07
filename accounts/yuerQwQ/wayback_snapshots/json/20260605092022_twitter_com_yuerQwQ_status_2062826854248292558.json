@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062772472798482432",
+        "3_2062772490641059840"
+      ],
+      "media_source_tweet_id": [
+        "2062772501898527183",
+        "2062772501898527183"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062826854248292558",
+    "created_at": "2026-06-05T09:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T10:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062826854248292558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794306281572118528",
+          "start": 3,
+          "username": "520maodou"
+        },
+        {
+          "end": 32,
+          "id": "1962302660541079552",
+          "start": 24,
+          "username": "yuerQwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1e3ji4vPiP",
+          "end": 123,
+          "expanded_url": "https://x.com/520maodou/status/2062772501898527183/photo/1",
+          "media_key": "3_2062772472798482432",
+          "start": 100,
+          "url": "https://t.co/1e3ji4vPiP"
+        },
+        {
+          "display_url": "pic.x.com/1e3ji4vPiP",
+          "end": 123,
+          "expanded_url": "https://x.com/520maodou/status/2062772501898527183/photo/1",
+          "media_key": "3_2062772490641059840",
+          "start": 100,
+          "url": "https://t.co/1e3ji4vPiP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062826854248292558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062772501898527183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @520maodou: 我是真的绷不住了，@yuerQwQ你的帖子上我们学校动漫社的群了\n虽然我的主号因为所谓的“头像和昵称不符合群规”被踢了，但是......没想到吧，我还有小号潜伏在这里😆 https://t.co/1e3ji4vPiP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2217,
+        "media_key": "3_2062772472798482432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBwoo2bkAAX-rk.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1532,
+        "media_key": "3_2062772490641059840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBwprUbsAAGH_J.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062772472798482432",
+            "3_2062772490641059840"
+          ],
+          "media_source_tweet_id": [
+            "2062772501898527183",
+            "2062772501898527183"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062826854248292558",
+        "created_at": "2026-06-05T09:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062826854248292558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794306281572118528",
+              "start": 3,
+              "username": "520maodou"
+            },
+            {
+              "end": 32,
+              "id": "1962302660541079552",
+              "start": 24,
+              "username": "yuerQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1e3ji4vPiP",
+              "end": 123,
+              "expanded_url": "https://x.com/520maodou/status/2062772501898527183/photo/1",
+              "media_key": "3_2062772472798482432",
+              "start": 100,
+              "url": "https://t.co/1e3ji4vPiP"
+            },
+            {
+              "display_url": "pic.x.com/1e3ji4vPiP",
+              "end": 123,
+              "expanded_url": "https://x.com/520maodou/status/2062772501898527183/photo/1",
+              "media_key": "3_2062772490641059840",
+              "start": 100,
+              "url": "https://t.co/1e3ji4vPiP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062826854248292558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062772501898527183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @520maodou: 我是真的绷不住了，@yuerQwQ你的帖子上我们学校动漫社的群了\n虽然我的主号因为所谓的“头像和昵称不符合群规”被踢了，但是......没想到吧，我还有小号潜伏在这里😆 https://t.co/1e3ji4vPiP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062772472798482432",
+            "3_2062772490641059840"
+          ]
+        },
+        "author_id": "1794306281572118528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062772501898527183",
+        "created_at": "2026-06-05T05:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:43:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062772290006516084",
+          "2062772501898527183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1962302660541079552",
+              "start": 9,
+              "username": "yuerQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1e3ji4vPiP",
+              "end": 108,
+              "expanded_url": "https://x.com/520maodou/status/2062772501898527183/photo/1",
+              "media_key": "3_2062772472798482432",
+              "start": 85,
+              "url": "https://t.co/1e3ji4vPiP"
+            },
+            {
+              "display_url": "pic.x.com/1e3ji4vPiP",
+              "end": 108,
+              "expanded_url": "https://x.com/520maodou/status/2062772501898527183/photo/1",
+              "media_key": "3_2062772490641059840",
+              "start": 85,
+              "url": "https://t.co/1e3ji4vPiP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062772501898527183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是真的绷不住了，@yuerQwQ你的帖子上我们学校动漫社的群了\n虽然我的主号因为所谓的“头像和昵称不符合群规”被踢了，但是......没想到吧，我还有小号潜伏在这里😆 https://t.co/1e3ji4vPiP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 1030,
+          "like_count": 11679,
+          "listed_count": 1,
+          "media_count": 335,
+          "tweet_count": 2386
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-25T09:55:49.000Z",
+        "description": "一只可爱的刚出炉的MTF喵~\n生产日期07.4 | 无证含糖 | HRT 26.5.4  |26.5.15已炸柜 | 大一数学系新生一枚|「坐标杭州」 |181cm 57kg | 爱好数学与信息技术 欢迎同好友好交流😀| 支持新自由主义🏳️‍⚧️  可适当键政（不是粉红喵～）这里可以通过Telegram联系本喵👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xingbiepingdeng",
+                "end": 23,
+                "expanded_url": "https://t.me/xingbiepingdeng",
+                "start": 0,
+                "url": "https://t.co/AEgmmmLnGi"
+              }
+            ]
+          }
+        },
+        "id": "1794306281572118528",
+        "location": "浙江 杭州",
+        "name": "毛豆酱🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053460035469258752/gGYtCmAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 168,
+          "like_count": 153,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 117
+        },
+        "url": "https://t.co/AEgmmmLnGi",
+        "username": "520maodou",
+        "verified": true
+      }
+    ]
+  }
+}

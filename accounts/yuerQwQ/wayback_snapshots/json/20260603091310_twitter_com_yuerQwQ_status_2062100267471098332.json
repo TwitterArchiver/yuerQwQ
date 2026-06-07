@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062079334647845358",
+    "created_at": "2026-06-03T09:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T10:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062100267471098332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1814459969342976003",
+          "start": 0,
+          "username": "kirinCenter"
+        },
+        {
+          "end": 23,
+          "id": "1122483097",
+          "start": 13,
+          "username": "Lindvior1"
+        },
+        {
+          "end": 35,
+          "id": "1650706290929446912",
+          "start": 24,
+          "username": "snail_9106"
+        },
+        {
+          "end": 49,
+          "id": "1907031442103943168",
+          "start": 36,
+          "username": "hoshinemu123"
+        },
+        {
+          "end": 60,
+          "id": "875987996075474944",
+          "start": 50,
+          "username": "nulijinqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062100267471098332",
+    "in_reply_to_user_id": "1814459969342976003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062079334647845358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirinCenter @Lindvior1 @snail_9106 @hoshinemu123 @nulijinqu 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2062079331539808256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ36Ogca8AAnY2t.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062079334647845358",
+        "created_at": "2026-06-03T09:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062100267471098332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1814459969342976003",
+              "start": 0,
+              "username": "kirinCenter"
+            },
+            {
+              "end": 23,
+              "id": "1122483097",
+              "start": 13,
+              "username": "Lindvior1"
+            },
+            {
+              "end": 35,
+              "id": "1650706290929446912",
+              "start": 24,
+              "username": "snail_9106"
+            },
+            {
+              "end": 49,
+              "id": "1907031442103943168",
+              "start": 36,
+              "username": "hoshinemu123"
+            },
+            {
+              "end": 60,
+              "id": "875987996075474944",
+              "start": 50,
+              "username": "nulijinqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062100267471098332",
+        "in_reply_to_user_id": "1814459969342976003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062079334647845358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirinCenter @Lindvior1 @snail_9106 @hoshinemu123 @nulijinqu 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062079331539808256"
+          ]
+        },
+        "author_id": "1814459969342976003",
+        "conversation_id": "2062079334647845358",
+        "created_at": "2026-06-03T07:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062079334647845358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1122483097",
+              "start": 22,
+              "username": "Lindvior1"
+            },
+            {
+              "end": 44,
+              "id": "1650706290929446912",
+              "start": 33,
+              "username": "snail_9106"
+            },
+            {
+              "end": 64,
+              "id": "1907031442103943168",
+              "start": 51,
+              "username": "hoshinemu123"
+            },
+            {
+              "end": 79,
+              "id": "1962302660541079552",
+              "start": 71,
+              "username": "yuerQwQ"
+            },
+            {
+              "end": 90,
+              "id": "875987996075474944",
+              "start": 80,
+              "username": "nulijinqu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 118,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2060918707971301378/_A8Q_jAD?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2060918707971301378/_A8Q_jAD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 95,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/BOG3JhtxFv"
+            },
+            {
+              "display_url": "pic.x.com/ikwtgQfywU",
+              "end": 142,
+              "expanded_url": "https://x.com/kirinCenter/status/2062079334647845358/photo/1",
+              "media_key": "3_2062079331539808256",
+              "start": 119,
+              "url": "https://t.co/ikwtgQfywU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062079334647845358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Lindvior1 @snail_9106\n👰 配偶: @hoshinemu123\n👶 孩子: @yuerQwQ @nulijinqu\n\n➡️ https://t.co/BOG3JhtxFv https://t.co/ikwtgQfywU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 857,
+          "like_count": 10353,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1994
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-20T00:39:32.000Z",
+        "description": "不言人间烟火，只修长生决",
+        "id": "1814459969342976003",
+        "name": "黄葭宁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931723067879034880/Swb1K_BO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 1081,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 3503
+        },
+        "username": "kirinCenter",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-26T16:24:52.000Z",
+        "description": "",
+        "id": "1122483097",
+        "name": "Lindvior",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 7,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 1736
+        },
+        "username": "Lindvior1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T03:40:47.000Z",
+        "description": "AI、自媒体\n公众号创作者\n一个项目3个月7位数\n专注自媒体和小项目实践\nStanley 、Hername 社群助理\n持续分享，每天进步一点点",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "woniu.chuhai.store",
+                "end": 23,
+                "expanded_url": "https://woniu.chuhai.store",
+                "start": 0,
+                "url": "https://t.co/SIM7xyctq4"
+              }
+            ]
+          }
+        },
+        "id": "1650706290929446912",
+        "location": "🌏V510626 出海账号→",
+        "name": "蜗牛King 👑",
+        "pinned_tweet_id": "2018549157108031975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006754379890593792/rZQ06k6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20474,
+          "following_count": 920,
+          "like_count": 10789,
+          "listed_count": 69,
+          "media_count": 1152,
+          "tweet_count": 17570
+        },
+        "url": "https://t.co/SIM7xyctq4",
+        "username": "snail_9106",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "梦想是成为女侠客。我曾淋我来时雪，亦将长歌去时晖。星眠的生活号，不定期推音乐/美术作品。古风狂热爱好者，古风音乐策划，汉服复兴运动。隐居宣州，长三角随机出没，欢迎小女孩们来找我玩。家里茶室对外开放。\n坏事都是她做的：@ciyou9443 指导教师：@ilobius\n头像画师：飞鸟壹号机；主页头图画师：Z6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 108,
+                "username": "ciyou9443"
+              },
+              {
+                "end": 132,
+                "start": 124,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠子",
+        "pinned_tweet_id": "2021956150368104748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3368,
+          "following_count": 3323,
+          "like_count": 3729,
+          "listed_count": 5,
+          "media_count": 970,
+          "tweet_count": 10170
+        },
+        "username": "hoshinemu123",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-17T08:06:28.000Z",
+        "description": "選択肢がない愛は価値がない",
+        "id": "875987996075474944",
+        "location": "Japan",
+        "name": "北北小紀子",
+        "pinned_tweet_id": "2042449082674004232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026637259630686208/58PjLw9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 39,
+          "like_count": 19815,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 562
+        },
+        "username": "nulijinqu",
+        "verified": false
+      }
+    ]
+  }
+}

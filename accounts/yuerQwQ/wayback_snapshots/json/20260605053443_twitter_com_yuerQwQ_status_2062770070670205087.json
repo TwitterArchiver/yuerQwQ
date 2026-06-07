@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062520528624295936"
+      ],
+      "media_source_tweet_id": [
+        "2062520541278527656"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062770070670205087",
+    "created_at": "2026-06-05T05:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T06:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062770070670205087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1979308662117273604",
+          "start": 3,
+          "username": "kuaizichopstick"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M9DMZQLKOw",
+          "end": 109,
+          "expanded_url": "https://x.com/kuaizichopstick/status/2062520541278527656/photo/1",
+          "media_key": "3_2062520528624295936",
+          "start": 86,
+          "url": "https://t.co/M9DMZQLKOw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062770070670205087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062520541278527656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuaizichopstick: 咪！筷子带着她的群来了咪！\n欢迎大家扫码或搜索群号进入咪！（因为是人工审核且管理目前过少可能需要等待较长时间，实在是对不起咪！） https://t.co/M9DMZQLKOw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1522,
+        "media_key": "3_2062520528624295936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-LfjqaIAA2lDK.jpg",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062520528624295936"
+          ],
+          "media_source_tweet_id": [
+            "2062520541278527656"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062770070670205087",
+        "created_at": "2026-06-05T05:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062770070670205087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1979308662117273604",
+              "start": 3,
+              "username": "kuaizichopstick"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M9DMZQLKOw",
+              "end": 109,
+              "expanded_url": "https://x.com/kuaizichopstick/status/2062520541278527656/photo/1",
+              "media_key": "3_2062520528624295936",
+              "start": 86,
+              "url": "https://t.co/M9DMZQLKOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062770070670205087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062520541278527656",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuaizichopstick: 咪！筷子带着她的群来了咪！\n欢迎大家扫码或搜索群号进入咪！（因为是人工审核且管理目前过少可能需要等待较长时间，实在是对不起咪！） https://t.co/M9DMZQLKOw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062520528624295936"
+          ]
+        },
+        "author_id": "1979308662117273604",
+        "conversation_id": "2062520541278527656",
+        "created_at": "2026-06-04T13:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062520541278527656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M9DMZQLKOw",
+              "end": 88,
+              "expanded_url": "https://x.com/kuaizichopstick/status/2062520541278527656/photo/1",
+              "media_key": "3_2062520528624295936",
+              "start": 65,
+              "url": "https://t.co/M9DMZQLKOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062520541278527656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 294,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "咪！筷子带着她的群来了咪！\n欢迎大家扫码或搜索群号进入咪！（因为是人工审核且管理目前过少可能需要等待较长时间，实在是对不起咪！） https://t.co/M9DMZQLKOw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 1029,
+          "like_count": 11631,
+          "listed_count": 0,
+          "media_count": 322,
+          "tweet_count": 2367
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-17T22:09:11.000Z",
+        "description": "高二在读/物化生\n生产日期08.12.25hrt25.12.05 MtF/X 无证含糖|已炸柜|家暴党 191cm/81kg\n同类可互fo喵！日麻狂热爱好者/各种音游（不玩街机！）/二次元 \n妹妹@ScarsTowel616",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "ScarsTowel616"
+              }
+            ]
+          }
+        },
+        "id": "1979308662117273604",
+        "location": "青岛",
+        "name": "筷子不会用筷子🍥",
+        "pinned_tweet_id": "2062520541278527656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060613592324657152/WsMbZT_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 393,
+          "like_count": 572,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 291
+        },
+        "username": "kuaizichopstick",
+        "verified": false
+      }
+    ]
+  }
+}

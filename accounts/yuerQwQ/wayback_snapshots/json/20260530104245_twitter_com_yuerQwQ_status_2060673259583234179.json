@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2060673259583234179",
+    "created_at": "2026-05-30T10:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060673259583234179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1545782617240653825",
+          "start": 3,
+          "username": "Orange_Chr1s"
+        },
+        {
+          "end": 26,
+          "id": "1962302660541079552",
+          "start": 18,
+          "username": "yuerQwQ"
+        },
+        {
+          "end": 39,
+          "id": "2060050991370891265",
+          "start": 27,
+          "username": "XYNshioochi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060673259583234179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060672189830201487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Orange_Chr1s: @yuerQwQ @XYNshioochi 俩人开电动车技术堪忧😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2060673259583234179",
+        "created_at": "2026-05-30T10:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060673259583234179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1545782617240653825",
+              "start": 3,
+              "username": "Orange_Chr1s"
+            },
+            {
+              "end": 26,
+              "id": "1962302660541079552",
+              "start": 18,
+              "username": "yuerQwQ"
+            },
+            {
+              "end": 39,
+              "id": "2060050991370891265",
+              "start": 27,
+              "username": "XYNshioochi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060673259583234179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060672189830201487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Orange_Chr1s: @yuerQwQ @XYNshioochi 俩人开电动车技术堪忧😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2060672189830201487",
+        "created_at": "2026-05-30T10:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060672189830201487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            },
+            {
+              "end": 21,
+              "id": "2060050991370891265",
+              "start": 9,
+              "username": "XYNshioochi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060672189830201487",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ @XYNshioochi 俩人开电动车技术堪忧😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 791,
+          "like_count": 9675,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1811
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 120,
+          "like_count": 1824,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1035
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T17:32:35.000Z",
+        "description": "09｜小证含糖半家长党｜小证260117｜hrt250720🍥｜你们觉得我这次能活吗",
+        "id": "2060050991370891265",
+        "name": "汐落",
+        "pinned_tweet_id": "2060223149778817434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060051875358261249/Bpop1uMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 171,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 96
+        },
+        "username": "XYNshioochi",
+        "verified": false
+      }
+    ]
+  }
+}

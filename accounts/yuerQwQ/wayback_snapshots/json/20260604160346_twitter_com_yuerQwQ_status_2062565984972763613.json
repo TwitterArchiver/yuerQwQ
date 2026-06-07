@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062202269588926683",
+    "created_at": "2026-06-04T16:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062565984972763613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946593949180993536",
+          "start": 0,
+          "username": "RogerDisboard"
+        },
+        {
+          "end": 22,
+          "id": "2055095022425722880",
+          "start": 15,
+          "username": "UnkMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062565984972763613",
+    "in_reply_to_user_id": "1946593949180993536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062202269588926683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RogerDisboard @UnkMtX 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062202269588926683",
+        "created_at": "2026-06-04T16:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062565984972763613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            },
+            {
+              "end": 22,
+              "id": "2055095022425722880",
+              "start": 15,
+              "username": "UnkMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062565984972763613",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062202269588926683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard @UnkMtX 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2062202269588926683",
+        "created_at": "2026-06-03T15:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062202269588926683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062202269588926683",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2316,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 37,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "再来一次抽奖吧（也算做是520fo抽奖）\n\n一等奖：11.45r*1\n二等奖：8.88r*2\n（抱歉作为学生的Roger真的没什么钱，只能抽这点了…）\n\n点赞+关注+评论+转发参与抽奖喵\n\n立个远大点的目标\n达到600fo或下周三开奖（忘了提醒我）\n\n总之还是谢谢大家的陪伴，在推上的每一天都很开心！\nありがとうございます！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 1004,
+          "like_count": 11299,
+          "listed_count": 0,
+          "media_count": 295,
+          "tweet_count": 2291
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2062202269588926683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 1029,
+          "like_count": 7837,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1889
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "永远怀念@Unkxyn|MtX|Hrt🍥01.28.2026，无证含糖|家长反对党+年龄党|生产日期11.13.2011|oder💊|对象@Lvmaosamaovo|159cm50kg|INFP-T，重度社恐|初二牲，休学中|同类互fo喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "Unkxyn"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "name": "3.Unk🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 649,
+          "like_count": 778,
+          "listed_count": 14,
+          "media_count": 21,
+          "tweet_count": 136
+        },
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}

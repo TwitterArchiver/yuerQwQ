@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062130477922930688"
+      ],
+      "media_source_tweet_id": [
+        "2062169934449328298"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062308762917237108",
+    "created_at": "2026-06-03T23:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T00:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062308762917237108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1962302660541079552",
+          "start": 3,
+          "username": "yuerQwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YQB21jHLTx",
+          "end": 55,
+          "expanded_url": "https://x.com/yuerQwQ/status/2062169934449328298/photo/1",
+          "media_key": "3_2062130477922930688",
+          "start": 32,
+          "url": "https://t.co/YQB21jHLTx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062308762917237108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062169934449328298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuerQwQ: 我已经是0了所以请我的余额不要当0😭 https://t.co/YQB21jHLTx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 912,
+        "media_key": "3_2062130477922930688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4ovnkaUAAeLKP.jpg",
+        "width": 914
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062130477922930688"
+          ],
+          "media_source_tweet_id": [
+            "2062169934449328298"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062308762917237108",
+        "created_at": "2026-06-03T23:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T00:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062308762917237108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962302660541079552",
+              "start": 3,
+              "username": "yuerQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YQB21jHLTx",
+              "end": 55,
+              "expanded_url": "https://x.com/yuerQwQ/status/2062169934449328298/photo/1",
+              "media_key": "3_2062130477922930688",
+              "start": 32,
+              "url": "https://t.co/YQB21jHLTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062308762917237108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062169934449328298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuerQwQ: 我已经是0了所以请我的余额不要当0😭 https://t.co/YQB21jHLTx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062130477922930688"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062169934449328298",
+        "created_at": "2026-06-03T13:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062169934449328298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YQB21jHLTx",
+              "end": 42,
+              "expanded_url": "https://x.com/yuerQwQ/status/2062169934449328298/photo/1",
+              "media_key": "3_2062130477922930688",
+              "start": 19,
+              "url": "https://t.co/YQB21jHLTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062169934449328298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 612,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我已经是0了所以请我的余额不要当0😭 https://t.co/YQB21jHLTx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 957,
+          "like_count": 10782,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 2151
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

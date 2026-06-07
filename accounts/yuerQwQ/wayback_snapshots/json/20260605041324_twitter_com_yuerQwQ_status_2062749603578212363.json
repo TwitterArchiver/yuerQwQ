@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062749603578212363",
+    "created_at": "2026-06-05T04:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062749603578212363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043757799893807106",
+          "start": 3,
+          "username": "Passionkc26"
+        },
+        {
+          "end": 25,
+          "id": "1962302660541079552",
+          "start": 17,
+          "username": "yuerQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062749603578212363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062732683068002807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Passionkc26: @yuerQwQ 我勒个雪乐兹 这真绷不住了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062749603578212363",
+        "created_at": "2026-06-05T04:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062749603578212363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043757799893807106",
+              "start": 3,
+              "username": "Passionkc26"
+            },
+            {
+              "end": 25,
+              "id": "1962302660541079552",
+              "start": 17,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062749603578212363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062732683068002807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Passionkc26: @yuerQwQ 我勒个雪乐兹 这真绷不住了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043757799893807106",
+        "conversation_id": "2062726099012817296",
+        "created_at": "2026-06-05T03:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062732683068002807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062732683068002807",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062726099012817296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 我勒个雪乐兹 这真绷不住了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 1015,
+          "like_count": 11467,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 2342
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-13T18:27:37.000Z",
+        "description": "Feel it, not understand it.\nBuilding Movmov - gamified sports platform🃏\nLove 🎬 & 🎹\nShare daily life & Indie dev records.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "apps.apple.com/app/id67559638…",
+                "end": 23,
+                "expanded_url": "https://apps.apple.com/app/id6755963833",
+                "start": 0,
+                "url": "https://t.co/CalupKqfPB"
+              }
+            ]
+          }
+        },
+        "id": "2043757799893807106",
+        "location": "🌏 Somewhere on Earth",
+        "name": "Passion",
+        "pinned_tweet_id": "2060523292642127975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045241099137241088/AinaI3bf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 133,
+          "like_count": 1526,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 225
+        },
+        "url": "https://t.co/CalupKqfPB",
+        "username": "Passionkc26",
+        "verified": true
+      }
+    ]
+  }
+}

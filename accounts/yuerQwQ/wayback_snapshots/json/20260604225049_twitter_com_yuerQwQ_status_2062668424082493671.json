@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062517228160065676",
+    "created_at": "2026-06-04T22:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T23:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062668424082493671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "866092386694217728",
+          "start": 0,
+          "username": "dungeon_lab_toy"
+        },
+        {
+          "end": 27,
+          "id": "1488080791125237760",
+          "start": 17,
+          "username": "MengXi969"
+        },
+        {
+          "end": 44,
+          "id": "2993493168",
+          "start": 28,
+          "username": "NaraSanSwitched"
+        },
+        {
+          "end": 61,
+          "id": "1689214483481452544",
+          "start": 45,
+          "username": "ZianTT_Official"
+        },
+        {
+          "end": 75,
+          "id": "987876884284231680",
+          "start": 62,
+          "username": "Yuushimo2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062668424082493671",
+    "in_reply_to_user_id": "866092386694217728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062517228160065676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dungeon_lab_toy @MengXi969 @NaraSanSwitched @ZianTT_Official @Yuushimo2333 好诶！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_2062517221637898240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-IfELaQAAX7T-.jpg",
+        "width": 870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062517228160065676",
+        "created_at": "2026-06-04T22:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T23:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062668424082493671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "866092386694217728",
+              "start": 0,
+              "username": "dungeon_lab_toy"
+            },
+            {
+              "end": 27,
+              "id": "1488080791125237760",
+              "start": 17,
+              "username": "MengXi969"
+            },
+            {
+              "end": 44,
+              "id": "2993493168",
+              "start": 28,
+              "username": "NaraSanSwitched"
+            },
+            {
+              "end": 61,
+              "id": "1689214483481452544",
+              "start": 45,
+              "username": "ZianTT_Official"
+            },
+            {
+              "end": 75,
+              "id": "987876884284231680",
+              "start": 62,
+              "username": "Yuushimo2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062668424082493671",
+        "in_reply_to_user_id": "866092386694217728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062517228160065676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dungeon_lab_toy @MengXi969 @NaraSanSwitched @ZianTT_Official @Yuushimo2333 好诶！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062517221637898240"
+          ]
+        },
+        "author_id": "866092386694217728",
+        "conversation_id": "2062517228160065676",
+        "created_at": "2026-06-04T12:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062517228160065676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 114,
+              "id": "1488080791125237760",
+              "start": 104,
+              "username": "MengXi969"
+            },
+            {
+              "end": 131,
+              "id": "2993493168",
+              "start": 115,
+              "username": "NaraSanSwitched"
+            },
+            {
+              "end": 140,
+              "id": "1962302660541079552",
+              "start": 132,
+              "username": "yuerQwQ"
+            },
+            {
+              "end": 157,
+              "id": "1689214483481452544",
+              "start": 141,
+              "username": "ZianTT_Official"
+            },
+            {
+              "end": 171,
+              "id": "987876884284231680",
+              "start": 158,
+              "username": "Yuushimo2333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GVW0xKKOsF",
+              "end": 205,
+              "expanded_url": "https://x.com/dungeon_lab_toy/status/2062517228160065676/photo/1",
+              "media_key": "3_2062517221637898240",
+              "start": 182,
+              "url": "https://t.co/GVW0xKKOsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062517228160065676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 114,
+                "id": "1488080791125237760",
+                "start": 104,
+                "username": "MengXi969"
+              },
+              {
+                "end": 131,
+                "id": "2993493168",
+                "start": 115,
+                "username": "NaraSanSwitched"
+              },
+              {
+                "end": 140,
+                "id": "1962302660541079552",
+                "start": 132,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 157,
+                "id": "1689214483481452544",
+                "start": 141,
+                "username": "ZianTT_Official"
+              },
+              {
+                "end": 171,
+                "id": "987876884284231680",
+                "start": 158,
+                "username": "Yuushimo2333"
+              }
+            ]
+          },
+          "text": "🎁【疯狂星期四V50中奖名单公布】\n\n恭喜以下5位小伙伴成为本次抽奖的幸运鹅，同时也感谢每一位助力我们招人的宝宝~\n✨ 本次抽奖已通过工具随机抽取，结果公示如下✨\n\n❣️V50RMB 中奖名单（X账号ID）\n@MengXi969\n@NaraSanSwitched\n@yuerQwQ\n@ZianTT_Official\n@Yuushimo2333\n\n👀领奖须知：\n① 请中奖的宝子在【72小时内】私信本账号，发送“中奖账号ID+收款信息”予以核对\n② 逾期未联系、账号私密/已删除转发，将视为自动放弃中奖资格，不予补发\n③ 奖品将在核对信息后3-5个工作日内发出，偏远地区稍有延迟\n💖再次感谢大家的支持与参与\n没中的宝子也别灰心，后续会有更多福利抽奖持续上线～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3091,
+          "like_count": 20,
+          "quote_count": 6,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🎁【疯狂星期四V50中奖名单公布】\n\n恭喜以下5位小伙伴成为本次抽奖的幸运鹅，同时也感谢每一位助力我们招人的宝宝~\n✨ 本次抽奖已通过工具随机抽取，结果公示如下✨\n\n❣️V50RMB 中奖名单（X账号ID）\n@MengXi969\n@NaraSanSwitched\n@yuerQwQ\n@ZianTT_Official\n@Yuushimo2333\n\n👀领奖须知：\n① https://t.co/GVW0xKKOsF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 1006,
+          "like_count": 11370,
+          "listed_count": 0,
+          "media_count": 304,
+          "tweet_count": 2313
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-21T00:44:51.000Z",
+        "description": "Realise your wildest fantasies Contact Email：service@dungeon-lab.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dungeon-lab.com",
+                "end": 23,
+                "expanded_url": "http://dungeon-lab.com",
+                "start": 0,
+                "url": "https://t.co/iTHP4GErdz"
+              }
+            ]
+          }
+        },
+        "id": "866092386694217728",
+        "name": "DG-LAB 地牢实验室",
+        "pinned_tweet_id": "2026136106752962950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1271694986044518403/z3pTfOsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24302,
+          "following_count": 160,
+          "like_count": 152,
+          "listed_count": 31,
+          "media_count": 47,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/iTHP4GErdz",
+        "username": "dungeon_lab_toy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "15 y.r. / Full-Stack / CTFer / Student / @ch3rryzhu\n\n👀 Work for @nexaorion @_entropyhq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "nexaorion"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "_entropyhq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvNBL"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 3142,
+          "like_count": 93446,
+          "listed_count": 6,
+          "media_count": 1157,
+          "tweet_count": 6707
+        },
+        "url": "https://t.co/TIHBlJvNBL",
+        "username": "MengXi969",
+        "verified": true
+      },
+      {
+        "created_at": "2015-01-23T15:29:06.000Z",
+        "description": "This contains sensitive content if you are under 🔞 please do not view. BDSM Switch Do not re-upload",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/narasanswitc…",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/c/narasanswitched?vanity=user",
+                "start": 0,
+                "url": "https://t.co/Fn91B5mRSr"
+              }
+            ]
+          }
+        },
+        "id": "2993493168",
+        "location": "Phnom Penh, Cambodia",
+        "name": "Nara 🛫 Taiwan 25th Oct - 5 Nov 2026",
+        "pinned_tweet_id": "2057009603750289684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036506483320602624/9lg2vGeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 3930,
+          "like_count": 1756,
+          "listed_count": 9,
+          "media_count": 124,
+          "tweet_count": 5815
+        },
+        "url": "https://t.co/Fn91B5mRSr",
+        "username": "NaraSanSwitched",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-09T09:58:21.000Z",
+        "description": "DevOps, Cyber Security,  Web Developer | Python & GoLang & JavaScript | LightXi Inc.",
+        "id": "1689214483481452544",
+        "location": "Shanghai, PRC",
+        "name": "ZianTT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019966519879573504/bNAx8h0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 485,
+          "like_count": 2947,
+          "listed_count": 7,
+          "media_count": 223,
+          "tweet_count": 3454
+        },
+        "username": "ZianTT_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-22T02:12:57.000Z",
+        "description": "前社畜 | 酒寄彩叶单推人 | 东方众 | 音MAD初心者 | 克服社恐中 | ADHDer | INFJ-T \n不键政 | 想认识优秀的人、变得更可爱 | 有时会说怪话 | 回fo会查成分致歉 | 欢迎关注~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hanamiyuushimo.github.io",
+                "end": 23,
+                "expanded_url": "https://hanamiyuushimo.github.io",
+                "start": 0,
+                "url": "https://t.co/IjcmffFLDC"
+              }
+            ]
+          }
+        },
+        "id": "987876884284231680",
+        "location": "中国",
+        "name": "幽霜Yuushimo",
+        "pinned_tweet_id": "1675378006561533953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016541875373543425/SFaXlmOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 3139,
+          "like_count": 159566,
+          "listed_count": 19,
+          "media_count": 853,
+          "tweet_count": 9034
+        },
+        "url": "https://t.co/IjcmffFLDC",
+        "username": "Yuushimo2333",
+        "verified": false
+      }
+    ]
+  }
+}

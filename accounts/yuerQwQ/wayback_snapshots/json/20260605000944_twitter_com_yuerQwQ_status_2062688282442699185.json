@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062390646510587974",
+    "created_at": "2026-06-05T00:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T01:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062688282442699185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815379036782411776",
+          "start": 0,
+          "username": "bnbn26082698"
+        },
+        {
+          "end": 27,
+          "id": "1669543422586421248",
+          "start": 14,
+          "username": "Letana358121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062688282442699185",
+    "in_reply_to_user_id": "1815379036782411776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062549546379694211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bnbn26082698 @Letana358121 老师：嘻嘻\n同学：嘻嘻\n）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062390646510587974",
+        "created_at": "2026-06-05T00:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062688282442699185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815379036782411776",
+              "start": 0,
+              "username": "bnbn26082698"
+            },
+            {
+              "end": 27,
+              "id": "1669543422586421248",
+              "start": 14,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062688282442699185",
+        "in_reply_to_user_id": "1815379036782411776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062549546379694211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnbn26082698 @Letana358121 老师：嘻嘻\n同学：嘻嘻\n）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815379036782411776",
+        "conversation_id": "2062390646510587974",
+        "created_at": "2026-06-04T14:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062549546379694211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062549546379694211",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4940,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062390646510587974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 老师：嘻嘻\n同学：？\n老师：嘻嘻）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 1016,
+          "like_count": 11434,
+          "listed_count": 0,
+          "media_count": 308,
+          "tweet_count": 2329
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-22T13:31:14.000Z",
+        "description": "09/1/1？←(๑ت๑)→2024/7/28//MTF还是MTX呢难说哦",
+        "id": "1815379036782411776",
+        "location": "璃瑜三",
+        "name": "醒了就去璃瑜二（🍥—）鱼板棒棒糖ww~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024461832803799044/nPU131D-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 73,
+          "like_count": 8593,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 510
+        },
+        "username": "bnbn26082698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "遠く微かな安息に\nこの手が届きますように\n残りすべて　慌てて灯した/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3346,
+          "following_count": 1493,
+          "like_count": 56739,
+          "listed_count": 6,
+          "media_count": 2302,
+          "tweet_count": 20729
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

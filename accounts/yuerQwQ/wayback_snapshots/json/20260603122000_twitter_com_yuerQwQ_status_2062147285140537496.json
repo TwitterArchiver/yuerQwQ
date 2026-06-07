@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062121615564132352"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062147285140537496",
+    "created_at": "2026-06-03T12:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062147285140537496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gB7KrgOOn8",
+          "end": 26,
+          "expanded_url": "https://x.com/yuerQwQ/status/2062147285140537496/photo/1",
+          "media_key": "3_2062121615564132352",
+          "start": 3,
+          "url": "https://t.co/gB7KrgOOn8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062147285140537496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈妈 https://t.co/gB7KrgOOn8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1807,
+        "media_key": "3_2062121615564132352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4grwta0AANHe7.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062121615564132352"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062147285140537496",
+        "created_at": "2026-06-03T12:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062147285140537496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gB7KrgOOn8",
+              "end": 26,
+              "expanded_url": "https://x.com/yuerQwQ/status/2062147285140537496/photo/1",
+              "media_key": "3_2062121615564132352",
+              "start": 3,
+              "url": "https://t.co/gB7KrgOOn8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062147285140537496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈 https://t.co/gB7KrgOOn8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 891,
+          "like_count": 10451,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 2044
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

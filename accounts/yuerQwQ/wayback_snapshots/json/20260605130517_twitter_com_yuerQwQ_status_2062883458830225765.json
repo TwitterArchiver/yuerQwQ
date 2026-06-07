@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062877093881671805",
+    "created_at": "2026-06-05T13:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062883458830225765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1312615355919953923",
+          "start": 0,
+          "username": "arcknightx01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062883458830225765",
+    "in_reply_to_user_id": "1312615355919953923",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062881839518564476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arcknightx01 晚上好喵~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062877093881671805",
+        "created_at": "2026-06-05T13:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062883458830225765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1312615355919953923",
+              "start": 0,
+              "username": "arcknightx01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062883458830225765",
+        "in_reply_to_user_id": "1312615355919953923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062881839518564476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arcknightx01 晚上好喵~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1312615355919953923",
+        "conversation_id": "2062877093881671805",
+        "created_at": "2026-06-05T12:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062881839518564476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062881839518564476",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062877093881671805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 大佬晚上好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062829521649496428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 1059,
+          "like_count": 11815,
+          "listed_count": 1,
+          "media_count": 345,
+          "tweet_count": 2417
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-04T04:47:51.000Z",
+        "description": "Cryptocurrency Lover | 专注于加密货币\n⚛️ Daily Crypto News| 日更币圈新闻\n📊 Daily Investment quote| 日更投资金句 \n⚔️ Practical Three Forces | 实战三方力道\n一日加密人，一世加密魂",
+        "id": "1312615355919953923",
+        "name": "Arc 镇守使⚛️",
+        "pinned_tweet_id": "2060312007220605089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058937129020112896/-2MJvA7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 1361,
+          "like_count": 5831,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 5670
+        },
+        "username": "arcknightx01",
+        "verified": true
+      }
+    ]
+  }
+}

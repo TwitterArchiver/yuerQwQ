@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062090193365282902",
+    "created_at": "2026-06-03T09:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T10:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062103381737709899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1461275257428340743",
+          "start": 0,
+          "username": "maxweb00"
+        },
+        {
+          "end": 19,
+          "id": "2034500621513240576",
+          "start": 10,
+          "username": "BigupBTC"
+        },
+        {
+          "end": 29,
+          "id": "1368460666428923905",
+          "start": 20,
+          "username": "zuojinha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062103381737709899",
+    "in_reply_to_user_id": "1461275257428340743",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062100291458347381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maxweb00 @BigupBTC @zuojinha 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062090193365282902",
+        "created_at": "2026-06-03T09:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062103381737709899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1461275257428340743",
+              "start": 0,
+              "username": "maxweb00"
+            },
+            {
+              "end": 19,
+              "id": "2034500621513240576",
+              "start": 10,
+              "username": "BigupBTC"
+            },
+            {
+              "end": 29,
+              "id": "1368460666428923905",
+              "start": 20,
+              "username": "zuojinha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062103381737709899",
+        "in_reply_to_user_id": "1461275257428340743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062100291458347381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maxweb00 @BigupBTC @zuojinha 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1461275257428340743",
+        "conversation_id": "2062090193365282902",
+        "created_at": "2026-06-03T09:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062100291458347381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2034500621513240576",
+              "start": 0,
+              "username": "BigupBTC"
+            },
+            {
+              "end": 19,
+              "id": "1368460666428923905",
+              "start": 10,
+              "username": "zuojinha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062100291458347381",
+        "in_reply_to_user_id": "2034500621513240576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062097209693519952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigupBTC @zuojinha 已关注，莫辜负"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 873,
+          "like_count": 10372,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 2001
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-18T10:09:15.000Z",
+        "description": "市场营销｜AI 视觉实验室｜奇怪知识爱好者｜闲聊专家｜不可接触者｜海量却不喜欢喝酒者（偶尔会在日本闲逛）",
+        "id": "1461275257428340743",
+        "name": "MAXZ Ai",
+        "pinned_tweet_id": "2033590408488591861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644758094303232/D2E_TV_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3108,
+          "following_count": 1403,
+          "like_count": 897,
+          "listed_count": 12,
+          "media_count": 1587,
+          "tweet_count": 17669
+        },
+        "username": "maxweb00",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-19T05:27:24.000Z",
+        "description": "聊聊币圈！为兄弟们带来精彩的故事！",
+        "id": "2034500621513240576",
+        "location": "Kanagawa-ken, Japan",
+        "name": "大G哥",
+        "pinned_tweet_id": "2041856426944123232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043170957637132288/cJ82frne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 260,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 212
+        },
+        "username": "BigupBTC",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-07T07:17:14.000Z",
+        "description": "",
+        "id": "1368460666428923905",
+        "name": "小新",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010571012694519808/sB-Qo0Do_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4753,
+          "following_count": 4622,
+          "like_count": 3484,
+          "listed_count": 18,
+          "media_count": 103,
+          "tweet_count": 6409
+        },
+        "username": "zuojinha",
+        "verified": true
+      }
+    ]
+  }
+}

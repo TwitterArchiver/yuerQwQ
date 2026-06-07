@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062190699903430800",
+    "created_at": "2026-06-03T15:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T16:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062194637151035698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1934880636319485955",
+          "start": 0,
+          "username": "mrsk_sy_xueling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062194637151035698",
+    "in_reply_to_user_id": "1934880636319485955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062190699903430800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrsk_sy_xueling 摸摸你…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2062190691640619008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5fghJbMAAT101.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062190699903430800",
+        "created_at": "2026-06-03T15:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062194637151035698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1934880636319485955",
+              "start": 0,
+              "username": "mrsk_sy_xueling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062194637151035698",
+        "in_reply_to_user_id": "1934880636319485955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062190699903430800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrsk_sy_xueling 摸摸你…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062190691640619008"
+          ]
+        },
+        "author_id": "1934880636319485955",
+        "conversation_id": "2062190699903430800",
+        "created_at": "2026-06-03T15:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062190699903430800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7VTsjcwAf1",
+              "end": 88,
+              "expanded_url": "https://x.com/mrsk_sy_xueling/status/2062190699903430800/photo/1",
+              "media_key": "3_2062190691640619008",
+              "start": 65,
+              "url": "https://t.co/7VTsjcwAf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062190699903430800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "考虑了好几天高考假要不要试着和家长出柜了\n因为已经被gd影响得完全没法学习了…这几天都好难受、好想死\n\n等下定决心发现没号了（😇 https://t.co/7VTsjcwAf1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 898,
+          "like_count": 10601,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 2098
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF🏳️‍⚧️  无证含糖  HRT2026.5.10  INFP-T\n生日2009.10  高一  176cm  重庆&苏州\n抑焦｜不割手(?)｜不od 不见证 不抽烟喝酒\n二次元/音游 百合｜同类互fo（一段时间回一次）\n匿名提问 → https://t.co/9b4AzSCfjD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mrsk_sy_xuelin…",
+                "end": 144,
+                "expanded_url": "https://ngl.link/mrsk_sy_xueling2",
+                "start": 121,
+                "url": "https://t.co/9b4AzSCfjD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mrsk_sy_xuelin…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mrsk_sy_xueling2",
+                "start": 0,
+                "url": "https://t.co/9b4AzSCfjD"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "location": "不可以放弃哦",
+        "name": "雪泠🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 553,
+          "like_count": 2625,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/9b4AzSCfjD",
+        "username": "mrsk_sy_xueling",
+        "verified": true
+      }
+    ]
+  }
+}

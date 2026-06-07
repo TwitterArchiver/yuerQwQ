@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061805264966488064"
+      ],
+      "media_source_tweet_id": [
+        "2061805367856943298"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2061959010610454737",
+    "created_at": "2026-06-02T23:51:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T00:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061959010610454737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1638922874487730176",
+          "start": 3,
+          "username": "Sweet_xst"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dwIuXgyhss",
+          "end": 59,
+          "expanded_url": "https://x.com/Sweet_xst/status/2061805367856943298/photo/1",
+          "media_key": "3_2061805264966488064",
+          "start": 36,
+          "url": "https://t.co/dwIuXgyhss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061959010610454737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061805367856943298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sweet_xst: 至少我在中文区没刷到这种绑架别人的讨厌鬼 https://t.co/dwIuXgyhss"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2061805264966488064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0A9u5bkAARCqw.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061805264966488064"
+          ],
+          "media_source_tweet_id": [
+            "2061805367856943298"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2061959010610454737",
+        "created_at": "2026-06-02T23:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T00:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061959010610454737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1638922874487730176",
+              "start": 3,
+              "username": "Sweet_xst"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dwIuXgyhss",
+              "end": 59,
+              "expanded_url": "https://x.com/Sweet_xst/status/2061805367856943298/photo/1",
+              "media_key": "3_2061805264966488064",
+              "start": 36,
+              "url": "https://t.co/dwIuXgyhss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061959010610454737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061805367856943298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sweet_xst: 至少我在中文区没刷到这种绑架别人的讨厌鬼 https://t.co/dwIuXgyhss"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061805264966488064"
+          ]
+        },
+        "author_id": "1638922874487730176",
+        "conversation_id": "2061805367856943298",
+        "created_at": "2026-06-02T13:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061805367856943298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dwIuXgyhss",
+              "end": 44,
+              "expanded_url": "https://x.com/Sweet_xst/status/2061805367856943298/photo/1",
+              "media_key": "3_2061805264966488064",
+              "start": 21,
+              "url": "https://t.co/dwIuXgyhss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061805367856943298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15546,
+          "like_count": 245,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "至少我在中文区没刷到这种绑架别人的讨厌鬼 https://t.co/dwIuXgyhss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 840,
+          "like_count": 10215,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1938
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-23T15:17:31.000Z",
+        "description": "认证号：@tangchaoli40605\n愿你每天都有好心情~\n青年大学习系列已强势归来！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "tangchaoli40605"
+              }
+            ]
+          }
+        },
+        "id": "1638922874487730176",
+        "name": "小薯条哭唧唧",
+        "pinned_tweet_id": "2058450609309884875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858729423815798784/6Gp3ENE4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166182,
+          "following_count": 225,
+          "like_count": 4277,
+          "listed_count": 266,
+          "media_count": 1324,
+          "tweet_count": 2987
+        },
+        "username": "Sweet_xst",
+        "verified": true
+      }
+    ]
+  }
+}

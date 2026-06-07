@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062036519892705671",
+    "created_at": "2026-06-03T05:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062050663966851237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2058481801736204288",
+          "start": 0,
+          "username": "Thoughtofbeings"
+        },
+        {
+          "end": 28,
+          "id": "2061191376180502531",
+          "start": 17,
+          "username": "AtacanApps"
+        },
+        {
+          "end": 40,
+          "id": "1534679034755354624",
+          "start": 29,
+          "username": "Gooddlovee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062050663966851237",
+    "in_reply_to_user_id": "2058481801736204288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062047181725442392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thoughtofbeings @AtacanApps @Gooddlovee 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062036519892705671",
+        "created_at": "2026-06-03T05:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062050663966851237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2058481801736204288",
+              "start": 0,
+              "username": "Thoughtofbeings"
+            },
+            {
+              "end": 28,
+              "id": "2061191376180502531",
+              "start": 17,
+              "username": "AtacanApps"
+            },
+            {
+              "end": 40,
+              "id": "1534679034755354624",
+              "start": 29,
+              "username": "Gooddlovee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062050663966851237",
+        "in_reply_to_user_id": "2058481801736204288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062047181725442392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thoughtofbeings @AtacanApps @Gooddlovee 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058481801736204288",
+        "conversation_id": "2062036519892705671",
+        "created_at": "2026-06-03T05:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062047181725442392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2061191376180502531",
+              "start": 0,
+              "username": "AtacanApps"
+            },
+            {
+              "end": 23,
+              "id": "1534679034755354624",
+              "start": 12,
+              "username": "Gooddlovee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062047181725442392",
+        "in_reply_to_user_id": "2061191376180502531",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062039912455508057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AtacanApps @Gooddlovee Fb 🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 856,
+          "like_count": 10343,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1986
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-24T09:43:30.000Z",
+        "description": "i am the voice in your mind.... they call me THOUGHT(THINK) so i don't lie",
+        "id": "2058481801736204288",
+        "location": "in you ",
+        "name": "THOUGHTS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058499061515255808/ocVtoiJ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 200,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 373
+        },
+        "username": "Thoughtofbeings",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-31T21:02:09.000Z",
+        "description": "#indiedev #androiddev",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "indiedev"
+              },
+              {
+                "end": 21,
+                "start": 10,
+                "tag": "androiddev"
+              }
+            ]
+          }
+        },
+        "id": "2061191376180502531",
+        "name": "Atacan Apps",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061192179352023045/JWulQo8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 98,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 25
+        },
+        "username": "AtacanApps",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-08T23:29:55.000Z",
+        "description": "❤️🩷💜",
+        "id": "1534679034755354624",
+        "name": "GOOD",
+        "pinned_tweet_id": "2062036519892705671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053686153748889600/Ynoj1rtn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265217,
+          "following_count": 132842,
+          "like_count": 194735,
+          "listed_count": 78,
+          "media_count": 12598,
+          "tweet_count": 157267
+        },
+        "username": "Gooddlovee",
+        "verified": true
+      }
+    ]
+  }
+}

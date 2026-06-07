@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2061802010643730812",
+    "created_at": "2026-06-02T13:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061802010643730812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NovaIntrovert/…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/NovaIntrovert/status/2061632657436586264",
+          "start": 57,
+          "url": "https://t.co/uCDfpHUa5M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061802010643730812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061632657436586264",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国不是格式塔意识一样的个体存在\n同样的，日本也不是\n把国家描述成成一个统一方向整体的言论\n\n我不好说是蠢还是坏 https://t.co/uCDfpHUa5M"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2061802010643730812",
+        "created_at": "2026-06-02T13:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061802010643730812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NovaIntrovert/…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/NovaIntrovert/status/2061632657436586264",
+              "start": 57,
+              "url": "https://t.co/uCDfpHUa5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061802010643730812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061632657436586264",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国不是格式塔意识一样的个体存在\n同样的，日本也不是\n把国家描述成成一个统一方向整体的言论\n\n我不好说是蠢还是坏 https://t.co/uCDfpHUa5M"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "980397269445832707",
+        "conversation_id": "2061632657436586264",
+        "created_at": "2026-06-02T02:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061632657436586264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ylzylzyl/statu…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/ylzylzyl/status/2061418407405486501",
+              "start": 72,
+              "url": "https://t.co/VWPSygRYSb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061632657436586264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3667,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061418407405486501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "几年前我觉得中国太反日了\n\n这几年看了不少某些日本网友的言论后，我觉得中国实在太宽厚仁慈、实在太宽容大量、实在太给日本机会、实在太对日本友好了 https://t.co/VWPSygRYSb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 822,
+          "like_count": 10141,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1921
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-01T10:51:38.000Z",
+        "description": "试着理解世界中。落榜理工男。爱设计图案。做过些蠢事。System 2.0 online & stable. Modules working properly. Feels good to be back. A BIG THANK YOU to those who've helped me when I was down",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "leetcode.com/novaintrovert",
+                "end": 23,
+                "expanded_url": "http://leetcode.com/novaintrovert",
+                "start": 0,
+                "url": "https://t.co/P1ghEzDEbG"
+              }
+            ]
+          }
+        },
+        "id": "980397269445832707",
+        "name": "Nova Introvert",
+        "pinned_tweet_id": "1335256271436480513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/980401694352711680/5elTFWK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4294,
+          "following_count": 2186,
+          "like_count": 191089,
+          "listed_count": 23,
+          "media_count": 3615,
+          "tweet_count": 117194
+        },
+        "url": "https://t.co/P1ghEzDEbG",
+        "username": "NovaIntrovert",
+        "verified": false
+      }
+    ]
+  }
+}

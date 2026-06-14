@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062740870357717310",
+    "created_at": "2026-06-06T03:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T04:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063097333404008580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1866040051941171200",
+          "start": 0,
+          "username": "kdjcom_kdj"
+        },
+        {
+          "end": 20,
+          "id": "37024081",
+          "start": 12,
+          "username": "ledoker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063097333404008580",
+    "in_reply_to_user_id": "1866040051941171200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062783271625437420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kdjcom_kdj @ledoker 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062740870357717310",
+        "created_at": "2026-06-06T03:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063097333404008580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1866040051941171200",
+              "start": 0,
+              "username": "kdjcom_kdj"
+            },
+            {
+              "end": 20,
+              "id": "37024081",
+              "start": 12,
+              "username": "ledoker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063097333404008580",
+        "in_reply_to_user_id": "1866040051941171200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062783271625437420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kdjcom_kdj @ledoker 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866040051941171200",
+        "conversation_id": "2062740870357717310",
+        "created_at": "2026-06-05T06:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062783271625437420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "37024081",
+              "start": 0,
+              "username": "ledoker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062783271625437420",
+        "in_reply_to_user_id": "37024081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062740870357717310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ledoker 关注啦，等回～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 1084,
+          "like_count": 11967,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 2459
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-09T08:40:40.000Z",
+        "description": "#KDJ is a global cryptocurrency data and cryptocurrency community information aggregator. Get the latest prices and industry trends anytime, anywhere:https://t.co/c3d9x7BR1X",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "KDJ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kdj.com",
+                "end": 173,
+                "expanded_url": "http://kdj.com",
+                "start": 150,
+                "url": "https://t.co/c3d9x7BR1X"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdj.com",
+                "end": 23,
+                "expanded_url": "https://www.kdj.com",
+                "start": 0,
+                "url": "https://t.co/njCf9798RZ"
+              }
+            ]
+          }
+        },
+        "id": "1866040051941171200",
+        "name": "kdj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884569598185644032/WXaxrjDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4378,
+          "following_count": 5263,
+          "like_count": 7485,
+          "listed_count": 8,
+          "media_count": 180,
+          "tweet_count": 3506
+        },
+        "url": "https://t.co/njCf9798RZ",
+        "username": "kdjcom_kdj",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-01T19:51:15.000Z",
+        "description": "记录我在 AI + Web3 的实战探索\n分享工具、项目观察和避坑心得",
+        "id": "37024081",
+        "name": "Joestar.G",
+        "pinned_tweet_id": "2062089594917863434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047937810787926016/XTaLfnyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 1154,
+          "like_count": 984,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 665
+        },
+        "username": "ledoker",
+        "verified": true
+      }
+    ]
+  }
+}

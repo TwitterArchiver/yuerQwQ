@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062721065554518480",
+    "created_at": "2026-06-06T00:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T01:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063051083115802825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1022894948167761920",
+          "start": 0,
+          "username": "GzvvNO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063051083115802825",
+    "in_reply_to_user_id": "1022894948167761920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062962964702048512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GzvvNO 昨天睡觉前我甚至看见了洋人的机器人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062721065554518480",
+        "created_at": "2026-06-06T00:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T01:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063051083115802825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1022894948167761920",
+              "start": 0,
+              "username": "GzvvNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063051083115802825",
+        "in_reply_to_user_id": "1022894948167761920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062962964702048512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GzvvNO 昨天睡觉前我甚至看见了洋人的机器人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1022894948167761920",
+        "conversation_id": "2062721065554518480",
+        "created_at": "2026-06-05T18:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062962964702048512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062962964702048512",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1073,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062721065554518480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 你怎么被机器人轰炸成这样了😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 1093,
+          "like_count": 11904,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 2430
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-27T17:22:14.000Z",
+        "description": "18↑/不擅长社交，一般只转发或点赞/Stand with 🇺🇦 /Fxxk Trump and Musk",
+        "id": "1022894948167761920",
+        "name": "環いろは💙💛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726124445138616320/jHAkABSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 4660,
+          "like_count": 158193,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 48136
+        },
+        "username": "GzvvNO",
+        "verified": false
+      }
+    ]
+  }
+}

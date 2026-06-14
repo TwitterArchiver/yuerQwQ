@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2063153924215869805",
+    "created_at": "2026-06-07T02:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063453995319128410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1477645652796776452",
+          "start": 0,
+          "username": "114514Arster"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063453995319128410",
+    "in_reply_to_user_id": "1477645652796776452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063170806109397037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@114514Arster 啊，非常抱歉...\n这张图我是在一个梗图QQ群里发现的，我并不是一手搬运）\n我需要删除这条贴文吗emm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2063153924215869805",
+        "created_at": "2026-06-07T02:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063453995319128410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1477645652796776452",
+              "start": 0,
+              "username": "114514Arster"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063453995319128410",
+        "in_reply_to_user_id": "1477645652796776452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063170806109397037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@114514Arster 啊，非常抱歉...\n这张图我是在一个梗图QQ群里发现的，我并不是一手搬运）\n我需要删除这条贴文吗emm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477645652796776452",
+        "conversation_id": "2063153924215869805",
+        "created_at": "2026-06-06T08:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063170806109397037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063170806109397037",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 378,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063153924215869805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 你好你为啥无断转载我的同人图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1545,
+          "following_count": 1062,
+          "like_count": 12155,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 2537
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-02T14:19:26.000Z",
+        "description": "🇨🇳废话很多的异食癖百合控。\nメリ蓮左右固定洁癖。\n❌NG：拆逆、一体论、AI\n🦋BS→https://t.co/gBma92kGx8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/114514…",
+                "end": 67,
+                "expanded_url": "https://bsky.app/profile/114514arster.bsky.social",
+                "start": 44,
+                "url": "https://t.co/gBma92kGx8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/c3v5swlm0nldei…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/c3v5swlm0nldeij?t=bQbqcF&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/cd7h9pNaXc"
+              }
+            ]
+          }
+        },
+        "id": "1477645652796776452",
+        "location": "Dr.Latency庭園",
+        "name": "セキエイ。",
+        "pinned_tweet_id": "2060572694119318002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053894194998157312/cJkRL6ix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 153,
+          "like_count": 2916,
+          "listed_count": 7,
+          "media_count": 268,
+          "tweet_count": 3049
+        },
+        "url": "https://t.co/cd7h9pNaXc",
+        "username": "114514Arster",
+        "verified": false
+      }
+    ]
+  }
+}

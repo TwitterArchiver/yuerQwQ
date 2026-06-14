@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2063460987160953042",
+    "created_at": "2026-06-07T03:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063461279373942917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1412766713670635524",
+          "start": 0,
+          "username": "BoeingFontaine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063461279373942917",
+    "in_reply_to_user_id": "1412766713670635524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063460987160953042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BoeingFontaine 嗯......?\n这套话术不是随时都能见到的嘛...\n还是说这背后有个什么特殊事件我不知道的（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2063460987160953042",
+        "created_at": "2026-06-07T03:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063461279373942917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1412766713670635524",
+              "start": 0,
+              "username": "BoeingFontaine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063461279373942917",
+        "in_reply_to_user_id": "1412766713670635524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063460987160953042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BoeingFontaine 嗯......?\n这套话术不是随时都能见到的嘛...\n还是说这背后有个什么特殊事件我不知道的（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1412766713670635524",
+        "conversation_id": "2063460987160953042",
+        "created_at": "2026-06-07T03:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063460987160953042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuerqwq/status…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/yuerqwq/status/2063433260143698046",
+              "start": 32,
+              "url": "https://t.co/RtRr6H1COe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063460987160953042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063433260143698046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这件事我记得是二月份的吧，怎么会是现在呢，搬图起码也要搞明白吧 https://t.co/RtRr6H1COe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 1068,
+          "like_count": 12187,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 2543
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-07T13:33:38.000Z",
+        "description": "波音商用飞机集团枫丹分公司",
+        "id": "1412766713670635524",
+        "location": "近地轨道 太空希尔顿酒店",
+        "name": "波音枫丹 @BoeingFontaine 🇺🇦",
+        "pinned_tweet_id": "1872504672558485581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837152827652853762/TS48JXL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 597,
+          "like_count": 82550,
+          "listed_count": 4,
+          "media_count": 2757,
+          "tweet_count": 12312
+        },
+        "username": "BoeingFontaine",
+        "verified": true
+      }
+    ]
+  }
+}

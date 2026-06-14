@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2064036705674604994",
+    "created_at": "2026-06-09T05:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064225756423795115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "63917073",
+          "start": 0,
+          "username": "braveboyali"
+        },
+        {
+          "end": 27,
+          "id": "1478983169818779650",
+          "start": 13,
+          "username": "fengye12345hs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064225756423795115",
+    "in_reply_to_user_id": "63917073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064049646482436264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@braveboyali @fengye12345hs 互关，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2064036705674604994",
+        "created_at": "2026-06-09T05:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064225756423795115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "63917073",
+              "start": 0,
+              "username": "braveboyali"
+            },
+            {
+              "end": 27,
+              "id": "1478983169818779650",
+              "start": 13,
+              "username": "fengye12345hs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064225756423795115",
+        "in_reply_to_user_id": "63917073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064049646482436264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@braveboyali @fengye12345hs 互关，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "63917073",
+        "conversation_id": "2064036705674604994",
+        "created_at": "2026-06-08T18:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T19:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064049646482436264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1478983169818779650",
+              "start": 0,
+              "username": "fengye12345hs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064049646482436264",
+        "in_reply_to_user_id": "1478983169818779650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064036705674604994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengye12345hs 互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "picxis63594"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 1106,
+          "like_count": 12605,
+          "listed_count": 1,
+          "media_count": 467,
+          "tweet_count": 2697
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-08T05:47:06.000Z",
+        "description": "",
+        "id": "63917073",
+        "location": "Aydın,Türkiye",
+        "name": "Ali PARGAN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3702233042/8503eda307d020254b43947976eccc03_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 184,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 261
+        },
+        "username": "braveboyali",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-06T06:54:29.000Z",
+        "description": "全职交易\n经常在线，但不一定在线\n想到什么发什么",
+        "id": "1478983169818779650",
+        "name": "MK不在线",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055647732535369728/r7rtSAnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 1236,
+          "like_count": 318,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 346
+        },
+        "username": "fengye12345hs",
+        "verified": true
+      }
+    ]
+  }
+}

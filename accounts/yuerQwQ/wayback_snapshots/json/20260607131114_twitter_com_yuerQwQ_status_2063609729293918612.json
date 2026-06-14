@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2063395517959131221",
+    "created_at": "2026-06-07T13:11:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063609729293918612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747064134490066944",
+          "start": 0,
+          "username": "JiaRanToday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063609729293918612",
+    "in_reply_to_user_id": "1747064134490066944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063592523474571695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiaRanToday 😦\n我觉得\n应该还是不要尝试的好……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2063395517959131221",
+        "created_at": "2026-06-07T13:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063609729293918612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747064134490066944",
+              "start": 0,
+              "username": "JiaRanToday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063609729293918612",
+        "in_reply_to_user_id": "1747064134490066944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063592523474571695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiaRanToday 😦\n我觉得\n应该还是不要尝试的好……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747064134490066944",
+        "conversation_id": "2063395517959131221",
+        "created_at": "2026-06-07T12:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063592523474571695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063592523474571695",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063395517959131221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 蟑螂奶好喝吗 如果好喝的话 我想自己做一些尝尝 我没有朋友 做一些美食  是少数让我感到开心的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "wu31878"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "picxis63594"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 1075,
+          "like_count": 12321,
+          "listed_count": 1,
+          "media_count": 424,
+          "tweet_count": 2583
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-16T01:12:21.000Z",
+        "description": "📦 𝙋𝙞𝙣𝙠𝙍𝙤𝙗𝙤𝙩\n\n┣ 👾 v2012s｜视觉系・挂壁 //初始化\n┣ 💊 v2018s｜MTF・抽象表达 \n┣ 🌃 v2024s｜Linux・AI・赛博朋克\n┗ 🤖💗 v4.0｜粉色可爱机器人 //上线版本\n\n𝙎𝙩𝙚𝙖𝙢 常驻\n🏳️‍⚧️ 表达永续\n✨ 神经持续吧··",
+        "id": "1747064134490066944",
+        "location": "成都/🚪加好友",
+        "name": "𝙿𝚒𝚗𝚔𝚁𝚘𝚋𝚘𝚝_v4.0.1.exe",
+        "pinned_tweet_id": "2049508588864024951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049503080597917697/69QkTC_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2316,
+          "following_count": 590,
+          "like_count": 1101,
+          "listed_count": 12,
+          "media_count": 117,
+          "tweet_count": 1207
+        },
+        "username": "JiaRanToday",
+        "verified": true
+      }
+    ]
+  }
+}

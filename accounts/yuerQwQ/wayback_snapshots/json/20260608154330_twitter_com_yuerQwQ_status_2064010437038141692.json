@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2063767300885602415",
+    "created_at": "2026-06-08T15:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064010437038141692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2060945493195116549",
+          "start": 0,
+          "username": "buzhimingdeyiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064010437038141692",
+    "in_reply_to_user_id": "2060945493195116549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063951603703468086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buzhimingdeyiai 并非高）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2063767300885602415",
+        "created_at": "2026-06-08T15:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064010437038141692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2060945493195116549",
+              "start": 0,
+              "username": "buzhimingdeyiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064010437038141692",
+        "in_reply_to_user_id": "2060945493195116549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063951603703468086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buzhimingdeyiai 并非高）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060945493195116549",
+        "conversation_id": "2063767300885602415",
+        "created_at": "2026-06-08T11:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063951603703468086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063951603703468086",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063767300885602415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 现在人的智商这么高么😳，吓哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "picxis63594"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 1118,
+          "like_count": 12513,
+          "listed_count": 1,
+          "media_count": 456,
+          "tweet_count": 2671
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-31T04:47:23.000Z",
+        "description": "可能认识？❌见证。｜友🏳️‍⚧️🏳️‍🌈｜日常推号｜偶尔精神病发作（别理）。晶哥我错了，我给你跪下了，我会做个正常人的，别再搞我了😭",
+        "id": "2060945493195116549",
+        "location": "天堂",
+        "name": "不知名の翌🍥🎊🎉🍟（淡推中）",
+        "pinned_tweet_id": "2063522560889798739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061034067236163590/TKRptDyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 174,
+          "like_count": 1114,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 421
+        },
+        "username": "buzhimingdeyiai",
+        "verified": false
+      }
+    ]
+  }
+}

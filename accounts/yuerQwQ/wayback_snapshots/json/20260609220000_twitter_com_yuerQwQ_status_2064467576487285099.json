@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064377533408448512"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2064467576487285099",
+    "created_at": "2026-06-09T22:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T23:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064467576487285099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 29,
+          "id": "11393832",
+          "start": 15,
+          "username": "ChrisHallbeck"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OsPLKXTR1f",
+          "end": 53,
+          "expanded_url": "https://x.com/yuerQwQ/status/2064467576487285099/photo/1",
+          "media_key": "3_2064377533408448512",
+          "start": 30,
+          "url": "https://t.co/OsPLKXTR1f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064467576487285099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不要这样拿眼镜啊😫😫\n\n出自：@ChrisHallbeck https://t.co/OsPLKXTR1f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1095,
+        "media_key": "3_2064377533408448512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYkbdkbkAAVdbc.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064377533408448512"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2064467576487285099",
+        "created_at": "2026-06-09T22:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T23:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064467576487285099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "11393832",
+              "start": 15,
+              "username": "ChrisHallbeck"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OsPLKXTR1f",
+              "end": 53,
+              "expanded_url": "https://x.com/yuerQwQ/status/2064467576487285099/photo/1",
+              "media_key": "3_2064377533408448512",
+              "start": 30,
+              "url": "https://t.co/OsPLKXTR1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064467576487285099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要这样拿眼镜啊😫😫\n\n出自：@ChrisHallbeck https://t.co/OsPLKXTR1f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "picxis63594"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1721,
+          "following_count": 1130,
+          "like_count": 12688,
+          "listed_count": 1,
+          "media_count": 480,
+          "tweet_count": 2735
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2007-12-21T03:46:32.000Z",
+        "description": "Cartoonist. Animator https://t.co/3FyEcO3sb0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/chrishallbeck",
+                "end": 44,
+                "expanded_url": "https://patreon.com/chrishallbeck",
+                "start": 21,
+                "url": "https://t.co/3FyEcO3sb0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hallbeck.com/links",
+                "end": 23,
+                "expanded_url": "https://hallbeck.com/links",
+                "start": 0,
+                "url": "https://t.co/3byL88MLnU"
+              }
+            ]
+          }
+        },
+        "id": "11393832",
+        "name": "Chris Hallbeck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/658969013418987520/Cju97cqC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17531,
+          "following_count": 903,
+          "like_count": 48038,
+          "listed_count": 416,
+          "media_count": 6982,
+          "tweet_count": 59959
+        },
+        "url": "https://t.co/3byL88MLnU",
+        "username": "ChrisHallbeck",
+        "verified": false
+      }
+    ]
+  }
+}

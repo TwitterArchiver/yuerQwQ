@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063051722805932033"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2063051731500728518",
+    "created_at": "2026-06-06T00:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T01:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063051731500728518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ljYL7EEAKh",
+          "end": 51,
+          "expanded_url": "https://x.com/yuerQwQ/status/2063051731500728518/photo/1",
+          "media_key": "3_2063051722805932033",
+          "start": 28,
+          "url": "https://t.co/ljYL7EEAKh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063051731500728518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我今天宣布\n机器人并非中推独有的\n不豪，洋机器人袭来！ https://t.co/ljYL7EEAKh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 990,
+        "media_key": "3_2063051722805932033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFunIMa8AE7NDI.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063051722805932033"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2063051731500728518",
+        "created_at": "2026-06-06T00:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T01:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063051731500728518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ljYL7EEAKh",
+              "end": 51,
+              "expanded_url": "https://x.com/yuerQwQ/status/2063051731500728518/photo/1",
+              "media_key": "3_2063051722805932033",
+              "start": 28,
+              "url": "https://t.co/ljYL7EEAKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063051731500728518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天宣布\n机器人并非中推独有的\n不豪，洋机器人袭来！ https://t.co/ljYL7EEAKh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 1093,
+          "like_count": 11904,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 2431
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

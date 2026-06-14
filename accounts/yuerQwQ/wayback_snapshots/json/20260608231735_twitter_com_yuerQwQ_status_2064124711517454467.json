@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2064061673795891658",
+    "created_at": "2026-06-08T23:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T00:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064124711517454467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677732423667445760",
+          "start": 0,
+          "username": "wuerbangbang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064124711517454467",
+    "in_reply_to_user_id": "1677732423667445760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064061673795891658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuerbangbang 哇…\n大佬！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064061083804192768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKUEnq7bUAA3gVZ.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064061089168678912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKUEn-6a4AAB0MH.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064061095934115840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKUEoYHbQAAS_M3.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2064061673795891658",
+        "created_at": "2026-06-08T23:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T00:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064124711517454467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677732423667445760",
+              "start": 0,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064124711517454467",
+        "in_reply_to_user_id": "1677732423667445760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064061673795891658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuerbangbang 哇…\n大佬！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064061083804192768",
+            "3_2064061089168678912",
+            "3_2064061095934115840"
+          ]
+        },
+        "author_id": "1677732423667445760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064061673795891658",
+        "created_at": "2026-06-08T19:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064061673795891658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5vhnQGXXSf",
+              "end": 112,
+              "expanded_url": "https://x.com/wuerbangbang/status/2064061673795891658/photo/1",
+              "media_key": "3_2064061083804192768",
+              "start": 89,
+              "url": "https://t.co/5vhnQGXXSf"
+            },
+            {
+              "display_url": "pic.x.com/5vhnQGXXSf",
+              "end": 112,
+              "expanded_url": "https://x.com/wuerbangbang/status/2064061673795891658/photo/1",
+              "media_key": "3_2064061089168678912",
+              "start": 89,
+              "url": "https://t.co/5vhnQGXXSf"
+            },
+            {
+              "display_url": "pic.x.com/5vhnQGXXSf",
+              "end": 112,
+              "expanded_url": "https://x.com/wuerbangbang/status/2064061673795891658/photo/1",
+              "media_key": "3_2064061095934115840",
+              "start": 89,
+              "url": "https://t.co/5vhnQGXXSf"
+            },
+            {
+              "display_url": "x.com/yuerQwQ/status…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/yuerQwQ/status/2063644651228414178",
+              "start": 113,
+              "url": "https://t.co/aDg9fA4k1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064061673795891658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4858,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063644651228414178",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃，这种骨传导讲解棒棒糖最早是2020年国家博物馆开发的，我还参与了设计……58一支，反响不好卖不出去，员工内部消化了。不过原po描述很有意思，感觉以后可以往情趣玩具上靠靠🤔？ https://t.co/5vhnQGXXSf https://t.co/aDg9fA4k1l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "picxis63594"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1641,
+          "following_count": 1105,
+          "like_count": 12541,
+          "listed_count": 1,
+          "media_count": 460,
+          "tweet_count": 2681
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国家博物馆前馆员。文史艺术、书画篆刻、三俗烂梗、旅游爱好者。对世界有旺盛的探索欲，喜欢有趣的人🤒PhDing of folklore, graduated from @PKU1898, Miao,  lover of history, heritage, art & tour🪭🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "location": "跳回三界内，待在五行中。",
+        "name": "吴二棒",
+        "pinned_tweet_id": "2011619057360126001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10857,
+          "following_count": 968,
+          "like_count": 18850,
+          "listed_count": 46,
+          "media_count": 2800,
+          "tweet_count": 8976
+        },
+        "username": "wuerbangbang",
+        "verified": true
+      }
+    ]
+  }
+}

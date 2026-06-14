@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2063827752982401220",
+    "created_at": "2026-06-08T15:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063999974921347218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "929803880673636352",
+          "start": 0,
+          "username": "yyyyyyyyyyyyan"
+        },
+        {
+          "end": 32,
+          "id": "1114257472603267075",
+          "start": 16,
+          "username": "CryptoPilot3226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063999974921347218",
+    "in_reply_to_user_id": "929803880673636352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063858537219182851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyyyyyyyyyyyan @CryptoPilot3226 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2063827752982401220",
+        "created_at": "2026-06-08T15:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063999974921347218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "929803880673636352",
+              "start": 0,
+              "username": "yyyyyyyyyyyyan"
+            },
+            {
+              "end": 32,
+              "id": "1114257472603267075",
+              "start": 16,
+              "username": "CryptoPilot3226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063999974921347218",
+        "in_reply_to_user_id": "929803880673636352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063858537219182851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyyyyyyyyyyyan @CryptoPilot3226 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "929803880673636352",
+        "conversation_id": "2063827752982401220",
+        "created_at": "2026-06-08T05:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063858537219182851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1114257472603267075",
+              "start": 0,
+              "username": "CryptoPilot3226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063858537219182851",
+        "in_reply_to_user_id": "1114257472603267075",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063827752982401220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CryptoPilot3226 互相帮助"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "picxis63594"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 1114,
+          "like_count": 12470,
+          "listed_count": 1,
+          "media_count": 456,
+          "tweet_count": 2657
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-12T20:11:34.000Z",
+        "description": "趋势交易 只做强势股",
+        "id": "929803880673636352",
+        "name": "道法自然",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063448486377635840/8JewQwOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 280,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 150
+        },
+        "username": "yyyyyyyyyyyyan",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-05T20:04:18.000Z",
+        "description": "@KyberNetwork @fore_gate 大使 合作私信TG:@pilot32261 weex80返佣码：shuke666 所有推文不做投资建议",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "KyberNetwork"
+              },
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fore_gate"
+              },
+              {
+                "end": 46,
+                "start": 35,
+                "username": "pilot32261"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "go.foregate.com/HkkJnnl",
+                "end": 23,
+                "expanded_url": "https://go.foregate.com/HkkJnnl",
+                "start": 0,
+                "url": "https://t.co/a4oIFCz9ag"
+              }
+            ]
+          }
+        },
+        "id": "1114257472603267075",
+        "location": "玩预测就来ForeGate，包赔活动进行中👉",
+        "name": "Crypto舒克🐬TermMax",
+        "pinned_tweet_id": "2062821999823778151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028672903462752256/F9nJ-CEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35817,
+          "following_count": 5769,
+          "like_count": 4497,
+          "listed_count": 55,
+          "media_count": 3197,
+          "tweet_count": 16878
+        },
+        "url": "https://t.co/a4oIFCz9ag",
+        "username": "CryptoPilot3226",
+        "verified": true
+      }
+    ]
+  }
+}

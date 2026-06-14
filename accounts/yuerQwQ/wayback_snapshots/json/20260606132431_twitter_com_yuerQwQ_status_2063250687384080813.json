@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2062882127457452447",
+    "created_at": "2026-06-06T13:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063250687384080813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "971003340602486784",
+          "start": 0,
+          "username": "Ixoryss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063250687384080813",
+    "in_reply_to_user_id": "971003340602486784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063234252972724534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ixoryss 吓哭了..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062882127457452447",
+        "created_at": "2026-06-06T13:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063250687384080813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "971003340602486784",
+              "start": 0,
+              "username": "Ixoryss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063250687384080813",
+        "in_reply_to_user_id": "971003340602486784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063234252972724534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ixoryss 吓哭了..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "971003340602486784",
+        "conversation_id": "2062882127457452447",
+        "created_at": "2026-06-06T12:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063234252972724534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063234252972724534",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062882127457452447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 高三的时候在空间发过一张清明节的复习卷把整个客厅地板铺满的图（客厅60平米）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 1100,
+          "like_count": 11996,
+          "listed_count": 1,
+          "media_count": 384,
+          "tweet_count": 2486
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-06T12:43:31.000Z",
+        "description": "硬件/嵌入式开发/摄影/产品工作室 | 苏州｜ Sister: @CelestialSayuki | \nnot a cat.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "CelestialSayuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixoryss2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ixoryss2",
+                "start": 0,
+                "url": "https://t.co/7iiCUgGvNv"
+              }
+            ]
+          }
+        },
+        "id": "971003340602486784",
+        "location": "Dusk-Kissed TrES-2b, Cygnus",
+        "name": "镜涟",
+        "pinned_tweet_id": "2017629909221605473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042862643762102272/_mIwOzB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 325,
+          "like_count": 863,
+          "listed_count": 1,
+          "media_count": 501,
+          "tweet_count": 1799
+        },
+        "url": "https://t.co/7iiCUgGvNv",
+        "username": "Ixoryss",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2064352699412516938",
+    "created_at": "2026-06-10T00:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T01:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064502569335222344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1989259848111042560",
+          "start": 0,
+          "username": "2038277897Zheng"
+        },
+        {
+          "end": 33,
+          "id": "1801311198857596928",
+          "start": 17,
+          "username": "KarlSkifte76431"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064502569335222344",
+    "in_reply_to_user_id": "1989259848111042560",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064482344728514587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2038277897Zheng @KarlSkifte76431 Hi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2064352699412516938",
+        "created_at": "2026-06-10T00:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064502569335222344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1989259848111042560",
+              "start": 0,
+              "username": "2038277897Zheng"
+            },
+            {
+              "end": 33,
+              "id": "1801311198857596928",
+              "start": 17,
+              "username": "KarlSkifte76431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064502569335222344",
+        "in_reply_to_user_id": "1989259848111042560",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064482344728514587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2038277897Zheng @KarlSkifte76431 Hi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989259848111042560",
+        "conversation_id": "2064352699412516938",
+        "created_at": "2026-06-09T22:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T23:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064482344728514587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801311198857596928",
+              "start": 0,
+              "username": "KarlSkifte76431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064482344728514587",
+        "in_reply_to_user_id": "1801311198857596928",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064442783776051656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KarlSkifte76431 Hi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "picxis63594"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1732,
+          "following_count": 1137,
+          "like_count": 12706,
+          "listed_count": 1,
+          "media_count": 482,
+          "tweet_count": 2746
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-14T09:11:34.000Z",
+        "description": "🎓 06年大学生，别人刷短视频，我在研究美股和加密。\n📈 长期主义｜延时满足｜相信复利会说话。\n⏳ 来X记录分享学习",
+        "id": "1989259848111042560",
+        "name": "郑越",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055949149070323712/I-gP6R0h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 455,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 275
+        },
+        "username": "2038277897Zheng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-13T17:50:59.000Z",
+        "description": "Spacenut",
+        "id": "1801311198857596928",
+        "location": "Niaqornaarsuk",
+        "name": "Karl Kristian Skifte",
+        "pinned_tweet_id": "2035889161975034272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915877361985204224/GtSFx6Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 2865,
+          "like_count": 27388,
+          "listed_count": 0,
+          "media_count": 485,
+          "tweet_count": 4550
+        },
+        "username": "KarlSkifte76431",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2063315023699775707",
+    "created_at": "2026-06-06T17:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063315023699775707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2033160782687731712",
+          "start": 3,
+          "username": "Shioochic_Xyn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2063…",
+          "end": 42,
+          "expanded_url": "http://x.com/i/article/2063295784733593600",
+          "start": 19,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2063295784733593600",
+          "url": "https://t.co/hbu3JpJU2W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063315023699775707",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063299340777746816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shioochic_Xyn: https://t.co/hbu3JpJU2W"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2063315023699775707",
+        "created_at": "2026-06-06T17:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063315023699775707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2033160782687731712",
+              "start": 3,
+              "username": "Shioochic_Xyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2063…",
+              "end": 42,
+              "expanded_url": "http://x.com/i/article/2063295784733593600",
+              "start": 19,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2063295784733593600",
+              "url": "https://t.co/hbu3JpJU2W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063315023699775707",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063299340777746816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shioochic_Xyn: https://t.co/hbu3JpJU2W"
+      },
+      {
+        "article": {
+          "title": "『Q君与世界的外侧』Part 2"
+        },
+        "attachments": {},
+        "author_id": "2033160782687731712",
+        "conversation_id": "2063299340777746816",
+        "created_at": "2026-06-06T16:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063299340777746816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2063…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2063295784733593600",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2063295784733593600",
+              "url": "https://t.co/hbu3JpJU2W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063299340777746816",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1763,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hbu3JpJU2W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 1103,
+          "like_count": 12039,
+          "listed_count": 1,
+          "media_count": 394,
+          "tweet_count": 2503
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！｜主页请看亮点｜石图提供者@hiotemaron41774｜友跨顺男@Whatasiger｜友男跨顺@WhitesugarC｜友情链接:https//:https://t.co/lgff7NheVI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Whatasiger"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "WhitesugarC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 160,
+                "expanded_url": "http://whatasiger.xyz",
+                "start": 137,
+                "url": "https://t.co/lgff7NheVI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2061461592559239417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3294,
+          "following_count": 1827,
+          "like_count": 6393,
+          "listed_count": 5,
+          "media_count": 654,
+          "tweet_count": 4703
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochic_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

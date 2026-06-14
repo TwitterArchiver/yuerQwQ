@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2064195787769192809",
+    "created_at": "2026-06-09T09:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064285286868422676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1908550388061790211",
+          "start": 0,
+          "username": "pdhoffnungslos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064285286868422676",
+    "in_reply_to_user_id": "1908550388061790211",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064283182820983271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pdhoffnungslos 并非好吃😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2064195787769192809",
+        "created_at": "2026-06-09T09:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064285286868422676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1908550388061790211",
+              "start": 0,
+              "username": "pdhoffnungslos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064285286868422676",
+        "in_reply_to_user_id": "1908550388061790211",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064283182820983271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pdhoffnungslos 并非好吃😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908550388061790211",
+        "conversation_id": "2064195787769192809",
+        "created_at": "2026-06-09T09:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064283182820983271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064283182820983271",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064195787769192809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 好吃的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "picxis63594"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 1118,
+          "like_count": 12637,
+          "listed_count": 1,
+          "media_count": 471,
+          "tweet_count": 2712
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-05T16:00:56.000Z",
+        "description": "中国特色极右主义，古早学习德语，五年没碰，喜欢伊斯兰阿拉伯音乐、交响金属乐。\n2026年冲击奥赛。",
+        "id": "1908550388061790211",
+        "location": "中国大陆-北京市-昌平区-秦城村-公安部鉴定中心秦城培训基地",
+        "name": "阿蕾奇诺女王的狗🐭_三代目",
+        "pinned_tweet_id": "2045125438918557765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037789176578658304/8RdpXWkZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 343,
+          "like_count": 19529,
+          "listed_count": 2,
+          "media_count": 1460,
+          "tweet_count": 17137
+        },
+        "username": "pdhoffnungslos",
+        "verified": false
+      }
+    ]
+  }
+}

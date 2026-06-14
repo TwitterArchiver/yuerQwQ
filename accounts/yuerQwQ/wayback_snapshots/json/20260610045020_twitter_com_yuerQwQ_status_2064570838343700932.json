@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2064509824554139675",
+    "created_at": "2026-06-10T04:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064570838343700932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592807107211907073",
+          "start": 0,
+          "username": "kuk47377341"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064570838343700932",
+    "in_reply_to_user_id": "1592807107211907073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064509824554139675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuk47377341 中午好~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2064509800319434752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKacuaNaQAA9KI8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2064509824554139675",
+        "created_at": "2026-06-10T04:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064570838343700932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592807107211907073",
+              "start": 0,
+              "username": "kuk47377341"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064570838343700932",
+        "in_reply_to_user_id": "1592807107211907073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064509824554139675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuk47377341 中午好~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064509800319434752"
+          ]
+        },
+        "author_id": "1592807107211907073",
+        "conversation_id": "2064509824554139675",
+        "created_at": "2026-06-10T00:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064509824554139675"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MMzN61QHWN",
+              "end": 161,
+              "expanded_url": "https://x.com/kuk47377341/status/2064509824554139675/photo/1",
+              "media_key": "3_2064509800319434752",
+              "start": 138,
+              "url": "https://t.co/MMzN61QHWN"
+            },
+            {
+              "display_url": "x.com/kuk47377341/st…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/kuk47377341/status/2064154655257678022",
+              "start": 162,
+              "url": "https://t.co/VNaFbjzIpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064509824554139675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1185,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 71,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064154655257678022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "GM GN! \n\n周三咯！早上挤地铁的时候我就在想，这班是真的一天比一天上得心不甘情不愿😮‍💨\n\n老板要是能看到我的内心OS，估计当场把我开了\n\n行吧不想了，搞点正事\n\n老规矩有关必回，漏了的朋友评论区戳我，秒回\n\n互关一波啊老师们，工作可以摸鱼，涨粉必须认真\n\n#蓝v互关 https://t.co/MMzN61QHWN https://t.co/VNaFbjzIpq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "picxis63594"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 1140,
+          "like_count": 12743,
+          "listed_count": 1,
+          "media_count": 486,
+          "tweet_count": 2757
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-16T09:09:50.000Z",
+        "description": "加密爱好者｜全撸型选手 任何推文不做投资建议🫡 \n含付费广告，请自行辨别，介意勿关🙏",
+        "id": "1592807107211907073",
+        "name": "Kithe",
+        "pinned_tweet_id": "2060706545562956117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048677740765978624/wS7eA49Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21123,
+          "following_count": 16896,
+          "like_count": 187671,
+          "listed_count": 136,
+          "media_count": 1717,
+          "tweet_count": 180897
+        },
+        "username": "kuk47377341",
+        "verified": true
+      }
+    ]
+  }
+}

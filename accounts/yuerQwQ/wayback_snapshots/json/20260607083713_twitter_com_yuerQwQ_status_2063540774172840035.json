@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2063403059372265932",
+    "created_at": "2026-06-07T08:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063540774172840035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2872818330",
+          "start": 0,
+          "username": "Russell_Shining"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063540774172840035",
+    "in_reply_to_user_id": "2872818330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063537805729706029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Russell_Shining 是梗图啦…\n\nQWQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2063403059372265932",
+        "created_at": "2026-06-07T08:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063540774172840035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2872818330",
+              "start": 0,
+              "username": "Russell_Shining"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063540774172840035",
+        "in_reply_to_user_id": "2872818330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063537805729706029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Russell_Shining 是梗图啦…\n\nQWQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2872818330",
+        "conversation_id": "2063403059372265932",
+        "created_at": "2026-06-07T08:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063537805729706029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063537805729706029",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063403059372265932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 只會講 估吓幾錢？ 唔會講得咁唔順口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 1073,
+          "like_count": 12271,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 2566
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-23T07:36:22.000Z",
+        "description": "",
+        "id": "2872818330",
+        "location": "Kantō, Tochigi",
+        "name": "ラッセル・シャイニング",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701873269266358272/jk8J-CHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 881,
+          "like_count": 245,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 660
+        },
+        "username": "Russell_Shining",
+        "verified": false
+      }
+    ]
+  }
+}

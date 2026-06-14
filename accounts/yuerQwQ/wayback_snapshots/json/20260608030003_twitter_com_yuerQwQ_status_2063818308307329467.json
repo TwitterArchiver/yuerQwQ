@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063768564159610880"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063818308307329467",
+    "created_at": "2026-06-08T03:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063818308307329467"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JRDIkeoHSD",
+          "end": 32,
+          "expanded_url": "https://x.com/yuerQwQ/status/2063818308307329467/photo/1",
+          "media_key": "3_2063768564159610880",
+          "start": 9,
+          "url": "https://t.co/JRDIkeoHSD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063818308307329467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这种事情补药啊😭 https://t.co/JRDIkeoHSD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 780,
+        "media_key": "3_2063768564159610880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKP6kyVaAAASsQk.jpg",
+        "width": 686
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063768564159610880"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063818308307329467",
+        "created_at": "2026-06-08T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063818308307329467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JRDIkeoHSD",
+              "end": 32,
+              "expanded_url": "https://x.com/yuerQwQ/status/2063818308307329467/photo/1",
+              "media_key": "3_2063768564159610880",
+              "start": 9,
+              "url": "https://t.co/JRDIkeoHSD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063818308307329467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种事情补药啊😭 https://t.co/JRDIkeoHSD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "wu31878"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "picxis63594"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 1076,
+          "like_count": 12385,
+          "listed_count": 1,
+          "media_count": 442,
+          "tweet_count": 2615
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2064231220578513102",
+    "created_at": "2026-06-09T16:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T17:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064380754734493745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3306071760",
+          "start": 0,
+          "username": "oneruofeng"
+        },
+        {
+          "end": 20,
+          "id": "1957426434907254784",
+          "start": 12,
+          "username": "SCY_BTC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064380754734493745",
+    "in_reply_to_user_id": "3306071760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064353571580363055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oneruofeng @SCY_BTC 喵喵喵꜀(^. .^꜀  )꜆੭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2064231220578513102",
+        "created_at": "2026-06-09T16:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064380754734493745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3306071760",
+              "start": 0,
+              "username": "oneruofeng"
+            },
+            {
+              "end": 20,
+              "id": "1957426434907254784",
+              "start": 12,
+              "username": "SCY_BTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064380754734493745",
+        "in_reply_to_user_id": "3306071760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064353571580363055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oneruofeng @SCY_BTC 喵喵喵꜀(^. .^꜀  )꜆੭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3306071760",
+        "conversation_id": "2064231220578513102",
+        "created_at": "2026-06-09T14:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064353571580363055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1957426434907254784",
+              "start": 0,
+              "username": "SCY_BTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064353571580363055",
+        "in_reply_to_user_id": "1957426434907254784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064231220578513102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SCY_BTC 充一波"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "picxis63594"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 1129,
+          "like_count": 12683,
+          "listed_count": 1,
+          "media_count": 479,
+          "tweet_count": 2732
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-04T14:56:58.000Z",
+        "description": "10 年+ 前端开发 ｜ AI 效率、编程、生图探索 ｜互联网从业者｜美股爱好者｜ web3 新手上路\n公众号: 「若风科技说」\nGitHub：https://t.co/LdCihoaOCi\n个人博客：https://t.co/liKkRs5KH9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/wangruofeng",
+                "end": 95,
+                "expanded_url": "https://github.com/wangruofeng",
+                "start": 72,
+                "url": "https://t.co/LdCihoaOCi"
+              },
+              {
+                "display_url": "wangruofeng007.com",
+                "end": 124,
+                "expanded_url": "https://wangruofeng007.com",
+                "start": 101,
+                "url": "https://t.co/liKkRs5KH9"
+              }
+            ]
+          }
+        },
+        "id": "3306071760",
+        "location": "China",
+        "name": "ruofeng",
+        "pinned_tweet_id": "2054070327177806015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013656648892452880/kPI1FtlC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 810,
+          "like_count": 1403,
+          "listed_count": 6,
+          "media_count": 122,
+          "tweet_count": 1057
+        },
+        "username": "oneruofeng",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-18T12:56:52.000Z",
+        "description": "#BSC高级研究员｜冷静现货交易员\n#Alpha #二级交易｜逻辑驱动收益，研究赢得穿越\nBinance & BNB生态深耕｜合作DM我\nDrive profits with logic, win with research",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "BSC高级研究员"
+              },
+              {
+                "end": 24,
+                "start": 18,
+                "tag": "Alpha"
+              },
+              {
+                "end": 30,
+                "start": 25,
+                "tag": "二级交易"
+              }
+            ]
+          }
+        },
+        "id": "1957426434907254784",
+        "location": "九龍城, 香港",
+        "name": "苏颖｜Nini🐈",
+        "pinned_tweet_id": "2050935746618610039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051548450786045952/1fu3dAEI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7509,
+          "following_count": 2742,
+          "like_count": 12530,
+          "listed_count": 8,
+          "media_count": 494,
+          "tweet_count": 9893
+        },
+        "username": "SCY_BTC",
+        "verified": true
+      }
+    ]
+  }
+}

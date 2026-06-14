@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2064036705674604994",
+    "created_at": "2026-06-09T05:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064225927115198637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "903555553867161601",
+          "start": 0,
+          "username": "paulzhou1985"
+        },
+        {
+          "end": 28,
+          "id": "1478983169818779650",
+          "start": 14,
+          "username": "fengye12345hs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064225927115198637",
+    "in_reply_to_user_id": "903555553867161601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064131824146952622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paulzhou1985 @fengye12345hs 你好~\n可以互相关注嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2064036705674604994",
+        "created_at": "2026-06-09T05:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064225927115198637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "903555553867161601",
+              "start": 0,
+              "username": "paulzhou1985"
+            },
+            {
+              "end": 28,
+              "id": "1478983169818779650",
+              "start": 14,
+              "username": "fengye12345hs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064225927115198637",
+        "in_reply_to_user_id": "903555553867161601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064131824146952622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paulzhou1985 @fengye12345hs 你好~\n可以互相关注嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "903555553867161601",
+        "conversation_id": "2064036705674604994",
+        "created_at": "2026-06-08T23:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T00:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064131824146952622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1478983169818779650",
+              "start": 0,
+              "username": "fengye12345hs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064131824146952622",
+        "in_reply_to_user_id": "1478983169818779650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064036705674604994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengye12345hs 嗨你好\n朋友\n已经关注\n很高兴认识你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "picxis63594"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 1108,
+          "like_count": 12605,
+          "listed_count": 1,
+          "media_count": 467,
+          "tweet_count": 2699
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-01T09:50:06.000Z",
+        "description": "北京天津国际教育深耕近20年。\n爱捣鼓电子产品和钻研最新AI科技。\n爱运动，爱时尚。\n多情善感",
+        "id": "903555553867161601",
+        "location": "北京, 中华人民共和国",
+        "name": "Paulzhou周仙人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031570986244673536/3HbEAmFt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 2443,
+          "like_count": 3764,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 3562
+        },
+        "username": "paulzhou1985",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-06T06:54:29.000Z",
+        "description": "全职交易\n经常在线，但不一定在线\n想到什么发什么",
+        "id": "1478983169818779650",
+        "name": "MK不在线",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055647732535369728/r7rtSAnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 1236,
+          "like_count": 319,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 347
+        },
+        "username": "fengye12345hs",
+        "verified": true
+      }
+    ]
+  }
+}

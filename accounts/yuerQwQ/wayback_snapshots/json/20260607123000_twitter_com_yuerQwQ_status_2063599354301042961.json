@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063449197572222976"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2063599354301042961",
+    "created_at": "2026-06-07T12:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063599354301042961"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iAjhhhQSeD",
+          "end": 30,
+          "expanded_url": "https://x.com/yuerQwQ/status/2063599354301042961/photo/1",
+          "media_key": "3_2063449197572222976",
+          "start": 7,
+          "url": "https://t.co/iAjhhhQSeD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063599354301042961",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "114514 https://t.co/iAjhhhQSeD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1510,
+        "media_key": "3_2063449197572222976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLYHNFbcAAw1mF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063449197572222976"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2063599354301042961",
+        "created_at": "2026-06-07T12:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063599354301042961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iAjhhhQSeD",
+              "end": 30,
+              "expanded_url": "https://x.com/yuerQwQ/status/2063599354301042961/photo/1",
+              "media_key": "3_2063449197572222976",
+              "start": 7,
+              "url": "https://t.co/iAjhhhQSeD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063599354301042961",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "114514 https://t.co/iAjhhhQSeD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "wu31878"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "picxis63594"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 1074,
+          "like_count": 12305,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 2580
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

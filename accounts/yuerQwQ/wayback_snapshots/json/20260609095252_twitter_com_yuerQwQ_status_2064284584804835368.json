@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2064019935115042975",
+    "created_at": "2026-06-09T09:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064284584804835368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1845359724285304836",
+          "start": 0,
+          "username": "WenlyHeron"
+        },
+        {
+          "end": 21,
+          "id": "2058251963771596801",
+          "start": 12,
+          "username": "aiduduba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064284584804835368",
+    "in_reply_to_user_id": "1845359724285304836",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064225461862109315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WenlyHeron @aiduduba ε(´｡•᎑•`)っ♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2064019935115042975",
+        "created_at": "2026-06-09T09:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064284584804835368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1845359724285304836",
+              "start": 0,
+              "username": "WenlyHeron"
+            },
+            {
+              "end": 21,
+              "id": "2058251963771596801",
+              "start": 12,
+              "username": "aiduduba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064284584804835368",
+        "in_reply_to_user_id": "1845359724285304836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064225461862109315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WenlyHeron @aiduduba ε(´｡•᎑•`)っ♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845359724285304836",
+        "conversation_id": "2064019935115042975",
+        "created_at": "2026-06-09T05:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064225461862109315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058251963771596801",
+              "start": 0,
+              "username": "aiduduba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064225461862109315",
+        "in_reply_to_user_id": "2058251963771596801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064019935115042975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiduduba 互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "picxis63594"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 1118,
+          "like_count": 12633,
+          "listed_count": 1,
+          "media_count": 471,
+          "tweet_count": 2711
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T07:04:13.000Z",
+        "description": "五年ETL码农转外贸，正在努力转型营业中，分享我的历程给你",
+        "id": "1845359724285304836",
+        "name": "wenly heron",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063184981535633408/3uhebD2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 243,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 102
+        },
+        "username": "WenlyHeron",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-23T18:22:49.000Z",
+        "description": "「大富靠命」\n「小富靠拼」",
+        "id": "2058251963771596801",
+        "name": "AI嘟爸",
+        "pinned_tweet_id": "2064019935115042975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059878831188738049/SWgBuVht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 311,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 94
+        },
+        "username": "aiduduba",
+        "verified": true
+      }
+    ]
+  }
+}

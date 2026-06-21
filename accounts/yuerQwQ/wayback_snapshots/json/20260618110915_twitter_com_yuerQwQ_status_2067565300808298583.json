@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2067517680949530978",
+    "created_at": "2026-06-18T11:09:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067565300808298583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1580608920531394562",
+          "start": 0,
+          "username": "ItisCorn_Woooo"
+        },
+        {
+          "end": 32,
+          "id": "720609429721260033",
+          "start": 16,
+          "username": "o4DT4OO2zY9Oyol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067565300808298583",
+    "in_reply_to_user_id": "1580608920531394562",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067564017158160748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ItisCorn_Woooo @o4DT4OO2zY9Oyol 那真完了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2067517680949530978",
+        "created_at": "2026-06-18T11:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067565300808298583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1580608920531394562",
+              "start": 0,
+              "username": "ItisCorn_Woooo"
+            },
+            {
+              "end": 32,
+              "id": "720609429721260033",
+              "start": 16,
+              "username": "o4DT4OO2zY9Oyol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067565300808298583",
+        "in_reply_to_user_id": "1580608920531394562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067564017158160748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ItisCorn_Woooo @o4DT4OO2zY9Oyol 那真完了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580608920531394562",
+        "conversation_id": "2067517680949530978",
+        "created_at": "2026-06-18T11:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067564017158160748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "720609429721260033",
+              "start": 0,
+              "username": "o4DT4OO2zY9Oyol"
+            },
+            {
+              "end": 25,
+              "id": "1962302660541079552",
+              "start": 17,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067564017158160748",
+        "in_reply_to_user_id": "720609429721260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067553938917003363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o4DT4OO2zY9Oyol @yuerQwQ 怕的是中西合璧，用针管打乱七八糟的东西进去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2053,
+          "following_count": 1267,
+          "like_count": 13697,
+          "listed_count": 1,
+          "media_count": 610,
+          "tweet_count": 3247
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-13T17:18:35.000Z",
+        "description": "Corn! I can tell u all about it.",
+        "id": "1580608920531394562",
+        "name": "赫鲁小夫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1587010287042977792/QZLAojSS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 376,
+          "like_count": 7267,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 7093
+        },
+        "username": "ItisCorn_Woooo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-14T13:47:31.000Z",
+        "description": "...\n好麻煩的東西\n就看個推打打嘴砲\n麻煩那些登能兒想嘴\n我沒問題\n別搞什麼引用+封鎖\n真的很北七",
+        "id": "720609429721260033",
+        "location": "Taiwan",
+        "name": "潘以旋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046949686322544640/HDug8LAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 300,
+          "like_count": 10492,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 1982
+        },
+        "username": "o4DT4OO2zY9Oyol",
+        "verified": false
+      }
+    ]
+  }
+}

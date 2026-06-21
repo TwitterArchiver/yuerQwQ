@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2066045082046984246",
+    "created_at": "2026-06-14T06:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T07:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066045082046984246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tomorrowomg/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/tomorrowomg/status/2066042615343264155",
+          "start": 4,
+          "url": "https://t.co/UeAQtr03K4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066045082046984246",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066042615343264155",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好诶~ https://t.co/UeAQtr03K4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066042068049522688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwOUIUa8AALkT2.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2066045082046984246",
+        "created_at": "2026-06-14T06:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066045082046984246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tomorrowomg/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/tomorrowomg/status/2066042615343264155",
+              "start": 4,
+              "url": "https://t.co/UeAQtr03K4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066045082046984246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066042615343264155",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好诶~ https://t.co/UeAQtr03K4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066042068049522688"
+          ]
+        },
+        "author_id": "2063085390668689408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2066042615343264155",
+        "created_at": "2026-06-14T06:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066042615343264155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 69,
+              "id": "2011405521245634560",
+              "start": 57,
+              "username": "Rimea_Chord"
+            },
+            {
+              "end": 93,
+              "id": "2045804402758316032",
+              "start": 79,
+              "username": "BydmrCsn89629"
+            },
+            {
+              "end": 102,
+              "id": "1962302660541079552",
+              "start": 94,
+              "username": "yuerQwQ"
+            },
+            {
+              "end": 110,
+              "id": "1696755498719318016",
+              "start": 103,
+              "username": "iuassu"
+            },
+            {
+              "end": 129,
+              "id": "1546431985086009344",
+              "start": 122,
+              "username": "NL8526"
+            },
+            {
+              "end": 142,
+              "id": "1792216311730429953",
+              "start": 130,
+              "username": "Yanxiao8888"
+            },
+            {
+              "end": 152,
+              "id": "2007440582797602817",
+              "start": 143,
+              "username": "qiuxunyu"
+            },
+            {
+              "end": 165,
+              "id": "2011478037414756354",
+              "start": 153,
+              "username": "jdvddh58736"
+            },
+            {
+              "end": 178,
+              "id": "1860552199585300482",
+              "start": 166,
+              "username": "Seven_Eraya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lwbnZC07ip",
+              "end": 202,
+              "expanded_url": "https://x.com/tomorrowomg/status/2066042615343264155/photo/1",
+              "media_key": "3_2066042068049522688",
+              "start": 179,
+              "url": "https://t.co/lwbnZC07ip"
+            },
+            {
+              "display_url": "x.com/tomorrowomg/st…",
+              "end": 226,
+              "expanded_url": "https://twitter.com/tomorrowomg/status/2065659961666101666",
+              "start": 203,
+              "url": "https://t.co/jyxITS6ZlB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066042615343264155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065659961666101666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抽奖结束了这是获奖名单，后面在500fo 1000fo还会有抽奖的，没抽中的话可以等下次再来\n\n一等奖（20元）：@Rimea_Chord\n二等奖（8元）：\n@BydmrCsn89629\n@yuerQwQ\n@iuassu\n  安慰奖（6元）：\n@NL8526\n@Yanxiao8888\n@qiuxunyu\n@jdvddh58736\n@Seven_Eraya https://t.co/lwbnZC07ip https://t.co/jyxITS6ZlB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1959,
+          "following_count": 1220,
+          "like_count": 13302,
+          "listed_count": 1,
+          "media_count": 570,
+          "tweet_count": 3024
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T02:28:39.000Z",
+        "description": "INFJ/户外/摄影风光/山地车/CD/06/广州天河/评论互fo/币圈/烂番茄小说作者/cs饰品  后世@KateLee15458   当朋友圈发\n\n剪輯萌新+player 一枚\n球球諸位點點讚吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "KateLee15458"
+              }
+            ]
+          }
+        },
+        "id": "2063085390668689408",
+        "location": "Hong Kong",
+        "name": "水清歡🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063616314292449281/EwJxOWco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 84,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 92
+        },
+        "username": "tomorrowomg",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,623 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1372588659346612225",
+          "name": "Binance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390680741206368263",
+          "name": "Cryptocurrency exchanges"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491481998862348291",
+          "name": "Digital asset industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "2068202190381240463",
+    "created_at": "2026-06-20T05:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T06:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068202190381240463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1592807107211907073",
+          "start": 3,
+          "username": "kuk47377341"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/QUW1qW",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/QUW1qW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068202190381240463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067942444998762847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuk47377341: 0手续费，才是真正的交易自由。\n\n这句话听着像口号，但做过合约的人应该懂——手续费从来不只是一笔费用，它影响的是你敢不敢开单。\n\n拿一个日均交易量50万美元的合约交易者来说，在Binance按Taker… https://t.co/QUW1qW…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1402,
+        "media_key": "3_2067942421577756672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLOrQ4acAAVk-t.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1372588659346612225",
+              "name": "Binance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2068202190381240463",
+        "created_at": "2026-06-20T05:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068202190381240463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1592807107211907073",
+              "start": 3,
+              "username": "kuk47377341"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/QUW1qW",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/QUW1qW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068202190381240463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067942444998762847",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuk47377341: 0手续费，才是真正的交易自由。\n\n这句话听着像口号，但做过合约的人应该懂——手续费从来不只是一笔费用，它影响的是你敢不敢开单。\n\n拿一个日均交易量50万美元的合约交易者来说，在Binance按Taker… https://t.co/QUW1qW…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067942421577756672"
+          ]
+        },
+        "author_id": "1592807107211907073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1372588659346612225",
+              "name": "Binance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2067942444998762847",
+        "created_at": "2026-06-19T12:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067942444998762847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QUW1qWm9kH",
+              "end": 125,
+              "expanded_url": "https://x.com/kuk47377341/status/2067942444998762847/photo/1",
+              "media_key": "3_2067942421577756672",
+              "start": 102,
+              "url": "https://t.co/QUW1qWm9kH"
+            },
+            {
+              "display_url": "x.com/BIYAPAYOFFICIA…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/BIYAPAYOFFICIAL/status/2066837780865462527",
+              "start": 126,
+              "url": "https://t.co/YogM5kdzVR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067942444998762847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 256,
+                "id": "1404674977866018816",
+                "start": 240,
+                "username": "BIYAPAYOFFICIAL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "active.biyagl.com/zh?id=22",
+                "end": 639,
+                "expanded_url": "http://active.biyagl.com/zh?id=22",
+                "start": 616,
+                "url": "https://t.co/dxSaUztoGR"
+              },
+              {
+                "display_url": "biyapay.com/zh/announcement",
+                "end": 667,
+                "expanded_url": "http://biyapay.com/zh/announcement",
+                "start": 644,
+                "url": "https://t.co/NoPTmINJzF"
+              },
+              {
+                "display_url": "biyapay.com/re/42442784",
+                "end": 695,
+                "expanded_url": "https://biyapay.com/re/42442784",
+                "start": 672,
+                "url": "https://t.co/5nZk7fh0B4"
+              }
+            ]
+          },
+          "text": "0手续费，才是真正的交易自由。\n\n这句话听着像口号，但做过合约的人应该懂——手续费从来不只是一笔费用，它影响的是你敢不敢开单。\n\n拿一个日均交易量50万美元的合约交易者来说，在Binance按Taker 0.05%算，一天手续费250美元，一个月7500，一年下来超过9万美元。你全年净赚15%已经很厉害了，结果手续费先吃掉了将近两成的利润。\n\n做套利的更惨，本来就是吃价差的微利策略，每笔开平仓双向扣费，频率一高费率直接把利润磨没了。很多套利策略不是逻辑不对，是费率扛不住。\n\n@BIYAPAYOFFICIAL 现在TradFi永续合约Maker和Taker全归零了，长期有效。同样日均50万的交易量，这9万美元一年直接省下来，全变成你的利润。\n\n对高频交易者来说这个差距更夸张——量越大，省得越多，而且是每一天都在省。\n\n当然Funding Fee还是正常收的，这个没变。但开平仓手续费归零之后，整体成本结构变了。以前要把费率算进盈亏比才敢开单，现在可以更纯粹地只看行情本身。\n\n黄金、原油、美股这些TradFi标的全部适用，USDT做保证金。费率这一关不卡人了，剩下的就是你自己的判断力。\n\n另外BiyaPay的SpaceX交易活动还在跑（6.12-6.26）：新用户完成实名可以领1000 USDT合约仓位，累计交易额达标解锁手续费抵扣金、TSLA和SpaceX股票奖励，总奖池100万美金。刚注册的新人可以顺便看看。\n👉 https://t.co/dxSaUztoGR\n\n详情：https://t.co/NoPTmINJzF\n\n注册：https://t.co/5nZk7fh0B4"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9610,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 68,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066837780865462527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "0手续费，才是真正的交易自由。\n\n这句话听着像口号，但做过合约的人应该懂——手续费从来不只是一笔费用，它影响的是你敢不敢开单。\n\n拿一个日均交易量50万美元的合约交易者来说，在Binance按Taker https://t.co/QUW1qWm9kH https://t.co/YogM5kdzVR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2129,
+          "following_count": 1311,
+          "like_count": 13880,
+          "listed_count": 1,
+          "media_count": 630,
+          "tweet_count": 3343
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-16T09:09:50.000Z",
+        "description": "加密爱好者｜全撸型选手 任何推文不做投资建议🫡 \n含付费广告，请自行辨别，介意勿关🙏",
+        "id": "1592807107211907073",
+        "name": "Kithe",
+        "pinned_tweet_id": "2068179269419683922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048677740765978624/wS7eA49Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21316,
+          "following_count": 17146,
+          "like_count": 190367,
+          "listed_count": 135,
+          "media_count": 1763,
+          "tweet_count": 184001
+        },
+        "url": "",
+        "username": "kuk47377341",
+        "verified": true
+      }
+    ]
+  }
+}

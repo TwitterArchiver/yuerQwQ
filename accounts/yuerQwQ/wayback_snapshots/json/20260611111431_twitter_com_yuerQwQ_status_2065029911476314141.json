@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2064346788732223582",
+    "created_at": "2026-06-11T11:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065029911476314141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1545787268501106688",
+          "start": 0,
+          "username": "zzzChumo"
+        },
+        {
+          "end": 21,
+          "id": "1689672109612818432",
+          "start": 10,
+          "username": "KinaMagica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065029911476314141",
+    "in_reply_to_user_id": "1545787268501106688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064876134056313211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzChumo @KinaMagica xm是因为我太丑了没人要😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2064346788732223582",
+        "created_at": "2026-06-11T11:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065029911476314141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545787268501106688",
+              "start": 0,
+              "username": "zzzChumo"
+            },
+            {
+              "end": 21,
+              "id": "1689672109612818432",
+              "start": 10,
+              "username": "KinaMagica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065029911476314141",
+        "in_reply_to_user_id": "1545787268501106688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064876134056313211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzChumo @KinaMagica xm是因为我太丑了没人要😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545787268501106688",
+        "conversation_id": "2064346788732223582",
+        "created_at": "2026-06-11T01:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T02:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064876134056313211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            },
+            {
+              "end": 20,
+              "id": "1689672109612818432",
+              "start": 9,
+              "username": "KinaMagica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064876134056313211",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064668023106199884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ @KinaMagica 其实很可悲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨主人@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "picxis63594"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1825,
+          "following_count": 1160,
+          "like_count": 12926,
+          "listed_count": 1,
+          "media_count": 514,
+          "tweet_count": 2836
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-09T15:09:53.000Z",
+        "description": "伤害自己和所有人的疯子/💊pr有售/中 Eng/無言フォロー失礼します/版权头图非请勿用/术术人/三代目/情商为0不会说话/智商为0放弃思考/机佬/热衷收集各种电子垃圾/四分之一个技术宅/错字受/沉迷刷推无法自拔/这个人懒死了，什么都没写 (⁠°∀⁠。)（？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzcm.fun",
+                "end": 23,
+                "expanded_url": "https://zzcm.fun",
+                "start": 0,
+                "url": "https://t.co/aR3yKyJKeX"
+              }
+            ]
+          }
+        },
+        "id": "1545787268501106688",
+        "location": "三途川",
+        "name": "神乐坂 墨初#氐宿二🍥 | 神秘pr80销售客服💊",
+        "pinned_tweet_id": "2061295793861226984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886333649223868416/eRpWKwqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2829,
+          "following_count": 998,
+          "like_count": 93879,
+          "listed_count": 7,
+          "media_count": 981,
+          "tweet_count": 4034
+        },
+        "url": "https://t.co/aR3yKyJKeX",
+        "username": "zzzChumo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-10T16:16:45.000Z",
+        "description": "•°✨°• Magical Cat Girl Vtuber 🐈‍⬛🪄 •°🌙°• ♡ Teenage Catgirl with opinions ♡ ⋆ Variety Streamer ⋆ ‧₊˚ EN/中文 ‧₊˚ 🍬 Sep 26, 2025 🐾 ♡ •°✨°• Happily Engaged  •°♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kina.cat",
+                "end": 23,
+                "expanded_url": "https://www.kina.cat",
+                "start": 0,
+                "url": "https://t.co/KIhJvDzRbe"
+              }
+            ]
+          }
+        },
+        "id": "1689672109612818432",
+        "location": "She/Any | 18yro",
+        "name": "Kina🐈‍⬛🪄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046954128975486976/MTqDEuT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14253,
+          "following_count": 2501,
+          "like_count": 36938,
+          "listed_count": 52,
+          "media_count": 2088,
+          "tweet_count": 19326
+        },
+        "url": "https://t.co/KIhJvDzRbe",
+        "username": "KinaMagica",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2067185484208476564",
+    "created_at": "2026-06-18T04:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T05:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067459995365683495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1188333136951693314",
+          "start": 0,
+          "username": "tsfjzk388190"
+        },
+        {
+          "end": 29,
+          "id": "1833906499846025216",
+          "start": 14,
+          "username": "want_take_easy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067459995365683495",
+    "in_reply_to_user_id": "1188333136951693314",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067453682510332398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsfjzk388190 @want_take_easy 再三聋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2067185484208476564",
+        "created_at": "2026-06-18T04:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067459995365683495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1188333136951693314",
+              "start": 0,
+              "username": "tsfjzk388190"
+            },
+            {
+              "end": 29,
+              "id": "1833906499846025216",
+              "start": 14,
+              "username": "want_take_easy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067459995365683495",
+        "in_reply_to_user_id": "1188333136951693314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067453682510332398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsfjzk388190 @want_take_easy 再三聋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1188333136951693314",
+        "conversation_id": "2067185484208476564",
+        "created_at": "2026-06-18T03:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067453682510332398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            },
+            {
+              "end": 24,
+              "id": "1833906499846025216",
+              "start": 9,
+              "username": "want_take_easy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067453682510332398",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067398566973469056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ @want_take_easy 死亡是凉爽的夏夜，可供人无忧的安眠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2033,
+          "following_count": 1259,
+          "like_count": 13666,
+          "listed_count": 1,
+          "media_count": 606,
+          "tweet_count": 3219
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-27T05:54:38.000Z",
+        "description": "",
+        "id": "1188333136951693314",
+        "name": "tsfjzk388190",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 133,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "username": "tsfjzk388190",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T16:32:50.000Z",
+        "description": "🌍 世界万物观察员\n🧠 冷知识 / 热知识 / 奇闻 / 技术 / AI / 设计 / 人类行为\n🔭 用工程师视角拆解日常，用好奇心扫描宇宙\n⚡ 分享你不知道、想不到、但看完会觉得“卧槽”的知识\n🚀 在信息洪流里，捕捉有趣、有用、有点离谱的信号\n蓝V互关永不取关！~",
+        "id": "1833906499846025216",
+        "name": "终极阿Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062037567437209600/PE0OoWtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 1525,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1567
+        },
+        "username": "want_take_easy",
+        "verified": true
+      }
+    ]
+  }
+}

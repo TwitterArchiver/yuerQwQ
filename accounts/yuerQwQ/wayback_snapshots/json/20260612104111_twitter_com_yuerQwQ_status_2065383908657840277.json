@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2065320397986537883",
+    "created_at": "2026-06-12T10:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065383908657840277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1117249144312041472",
+          "start": 0,
+          "username": "rogue30481577"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065383908657840277",
+    "in_reply_to_user_id": "1117249144312041472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065320397986537883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rogue30481577 互关喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 224,
+        "media_key": "3_2065320307599253504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKl94JHaoAA9tit.jpg",
+        "width": 1204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2065320397986537883",
+        "created_at": "2026-06-12T10:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065383908657840277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1117249144312041472",
+              "start": 0,
+              "username": "rogue30481577"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065383908657840277",
+        "in_reply_to_user_id": "1117249144312041472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065320397986537883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rogue30481577 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065320307599253504"
+          ]
+        },
+        "author_id": "1117249144312041472",
+        "conversation_id": "2065320397986537883",
+        "created_at": "2026-06-12T06:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065320397986537883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y4Js2wfu7d",
+              "end": 50,
+              "expanded_url": "https://x.com/rogue30481577/status/2065320397986537883/photo/1",
+              "media_key": "3_2065320307599253504",
+              "start": 27,
+              "url": "https://t.co/y4Js2wfu7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065320397986537883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2454,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 63,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩 X 7年了 终于开通蓝V了 ，感觉进入时尚圈了。 https://t.co/y4Js2wfu7d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 1187,
+          "like_count": 13065,
+          "listed_count": 1,
+          "media_count": 535,
+          "tweet_count": 2904
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-14T02:12:08.000Z",
+        "description": "一个懒人用 AI 提高效率的个人账号。\n记录 AI 工具、内容增长和个人效率。 \n分享实测、观点，以及一些有用/有趣的东西。",
+        "id": "1117249144312041472",
+        "name": "懒家伙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064553180541988864/7LhmVnVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 201,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 255
+        },
+        "username": "rogue30481577",
+        "verified": true
+      }
+    ]
+  }
+}

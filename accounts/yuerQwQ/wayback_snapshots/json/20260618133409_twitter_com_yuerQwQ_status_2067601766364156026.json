@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2067601201236242554",
+    "created_at": "2026-06-18T13:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067601766364156026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2066427381859115009",
+          "start": 0,
+          "username": "TianbaoSu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067601766364156026",
+    "in_reply_to_user_id": "2066427381859115009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067601201236242554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TianbaoSu 借楼互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2067601201236242554",
+        "created_at": "2026-06-18T13:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067601766364156026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066427381859115009",
+              "start": 0,
+              "username": "TianbaoSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067601766364156026",
+        "in_reply_to_user_id": "2066427381859115009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067601201236242554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TianbaoSu 借楼互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066427381859115009",
+        "conversation_id": "2067601201236242554",
+        "created_at": "2026-06-18T13:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067601201236242554"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067601201236242554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚从小黑屋被放出来今日互关开始\n\n你关注我，我秒回关，活人号、不跑路、不取关\n\n评论区留个脚印我一个个点，绝不漏。\n\n#蓝V互关 #互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2056,
+          "following_count": 1272,
+          "like_count": 13720,
+          "listed_count": 1,
+          "media_count": 613,
+          "tweet_count": 3260
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-15T07:50:45.000Z",
+        "description": "专注生命科技与高端装备双赛道\n精准长寿医疗 | 干细胞·肠道菌群移植\n精密制造配套 | 航天航空·军用无人机\nWeb2 → Web3",
+        "id": "2066427381859115009",
+        "name": "甜酒朦朦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067524259535286272/BzXvLciG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 308,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "TianbaoSu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2065339499497095242",
+    "created_at": "2026-06-12T11:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065395533691375935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1569193302712545280",
+          "start": 0,
+          "username": "shijin999999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065395533691375935",
+    "in_reply_to_user_id": "1569193302712545280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065339499497095242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shijin999999 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2065339499497095242",
+        "created_at": "2026-06-12T11:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065395533691375935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1569193302712545280",
+              "start": 0,
+              "username": "shijin999999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065395533691375935",
+        "in_reply_to_user_id": "1569193302712545280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065339499497095242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shijin999999 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569193302712545280",
+        "conversation_id": "2065339499497095242",
+        "created_at": "2026-06-12T07:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065339499497095242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065339499497095242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 738,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天互关的有点少了啊，是刷到我的人都是已经关注过的了么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1888,
+          "following_count": 1193,
+          "like_count": 13081,
+          "listed_count": 1,
+          "media_count": 536,
+          "tweet_count": 2908
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-12T05:17:04.000Z",
+        "description": "个人\nbyted | 为了开ai成了u卡收集者 | 互关战士",
+        "id": "1569193302712545280",
+        "location": "hangzhou",
+        "name": "shi jin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055090639327707136/v--ON0ai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 517,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 142
+        },
+        "username": "shijin999999",
+        "verified": true
+      }
+    ]
+  }
+}

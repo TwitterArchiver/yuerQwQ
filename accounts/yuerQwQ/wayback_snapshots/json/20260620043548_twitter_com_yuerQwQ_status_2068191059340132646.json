@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2068185244092809712",
+    "created_at": "2026-06-20T04:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T05:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068191059340132646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1976904875603873792",
+          "start": 0,
+          "username": "RXrein0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068191059340132646",
+    "in_reply_to_user_id": "1976904875603873792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068185244092809712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RXrein0 我好久没玩过了QwQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2068185244092809712",
+        "created_at": "2026-06-20T04:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068191059340132646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1976904875603873792",
+              "start": 0,
+              "username": "RXrein0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068191059340132646",
+        "in_reply_to_user_id": "1976904875603873792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068185244092809712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXrein0 我好久没玩过了QwQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976904875603873792",
+        "conversation_id": "2068185244092809712",
+        "created_at": "2026-06-20T04:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068185244092809712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuerQwQ/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/yuerQwQ/status/2067819665783673129",
+              "start": 12,
+              "url": "https://t.co/XpndmKxTgY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068185244092809712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067819665783673129",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "←依旧在玩蜘蛛纸牌的入 https://t.co/XpndmKxTgY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 1311,
+          "like_count": 13876,
+          "listed_count": 1,
+          "media_count": 630,
+          "tweet_count": 3338
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-11T06:57:24.000Z",
+        "description": "你好，俺是Rein。02/INTP无业游民。主坑是明日方舟/假面骑士。置顶有匿名提问箱，看到就会回！感谢关注！",
+        "id": "1976904875603873792",
+        "location": "正于群星中沉溺",
+        "name": "没有味淋多喝生抽",
+        "pinned_tweet_id": "2028344137150525895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048945846633545728/SYLBV87m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 77,
+          "like_count": 6835,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 3325
+        },
+        "url": "",
+        "username": "RXrein0",
+        "verified": false
+      }
+    ]
+  }
+}

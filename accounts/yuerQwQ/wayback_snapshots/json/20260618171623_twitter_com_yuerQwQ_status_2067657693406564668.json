@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2067649103878828447",
+    "created_at": "2026-06-18T17:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T18:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067657693406564668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1832040353542893568",
+          "start": 0,
+          "username": "sheepahead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067657693406564668",
+    "in_reply_to_user_id": "1832040353542893568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067649103878828447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sheepahead 恭喜~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 559,
+        "media_key": "3_2067649101572067329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHD5ytb0AEbxEz.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2067649103878828447",
+        "created_at": "2026-06-18T17:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067657693406564668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1832040353542893568",
+              "start": 0,
+              "username": "sheepahead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067657693406564668",
+        "in_reply_to_user_id": "1832040353542893568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067649103878828447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sheepahead 恭喜~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067649101572067329"
+          ]
+        },
+        "author_id": "1832040353542893568",
+        "conversation_id": "2067649103878828447",
+        "created_at": "2026-06-18T16:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067649103878828447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DdP3ADbVt9",
+              "end": 43,
+              "expanded_url": "https://x.com/sheepahead/status/2067649103878828447/photo/1",
+              "media_key": "3_2067649101572067329",
+              "start": 20,
+              "url": "https://t.co/DdP3ADbVt9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067649103878828447",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "300fo了awa 思考抽奖内容中（） https://t.co/DdP3ADbVt9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 1277,
+          "like_count": 13728,
+          "listed_count": 1,
+          "media_count": 615,
+          "tweet_count": 3266
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-06T12:57:36.000Z",
+        "description": "重度社恐 不时会发一些帖子 成分互fo | \nOIer ChOer 全栈开发 | \n生产日期 2011.4.24 | \n深柜 无证HRT from 2026.1.27 | \n182cm 65kg 期待变矮？ | \n匿名Q&A：https://t.co/3o6mwdDVpJ\n妹妹@youling_qaq🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 139,
+                "username": "youling_qaq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sheepahead",
+                "end": 136,
+                "expanded_url": "https://ngl.link/sheepahead",
+                "start": 113,
+                "url": "https://t.co/3o6mwdDVpJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shearbyte.dev",
+                "end": 23,
+                "expanded_url": "https://shearbyte.dev",
+                "start": 0,
+                "url": "https://t.co/k9wVkszwfX"
+              }
+            ]
+          }
+        },
+        "id": "1832040353542893568",
+        "location": "奥陶纪 冈瓦纳古大陆",
+        "name": "Sakaban_🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2063213047473410302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062905674854703104/o9uvvHdO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 160,
+          "like_count": 175,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/k9wVkszwfX",
+        "username": "sheepahead",
+        "verified": true
+      }
+    ]
+  }
+}

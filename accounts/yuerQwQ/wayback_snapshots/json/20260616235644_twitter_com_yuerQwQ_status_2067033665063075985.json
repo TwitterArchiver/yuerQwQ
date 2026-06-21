@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2066845745127330231",
+    "created_at": "2026-06-16T23:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T00:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067033665063075985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "883643697966886914",
+          "start": 0,
+          "username": "SyafikApek11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067033665063075985",
+    "in_reply_to_user_id": "883643697966886914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066909507431620982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyafikApek11 确实\n根本不知道在说什么啊😫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2066845745127330231",
+        "created_at": "2026-06-16T23:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T00:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067033665063075985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "883643697966886914",
+              "start": 0,
+              "username": "SyafikApek11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067033665063075985",
+        "in_reply_to_user_id": "883643697966886914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066909507431620982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyafikApek11 确实\n根本不知道在说什么啊😫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "883643697966886914",
+        "conversation_id": "2066845745127330231",
+        "created_at": "2026-06-16T15:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066909507431620982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066909507431620982",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1057,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066845745127330231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 对我来说，给我讲这种我不玩的游戏，与给我讲美伊战争、俄乌战争差不多一个意思。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 1250,
+          "like_count": 13598,
+          "listed_count": 1,
+          "media_count": 592,
+          "tweet_count": 3161
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-08T11:07:29.000Z",
+        "description": "大号：@yomi71006   蓝V认证，持续做推特一年多了，零差评。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "yomi71006"
+              }
+            ]
+          }
+        },
+        "id": "883643697966886914",
+        "name": "蝴蝶结（出自录，接视频）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063522131879600129/VNdaG0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 526,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 135
+        },
+        "username": "SyafikApek11",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2064586142645973454",
+    "created_at": "2026-06-10T05:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064586142645973454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Shioochicqwq/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Shioochicqwq/status/2064585968758432071",
+          "start": 9,
+          "url": "https://t.co/f7ubnLRWpe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064586142645973454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064585968758432071",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我还在圈内吗（） https://t.co/f7ubnLRWpe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2064586142645973454",
+        "created_at": "2026-06-10T05:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064586142645973454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shioochicqwq/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Shioochicqwq/status/2064585968758432071",
+              "start": 9,
+              "url": "https://t.co/f7ubnLRWpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064586142645973454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064585968758432071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还在圈内吗（） https://t.co/f7ubnLRWpe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060050991370891265",
+        "conversation_id": "2064585968758432071",
+        "created_at": "2026-06-10T05:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064585968758432071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sorcerer1311/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Sorcerer1311/status/2064380972628586608",
+              "start": 17,
+              "url": "https://t.co/MzWXasVTzX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064585968758432071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064380972628586608",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想知道现在圈内对我是什么评价🤔 https://t.co/MzWXasVTzX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "picxis63594"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 1141,
+          "like_count": 12762,
+          "listed_count": 1,
+          "media_count": 488,
+          "tweet_count": 2760
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-28T17:32:35.000Z",
+        "description": "09｜小证含糖半家长党｜小证260117｜hrt250720🍥｜我草我怎么是爱德华多啊",
+        "id": "2060050991370891265",
+        "name": "汐落",
+        "pinned_tweet_id": "2060223149778817434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060051875358261249/Bpop1uMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 241,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 246
+        },
+        "username": "Shioochicqwq",
+        "verified": false
+      }
+    ]
+  }
+}

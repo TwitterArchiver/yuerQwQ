@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2067970660086030392",
+    "created_at": "2026-06-19T14:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067973134721097987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915233729720770560",
+          "start": 0,
+          "username": "microcharon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067973134721097987",
+    "in_reply_to_user_id": "1915233729720770560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067972392392237135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@microcharon 其实是只会用豆包了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2067970660086030392",
+        "created_at": "2026-06-19T14:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067973134721097987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915233729720770560",
+              "start": 0,
+              "username": "microcharon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067973134721097987",
+        "in_reply_to_user_id": "1915233729720770560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067972392392237135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@microcharon 其实是只会用豆包了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915233729720770560",
+        "conversation_id": "2067970660086030392",
+        "created_at": "2026-06-19T14:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067972392392237135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067972392392237135",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067970660086030392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 很难想象唐人还会用豆包"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2115,
+          "following_count": 1304,
+          "like_count": 13823,
+          "listed_count": 1,
+          "media_count": 627,
+          "tweet_count": 3315
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-24T02:38:12.000Z",
+        "description": "Jazz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "microcharon.com",
+                "end": 23,
+                "expanded_url": "http://microcharon.com",
+                "start": 0,
+                "url": "https://t.co/qjHu6bYi2b"
+              }
+            ]
+          }
+        },
+        "id": "1915233729720770560",
+        "location": "Germany",
+        "name": "Sherlock Zhang",
+        "pinned_tweet_id": "2066903202826793293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915233784632668160/ppGei9VY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 351,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1216
+        },
+        "url": "https://t.co/qjHu6bYi2b",
+        "username": "microcharon",
+        "verified": true
+      }
+    ]
+  }
+}

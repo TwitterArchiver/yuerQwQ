@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2066158724516028616",
+    "created_at": "2026-06-15T04:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066371556423696858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2007221360704270339",
+          "start": 0,
+          "username": "6AK3RY4NDU517a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066371556423696858",
+    "in_reply_to_user_id": "2007221360704270339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066370198404559065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6AK3RY4NDU517a 不兑你要干什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2066158724516028616",
+        "created_at": "2026-06-15T04:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066371556423696858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2007221360704270339",
+              "start": 0,
+              "username": "6AK3RY4NDU517a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066371556423696858",
+        "in_reply_to_user_id": "2007221360704270339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066370198404559065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6AK3RY4NDU517a 不兑你要干什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007221360704270339",
+        "conversation_id": "2066158724516028616",
+        "created_at": "2026-06-15T04:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066370198404559065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066370198404559065",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066158724516028616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 诶，我有一计！(o゜▽゜)o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 1223,
+          "like_count": 13433,
+          "listed_count": 1,
+          "media_count": 582,
+          "tweet_count": 3078
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-02T22:44:10.000Z",
+        "description": "MtX，sw｜老公的听话好孩子｜色觉障碍II度｜为了爱而活着｜梦想是跟喜欢的人幸福平淡地生活｜妹妹：@bth95147",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "bth95147"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "drugs.com",
+                "end": 23,
+                "expanded_url": "http://www.drugs.com",
+                "start": 0,
+                "url": "https://t.co/RvJmBJbVFc"
+              }
+            ]
+          }
+        },
+        "id": "2007221360704270339",
+        "location": "永恒快乐之地",
+        "name": "椭圆AzureCircle🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050369003818983424/Wky1yJYI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 106,
+          "like_count": 128,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 71
+        },
+        "url": "https://t.co/RvJmBJbVFc",
+        "username": "6AK3RY4NDU517a",
+        "verified": false
+      }
+    ]
+  }
+}

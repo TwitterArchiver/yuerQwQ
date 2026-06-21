@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2065809739339255956",
+    "created_at": "2026-06-14T03:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066001932628717645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013776155166539776",
+          "start": 0,
+          "username": "l3010045822"
+        },
+        {
+          "end": 25,
+          "id": "1643945233841811458",
+          "start": 13,
+          "username": "woshishade_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066001932628717645",
+    "in_reply_to_user_id": "2013776155166539776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065846902474862866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l3010045822 @woshishade_ +1喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2065809739339255956",
+        "created_at": "2026-06-14T03:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066001932628717645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013776155166539776",
+              "start": 0,
+              "username": "l3010045822"
+            },
+            {
+              "end": 25,
+              "id": "1643945233841811458",
+              "start": 13,
+              "username": "woshishade_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066001932628717645",
+        "in_reply_to_user_id": "2013776155166539776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065846902474862866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l3010045822 @woshishade_ +1喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013776155166539776",
+        "conversation_id": "2065809739339255956",
+        "created_at": "2026-06-13T17:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065846902474862866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1643945233841811458",
+              "start": 0,
+              "username": "woshishade_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065846902474862866",
+        "in_reply_to_user_id": "1643945233841811458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065809739339255956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshishade_ 呱，不知道喵，拍点视频（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 1219,
+          "like_count": 13273,
+          "listed_count": 1,
+          "media_count": 566,
+          "tweet_count": 3009
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-21T00:51:27.000Z",
+        "description": "生产日期：2004.5丨小证含糖丨 HRT since2026.1.17｜半个家长党｜不od不割手｜中度性瘾（？）｜坐标河北｜亮点会放一些亲身实践，后期可能会更新自拍｜欢迎同类互fo（没看见的话私我私我喵）｜",
+        "id": "2013776155166539776",
+        "name": "琪露诺🍥（冰雪聪明版）",
+        "pinned_tweet_id": "2060153159570641397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013776536395227136/JifqNwkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 369,
+          "like_count": 1379,
+          "listed_count": 2,
+          "media_count": 387,
+          "tweet_count": 1081
+        },
+        "username": "l3010045822",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-06T11:54:40.000Z",
+        "description": "随便发着玩的都是 https://t.co/YxwsSi9kTq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshishade1",
+                "end": 32,
+                "expanded_url": "https://ngl.link/woshishade1",
+                "start": 9,
+                "url": "https://t.co/YxwsSi9kTq"
+              }
+            ]
+          }
+        },
+        "id": "1643945233841811458",
+        "location": "American University Park",
+        "name": "笨蛋小狗",
+        "pinned_tweet_id": "1954219116622938329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716119173682581504/gTa6hjTq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 2268,
+          "like_count": 21095,
+          "listed_count": 8,
+          "media_count": 92,
+          "tweet_count": 533
+        },
+        "username": "woshishade_",
+        "verified": true
+      }
+    ]
+  }
+}

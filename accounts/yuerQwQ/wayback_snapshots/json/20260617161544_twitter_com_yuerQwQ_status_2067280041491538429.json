@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2067185484208476564",
+    "created_at": "2026-06-17T16:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067280041491538429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894685740883456001",
+          "start": 0,
+          "username": "Worthless_Sand"
+        },
+        {
+          "end": 23,
+          "id": "1211850154531160065",
+          "start": 16,
+          "username": "C23446"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067280041491538429",
+    "in_reply_to_user_id": "1894685740883456001",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067269005426262214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Worthless_Sand @C23446 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2067185484208476564",
+        "created_at": "2026-06-17T16:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067280041491538429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894685740883456001",
+              "start": 0,
+              "username": "Worthless_Sand"
+            },
+            {
+              "end": 23,
+              "id": "1211850154531160065",
+              "start": 16,
+              "username": "C23446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067280041491538429",
+        "in_reply_to_user_id": "1894685740883456001",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067269005426262214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Worthless_Sand @C23446 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894685740883456001",
+        "conversation_id": "2067185484208476564",
+        "created_at": "2026-06-17T15:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067269005426262214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1211850154531160065",
+              "start": 0,
+              "username": "C23446"
+            },
+            {
+              "end": 16,
+              "id": "1962302660541079552",
+              "start": 8,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067269005426262214",
+        "in_reply_to_user_id": "1211850154531160065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067236312097419442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C23446 @yuerQwQ 你不是真的以為他是你失散多年的bro吧？你真以為你們共用一個爸爸吧？\n\n人生就是這樣，你有的爸爸，不是你想要的爸爸。人家的爸爸，才是你想要的爸爸。不過地球ｏｎｌｉｎｅ只有一次，誰也沒有選擇權。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 1256,
+          "like_count": 13644,
+          "listed_count": 1,
+          "media_count": 602,
+          "tweet_count": 3191
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-26T09:47:53.000Z",
+        "description": "",
+        "id": "1894685740883456001",
+        "name": "Sand",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996409599847772160/Yh19mxK0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 56,
+          "like_count": 328,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 243
+        },
+        "username": "Worthless_Sand",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-31T03:22:52.000Z",
+        "description": "",
+        "id": "1211850154531160065",
+        "name": "C23446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290957010381320193/k2NlurQk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 3924,
+          "like_count": 22575,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 4766
+        },
+        "username": "C23446",
+        "verified": false
+      }
+    ]
+  }
+}

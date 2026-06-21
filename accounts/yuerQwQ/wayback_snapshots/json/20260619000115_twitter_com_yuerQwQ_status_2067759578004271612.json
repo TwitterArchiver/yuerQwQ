@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2067547872695128159",
+    "created_at": "2026-06-19T00:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T01:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067759578004271612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1466220909979652100",
+          "start": 0,
+          "username": "YoRHa_R2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067759578004271612",
+    "in_reply_to_user_id": "1466220909979652100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067748828564881476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YoRHa_R2 炸平好像太浪费核弹了🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2067547872695128159",
+        "created_at": "2026-06-19T00:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T01:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067759578004271612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1466220909979652100",
+              "start": 0,
+              "username": "YoRHa_R2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067759578004271612",
+        "in_reply_to_user_id": "1466220909979652100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067748828564881476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YoRHa_R2 炸平好像太浪费核弹了🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1466220909979652100",
+        "conversation_id": "2067547872695128159",
+        "created_at": "2026-06-18T23:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T00:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067748828564881476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067748828564881476",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067547872695128159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 能炸死人但并不一定能炸平"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 1275,
+          "like_count": 13738,
+          "listed_count": 1,
+          "media_count": 618,
+          "tweet_count": 3273
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-02T01:41:35.000Z",
+        "description": "English or Chinese / 知识构建改造现实的桥梁，现实铸就存续知识的高塔 / 纯种枪械爱好者 / 玩少女前线玩的 / 对弱智攻击性比较强",
+        "id": "1466220909979652100",
+        "name": "Mr. Navalny",
+        "pinned_tweet_id": "2044422566605881789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065727702212976640/T6dwJeWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 242,
+          "like_count": 6540,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 313
+        },
+        "url": "",
+        "username": "YoRHa_R2",
+        "verified": false
+      }
+    ]
+  }
+}

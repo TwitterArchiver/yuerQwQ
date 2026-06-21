@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2065597822779744391",
+    "created_at": "2026-06-13T04:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065649621339361673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1569193302712545280",
+          "start": 0,
+          "username": "shijin999999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065649621339361673",
+    "in_reply_to_user_id": "1569193302712545280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065597822779744391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shijin999999 加油喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065597813061451776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKp6RFhaAAAgkNI.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2065597822779744391",
+        "created_at": "2026-06-13T04:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065649621339361673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1569193302712545280",
+              "start": 0,
+              "username": "shijin999999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065649621339361673",
+        "in_reply_to_user_id": "1569193302712545280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065597822779744391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shijin999999 加油喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065597813061451776"
+          ]
+        },
+        "author_id": "1569193302712545280",
+        "conversation_id": "2065597822779744391",
+        "created_at": "2026-06-13T00:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065597822779744391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yfRxhEWrh4",
+              "end": 37,
+              "expanded_url": "https://x.com/shijin999999/status/2065597822779744391/photo/1",
+              "media_key": "3_2065597813061451776",
+              "start": 14,
+              "url": "https://t.co/yfRxhEWrh4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065597822779744391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这样下去达到5m有点难度啊 https://t.co/yfRxhEWrh4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 1210,
+          "like_count": 13127,
+          "listed_count": 1,
+          "media_count": 546,
+          "tweet_count": 2939
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-12T05:17:04.000Z",
+        "description": "AI|AI|AI|还是AI\n每天一个马上能用的 AI 技巧 | Claude / Codex / GPT 重度使用者 | 只说实测过的，不行的直说不行\nbyted | 为了开ai成了u卡收集者 | 互关战士",
+        "id": "1569193302712545280",
+        "location": "hangzhou",
+        "name": "shi jin",
+        "pinned_tweet_id": "2065396427367555508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055090639327707136/v--ON0ai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 651,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 236
+        },
+        "username": "shijin999999",
+        "verified": true
+      }
+    ]
+  }
+}

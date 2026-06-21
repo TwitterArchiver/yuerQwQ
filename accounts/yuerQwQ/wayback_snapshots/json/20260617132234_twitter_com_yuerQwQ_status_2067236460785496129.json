@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2067185484208476564",
+    "created_at": "2026-06-17T13:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067236460785496129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1211850154531160065",
+          "start": 0,
+          "username": "C23446"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067236460785496129",
+    "in_reply_to_user_id": "1211850154531160065",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067236312097419442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C23446 qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2067185484208476564",
+        "created_at": "2026-06-17T13:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067236460785496129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1211850154531160065",
+              "start": 0,
+              "username": "C23446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067236460785496129",
+        "in_reply_to_user_id": "1211850154531160065",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067236312097419442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C23446 qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1211850154531160065",
+        "conversation_id": "2067185484208476564",
+        "created_at": "2026-06-17T13:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067236312097419442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067236312097419442",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067185484208476564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ bro又在编虽然我爹屁本事没有还赌博但他特爱我的自我感动故事，除了感动农村土狗以外感动不了任何人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 1256,
+          "like_count": 13628,
+          "listed_count": 1,
+          "media_count": 601,
+          "tweet_count": 3184
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-31T03:22:52.000Z",
+        "description": "",
+        "id": "1211850154531160065",
+        "name": "C23446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290957010381320193/k2NlurQk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 3925,
+          "like_count": 22575,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 4767
+        },
+        "username": "C23446",
+        "verified": false
+      }
+    ]
+  }
+}

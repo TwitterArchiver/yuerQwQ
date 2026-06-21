@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2067279073379008729",
+    "created_at": "2026-06-17T16:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067279073379008729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ciallowo/statu…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/ciallowo/status/2067240061595504953",
+          "start": 25,
+          "url": "https://t.co/LL1chjaZ1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067279073379008729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067240061595504953",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家好我是yuer，剛來推特，這裡都是什麼人呀😃 https://t.co/LL1chjaZ1x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2067279073379008729",
+        "created_at": "2026-06-17T16:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067279073379008729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ciallowo/statu…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/ciallowo/status/2067240061595504953",
+              "start": 25,
+              "url": "https://t.co/LL1chjaZ1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067279073379008729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067240061595504953",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家好我是yuer，剛來推特，這裡都是什麼人呀😃 https://t.co/LL1chjaZ1x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028802782019596288",
+        "conversation_id": "2067240061595504953",
+        "created_at": "2026-06-17T13:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067240061595504953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LoveMikuBX/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/LoveMikuBX/status/2067097642237387056",
+              "start": 23,
+              "url": "https://t.co/kDEQ6B9RLF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067240061595504953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067097642237387056",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家好我是小霧，剛來推特，這裡都是什麼人呀😃 https://t.co/kDEQ6B9RLF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 1256,
+          "like_count": 13640,
+          "listed_count": 1,
+          "media_count": 602,
+          "tweet_count": 3189
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-03T12:01:07.000Z",
+        "description": "哈囉哈囉，這裡是小霧喵。很高興認識你喵～希望能帶給你更多快樂一點… \n| 11後 | 165 51 | ISFP | 國/初二 | 泛性戀？ | 友跨喵 | 咱不是跨… | 不割手手/od | 嘴笨笨滴 | zh-cn/zh-tw/en | 成分/私信回 | 故鄉台灣 | 現居大陸 | Nonpartisan&不鍵政…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Ryousuke05",
+                "end": 23,
+                "expanded_url": "http://github.com/Ryousuke05",
+                "start": 0,
+                "url": "https://t.co/ZkWmHQpNQa"
+              }
+            ]
+          }
+        },
+        "id": "2028802782019596288",
+        "location": "距離地球99兆米",
+        "name": "小霧喵～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058500600917295104/iRL6lP95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 350,
+          "like_count": 754,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/ZkWmHQpNQa",
+        "username": "ciallowo",
+        "verified": true
+      }
+    ]
+  }
+}

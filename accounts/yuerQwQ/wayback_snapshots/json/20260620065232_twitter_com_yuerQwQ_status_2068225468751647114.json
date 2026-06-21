@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2067910265421914289",
+    "created_at": "2026-06-20T06:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068225468751647114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "807587246366859264",
+          "start": 0,
+          "username": "Maxwell_SCU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068225468751647114",
+    "in_reply_to_user_id": "807587246366859264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068219594104553570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maxwell_SCU 学到了😮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2067910265421914289",
+        "created_at": "2026-06-20T06:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068225468751647114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "807587246366859264",
+              "start": 0,
+              "username": "Maxwell_SCU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068225468751647114",
+        "in_reply_to_user_id": "807587246366859264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068219594104553570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maxwell_SCU 学到了😮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "807587246366859264",
+        "conversation_id": "2067910265421914289",
+        "created_at": "2026-06-20T06:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068219594104553570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068219594104553570",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067910265421914289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 这个叫无情对。类似  公门桃李争荣日， 法国荷兰比利时。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2135,
+          "following_count": 1315,
+          "like_count": 13919,
+          "listed_count": 1,
+          "media_count": 632,
+          "tweet_count": 3362
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2016-12-10T14:06:18.000Z",
+        "description": "码农，神经生物学，数学爱好者，我老婆炒股很厉害",
+        "id": "807587246366859264",
+        "location": "中国",
+        "name": "杀马特宅主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325136975175680/T2onDrdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12411,
+          "following_count": 1215,
+          "like_count": 2376,
+          "listed_count": 90,
+          "media_count": 2963,
+          "tweet_count": 20889
+        },
+        "url": "",
+        "username": "Maxwell_SCU",
+        "verified": true
+      }
+    ]
+  }
+}

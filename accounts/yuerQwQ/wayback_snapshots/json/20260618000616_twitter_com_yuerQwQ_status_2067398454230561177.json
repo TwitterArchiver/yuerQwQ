@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2067185484208476564",
+    "created_at": "2026-06-18T00:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T01:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067398454230561177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "823555814380052480",
+          "start": 0,
+          "username": "ln2_0693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067398454230561177",
+    "in_reply_to_user_id": "823555814380052480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067397872048554354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ln2_0693 😧\n摸摸泥…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2067185484208476564",
+        "created_at": "2026-06-18T00:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067398454230561177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "823555814380052480",
+              "start": 0,
+              "username": "ln2_0693"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067398454230561177",
+        "in_reply_to_user_id": "823555814380052480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067397872048554354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ln2_0693 😧\n摸摸泥…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "823555814380052480",
+        "conversation_id": "2067185484208476564",
+        "created_at": "2026-06-18T00:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067397872048554354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067397872048554354",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067185484208476564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 实际上我赌狗爸向小时候的我要钱一点不犹豫的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 1259,
+          "like_count": 13656,
+          "listed_count": 1,
+          "media_count": 604,
+          "tweet_count": 3203
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-23T15:39:41.000Z",
+        "description": "I'm a gooner😭 18+",
+        "id": "823555814380052480",
+        "name": "三天入门拉屎",
+        "pinned_tweet_id": "2065877699793654117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980375938777915392/1SYn15lE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 7496,
+          "like_count": 1244,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 2704
+        },
+        "url": "",
+        "username": "ln2_0693",
+        "verified": false
+      }
+    ]
+  }
+}

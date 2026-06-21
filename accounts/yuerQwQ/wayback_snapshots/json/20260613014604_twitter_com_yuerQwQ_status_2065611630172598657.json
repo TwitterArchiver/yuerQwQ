@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2065086662846341126",
+    "created_at": "2026-06-13T01:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T02:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065611630172598657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2032792248333852672",
+          "start": 0,
+          "username": "l4712284471246"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065611630172598657",
+    "in_reply_to_user_id": "2032792248333852672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065585133315641755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l4712284471246 这啥啊😫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2065086662846341126",
+        "created_at": "2026-06-13T01:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T02:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065611630172598657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2032792248333852672",
+              "start": 0,
+              "username": "l4712284471246"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065611630172598657",
+        "in_reply_to_user_id": "2032792248333852672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065585133315641755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l4712284471246 这啥啊😫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032792248333852672",
+        "conversation_id": "2065086662846341126",
+        "created_at": "2026-06-13T00:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065585133315641755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065585133315641755",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065086662846341126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 蟑螂卵和耳屎泡牛奶，好吃好吃好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 1206,
+          "like_count": 13103,
+          "listed_count": 1,
+          "media_count": 543,
+          "tweet_count": 2925
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-14T12:13:56.000Z",
+        "description": "我不會寫簡介ㄟ，歡迎私信(畢竟很閒)，因為每週都有五天時間是住宿在學校裡面，所以說只有週五週六和週日可以回復私信的說\ntg聊天群💬：https://t.co/STTR2S6p5E\ndiscord聊天群💬：\nhttps://t.co/aZiJKBSD1r",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+v-mdMXFDP9k0O…",
+                "end": 89,
+                "expanded_url": "https://t.me/+v-mdMXFDP9k0OTll",
+                "start": 66,
+                "url": "https://t.co/STTR2S6p5E"
+              },
+              {
+                "display_url": "discord.gg/H8WXVvhKcA",
+                "end": 126,
+                "expanded_url": "https://discord.gg/H8WXVvhKcA",
+                "start": 103,
+                "url": "https://t.co/aZiJKBSD1r"
+              }
+            ]
+          }
+        },
+        "id": "2032792248333852672",
+        "name": "​テレパシー＿こいし",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058029278256644097/LvD6Iy5o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 88,
+          "like_count": 2322,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 322
+        },
+        "username": "l4712284471246",
+        "verified": false
+      }
+    ]
+  }
+}

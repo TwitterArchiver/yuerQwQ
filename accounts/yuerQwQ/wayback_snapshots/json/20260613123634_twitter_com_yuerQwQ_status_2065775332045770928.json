@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065775313561563136"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065775332045770928",
+    "created_at": "2026-06-13T12:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T13:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065775332045770928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 21,
+          "id": "1598557374046179328",
+          "start": 7,
+          "username": "huihui_mikumi"
+        },
+        {
+          "end": 37,
+          "id": "2033160782687731712",
+          "start": 23,
+          "username": "Shioochic_Xyn"
+        },
+        {
+          "end": 52,
+          "id": "2041449281677045760",
+          "start": 39,
+          "username": "Sorcerer1311"
+        },
+        {
+          "end": 65,
+          "id": "1479730386431545346",
+          "start": 54,
+          "username": "YuKi520OwO"
+        },
+        {
+          "end": 78,
+          "id": "2062376081420931073",
+          "start": 67,
+          "username": "YuKi520qaq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BSlHjyDVPQ",
+          "end": 102,
+          "expanded_url": "https://x.com/yuerQwQ/status/2065775332045770928/photo/1",
+          "media_key": "3_2065775313561563136",
+          "start": 79,
+          "url": "https://t.co/BSlHjyDVPQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065775332045770928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "超级大贴贴~\n@huihui_mikumi \n@Shioochic_Xyn \n@Sorcerer1311 \n@YuKi520OwO \n@YuKi520qaq https://t.co/BSlHjyDVPQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2065775313561563136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsbs-absAAeg31.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065775313561563136"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065775332045770928",
+        "created_at": "2026-06-13T12:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065775332045770928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1598557374046179328",
+              "start": 7,
+              "username": "huihui_mikumi"
+            },
+            {
+              "end": 37,
+              "id": "2033160782687731712",
+              "start": 23,
+              "username": "Shioochic_Xyn"
+            },
+            {
+              "end": 52,
+              "id": "2041449281677045760",
+              "start": 39,
+              "username": "Sorcerer1311"
+            },
+            {
+              "end": 65,
+              "id": "1479730386431545346",
+              "start": 54,
+              "username": "YuKi520OwO"
+            },
+            {
+              "end": 78,
+              "id": "2062376081420931073",
+              "start": 67,
+              "username": "YuKi520qaq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BSlHjyDVPQ",
+              "end": 102,
+              "expanded_url": "https://x.com/yuerQwQ/status/2065775332045770928/photo/1",
+              "media_key": "3_2065775313561563136",
+              "start": 79,
+              "url": "https://t.co/BSlHjyDVPQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065775332045770928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超级大贴贴~\n@huihui_mikumi \n@Shioochic_Xyn \n@Sorcerer1311 \n@YuKi520OwO \n@YuKi520qaq https://t.co/BSlHjyDVPQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1942,
+          "following_count": 1212,
+          "like_count": 13182,
+          "listed_count": 1,
+          "media_count": 555,
+          "tweet_count": 2968
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 800,
+          "like_count": 810,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 1969
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期 09 04 08｜hrt 25 07 20🍥｜小证 26 01 17｜ADHD｜choose life ?!｜抢🐔姐@hiotemaron41774｜友跨顺男@Whatasiger｜友男跨顺@WhitesugarC｜友情链接:https://t.co/iIABjp0PAw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "Whatasiger"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "WhitesugarC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 150,
+                "expanded_url": "https://whatasiger.xyz",
+                "start": 127,
+                "url": "https://t.co/iIABjp0PAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落 shio",
+        "pinned_tweet_id": "2061461592559239417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3351,
+          "following_count": 1828,
+          "like_count": 6491,
+          "listed_count": 6,
+          "media_count": 683,
+          "tweet_count": 4841
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochic_Xyn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 802,
+          "like_count": 1363,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 2567
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8665,
+          "following_count": 1127,
+          "like_count": 16130,
+          "listed_count": 18,
+          "media_count": 335,
+          "tweet_count": 2366
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T03:30:46.000Z",
+        "description": "立志成为小花酱那样受万人敬仰的圆角妹\n药娘（MTF）（私わ中国がらかわいい男の子です、よろしくお願いします!/二次元/美食/可爱的东西/ maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 82,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          }
+        },
+        "id": "2062376081420931073",
+        "location": "北京 上海 广州 日本 泰国",
+        "name": "樱井千雪🏳️‍⚧️🍥（二代目）",
+        "pinned_tweet_id": "2063411984994025498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063108763482206208/kvAB8WDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 41,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 34
+        },
+        "username": "YuKi520qaq",
+        "verified": false
+      }
+    ]
+  }
+}

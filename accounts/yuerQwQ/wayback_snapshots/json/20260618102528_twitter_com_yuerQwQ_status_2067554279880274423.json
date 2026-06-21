@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2067451784604627039",
+    "created_at": "2026-06-18T10:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067554279880274423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1630122793772945409",
+          "start": 0,
+          "username": "lilioliit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067554279880274423",
+    "in_reply_to_user_id": "1630122793772945409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067451784604627039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilioliit 赞同，完全看不懂口牙QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2067451784604627039",
+        "created_at": "2026-06-18T10:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067554279880274423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1630122793772945409",
+              "start": 0,
+              "username": "lilioliit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067554279880274423",
+        "in_reply_to_user_id": "1630122793772945409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067451784604627039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilioliit 赞同，完全看不懂口牙QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630122793772945409",
+        "conversation_id": "2067451784604627039",
+        "created_at": "2026-06-18T03:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067451784604627039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067451784604627039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1365,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们有没有觉得，遇到那种所有推文都是技术贴的，就不知如何和他互动啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2051,
+          "following_count": 1267,
+          "like_count": 13692,
+          "listed_count": 1,
+          "media_count": 609,
+          "tweet_count": 3245
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-27T08:29:05.000Z",
+        "description": "随心所欲，自由万岁",
+        "id": "1630122793772945409",
+        "location": "加利福尼亚 尔湾",
+        "name": "X毒",
+        "pinned_tweet_id": "1711029433023562159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063201607186317312/wvSAlwpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1219,
+          "following_count": 1129,
+          "like_count": 766,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 1964
+        },
+        "username": "lilioliit",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2065815245642420582",
+    "created_at": "2026-06-14T09:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T10:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066092499719045419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1720057266035101696",
+          "start": 0,
+          "username": "GrayNoteLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066092499719045419",
+    "in_reply_to_user_id": "1720057266035101696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065815245642420582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GrayNoteLab 羡慕QAQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1156,
+        "media_key": "3_2065815234099716096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtAAqAaoAAyggF.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2065815245642420582",
+        "created_at": "2026-06-14T09:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066092499719045419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1720057266035101696",
+              "start": 0,
+              "username": "GrayNoteLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066092499719045419",
+        "in_reply_to_user_id": "1720057266035101696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065815245642420582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrayNoteLab 羡慕QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065815234099716096"
+          ]
+        },
+        "author_id": "1720057266035101696",
+        "conversation_id": "2065815245642420582",
+        "created_at": "2026-06-13T15:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065815245642420582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DATxal1Fi4",
+              "end": 132,
+              "expanded_url": "https://x.com/GrayNoteLab/status/2065815245642420582/photo/1",
+              "media_key": "3_2065815234099716096",
+              "start": 109,
+              "url": "https://t.co/DATxal1Fi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065815245642420582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2675,
+          "like_count": 49,
+          "quote_count": 1,
+          "reply_count": 81,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天被马老板赏饭吃了，\n\n一篇帖子跑了84万🥰\n\n一天impressions干到了1.5M，\n\n对于前两天还是100粉的我来说，\n\n确实有点惶恐了。\n\n不过我还是会和之前一样，\n\n多多和大家互动🥳🥳 一起加油冲冲冲！ https://t.co/DATxal1Fi4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1959,
+          "following_count": 1224,
+          "like_count": 13322,
+          "listed_count": 1,
+          "media_count": 573,
+          "tweet_count": 3036
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-02T12:36:43.000Z",
+        "description": "记录AI、科技、平台规则与海外信息差。",
+        "id": "1720057266035101696",
+        "location": "TAIWAN",
+        "name": "灰度笔记",
+        "pinned_tweet_id": "2065256569890345244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058970911324426240/jJpA2OhK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 951,
+          "like_count": 1526,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 651
+        },
+        "username": "GrayNoteLab",
+        "verified": true
+      }
+    ]
+  }
+}

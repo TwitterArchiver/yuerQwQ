@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2067819665783673129",
+    "created_at": "2026-06-20T07:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T08:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068236066524733648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1616306294851514368",
+          "start": 0,
+          "username": "UccelliACN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068236066524733648",
+    "in_reply_to_user_id": "1616306294851514368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068235594430620077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UccelliACN 好坏的老爹……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2067819665783673129",
+        "created_at": "2026-06-20T07:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068236066524733648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1616306294851514368",
+              "start": 0,
+              "username": "UccelliACN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068236066524733648",
+        "in_reply_to_user_id": "1616306294851514368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068235594430620077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UccelliACN 好坏的老爹……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616306294851514368",
+        "conversation_id": "2067819665783673129",
+        "created_at": "2026-06-20T07:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068235594430620077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068235594430620077",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067819665783673129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 我爹现在也每天玩蜘蛛纸牌，但是我们关系很差。\n有一部分原因就是他天天打蜘蛛纸牌却见不得我坐在电脑前玩哪怕五分钟游戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2137,
+          "following_count": 1317,
+          "like_count": 13926,
+          "listed_count": 1,
+          "media_count": 632,
+          "tweet_count": 3363
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-20T05:27:13.000Z",
+        "description": "中国人です。日本語勉強中、変な日本語があったらすみません！\n素敵な作品には積極的にリプで感想を伝えたい派です。\n好きな作品：ローゼンメイデン/東方Project\n推し：真紅/さとり/レミリア\n※雑多垢。時々中国語で政治関連のツイートに反応します。苦手な方は自衛をお願いします。",
+        "id": "1616306294851514368",
+        "location": "China",
+        "name": "藤原アスカ",
+        "pinned_tweet_id": "2067927291586552224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067681913645785088/Owm2wj4s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 2171,
+          "like_count": 13617,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 3560
+        },
+        "url": "",
+        "username": "UccelliACN",
+        "verified": false
+      }
+    ]
+  }
+}

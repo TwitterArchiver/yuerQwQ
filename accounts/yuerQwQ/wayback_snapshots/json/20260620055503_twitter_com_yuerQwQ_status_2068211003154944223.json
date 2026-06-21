@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2068131985923686853",
+    "created_at": "2026-06-20T05:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T06:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068211003154944223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1725736838143639552",
+          "start": 0,
+          "username": "qtdevlop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068211003154944223",
+    "in_reply_to_user_id": "1725736838143639552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068131985923686853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qtdevlop 我现实还没见过海鸥诶......"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "16_2068131921704685568",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLN7Bn3akAAq-nY.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLN7Bn3akAAq-nY.mp4"
+          }
+        ],
+        "width": 382
+      },
+      {
+        "height": 640,
+        "media_key": "16_2068131921700466688",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLN7Bn2aMAARonC.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLN7Bn2aMAARonC.mp4"
+          }
+        ],
+        "width": 378
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2068131985923686853",
+        "created_at": "2026-06-20T05:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068211003154944223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1725736838143639552",
+              "start": 0,
+              "username": "qtdevlop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068211003154944223",
+        "in_reply_to_user_id": "1725736838143639552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068131985923686853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qtdevlop 我现实还没见过海鸥诶......"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2068131921704685568",
+            "16_2068131921700466688"
+          ]
+        },
+        "author_id": "1725736838143639552",
+        "conversation_id": "2068131985923686853",
+        "created_at": "2026-06-20T00:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T01:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068131985923686853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nKYU5INLrA",
+              "end": 142,
+              "expanded_url": "https://x.com/qtdevlop/status/2068131985923686853/photo/1",
+              "media_key": "16_2068131921704685568",
+              "start": 119,
+              "url": "https://t.co/nKYU5INLrA"
+            },
+            {
+              "display_url": "pic.x.com/nKYU5INLrA",
+              "end": 142,
+              "expanded_url": "https://x.com/qtdevlop/status/2068131985923686853/photo/1",
+              "media_key": "16_2068131921700466688",
+              "start": 119,
+              "url": "https://t.co/nKYU5INLrA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068131985923686853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求求你们别晒收益了好吗？树大招风、引火烧身、祸从口出、乐极生悲、物极必反、水满则溢、盛极必衰、月满则亏、满招损谦受益、骄兵必败、盛筵必散、枪打出头鸟、这些道理还要我再重复吗\n\n这海鸥也太美了。作为尊贵的蓝 V 会员，你不点个赞评论评论吗 https://t.co/nKYU5INLrA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2132,
+          "following_count": 1315,
+          "like_count": 13898,
+          "listed_count": 1,
+          "media_count": 631,
+          "tweet_count": 3354
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-18T04:45:23.000Z",
+        "description": "中年老码农 | 纳斯达克信仰者 | 喜欢发点生活段子和吐槽 | X上踩坑无数还在继续摸索 | 欢迎同频朋友一起聊",
+        "id": "1725736838143639552",
+        "name": "中年码农程序员",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060211144745476096/oNBRdoyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3667,
+          "following_count": 3944,
+          "like_count": 1399,
+          "listed_count": 6,
+          "media_count": 72,
+          "tweet_count": 6691
+        },
+        "url": "",
+        "username": "qtdevlop",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2065741506678587559",
+    "created_at": "2026-06-13T11:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065754455262568583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2064597027623981056",
+          "start": 0,
+          "username": "subdronexyn"
+        },
+        {
+          "end": 27,
+          "id": "1598557374046179328",
+          "start": 13,
+          "username": "huihui_mikumi"
+        },
+        {
+          "end": 39,
+          "id": "1479730386431545346",
+          "start": 28,
+          "username": "YuKi520OwO"
+        },
+        {
+          "end": 54,
+          "id": "2063159365075623937",
+          "start": 40,
+          "username": "chiaki1000520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065754455262568583",
+    "in_reply_to_user_id": "2064597027623981056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065753271185314015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@subdronexyn @huihui_mikumi @YuKi520OwO @chiaki1000520 因为我在拍\n\nand我不喜欢被拍（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2065741506678587559",
+        "created_at": "2026-06-13T11:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065754455262568583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2064597027623981056",
+              "start": 0,
+              "username": "subdronexyn"
+            },
+            {
+              "end": 27,
+              "id": "1598557374046179328",
+              "start": 13,
+              "username": "huihui_mikumi"
+            },
+            {
+              "end": 39,
+              "id": "1479730386431545346",
+              "start": 28,
+              "username": "YuKi520OwO"
+            },
+            {
+              "end": 54,
+              "id": "2063159365075623937",
+              "start": 40,
+              "username": "chiaki1000520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065754455262568583",
+        "in_reply_to_user_id": "2064597027623981056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065753271185314015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@subdronexyn @huihui_mikumi @YuKi520OwO @chiaki1000520 因为我在拍\n\nand我不喜欢被拍（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064597027623981056",
+        "conversation_id": "2065741506678587559",
+        "created_at": "2026-06-13T11:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065753271185314015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            },
+            {
+              "end": 26,
+              "id": "1479730386431545346",
+              "start": 15,
+              "username": "YuKi520OwO"
+            },
+            {
+              "end": 41,
+              "id": "2063159365075623937",
+              "start": 27,
+              "username": "chiaki1000520"
+            },
+            {
+              "end": 50,
+              "id": "1962302660541079552",
+              "start": 42,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065753271185314015",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065741506678587559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi @YuKi520OwO @chiaki1000520 @yuerQwQ 为什么yuer不出镜哇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939,
+          "following_count": 1210,
+          "like_count": 13171,
+          "listed_count": 1,
+          "media_count": 553,
+          "tweet_count": 2965
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-10T06:36:42.000Z",
+        "description": "@picxis63594的新号，那个号被ghostban了😭，互fo巡回(虽然没多少)/生产日期2008.9.18/目前断糖/超绝家暴党，每日活在被送封闭精卫和扭转的阴影里.../跟咱互fo喵！陪咱聊天！/挚爱@yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "picxis63594"
+              },
+              {
+                "end": 113,
+                "start": 105,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "2064597027623981056",
+        "name": "无人机潜水",
+        "pinned_tweet_id": "2065366952844136631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064597787225038850/w3LgZpct_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 11,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "subdronexyn",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 799,
+          "like_count": 810,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1967
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8663,
+          "following_count": 1127,
+          "like_count": 16130,
+          "listed_count": 18,
+          "media_count": 335,
+          "tweet_count": 2366
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T07:23:23.000Z",
+        "description": "小药娘一只/二代目/精分+抑郁/无证含糖",
+        "id": "2063159365075623937",
+        "location": "中国广州",
+        "name": "千晓Aki1000🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063161974733811713/g7zCOiUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 11,
+          "like_count": 24,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "chiaki1000520",
+        "verified": false
+      }
+    ]
+  }
+}

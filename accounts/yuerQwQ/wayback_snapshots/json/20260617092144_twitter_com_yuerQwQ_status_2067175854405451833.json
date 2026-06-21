@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2067170396634337347",
+    "created_at": "2026-06-17T09:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067175854405451833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "83369963",
+          "start": 0,
+          "username": "Taoist_mark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067175854405451833",
+    "in_reply_to_user_id": "83369963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067175046242857369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Taoist_mark 其实是微信视频号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2067170396634337347",
+        "created_at": "2026-06-17T09:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067175854405451833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "83369963",
+              "start": 0,
+              "username": "Taoist_mark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067175854405451833",
+        "in_reply_to_user_id": "83369963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067175046242857369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Taoist_mark 其实是微信视频号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "83369963",
+        "conversation_id": "2067170396634337347",
+        "created_at": "2026-06-17T09:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067175046242857369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067175046242857369",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067170396634337347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 好家伙 抖音大乱斗啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 1253,
+          "like_count": 13617,
+          "listed_count": 1,
+          "media_count": 598,
+          "tweet_count": 3174
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2009-10-18T14:07:06.000Z",
+        "description": "不管在哪依然繼續發神經。我就是我自己一個普通人不是任何主義者，沒有標籤。神啊，让我再赶上一次末班车吧。發瘋頻道：https://t.co/5OMeg1MRu6 瘋人院：https://t.co/3putH5r25n",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+WIsv0D5cWetGV…",
+                "end": 79,
+                "expanded_url": "https://t.me/+WIsv0D5cWetGVwtu",
+                "start": 56,
+                "url": "https://t.co/5OMeg1MRu6"
+              },
+              {
+                "display_url": "t.me/+EH-kMMnWBBJlZ…",
+                "end": 107,
+                "expanded_url": "https://t.me/+EH-kMMnWBBJlZWU1",
+                "start": 84,
+                "url": "https://t.co/3putH5r25n"
+              }
+            ]
+          }
+        },
+        "id": "83369963",
+        "name": "神經廚子",
+        "pinned_tweet_id": "1503383667514970115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1348624586544472064/0Licl_jN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3049,
+          "following_count": 2236,
+          "like_count": 31724,
+          "listed_count": 20,
+          "media_count": 1570,
+          "tweet_count": 43193
+        },
+        "username": "Taoist_mark",
+        "verified": true
+      }
+    ]
+  }
+}

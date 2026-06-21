@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2066006104849727940",
+    "created_at": "2026-06-14T06:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T07:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066044633885581413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2048671051979108352",
+          "start": 0,
+          "username": "LouwlouAiDev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066044633885581413",
+    "in_reply_to_user_id": "2048671051979108352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066006104849727940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LouwlouAiDev 喵喵喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 484,
+        "media_key": "3_2066005865912827904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvtY42bgAA4sEu.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2066006104849727940",
+        "created_at": "2026-06-14T06:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066044633885581413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2048671051979108352",
+              "start": 0,
+              "username": "LouwlouAiDev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066044633885581413",
+        "in_reply_to_user_id": "2048671051979108352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066006104849727940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LouwlouAiDev 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066005865912827904"
+          ]
+        },
+        "author_id": "2048671051979108352",
+        "conversation_id": "2066006104849727940",
+        "created_at": "2026-06-14T03:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:52:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066005896476733714",
+          "2066006104849727940"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xwX8LMigW",
+              "end": 67,
+              "expanded_url": "https://x.com/LouwlouAiDev/status/2066006104849727940/photo/1",
+              "media_key": "3_2066005865912827904",
+              "start": 44,
+              "url": "https://t.co/8xwX8LMigW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066006104849727940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 441,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天终于突破300粉了，感谢各位兄弟的支持，不管你是不是蓝V，继续有关必回 #蓝V互关 https://t.co/8xwX8LMigW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1959,
+          "following_count": 1219,
+          "like_count": 13300,
+          "listed_count": 1,
+          "media_count": 570,
+          "tweet_count": 3023
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-27T07:50:47.000Z",
+        "description": "💼 前一线大厂资深程序员 | 2026.4 提桶跑路\n🚀 真实记录 AI 出海赚钱实战、踩坑经历\n♥️ 程序员转型 OPC ｜Indie Hacker  | 欢迎互关互动",
+        "id": "2048671051979108352",
+        "name": "Indie Louwlou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048678958447972352/w_aBHijY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 550,
+          "like_count": 41,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 596
+        },
+        "username": "LouwlouAiDev",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2065216732030247412",
+    "created_at": "2026-06-14T10:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066105248863936702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1853313060460752896",
+          "start": 0,
+          "username": "IlloySci"
+        },
+        {
+          "end": 26,
+          "id": "4752010152",
+          "start": 10,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066105248863936702",
+    "in_reply_to_user_id": "1853313060460752896",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066052953182761207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IlloySci @garrulous_abyss qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2065216732030247412",
+        "created_at": "2026-06-14T10:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066105248863936702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1853313060460752896",
+              "start": 0,
+              "username": "IlloySci"
+            },
+            {
+              "end": 26,
+              "id": "4752010152",
+              "start": 10,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066105248863936702",
+        "in_reply_to_user_id": "1853313060460752896",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066052953182761207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IlloySci @garrulous_abyss qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853313060460752896",
+        "conversation_id": "2065216732030247412",
+        "created_at": "2026-06-14T06:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066052953182761207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            },
+            {
+              "end": 25,
+              "id": "4752010152",
+              "start": 9,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066052953182761207",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065216732030247412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ @garrulous_abyss 我上推不是为了给自己的心灵暴击的😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1960,
+          "following_count": 1225,
+          "like_count": 13330,
+          "listed_count": 1,
+          "media_count": 574,
+          "tweet_count": 3041
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-04T05:47:35.000Z",
+        "description": "Web 2/3 security researcher | Passion includes binging Math, Physics, CompSci, Stats, (Organic) Chem; dreams of a private lab and working with friends there",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "notarealwebsite.com",
+                "end": 23,
+                "expanded_url": "https://www.notarealwebsite.com",
+                "start": 0,
+                "url": "https://t.co/Wtiu5Qu0Nw"
+              }
+            ]
+          }
+        },
+        "id": "1853313060460752896",
+        "location": "Pacific City of Academia",
+        "name": "Illoy Scizceneghposter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035210933711310848/mqXdxwxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 258,
+          "like_count": 4034,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 518
+        },
+        "url": "https://t.co/Wtiu5Qu0Nw",
+        "username": "IlloySci",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//科研人员//PhD//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑//\n\n欢迎预约占卜测事 https://t.co/KZBQuEa4Up",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 125,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 102,
+                "url": "https://t.co/KZBQuEa4Up"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31992,
+          "following_count": 3681,
+          "like_count": 190421,
+          "listed_count": 107,
+          "media_count": 3981,
+          "tweet_count": 69652
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

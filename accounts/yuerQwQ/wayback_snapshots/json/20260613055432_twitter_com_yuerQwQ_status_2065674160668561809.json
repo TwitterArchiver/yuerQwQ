@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2065659961666101666",
+    "created_at": "2026-06-13T05:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T06:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065674160668561809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2063085390668689408",
+          "start": 0,
+          "username": "tomorrowomg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065674160668561809",
+    "in_reply_to_user_id": "2063085390668689408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065659961666101666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomorrowomg 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2065659961666101666",
+        "created_at": "2026-06-13T05:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065674160668561809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2063085390668689408",
+              "start": 0,
+              "username": "tomorrowomg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065674160668561809",
+        "in_reply_to_user_id": "2063085390668689408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065659961666101666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomorrowomg 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063085390668689408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2065659961666101666",
+        "created_at": "2026-06-13T04:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:57:13.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065659733659492485",
+          "2065659961666101666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065659961666101666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我也是有100fo了哈哈哈，我决定放个抽奖，经济能力有限只能发这么多\n一等奖：1名 20元\n二等奖：3名 每人8元（共24元）\n安慰奖：9名 每人6元（共54元）  \n参与方式（三步即可）：1.关注我（必须fo）2.点赞本条帖子 3.评论区留言任意内容（我要用grok抽）\n\n抽奖规则：真实有效粉丝参与\n一人仅限中一次\n抽奖后会公布中奖者，关注会收到消息，私信发红包\n截止时间：2026.6.14   12.00  北京时间"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也是有100fo了哈哈哈，我决定放个抽奖，经济能力有限只能发这么多\n一等奖：1名 20元\n二等奖：3名 每人8元（共24元）\n安慰奖：9名 每人6元（共54元）  \n参与方式（三步即可）：1.关注我（必须fo）2.点赞本条帖子 3.评论区留言任意内容（我要用grok抽）\n\n抽奖规则：真实有效粉丝参与\n一人仅限中一次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 1213,
+          "like_count": 13143,
+          "listed_count": 1,
+          "media_count": 547,
+          "tweet_count": 2948
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T02:28:39.000Z",
+        "description": "INFJ/户外/摄影风光/山地车/CD/06/广州天河/评论互fo/币圈/烂番茄小说作者/cs饰品  后世@KateLee15458   当朋友圈发\n\n剪輯萌新+player 一枚\n球球諸位點點讚吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "KateLee15458"
+              }
+            ]
+          }
+        },
+        "id": "2063085390668689408",
+        "location": "Hong Kong",
+        "name": "水清歡🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063616314292449281/EwJxOWco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 82,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 78
+        },
+        "username": "tomorrowomg",
+        "verified": true
+      }
+    ]
+  }
+}

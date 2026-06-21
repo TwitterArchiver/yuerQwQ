@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2067467831302922609",
+    "created_at": "2026-06-18T04:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T05:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067470773435204049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2008789439527743488",
+          "start": 0,
+          "username": "yuzhile_dev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067470773435204049",
+    "in_reply_to_user_id": "2008789439527743488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067467831302922609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzhile_dev 好厉害……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2067467831302922609",
+        "created_at": "2026-06-18T04:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067470773435204049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008789439527743488",
+              "start": 0,
+              "username": "yuzhile_dev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067470773435204049",
+        "in_reply_to_user_id": "2008789439527743488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067467831302922609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzhile_dev 好厉害……"
+      },
+      {
+        "article": {
+          "title": "【收藏级别】2026 独立开发出海，别再重复造轮子了！5 款超强 Next.js SaaS 快速开发框架推荐"
+        },
+        "attachments": {},
+        "author_id": "2008789439527743488",
+        "conversation_id": "2067467831302922609",
+        "created_at": "2026-06-18T04:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067467831302922609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2067…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2067190044021202944",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2067190044021202944",
+              "url": "https://t.co/lFqOPa8ZxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067467831302922609",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lFqOPa8ZxT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2040,
+          "following_count": 1264,
+          "like_count": 13675,
+          "listed_count": 1,
+          "media_count": 606,
+          "tweet_count": 3223
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-07T06:35:16.000Z",
+        "description": "十多年编程老炮 | CTO | 独立开发出海 | vibe coding  🚀\nJava、Python | 网络爬虫 | 软件架构 | OCR   🚀\n有空点个关注 | 我小手一动就会给你来个互关加评论🚀",
+        "id": "2008789439527743488",
+        "name": "于知乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008789959650791425/Ww4Ddzss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 1043,
+          "like_count": 331,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 1452
+        },
+        "url": "",
+        "username": "yuzhile_dev",
+        "verified": true
+      }
+    ]
+  }
+}

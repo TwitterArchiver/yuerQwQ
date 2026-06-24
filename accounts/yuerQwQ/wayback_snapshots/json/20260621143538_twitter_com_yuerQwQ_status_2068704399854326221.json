@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2068704243935334475",
+    "created_at": "2026-06-21T14:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068704399854326221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2064597027623981056",
+          "start": 0,
+          "username": "subdronexyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068704399854326221",
+    "in_reply_to_user_id": "2064597027623981056",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068704243935334475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@subdronexyn ₍ᐢ⸝⸝› ̫‹⸝⸝ᐢ₎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2068704243935334475",
+        "created_at": "2026-06-21T14:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068704399854326221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2064597027623981056",
+              "start": 0,
+              "username": "subdronexyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068704399854326221",
+        "in_reply_to_user_id": "2064597027623981056",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068704243935334475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@subdronexyn ₍ᐢ⸝⸝› ̫‹⸝⸝ᐢ₎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064597027623981056",
+        "conversation_id": "2068704243935334475",
+        "created_at": "2026-06-21T14:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068704243935334475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1962302660541079552",
+              "start": 25,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068704243935334475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小白羽为什么如此美丽...\n小小白羽也很可爱捏（\n@yuerQwQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2171,
+          "following_count": 1340,
+          "like_count": 14155,
+          "listed_count": 1,
+          "media_count": 655,
+          "tweet_count": 3472
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-10T06:36:42.000Z",
+        "description": "@picxis63594的新号，那个号被ghostban了😭，互fo巡回(虽然没多少)/生产日期2008.9.18/目前断糖/超绝家暴党，每日活在被送封闭精卫和扭转的阴影里.../跟咱互fo喵！陪咱聊天！/挚爱@yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "picxis63594"
+              },
+              {
+                "end": 113,
+                "start": 105,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "2064597027623981056",
+        "name": "无人机潜水",
+        "pinned_tweet_id": "2065366952844136631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064597787225038850/w3LgZpct_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 50,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "subdronexyn",
+        "verified": false
+      }
+    ]
+  }
+}

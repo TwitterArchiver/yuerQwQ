@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068688773341409280"
+      ],
+      "media_source_tweet_id": [
+        "2068688783088967804"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2068920047482118545",
+    "created_at": "2026-06-22T04:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068920047482118545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2024068861134528512",
+          "start": 3,
+          "username": "1gdsb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CnPYzSJ4Jf",
+          "end": 87,
+          "expanded_url": "https://x.com/1gdsb/status/2068688783088967804/photo/1",
+          "media_key": "3_2068688773341409280",
+          "start": 64,
+          "url": "https://t.co/CnPYzSJ4Jf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068920047482118545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068688783088967804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1gdsb: 100fo抽奖来了😋\n抽3个鱼板（可折rmb2元）\n6.22北京时间22:00开奖\n参与条件：关+转+赞 https://t.co/CnPYzSJ4Jf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068688773341409280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV1ep3acAAGTJT.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068688773341409280"
+          ],
+          "media_source_tweet_id": [
+            "2068688783088967804"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2068920047482118545",
+        "created_at": "2026-06-22T04:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068920047482118545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2024068861134528512",
+              "start": 3,
+              "username": "1gdsb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CnPYzSJ4Jf",
+              "end": 87,
+              "expanded_url": "https://x.com/1gdsb/status/2068688783088967804/photo/1",
+              "media_key": "3_2068688773341409280",
+              "start": 64,
+              "url": "https://t.co/CnPYzSJ4Jf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068920047482118545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068688783088967804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1gdsb: 100fo抽奖来了😋\n抽3个鱼板（可折rmb2元）\n6.22北京时间22:00开奖\n参与条件：关+转+赞 https://t.co/CnPYzSJ4Jf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068688773341409280"
+          ]
+        },
+        "author_id": "2024068861134528512",
+        "conversation_id": "2068688783088967804",
+        "created_at": "2026-06-21T13:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068688783088967804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CnPYzSJ4Jf",
+              "end": 76,
+              "expanded_url": "https://x.com/1gdsb/status/2068688783088967804/photo/1",
+              "media_key": "3_2068688773341409280",
+              "start": 53,
+              "url": "https://t.co/CnPYzSJ4Jf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068688783088967804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1867,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "100fo抽奖来了😋\n抽3个鱼板（可折rmb2元）\n6.22北京时间22:00开奖\n参与条件：关+转+赞 https://t.co/CnPYzSJ4Jf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 1323,
+          "like_count": 14233,
+          "listed_count": 1,
+          "media_count": 660,
+          "tweet_count": 3502
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-18T10:30:04.000Z",
+        "description": "mtf/x？   悲惨的初三生一枚\n出厂日期2011.8.31（开学前一天悲:(\n身高178 59kg\n玩cfm（好老的游戏）mc java版 逆战未来 异环 roblox\nhrt2026.4.15 同类100%回fo\n其他不想写",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cn_1gdsb1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/cn_1gdsb1",
+                "start": 0,
+                "url": "https://t.co/nDeqjDhbvO"
+              }
+            ]
+          }
+        },
+        "id": "2024068861134528512",
+        "location": "广州海珠赤岗",
+        "name": "cn_1gdsb",
+        "pinned_tweet_id": "2062541504661610927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068400073894236160/GFl-Hbh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 187,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 224
+        },
+        "url": "https://t.co/nDeqjDhbvO",
+        "username": "1gdsb",
+        "verified": false
+      }
+    ]
+  }
+}

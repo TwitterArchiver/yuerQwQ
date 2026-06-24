@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2068453847077425287",
+    "created_at": "2026-06-21T06:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068579227650470007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1576567621582995456",
+          "start": 0,
+          "username": "danrp408"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068579227650470007",
+    "in_reply_to_user_id": "1576567621582995456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068563969179308145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@danrp408 下一次的预言（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2068453847077425287",
+        "created_at": "2026-06-21T06:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068579227650470007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1576567621582995456",
+              "start": 0,
+              "username": "danrp408"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068579227650470007",
+        "in_reply_to_user_id": "1576567621582995456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068563969179308145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@danrp408 下一次的预言（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576567621582995456",
+        "conversation_id": "2068453847077425287",
+        "created_at": "2026-06-21T05:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068563969179308145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068563969179308145",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068453847077425287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 鸡咋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 1332,
+          "like_count": 14042,
+          "listed_count": 1,
+          "media_count": 647,
+          "tweet_count": 3421
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-02T13:40:03.000Z",
+        "description": "已岁静 Dispro主义者 生活西化思想西化",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "etternaonline.com/user/danRP408",
+                "end": 23,
+                "expanded_url": "https://etternaonline.com/user/danRP408",
+                "start": 0,
+                "url": "https://t.co/nQF41IK4pz"
+              }
+            ]
+          }
+        },
+        "id": "1576567621582995456",
+        "name": "稍有常识的人",
+        "pinned_tweet_id": "1956366534118646075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602659752001118208/nkqTuDMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 1615,
+          "like_count": 86058,
+          "listed_count": 5,
+          "media_count": 262,
+          "tweet_count": 5092
+        },
+        "url": "https://t.co/nQF41IK4pz",
+        "username": "danrp408",
+        "verified": false
+      }
+    ]
+  }
+}

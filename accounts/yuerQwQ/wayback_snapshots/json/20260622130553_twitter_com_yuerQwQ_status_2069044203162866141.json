@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2069044203162866141",
+    "created_at": "2026-06-22T13:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T14:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069044203162866141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045224199120191488",
+          "start": 3,
+          "username": "nagis1a"
+        },
+        {
+          "end": 38,
+          "id": "1761282483834998784",
+          "start": 26,
+          "username": "qiancongxyn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/AjVC",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/AjVC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069044203162866141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069033932474163628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nagis1a: 大家好😭我是浅葱🍥，原号\n@qiancongxyn遭遇马斯克和剑人迫害导致永久封号\n这里是二代目\n\n==求原互fo宝宝们帮转帮回fo==\n\n本号会慢慢回关(三无除外)\n在账号成功找回前所有日常内容都会在该账号继续发布 https://t.co/AjVC…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [qiancongxyn].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "qiancongxyn",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "qiancongxyn"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_2069033843848556544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLavUZrasAAf24i.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069033843861196800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLavUZubkAACn3W.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2069044203162866141",
+        "created_at": "2026-06-22T13:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069044203162866141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045224199120191488",
+              "start": 3,
+              "username": "nagis1a"
+            },
+            {
+              "end": 38,
+              "id": "1761282483834998784",
+              "start": 26,
+              "username": "qiancongxyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/AjVC",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/AjVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069044203162866141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069033932474163628",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nagis1a: 大家好😭我是浅葱🍥，原号\n@qiancongxyn遭遇马斯克和剑人迫害导致永久封号\n这里是二代目\n\n==求原互fo宝宝们帮转帮回fo==\n\n本号会慢慢回关(三无除外)\n在账号成功找回前所有日常内容都会在该账号继续发布 https://t.co/AjVC…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069033843848556544",
+            "3_2069033843861196800"
+          ]
+        },
+        "author_id": "2045224199120191488",
+        "conversation_id": "2069033932474163628",
+        "created_at": "2026-06-22T12:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069033932474163628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1761282483834998784",
+              "start": 13,
+              "username": "qiancongxyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AjVCK0KBlO",
+              "end": 132,
+              "expanded_url": "https://x.com/nagis1a/status/2069033932474163628/photo/1",
+              "media_key": "3_2069033843848556544",
+              "start": 109,
+              "url": "https://t.co/AjVCK0KBlO"
+            },
+            {
+              "display_url": "pic.x.com/AjVCK0KBlO",
+              "end": 132,
+              "expanded_url": "https://x.com/nagis1a/status/2069033932474163628/photo/1",
+              "media_key": "3_2069033843861196800",
+              "start": 109,
+              "url": "https://t.co/AjVCK0KBlO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069033932474163628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "大家好😭我是浅葱🍥，原号\n@qiancongxyn遭遇马斯克和剑人迫害导致永久封号\n这里是二代目\n\n==求原互fo宝宝们帮转帮回fo==\n\n本号会慢慢回关(三无除外)\n在账号成功找回前所有日常内容都会在该账号继续发布 https://t.co/AjVCK0KBlO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@qiancongxyn丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2178,
+          "following_count": 1326,
+          "like_count": 14266,
+          "listed_count": 1,
+          "media_count": 667,
+          "tweet_count": 3522
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T19:34:04.000Z",
+        "description": "MtF || 2009 ||  广东 || 糖商\n原号浅葱🍥@qiancongxyn\n二代目互fo巡回中…\n联系方式QQ，tg，xchat\n\n愿以温柔为骨，活成一束柔光",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "qiancongxyn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/qiancong1",
+                "end": 23,
+                "expanded_url": "http://t.me/qiancong1",
+                "start": 0,
+                "url": "https://t.co/Ds2IoXcHq1"
+              }
+            ]
+          }
+        },
+        "id": "2045224199120191488",
+        "name": "芊小丛🍥（糖商）",
+        "pinned_tweet_id": "2069033932474163628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068938612213989376/ZDOr5smz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 64,
+          "like_count": 404,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/Ds2IoXcHq1",
+        "username": "nagis1a",
+        "verified": false
+      }
+    ]
+  }
+}

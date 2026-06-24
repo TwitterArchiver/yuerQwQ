@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2068990520437960734",
+    "created_at": "2026-06-23T13:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T14:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069406692681683202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1066689340766511104",
+          "start": 0,
+          "username": "Nihilmace_moyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069406692681683202",
+    "in_reply_to_user_id": "1066689340766511104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069403854387696100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nihilmace_moyo 每一个人都在隐藏🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2068990520437960734",
+        "created_at": "2026-06-23T13:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069406692681683202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1066689340766511104",
+              "start": 0,
+              "username": "Nihilmace_moyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069406692681683202",
+        "in_reply_to_user_id": "1066689340766511104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069403854387696100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nihilmace_moyo 每一个人都在隐藏🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1066689340766511104",
+        "conversation_id": "2068990520437960734",
+        "created_at": "2026-06-23T12:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069403854387696100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069403854387696100",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068990520437960734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 這種家庭關係，感覺所有人都會十分痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2214,
+          "following_count": 1324,
+          "like_count": 14364,
+          "listed_count": 1,
+          "media_count": 680,
+          "tweet_count": 3554
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-25T13:45:31.000Z",
+        "description": "廚SCP基金會的大叔，是個憤世嫉俗、天生反骨之人，\nGOI：Cobweb International的執筆者，下層設定中奈爾梅絲設定是超自然反抗組織蛇之手的一員，我平時會紀錄自己玩過什麼遊戲，也會發表一些評論意見。\n\n註：頭圖的所有權為繪師K1s10r0d所有\n#Nihilmace",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 141,
+                "start": 131,
+                "tag": "Nihilmace"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "store.steampowered.com/news/app/34314…",
+                "end": 23,
+                "expanded_url": "https://store.steampowered.com/news/app/3431480/view/524213474678539594?l=tchinese",
+                "start": 0,
+                "url": "https://t.co/YwUiNraqtW"
+              }
+            ]
+          }
+        },
+        "id": "1066689340766511104",
+        "location": "流浪者圖書館",
+        "name": "🌈Nihilmace(奈爾梅絲)/興趣使然的遊戲製作者",
+        "pinned_tweet_id": "1909522080112038284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1261114781534019585/wy2yHYuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 179,
+          "like_count": 31227,
+          "listed_count": 10,
+          "media_count": 1491,
+          "tweet_count": 16772
+        },
+        "url": "https://t.co/YwUiNraqtW",
+        "username": "Nihilmace_moyo",
+        "verified": false
+      }
+    ]
+  }
+}

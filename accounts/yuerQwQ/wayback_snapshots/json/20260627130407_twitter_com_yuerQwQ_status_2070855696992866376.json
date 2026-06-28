@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2070855696992866376",
+    "created_at": "2026-06-27T13:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070855696992866376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813768883540725760",
+          "start": 3,
+          "username": "ye_and_yae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070855696992866376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070743398152335791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ye_and_yae: 1000粉的抽奖来喽\n一等奖一名  辉夜姬中点点毛绒玩偶一个\n二等奖两名  小孩姐武使灯立牌一个\n三等奖三名  粉白蓝编织手环一个\n关注+点赞+评论参与抽奖哦\n参与截止到7月1日中午12点，7月1日下午由grok开奖\n奖品如图\n（都是便宜的东西，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2070743390627704832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzCJHtaMAA9E_p.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2070743390657110016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzCJH0a4AArCB-.jpg",
+        "width": 1200
+      },
+      {
+        "height": 800,
+        "media_key": "3_2070743390644543488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzCJHxbIAAY_j0.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2070855696992866376",
+        "created_at": "2026-06-27T13:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070855696992866376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813768883540725760",
+              "start": 3,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070855696992866376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070743398152335791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ye_and_yae: 1000粉的抽奖来喽\n一等奖一名  辉夜姬中点点毛绒玩偶一个\n二等奖两名  小孩姐武使灯立牌一个\n三等奖三名  粉白蓝编织手环一个\n关注+点赞+评论参与抽奖哦\n参与截止到7月1日中午12点，7月1日下午由grok开奖\n奖品如图\n（都是便宜的东西，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070743390627704832",
+            "3_2070743390657110016",
+            "3_2070743390644543488"
+          ]
+        },
+        "author_id": "1813768883540725760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2070743398152335791",
+        "created_at": "2026-06-27T05:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070743398152335791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p9mPYoseg7",
+              "end": 160,
+              "expanded_url": "https://x.com/ye_and_yae/status/2070743398152335791/photo/1",
+              "media_key": "3_2070743390627704832",
+              "start": 137,
+              "url": "https://t.co/p9mPYoseg7"
+            },
+            {
+              "display_url": "pic.x.com/p9mPYoseg7",
+              "end": 160,
+              "expanded_url": "https://x.com/ye_and_yae/status/2070743398152335791/photo/1",
+              "media_key": "3_2070743390657110016",
+              "start": 137,
+              "url": "https://t.co/p9mPYoseg7"
+            },
+            {
+              "display_url": "pic.x.com/p9mPYoseg7",
+              "end": 160,
+              "expanded_url": "https://x.com/ye_and_yae/status/2070743398152335791/photo/1",
+              "media_key": "3_2070743390644543488",
+              "start": 137,
+              "url": "https://t.co/p9mPYoseg7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070743398152335791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1971,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 48,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "1000粉的抽奖来喽\n一等奖一名  辉夜姬中点点毛绒玩偶一个\n二等奖两名  小孩姐武使灯立牌一个\n三等奖三名  粉白蓝编织手环一个\n关注+点赞+评论参与抽奖哦\n参与截止到7月1日中午12点，7月1日下午由grok开奖\n奖品如图\n（都是便宜的东西，毕竟主包也没钱不要嫌弃呀） https://t.co/p9mPYoseg7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2320,
+          "following_count": 1363,
+          "like_count": 14895,
+          "listed_count": 2,
+          "media_count": 731,
+          "tweet_count": 3787
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "09/01/26 炸柜26/06/09 有时含糖   喜欢航天（不是三角洲那个啦！） 和二次元\n喜欢画画 正在学日语喜欢电子产品  正在vibe自己的网页 \nmaster @yesterdayorange\n大好き @gcjl9188\n最最最好的朋友@guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 86,
+                "username": "yesterdayorange"
+              },
+              {
+                "end": 116,
+                "start": 107,
+                "username": "gcjl9188"
+              },
+              {
+                "end": 136,
+                "start": 124,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "location": "Starbase TX",
+        "name": "🚀爱晔🍥",
+        "pinned_tweet_id": "2069760833060811231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056435388680716288/GYePUBtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 1033,
+          "like_count": 6022,
+          "listed_count": 3,
+          "media_count": 255,
+          "tweet_count": 3281
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": false
+      }
+    ]
+  }
+}

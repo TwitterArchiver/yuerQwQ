@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069291141934227456"
+      ],
+      "media_source_tweet_id": [
+        "2069722199615795357"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069770086249017393",
+    "created_at": "2026-06-24T13:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T14:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069770086249017393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1962302660541079552",
+          "start": 3,
+          "username": "yuerQwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ol3ojo1WYY",
+          "end": 45,
+          "expanded_url": "https://x.com/yuerQwQ/status/2069722199615795357/photo/1",
+          "media_key": "3_2069291141934227456",
+          "start": 22,
+          "url": "https://t.co/ol3ojo1WYY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069770086249017393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069722199615795357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuerQwQ: 至少手机找回来了 https://t.co/ol3ojo1WYY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1217,
+        "media_key": "3_2069291141934227456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeZVHvaIAADBG3.jpg",
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069291141934227456"
+          ],
+          "media_source_tweet_id": [
+            "2069722199615795357"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069770086249017393",
+        "created_at": "2026-06-24T13:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T14:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069770086249017393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962302660541079552",
+              "start": 3,
+              "username": "yuerQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ol3ojo1WYY",
+              "end": 45,
+              "expanded_url": "https://x.com/yuerQwQ/status/2069722199615795357/photo/1",
+              "media_key": "3_2069291141934227456",
+              "start": 22,
+              "url": "https://t.co/ol3ojo1WYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069770086249017393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069722199615795357",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuerQwQ: 至少手机找回来了 https://t.co/ol3ojo1WYY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069291141934227456"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069722199615795357",
+        "created_at": "2026-06-24T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069722199615795357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ol3ojo1WYY",
+              "end": 32,
+              "expanded_url": "https://x.com/yuerQwQ/status/2069722199615795357/photo/1",
+              "media_key": "3_2069291141934227456",
+              "start": 9,
+              "url": "https://t.co/ol3ojo1WYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069722199615795357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 263,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "至少手机找回来了 https://t.co/ol3ojo1WYY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2227,
+          "following_count": 1318,
+          "like_count": 14469,
+          "listed_count": 1,
+          "media_count": 693,
+          "tweet_count": 3591
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2069734347121320059",
+    "created_at": "2026-06-25T05:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T06:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070015741328490879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1903668037347364864",
+          "start": 0,
+          "username": "dianbaobao"
+        },
+        {
+          "end": 20,
+          "id": "1005907526876106752",
+          "start": 12,
+          "username": "ozgeppn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070015741328490879",
+    "in_reply_to_user_id": "1903668037347364864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070003394543227193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dianbaobao @ozgeppn 可能这样更有意境吧（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2069734347121320059",
+        "created_at": "2026-06-25T05:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070015741328490879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1903668037347364864",
+              "start": 0,
+              "username": "dianbaobao"
+            },
+            {
+              "end": 20,
+              "id": "1005907526876106752",
+              "start": 12,
+              "username": "ozgeppn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070015741328490879",
+        "in_reply_to_user_id": "1903668037347364864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070003394543227193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dianbaobao @ozgeppn 可能这样更有意境吧（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903668037347364864",
+        "conversation_id": "2069734347121320059",
+        "created_at": "2026-06-25T04:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070003394543227193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1005907526876106752",
+              "start": 0,
+              "username": "ozgeppn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070003394543227193",
+        "in_reply_to_user_id": "1005907526876106752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069734347121320059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ozgeppn 机器就能解决了，根本不用这么费劲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2247,
+          "following_count": 1336,
+          "like_count": 14545,
+          "listed_count": 1,
+          "media_count": 702,
+          "tweet_count": 3617
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-23T04:40:15.000Z",
+        "description": "知名社交软件X资深体验员兼职吃瓜群众\n大型沉浸式生存游戏《打工》资深NPC\n全球顶级睡眠测试中心常驻研究员",
+        "id": "1903668037347364864",
+        "name": "dian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045414036154802176/pdIWotr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2715,
+          "following_count": 1741,
+          "like_count": 1610,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 2324
+        },
+        "url": "",
+        "username": "dianbaobao",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-10T20:20:18.000Z",
+        "description": "Reklam ve iş birliği için dm 💌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ozgeppn",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ozgeppn",
+                "start": 0,
+                "url": "https://t.co/LuAJd2ExUy"
+              }
+            ]
+          }
+        },
+        "id": "1005907526876106752",
+        "location": "İstanbul, Türkiye",
+        "name": "ÖZGE",
+        "pinned_tweet_id": "1869772862481117360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950514676023820288/EZGYTSXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117294,
+          "following_count": 79107,
+          "like_count": 134151,
+          "listed_count": 80,
+          "media_count": 3234,
+          "tweet_count": 25682
+        },
+        "url": "https://t.co/LuAJd2ExUy",
+        "username": "ozgeppn",
+        "verified": true
+      }
+    ]
+  }
+}

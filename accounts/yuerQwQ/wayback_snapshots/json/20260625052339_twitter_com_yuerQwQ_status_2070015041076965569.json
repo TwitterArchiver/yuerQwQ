@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2069993627674370529",
+    "created_at": "2026-06-25T05:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T06:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070015041076965569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "767099368163926016",
+          "start": 0,
+          "username": "YYDSGZH888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070015041076965569",
+    "in_reply_to_user_id": "767099368163926016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069993627674370529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YYDSGZH888 狗狗好优雅"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9966,
+        "height": 1280,
+        "media_key": "13_2069993567729393664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069993567729393664/img/dKaNhKHTOFa7StpS.jpg",
+        "public_metrics": {
+          "view_count": 60
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069993567729393664/vid/avc1/320x568/G461VQowNqSPDbNl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069993567729393664/vid/avc1/480x852/R6LLcIrG2peKeuYj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069993567729393664/vid/avc1/720x1280/hl-3scc-upccu69h.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069993567729393664/pl/y1D2_Pp1s-IhWyVm.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2069993627674370529",
+        "created_at": "2026-06-25T05:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070015041076965569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "767099368163926016",
+              "start": 0,
+              "username": "YYDSGZH888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070015041076965569",
+        "in_reply_to_user_id": "767099368163926016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069993627674370529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YYDSGZH888 狗狗好优雅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069993567729393664"
+          ]
+        },
+        "author_id": "767099368163926016",
+        "conversation_id": "2069993627674370529",
+        "created_at": "2026-06-25T03:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T04:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069993627674370529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/luRoe1V8gX",
+              "end": 41,
+              "expanded_url": "https://x.com/YYDSGZH888/status/2069993627674370529/video/1",
+              "media_key": "13_2069993567729393664",
+              "start": 18,
+              "url": "https://t.co/luRoe1V8gX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069993627674370529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这家伙怎么看着有种霸道总裁的即视感 https://t.co/luRoe1V8gX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2247,
+          "following_count": 1336,
+          "like_count": 14543,
+          "listed_count": 1,
+          "media_count": 702,
+          "tweet_count": 3615
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-20T20:41:56.000Z",
+        "description": "| 『 #BTC｜#ETH｜#SOL｜#BNB忠实卫兵💂‍♂️』｜币安广场创作者｜山寨归零钻石手｜空投撸毛爱好者｜市场分析师｜资讯分享人｜善弈者谋势，明者因时而动｜生意合伙人卷钱跑路被骗负债三百万，但依旧热爱生活砥砺前行",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 4,
+                "tag": "BTC"
+              },
+              {
+                "end": 13,
+                "start": 9,
+                "tag": "ETH"
+              },
+              {
+                "end": 18,
+                "start": 14,
+                "tag": "SOL"
+              },
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "BNB忠实卫兵"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+AW21JOuZYAY2N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+AW21JOuZYAY2NDll",
+                "start": 0,
+                "url": "https://t.co/l0TvMydgrK"
+              }
+            ]
+          }
+        },
+        "id": "767099368163926016",
+        "location": "撸毛互动吹牛俱乐部",
+        "name": "加密军师",
+        "pinned_tweet_id": "2043175563138117984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994009459400847360/DKMOYjps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9031,
+          "following_count": 3446,
+          "like_count": 11319,
+          "listed_count": 12,
+          "media_count": 513,
+          "tweet_count": 11920
+        },
+        "url": "https://t.co/l0TvMydgrK",
+        "username": "YYDSGZH888",
+        "verified": true
+      }
+    ]
+  }
+}

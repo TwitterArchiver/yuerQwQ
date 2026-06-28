@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2068501218629173500",
+    "created_at": "2026-06-27T04:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T05:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070730759040889096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1449372738066337794",
+          "start": 0,
+          "username": "davichi1995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070730759040889096",
+    "in_reply_to_user_id": "1449372738066337794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068501218629173500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@davichi1995 蟑螂...\n好可怕😨😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5504,
+        "height": 1280,
+        "media_key": "13_2068501132511731712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068501132511731712/img/dM1q8zVK8iS54czH.jpg",
+        "public_metrics": {
+          "view_count": 28
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068501132511731712/vid/avc1/320x568/xK7QW0WLGNd5NT98.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068501132511731712/vid/avc1/480x852/gVPavNGDLHXytvCm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068501132511731712/vid/avc1/720x1280/pjFJ7OyI8-nDIkXR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068501132511731712/pl/xmtyFjjFNEt-Ja-a.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2068501218629173500",
+        "created_at": "2026-06-27T04:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070730759040889096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1449372738066337794",
+              "start": 0,
+              "username": "davichi1995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070730759040889096",
+        "in_reply_to_user_id": "1449372738066337794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068501218629173500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@davichi1995 蟑螂...\n好可怕😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068501132511731712"
+          ]
+        },
+        "author_id": "1449372738066337794",
+        "conversation_id": "2068501218629173500",
+        "created_at": "2026-06-21T01:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068501218629173500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xymLk7UnfJ",
+              "end": 167,
+              "expanded_url": "https://x.com/davichi1995/status/2068501218629173500/video/1",
+              "media_key": "13_2068501132511731712",
+              "start": 144,
+              "url": "https://t.co/xymLk7UnfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068501218629173500",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 337,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Sáng ra bà già mua cho cái báng ăn sáng mà nó như này , kiểu này chắc từ giờ tới cuối đời không dám ăn món bánh đó nữa quá tội cho cháu bé 🥲🥲🥲🥲 https://t.co/xymLk7UnfJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2298,
+          "following_count": 1356,
+          "like_count": 14842,
+          "listed_count": 2,
+          "media_count": 724,
+          "tweet_count": 3755
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-16T13:52:55.000Z",
+        "description": "🔥 Content Creator 🔥\nĐam mê thể thao & giải trí\nFollow Back in 1 second  🔥",
+        "id": "1449372738066337794",
+        "name": "Davichi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850126147109167104/0FwU_lzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 1185,
+          "like_count": 1655,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 2152
+        },
+        "url": "",
+        "username": "davichi1995",
+        "verified": true
+      }
+    ]
+  }
+}

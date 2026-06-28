@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2069713699338879468",
+    "created_at": "2026-06-25T23:05:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T00:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070282350710370436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1661148065749942272",
+          "start": 0,
+          "username": "MeiyiSama"
+        },
+        {
+          "end": 21,
+          "id": "1852686868846092288",
+          "start": 11,
+          "username": "TL_Xingyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070282350710370436",
+    "in_reply_to_user_id": "1661148065749942272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070228312841171344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeiyiSama @TL_Xingyi 我去，王哥&lt;(ºOº)&gt;"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 331,
+        "media_key": "3_2070228306528735232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrtrR6akAAlVKS.jpg",
+        "width": 908
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2069713699338879468",
+        "created_at": "2026-06-25T23:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070282350710370436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1661148065749942272",
+              "start": 0,
+              "username": "MeiyiSama"
+            },
+            {
+              "end": 21,
+              "id": "1852686868846092288",
+              "start": 11,
+              "username": "TL_Xingyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070282350710370436",
+        "in_reply_to_user_id": "1661148065749942272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070228312841171344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeiyiSama @TL_Xingyi 我去，王哥&lt;(ºOº)&gt;"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070228306528735232"
+          ]
+        },
+        "author_id": "1661148065749942272",
+        "conversation_id": "2069713699338879468",
+        "created_at": "2026-06-25T19:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T20:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070228312841171344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1852686868846092288",
+              "start": 0,
+              "username": "TL_Xingyi"
+            },
+            {
+              "end": 19,
+              "id": "1962302660541079552",
+              "start": 11,
+              "username": "yuerQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UHUBDcnzsr",
+              "end": 53,
+              "expanded_url": "https://x.com/MeiyiSama/status/2070228312841171344/photo/1",
+              "media_key": "3_2070228306528735232",
+              "start": 30,
+              "url": "https://t.co/UHUBDcnzsr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070228312841171344",
+        "in_reply_to_user_id": "1852686868846092288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069813867426029939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TL_Xingyi @yuerQwQ 老资历都是有渠道的 https://t.co/UHUBDcnzsr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2252,
+          "following_count": 1335,
+          "like_count": 14634,
+          "listed_count": 2,
+          "media_count": 713,
+          "tweet_count": 3656
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-23T23:12:24.000Z",
+        "description": "1935出生于吉林长春，1950参加中国人民解放军并参加抗美援朝。1951加入中国共产党。复员后到上海入第十七棉纺织厂当工人。后于保卫科任干事。1966响应伟大领袖毛主席号召推翻上海市委反动统治打响夺权第一枪，并在党十大上成功当选副主席。 1976粉碎走资派妄图复辟资本主义的阴谋诡计，在党十一大当选中华人民共和国主席。",
+        "id": "1661148065749942272",
+        "location": "中华人民共和国北京市西城区中南海",
+        "name": "王洪文",
+        "pinned_tweet_id": "1849506577570726220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800529443313848321/pBGkVoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 94,
+          "like_count": 1353,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 3360
+        },
+        "url": "",
+        "username": "MeiyiSama",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-02T12:25:58.000Z",
+        "description": "5:30the car missin'\n马列毛主义/从马列角度支持LGBT权益/偏新左？/现代毛派/反修正主义/反资反帝。广脑给我扣了个重抑中焦的帽子🤔🤔🤔。脱产学生（高中生）努力学习理论克服小资性。 推上一般不鉴证，但还是建议不要关注我的回复。侃爷维斯特你怎么回事呢呢呢呢呢。友跨🏳️‍⚧️。互fo都会回的喵😺加Q私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xqzxmarxismclub.com",
+                "end": 23,
+                "expanded_url": "http://xqzxmarxismclub.com",
+                "start": 0,
+                "url": "https://t.co/slB5soX612"
+              }
+            ]
+          }
+        },
+        "id": "1852686868846092288",
+        "location": "Roermond, Nederland",
+        "name": "Physic530🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021662006047338496/LzTR6pRS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 421,
+          "like_count": 4448,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 338
+        },
+        "url": "https://t.co/slB5soX612",
+        "username": "TL_Xingyi",
+        "verified": true
+      }
+    ]
+  }
+}

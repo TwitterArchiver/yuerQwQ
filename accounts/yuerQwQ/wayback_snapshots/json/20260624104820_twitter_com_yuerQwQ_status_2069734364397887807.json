@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2069726181877006619",
+    "created_at": "2026-06-24T10:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T11:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069734364397887807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1903668037347364864",
+          "start": 0,
+          "username": "dianbaobao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069734364397887807",
+    "in_reply_to_user_id": "1903668037347364864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069732873134100595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dianbaobao 我回想一下我今天的异常行为应该只有“把梯子挂到德国去了”🤔\n挂回新加坡明天看看什么情况（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2069726181877006619",
+        "created_at": "2026-06-24T10:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069734364397887807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1903668037347364864",
+              "start": 0,
+              "username": "dianbaobao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069734364397887807",
+        "in_reply_to_user_id": "1903668037347364864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069732873134100595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dianbaobao 我回想一下我今天的异常行为应该只有“把梯子挂到德国去了”🤔\n挂回新加坡明天看看什么情况（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903668037347364864",
+        "conversation_id": "2069726181877006619",
+        "created_at": "2026-06-24T10:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069732873134100595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069732873134100595",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069731848310469090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 你也倒下了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2228,
+          "following_count": 1318,
+          "like_count": 14457,
+          "listed_count": 1,
+          "media_count": 692,
+          "tweet_count": 3587
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-23T04:40:15.000Z",
+        "description": "知名社交软件X资深体验员兼职吃瓜群众\n大型沉浸式生存游戏《打工》资深NPC\n全球顶级睡眠测试中心常驻研究员",
+        "id": "1903668037347364864",
+        "name": "dian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045414036154802176/pdIWotr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2659,
+          "following_count": 1680,
+          "like_count": 1596,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 2260
+        },
+        "url": "",
+        "username": "dianbaobao",
+        "verified": true
+      }
+    ]
+  }
+}

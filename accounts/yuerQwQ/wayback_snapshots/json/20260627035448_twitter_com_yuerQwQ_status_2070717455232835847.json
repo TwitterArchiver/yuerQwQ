@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2070394804035543244",
+    "created_at": "2026-06-27T03:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T04:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070717455232835847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4863854915",
+          "start": 0,
+          "username": "zan422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070717455232835847",
+    "in_reply_to_user_id": "4863854915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070394804035543244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zan422 大家一起活跃起来就好了呀！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070394787216388096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuFFuzacAAYzRD.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2070394804035543244",
+        "created_at": "2026-06-27T03:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070717455232835847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4863854915",
+              "start": 0,
+              "username": "zan422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070717455232835847",
+        "in_reply_to_user_id": "4863854915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070394804035543244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zan422 大家一起活跃起来就好了呀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070394787216388096"
+          ]
+        },
+        "author_id": "4863854915",
+        "conversation_id": "2070394804035543244",
+        "created_at": "2026-06-26T06:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070394804035543244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BGMiisBHCm",
+              "end": 233,
+              "expanded_url": "https://x.com/zan422/status/2070394804035543244/photo/1",
+              "media_key": "3_2070394787216388096",
+              "start": 210,
+              "url": "https://t.co/BGMiisBHCm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070394804035543244",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2502,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 89,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Trời\n\nHoá ra cộng đồng người Việt Nam! Chơi X khá nhiều đó mọi người ạ\n\nEm đăng một bài nói tiếng Việt Nam! Mà lên xu hướng luôn nè\n\nChứng tỏ là bấy lâu nay mọi người lười nói chuyện lắm nên view mới lẹt đẹt 😂 https://t.co/BGMiisBHCm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2294,
+          "following_count": 1353,
+          "like_count": 14835,
+          "listed_count": 2,
+          "media_count": 724,
+          "tweet_count": 3751
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-30T13:59:11.000Z",
+        "description": "Founder: Artificial Intelligence (AI) @AI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 38,
+                "username": "AI"
+              }
+            ]
+          }
+        },
+        "id": "4863854915",
+        "location": "USA VS VIETNAMES",
+        "name": "Anle",
+        "pinned_tweet_id": "2070298801597014085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069261669050748928/fsMIJkrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1504,
+          "following_count": 1583,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 417
+        },
+        "url": "",
+        "username": "zan422",
+        "verified": true
+      }
+    ]
+  }
+}

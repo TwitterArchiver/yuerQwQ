@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2069903393288827161",
+    "created_at": "2026-06-25T13:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T14:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070137160771178733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1976239993464242176",
+          "start": 0,
+          "username": "Star_Furry_mtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070137160771178733",
+    "in_reply_to_user_id": "1976239993464242176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070114387898081550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Star_Furry_mtf 号主像个摔炮（bushi）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2069903393288827161",
+        "created_at": "2026-06-25T13:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070137160771178733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1976239993464242176",
+              "start": 0,
+              "username": "Star_Furry_mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070137160771178733",
+        "in_reply_to_user_id": "1976239993464242176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070114387898081550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Star_Furry_mtf 号主像个摔炮（bushi）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976239993464242176",
+        "conversation_id": "2069903393288827161",
+        "created_at": "2026-06-25T11:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070114387898081550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070114387898081550",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069903393288827161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 军师：我叫你摔炮摔炮摔摔摔炮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 1335,
+          "like_count": 14559,
+          "listed_count": 1,
+          "media_count": 708,
+          "tweet_count": 3629
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-09T10:55:34.000Z",
+        "description": "一个在🇨🇳的小透明福瑞爱好者|偶尔上推\n拥有很多爱我的亲友\n|中文🔴|English⭕|日本語❌|同类可扩\nQ：3423215607\nV：wrgx10753\n|email:awawrgx@outlook.com|\n无证含糖|2026.6.18|同类互fo|泛性恋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Furry_Stars",
+                "end": 23,
+                "expanded_url": "https://t.me/Furry_Stars",
+                "start": 0,
+                "url": "https://t.co/pkA9bMAClM"
+              }
+            ]
+          }
+        },
+        "id": "1976239993464242176",
+        "location": "湖北省 武汉市 距你0.91km",
+        "name": "星曦🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064571861527339008/UcsIEUIm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 112,
+          "like_count": 384,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 483
+        },
+        "url": "https://t.co/pkA9bMAClM",
+        "username": "Star_Furry_mtf",
+        "verified": false
+      }
+    ]
+  }
+}

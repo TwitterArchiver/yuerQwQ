@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072254522311979008"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2072254530956439772",
+    "created_at": "2026-07-01T09:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T10:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072254530956439772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4lbQsi5BhP",
+          "end": 71,
+          "expanded_url": "https://x.com/yuerQwQ/status/2072254530956439772/photo/1",
+          "media_key": "3_2072254522311979008",
+          "start": 48,
+          "url": "https://t.co/4lbQsi5BhP"
+        },
+        {
+          "display_url": "x.com/Shioochic_Xyn/…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/Shioochic_Xyn/status/2072250186555134248",
+          "start": 72,
+          "url": "https://t.co/5JJENQ6lSy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072254530956439772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072250186555134248",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也社会自由主义🤔\n但是给我判断的的四个小分类感觉好抽象啊（\n\n原来我的意识形态这么混乱吗（） https://t.co/4lbQsi5BhP https://t.co/5JJENQ6lSy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072254522311979008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIggj6aMAAZ6Dw.jpg",
+        "width": 505
+      },
+      {
+        "height": 1788,
+        "media_key": "3_2072250144708546560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIchwEa0AAP8JP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072254522311979008"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2072254530956439772",
+        "created_at": "2026-07-01T09:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072254530956439772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4lbQsi5BhP",
+              "end": 71,
+              "expanded_url": "https://x.com/yuerQwQ/status/2072254530956439772/photo/1",
+              "media_key": "3_2072254522311979008",
+              "start": 48,
+              "url": "https://t.co/4lbQsi5BhP"
+            },
+            {
+              "display_url": "x.com/Shioochic_Xyn/…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/Shioochic_Xyn/status/2072250186555134248",
+              "start": 72,
+              "url": "https://t.co/5JJENQ6lSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072254530956439772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072250186555134248",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也社会自由主义🤔\n但是给我判断的的四个小分类感觉好抽象啊（\n\n原来我的意识形态这么混乱吗（） https://t.co/4lbQsi5BhP https://t.co/5JJENQ6lSy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072250144708546560"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "conversation_id": "2072250186555134248",
+        "created_at": "2026-07-01T09:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072250186555134248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "CN Values 是基于 8values 源代码开发制作的娱乐性政治立场测试。为了使测试更贴近国人，在参考数个其他测试后，以中国当下语境为背景重新编制了测试题。 你将会看到一系列观点，请点击按钮选择你对于每个观点的看法。 提示： 本测试的意图在于评估你的政治观念，即政治的“应然”而非“实然”，请忽略部分题目在当下的可行性。若对题目摇摆不定，请跟着第一感觉走；若对某道题难以理解，可试着思考题目观点的对立面。 声明：为了保证本测试的区分度， 可能会出现高度偏激或有冒犯性的内容，题目观点并不代表制作者的观点。 隐私声明： 本测试完全由前端实现，代码全部开源，我们不会收集你的任何个人信息。",
+              "display_url": "cnvalues.github.io/index.html",
+              "end": 30,
+              "expanded_url": "http://cnvalues.github.io/index.html",
+              "start": 7,
+              "status": 200,
+              "title": "CN Values",
+              "unwound_url": "https://cnvalues.github.io/index.html",
+              "url": "https://t.co/9rGcIDgKje"
+            },
+            {
+              "display_url": "pic.x.com/NQWef1qm1W",
+              "end": 54,
+              "expanded_url": "https://x.com/Shioochic_Xyn/status/2072250186555134248/photo/1",
+              "media_key": "3_2072250144708546560",
+              "start": 31,
+              "url": "https://t.co/NQWef1qm1W"
+            },
+            {
+              "display_url": "x.com/Meguminsama200…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Meguminsama2009/status/2072233300635320380",
+              "start": 55,
+              "url": "https://t.co/wwcLS10qKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072250186555134248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072233300635320380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤔\n链接在这：https://t.co/9rGcIDgKje https://t.co/NQWef1qm1W https://t.co/wwcLS10qKd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2385,
+          "following_count": 1378,
+          "like_count": 15369,
+          "listed_count": 2,
+          "media_count": 786,
+          "tweet_count": 3975
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期 09 04 08｜hrt 25 07 20🍥｜小证 26 01 17｜ADHD｜choose life ?!｜抢🐔姐@hiotemaron41774｜友跨顺男@Whatasiger｜友男跨顺@WhitesugarC｜友情链接:https://t.co/iIABjp0PAw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "Whatasiger"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "WhitesugarC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 150,
+                "expanded_url": "https://whatasiger.xyz",
+                "start": 127,
+                "url": "https://t.co/iIABjp0PAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落 shio",
+        "pinned_tweet_id": "2061461592559239417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3752,
+          "following_count": 1970,
+          "like_count": 7342,
+          "listed_count": 6,
+          "media_count": 842,
+          "tweet_count": 5659
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochic_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

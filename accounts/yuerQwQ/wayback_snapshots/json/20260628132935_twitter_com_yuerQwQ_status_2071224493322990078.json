@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2069289544118087870",
+    "created_at": "2026-06-28T13:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071224493322990078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "245478639",
+          "start": 0,
+          "username": "benjimk"
+        },
+        {
+          "end": 20,
+          "id": "55383270",
+          "start": 9,
+          "username": "MalaikaDRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071224493322990078",
+    "in_reply_to_user_id": "245478639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069289544118087870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@benjimk @MalaikaDRC 教育决定了一个社会的未来🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 853,
+        "media_key": "3_2069289536220545024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeX3p_bwAAJi9p.jpg",
+        "width": 1280
+      },
+      {
+        "height": 853,
+        "media_key": "3_2069289536060846080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeX3pZW8AADnn-.jpg",
+        "width": 1280
+      },
+      {
+        "height": 853,
+        "media_key": "3_2069289536052445184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeX3pXWwAAlN8F.jpg",
+        "width": 1280
+      },
+      {
+        "height": 853,
+        "media_key": "3_2069289536023150592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeX3pQXwAArrsB.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2069289544118087870",
+        "created_at": "2026-06-28T13:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071224493322990078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "245478639",
+              "start": 0,
+              "username": "benjimk"
+            },
+            {
+              "end": 20,
+              "id": "55383270",
+              "start": 9,
+              "username": "MalaikaDRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071224493322990078",
+        "in_reply_to_user_id": "245478639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069289544118087870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@benjimk @MalaikaDRC 教育决定了一个社会的未来🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069289536220545024",
+            "3_2069289536060846080",
+            "3_2069289536052445184",
+            "3_2069289536023150592"
+          ]
+        },
+        "author_id": "245478639",
+        "conversation_id": "2069289544118087870",
+        "created_at": "2026-06-23T05:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069289544118087870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 204,
+              "id": "55383270",
+              "start": 193,
+              "username": "MalaikaDRC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K0WWMikBXY",
+              "end": 294,
+              "expanded_url": "https://x.com/benjimk/status/2069289544118087870/photo/1",
+              "media_key": "3_2069289536220545024",
+              "start": 271,
+              "url": "https://t.co/K0WWMikBXY"
+            },
+            {
+              "display_url": "pic.x.com/K0WWMikBXY",
+              "end": 294,
+              "expanded_url": "https://x.com/benjimk/status/2069289544118087870/photo/1",
+              "media_key": "3_2069289536060846080",
+              "start": 271,
+              "url": "https://t.co/K0WWMikBXY"
+            },
+            {
+              "display_url": "pic.x.com/K0WWMikBXY",
+              "end": 294,
+              "expanded_url": "https://x.com/benjimk/status/2069289544118087870/photo/1",
+              "media_key": "3_2069289536052445184",
+              "start": 271,
+              "url": "https://t.co/K0WWMikBXY"
+            },
+            {
+              "display_url": "pic.x.com/K0WWMikBXY",
+              "end": 294,
+              "expanded_url": "https://x.com/benjimk/status/2069289544118087870/photo/1",
+              "media_key": "3_2069289536023150592",
+              "start": 271,
+              "url": "https://t.co/K0WWMikBXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069289544118087870",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 204,
+                "id": "55383270",
+                "start": 193,
+                "username": "MalaikaDRC"
+              },
+              {
+                "end": 281,
+                "id": "39264196",
+                "start": 272,
+                "username": "Noellacc"
+              }
+            ]
+          },
+          "text": "En marge de son séjour à Lubumbashi, la ministre d’État, ministre de l’Éducation nationale et Nouvelle Citoyenneté, Raïssa Malu, a visité ce dimanche l’École Malaïka et le Centre communautaire @MalaikaDRC , dans le quartier Kalebuka.\n\nCréées par Noëlla Coursaris Musunka (@Noellacc) à travers la Fondation Malaïka, ces structures incarnent l’excellence dans l’éducation et l’autonomisation des filles et des femmes.\n\nLa ministre a pu apprécier l’élégance, la qualité des infrastructures et l’environnement d’apprentissage exceptionnel de Malaïka, une école qui fait un usage remarquable de la technologie Starlink que nous avions mise à sa disposition l’année dernière pour renforcer l’accès au numérique au bénéfice des enfants.\n\nMalaïka démontre qu’une éducation innovante, inclusive et tournée vers l’avenir peut transformer des vies. 👏🇨🇩"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10878,
+          "like_count": 170,
+          "quote_count": 26,
+          "reply_count": 94,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "En marge de son séjour à Lubumbashi, la ministre d’État, ministre de l’Éducation nationale et Nouvelle Citoyenneté, Raïssa Malu, a visité ce dimanche l’École Malaïka et le Centre communautaire @MalaikaDRC , dans le quartier Kalebuka.\n\nCréées par Noëlla Coursaris Musunka https://t.co/K0WWMikBXY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2355,
+          "following_count": 1373,
+          "like_count": 15030,
+          "listed_count": 2,
+          "media_count": 748,
+          "tweet_count": 3851
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2011-01-31T19:56:14.000Z",
+        "description": "💵 Banquier | 👨🏽‍🎓 Master en Business Management | 🌍 Citoyen d'Afrique passionné | 🛫 Amoureux du voyage",
+        "id": "245478639",
+        "location": "EU",
+        "name": "Benjamin Umba",
+        "pinned_tweet_id": "2069289544118087870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742613577016516608/H1y3hupW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213029,
+          "following_count": 17938,
+          "like_count": 159677,
+          "listed_count": 70,
+          "media_count": 12471,
+          "tweet_count": 41564
+        },
+        "url": "",
+        "username": "benjimk",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-09T22:25:07.000Z",
+        "description": "Empowering girls & their communities through access to education & health programs for over 19 years",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "malaika.org",
+                "end": 23,
+                "expanded_url": "http://www.malaika.org",
+                "start": 0,
+                "url": "https://t.co/ZGXyOmTsga"
+              }
+            ]
+          }
+        },
+        "id": "55383270",
+        "location": "New York | DRC",
+        "name": "Malaika",
+        "pinned_tweet_id": "1935655660756066507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935698467143176192/v0SPxkEl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6961,
+          "following_count": 2254,
+          "like_count": 3367,
+          "listed_count": 76,
+          "media_count": 6719,
+          "tweet_count": 10703
+        },
+        "url": "https://t.co/ZGXyOmTsga",
+        "username": "MalaikaDRC",
+        "verified": false
+      }
+    ]
+  }
+}

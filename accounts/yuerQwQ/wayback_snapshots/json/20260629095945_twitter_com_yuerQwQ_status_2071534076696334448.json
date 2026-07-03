@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2071524255557398643",
+    "created_at": "2026-06-29T09:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T10:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071534076696334448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "813734126276575233",
+          "start": 0,
+          "username": "kekius9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071534076696334448",
+    "in_reply_to_user_id": "813734126276575233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071524255557398643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kekius9 我认为有意识，但这个意识会受物质世界影响\n就像肚子饿了就会想要吃东西\n\n内分泌的差异也会导致人的选择不同，或许雌二醇会令人更加感性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2071524255557398643",
+        "created_at": "2026-06-29T09:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071534076696334448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "813734126276575233",
+              "start": 0,
+              "username": "kekius9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071534076696334448",
+        "in_reply_to_user_id": "813734126276575233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071524255557398643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kekius9 我认为有意识，但这个意识会受物质世界影响\n就像肚子饿了就会想要吃东西\n\n内分泌的差异也会导致人的选择不同，或许雌二醇会令人更加感性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "813734126276575233",
+        "conversation_id": "2071524255557398643",
+        "created_at": "2026-06-29T09:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071524255557398643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071524255557398643",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 337,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Do you think your choices are conscious, or are they just neurobiological reactions?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2366,
+          "following_count": 1379,
+          "like_count": 15084,
+          "listed_count": 2,
+          "media_count": 758,
+          "tweet_count": 3886
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2016-12-27T13:11:48.000Z",
+        "description": "Physics complex enough to observe itself.\nSharp chronicler of the Elon Musk ecosystem.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kekiustown.com",
+                "end": 23,
+                "expanded_url": "http://kekiustown.com",
+                "start": 0,
+                "url": "https://t.co/v00s6urx0v"
+              }
+            ]
+          }
+        },
+        "id": "813734126276575233",
+        "name": "Kekius",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060142856002834432/9nbXL_Bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12496,
+          "following_count": 11464,
+          "like_count": 13254,
+          "listed_count": 7,
+          "media_count": 718,
+          "tweet_count": 10802
+        },
+        "url": "https://t.co/v00s6urx0v",
+        "username": "kekius9",
+        "verified": true
+      }
+    ]
+  }
+}

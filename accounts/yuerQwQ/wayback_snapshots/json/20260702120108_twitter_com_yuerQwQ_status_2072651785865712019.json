@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2072509553519026394",
+    "created_at": "2026-07-02T12:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072651785865712019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1933216113279787009",
+          "start": 0,
+          "username": "NinNinnin0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072651785865712019",
+    "in_reply_to_user_id": "1933216113279787009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072509553519026394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NinNinnin0306 加油！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072509542336999425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMIcriasAET5XS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2072509553519026394",
+        "created_at": "2026-07-02T12:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072651785865712019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1933216113279787009",
+              "start": 0,
+              "username": "NinNinnin0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072651785865712019",
+        "in_reply_to_user_id": "1933216113279787009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072509553519026394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NinNinnin0306 加油！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072509542336999425"
+          ]
+        },
+        "author_id": "1933216113279787009",
+        "conversation_id": "2072509553519026394",
+        "created_at": "2026-07-02T02:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072509553519026394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EbRn7zbd80",
+              "end": 221,
+              "expanded_url": "https://x.com/NinNinnin0306/status/2072509553519026394/photo/1",
+              "media_key": "3_2072509542336999425",
+              "start": 198,
+              "url": "https://t.co/EbRn7zbd80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072509553519026394",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1735,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 59,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Chào ngày mới tháng mới ☀️ \n\nVẫn là ly cà phê thân quen mỗi ngày, vẫn là góc ngồi đó\n\nCả nhà đã nạp cà phê ngày mơi chưa nè\n\nTháng mới chúc cả nhà nhà nhiều tiền và may mắn nhé\n\nNgày mới năng lượng https://t.co/EbRn7zbd80"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2415,
+          "following_count": 1380,
+          "like_count": 15494,
+          "listed_count": 2,
+          "media_count": 798,
+          "tweet_count": 4021
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-12T17:34:16.000Z",
+        "description": "X: @axisrobotics\nAccess: @ConcreteXYZ\nContribute: @PrismaXai\n\n“Thành công không chỉ đến sau một đêm, nó đòi hỏi sự nổ lực và bền bỉ”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "axisrobotics"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "ConcreteXYZ"
+              },
+              {
+                "end": 60,
+                "start": 50,
+                "username": "PrismaXai"
+              }
+            ]
+          }
+        },
+        "id": "1933216113279787009",
+        "name": "NinNin",
+        "pinned_tweet_id": "2069630310468431944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070077744587866112/00qPBAUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2606,
+          "following_count": 2679,
+          "like_count": 21019,
+          "listed_count": 1,
+          "media_count": 388,
+          "tweet_count": 22532
+        },
+        "url": "",
+        "username": "NinNinnin0306",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,643 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783350882985385984",
+          "name": "Home - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026951194",
+          "name": "IKEA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Home and garden",
+          "id": "864911475436957696",
+          "name": "Home and garden"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026951194",
+          "name": "IKEA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416062557706588160",
+          "name": "Superstores"
+        }
+      }
+    ],
+    "conversation_id": "2071580590521143487",
+    "created_at": "2026-06-29T13:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T14:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071580590521143487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1887069376031182848",
+          "start": 3,
+          "username": "Mirro_zinuo"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Creemos en una cultura de diversidad e inclusión, clientes y las comunidades en las que operamos, da igual su orientación sexual o identidad de género.",
+          "display_url": "ikea.com/es/es/this-is-…",
+          "end": 78,
+          "expanded_url": "https://www.ikea.com/es/es/this-is-ikea/community-engagement/haz-que-la-comunidad-lgbt-se-sienta-en-casa-pub9eaedea0/",
+          "images": [
+            {
+              "height": 1599,
+              "url": "https://pbs.twimg.com/news_img/2070428613137018880/JxsAZ76k?format=png&name=orig",
+              "width": 900
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2070428613137018880/JxsAZ76k?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 55,
+          "status": 200,
+          "title": "Inclusión LGTBI+ | Aliados, igualdad y diversidad",
+          "unwound_url": "https://www.ikea.com/es/es/this-is-ikea/community-engagement/haz-que-la-comunidad-lgbt-se-sienta-en-casa-pub9eaedea0/",
+          "url": "https://t.co/DlUUXmgX7B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071580590521143487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 278
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071400844021395898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mirro_zinuo: IKEA 西班牙在驕傲月出了一本 BLÅHAJ鯊鯊的《同理心使用說明書》。\nhttps://t.co/DlUUXmgX7B\n多年來，BLÅHAJ 一直是跨性別社群的庇護與歸屬象徵。IKEA 說，這是它第一隻需要「使用說明書」的玩偶——但不是教你…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071400836744306688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL8YFhWXYAAzG0O.jpg",
+        "width": 1538
+      },
+      {
+        "height": 1681,
+        "media_key": "3_2071400836782080000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL8YFhfXwAAav8L.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          }
+        ],
+        "conversation_id": "2071580590521143487",
+        "created_at": "2026-06-29T13:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071580590521143487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1887069376031182848",
+              "start": 3,
+              "username": "Mirro_zinuo"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Creemos en una cultura de diversidad e inclusión, clientes y las comunidades en las que operamos, da igual su orientación sexual o identidad de género.",
+              "display_url": "ikea.com/es/es/this-is-…",
+              "end": 78,
+              "expanded_url": "https://www.ikea.com/es/es/this-is-ikea/community-engagement/haz-que-la-comunidad-lgbt-se-sienta-en-casa-pub9eaedea0/",
+              "images": [
+                {
+                  "height": 1599,
+                  "url": "https://pbs.twimg.com/news_img/2070428613137018880/JxsAZ76k?format=png&name=orig",
+                  "width": 900
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070428613137018880/JxsAZ76k?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 55,
+              "status": 200,
+              "title": "Inclusión LGTBI+ | Aliados, igualdad y diversidad",
+              "unwound_url": "https://www.ikea.com/es/es/this-is-ikea/community-engagement/haz-que-la-comunidad-lgbt-se-sienta-en-casa-pub9eaedea0/",
+              "url": "https://t.co/DlUUXmgX7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071580590521143487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 278
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071400844021395898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mirro_zinuo: IKEA 西班牙在驕傲月出了一本 BLÅHAJ鯊鯊的《同理心使用說明書》。\nhttps://t.co/DlUUXmgX7B\n多年來，BLÅHAJ 一直是跨性別社群的庇護與歸屬象徵。IKEA 說，這是它第一隻需要「使用說明書」的玩偶——但不是教你…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071400836744306688",
+            "3_2071400836782080000"
+          ]
+        },
+        "author_id": "1887069376031182848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          }
+        ],
+        "conversation_id": "2071400844021395898",
+        "created_at": "2026-06-29T01:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T02:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071400844021395898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Creemos en una cultura de diversidad e inclusión, clientes y las comunidades en las que operamos, da igual su orientación sexual o identidad de género.",
+              "display_url": "ikea.com/es/es/this-is-…",
+              "end": 61,
+              "expanded_url": "https://www.ikea.com/es/es/this-is-ikea/community-engagement/haz-que-la-comunidad-lgbt-se-sienta-en-casa-pub9eaedea0/",
+              "images": [
+                {
+                  "height": 1599,
+                  "url": "https://pbs.twimg.com/news_img/2070428613137018880/JxsAZ76k?format=png&name=orig",
+                  "width": 900
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070428613137018880/JxsAZ76k?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "Inclusión LGTBI+ | Aliados, igualdad y diversidad",
+              "unwound_url": "https://www.ikea.com/es/es/this-is-ikea/community-engagement/haz-que-la-comunidad-lgbt-se-sienta-en-casa-pub9eaedea0/",
+              "url": "https://t.co/DlUUXmgX7B"
+            },
+            {
+              "display_url": "pic.x.com/GmSUXfMngn",
+              "end": 169,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2071400844021395898/photo/1",
+              "media_key": "3_2071400836744306688",
+              "start": 146,
+              "url": "https://t.co/GmSUXfMngn"
+            },
+            {
+              "display_url": "pic.x.com/GmSUXfMngn",
+              "end": 169,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2071400844021395898/photo/1",
+              "media_key": "3_2071400836782080000",
+              "start": 146,
+              "url": "https://t.co/GmSUXfMngn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071400844021395898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "ikea.com/es/es/this-is-…",
+                "end": 61,
+                "expanded_url": "https://www.ikea.com/es/es/this-is-ikea/community-engagement/haz-que-la-comunidad-lgbt-se-sienta-en-casa-pub9eaedea0/",
+                "start": 38,
+                "url": "https://t.co/X2Cq5UVSP8"
+              },
+              {
+                "display_url": "kamaboko.ngo/blahaj-empathy…",
+                "end": 200,
+                "expanded_url": "https://www.kamaboko.ngo/blahaj-empathy-manual-zh-hant.pdf",
+                "start": 177,
+                "url": "https://t.co/HjMwQV4ouO"
+              }
+            ]
+          },
+          "text": "IKEA 西班牙在驕傲月出了一本 BLÅHAJ鯊鯊的《同理心使用說明書》。\nhttps://t.co/X2Cq5UVSP8\n多年來，BLÅHAJ 一直是跨性別社群的庇護與歸屬象徵。IKEA 說，這是它第一隻需要「使用說明書」的玩偶——但不是教你怎麼組裝，而是教你怎麼好好對待把它帶回家的人。\n原版是西班牙文，這裡我把它翻成了中文，將其轉贈給華語夥伴們：\nhttps://t.co/HjMwQV4ouO\n(社群中譯,非 IKEA 官方版本)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 345,
+          "impression_count": 50826,
+          "like_count": 1514,
+          "quote_count": 22,
+          "reply_count": 8,
+          "retweet_count": 278
+        },
+        "reply_settings": "everyone",
+        "text": "IKEA 西班牙在驕傲月出了一本 BLÅHAJ鯊鯊的《同理心使用說明書》。\nhttps://t.co/DlUUXmgX7B\n多年來，BLÅHAJ 一直是跨性別社群的庇護與歸屬象徵。IKEA 說，這是它第一隻需要「使用說明書」的玩偶——但不是教你怎麼組裝，而是教你怎麼好好對待把它帶回家的人。 https://t.co/GmSUXfMngn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2366,
+          "following_count": 1378,
+          "like_count": 15098,
+          "listed_count": 2,
+          "media_count": 761,
+          "tweet_count": 3894
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-05T09:23:14.000Z",
+        "description": "牢糯復活一年了🎉 /愛種哈密瓜🍈❓🇹🇼/永遠懷念舊號@fugu_JUN/脆和推同id/是以前叫源菌的生物/05年老阿姨離異帶倆娃❌/MtF🏳️‍⚧️/hrt 2019/退役oier/退役地偶/占卜神秘學🔮/日常發瘋/想要被世界喜歡/對異性戀我是不贊成也不反對的/焦慮型依戀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "fugu_JUN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kamaboko.ngo",
+                "end": 23,
+                "expanded_url": "http://www.kamaboko.ngo",
+                "start": 0,
+                "url": "https://t.co/T24e8vg2iF"
+              }
+            ]
+          }
+        },
+        "id": "1887069376031182848",
+        "location": "@KamabokoNGO",
+        "name": "梓糯🏳️‍⚧️🇹🇼🇨🇦",
+        "pinned_tweet_id": "1961844598973567241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887069534986924032/_g2-66nA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 218,
+          "like_count": 4954,
+          "listed_count": 10,
+          "media_count": 274,
+          "tweet_count": 1560
+        },
+        "url": "https://t.co/T24e8vg2iF",
+        "username": "Mirro_zinuo",
+        "verified": true
+      }
+    ]
+  }
+}

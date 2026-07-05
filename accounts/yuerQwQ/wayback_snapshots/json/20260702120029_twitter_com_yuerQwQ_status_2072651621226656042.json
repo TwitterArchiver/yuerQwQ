@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2072651621226656042",
+    "created_at": "2026-07-02T12:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072651621226656042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "954922428936810496",
+          "start": 3,
+          "username": "thaiha_nhth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072651621226656042",
+    "lang": "vi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072462756884643943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thaiha_nhth: AI signal thì có nhiều rồi. Nhưng AI giúp chọn chiến lược phù hợp với từng kiểu thị trường thì mình nghĩ rất đáng để trải…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 64063,
+        "height": 1920,
+        "media_key": "13_2072360287525900288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072360287525900288/img/Zadz8TQxrD27BUAs.jpg",
+        "public_metrics": {
+          "view_count": 376
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072360287525900288/vid/avc1/320x690/kjKvo9emdpysas6G.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072360287525900288/pl/KXEL7hn44PNJYiGw.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072360287525900288/vid/avc1/720x1556/kZj9XT2Xq6Rb6ZK-.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072360287525900288/vid/avc1/888x1920/Q2NUKVF2tY3Hxwaf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072360287525900288/vid/avc1/480x1036/0uXAw3SZxelyy7jd.mp4"
+          }
+        ],
+        "width": 888
+      },
+      {
+        "height": 826,
+        "media_key": "3_2072360229443186688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKAphqbsAAPBzO.jpg",
+        "width": 567
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2072651621226656042",
+        "created_at": "2026-07-02T12:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072651621226656042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "954922428936810496",
+              "start": 3,
+              "username": "thaiha_nhth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072651621226656042",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072462756884643943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thaiha_nhth: AI signal thì có nhiều rồi. Nhưng AI giúp chọn chiến lược phù hợp với từng kiểu thị trường thì mình nghĩ rất đáng để trải…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072360287525900288",
+            "3_2072360229443186688"
+          ]
+        },
+        "author_id": "954922428936810496",
+        "conversation_id": "2072462756884643943",
+        "created_at": "2026-07-01T23:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T00:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072462756884643943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 177,
+              "id": "1098881129057112064",
+              "start": 170,
+              "username": "bitget"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KBn8PleiBI",
+              "end": 273,
+              "expanded_url": "https://x.com/thaiha_nhth/status/2072462756884643943/video/1",
+              "media_key": "13_2072360287525900288",
+              "start": 250,
+              "url": "https://t.co/KBn8PleiBI"
+            },
+            {
+              "display_url": "pic.x.com/KBn8PleiBI",
+              "end": 273,
+              "expanded_url": "https://x.com/thaiha_nhth/status/2072462756884643943/video/1",
+              "media_key": "3_2072360229443186688",
+              "start": 250,
+              "url": "https://t.co/KBn8PleiBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072462756884643943",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1758,
+                "start": 1751,
+                "tag": "Bitget"
+              },
+              {
+                "end": 1777,
+                "start": 1760,
+                "tag": "BitgetTradingBot"
+              },
+              {
+                "end": 1787,
+                "start": 1778,
+                "tag": "GetAgent"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 177,
+                "id": "1098881129057112064",
+                "start": 170,
+                "username": "bitget"
+              }
+            ]
+          },
+          "text": "AI signal thì có nhiều rồi. Nhưng AI giúp chọn chiến lược phù hợp với từng kiểu thị trường thì mình nghĩ rất đáng để trải nghiệm.\n\nGần đây mình thử GetAgent Playbook của @bitget và thấy cách tiếp cận khá hay. Thay vì phải tự ngồi nghĩ chiến lược rồi viết prompt từ đầu, mình có thể bắt đầu ngay với những Playbook đã được xây dựng sẵn. Mỗi Playbook đều giải thích rõ logic hoạt động, phù hợp với điều kiện thị trường nào và mức độ rủi ro, nên không cần chọn theo cảm tính.\n\nMình thử qua vài chiến lược trong Playbook và cuối cùng giữ lại \"AI chọn thời điểm + Xu hướng sức mạnh MA\", vì khá giống cách mình vẫn thường phân tích khi giao dịch.\n\nChiến lược này dùng EMA20 và EMA60 để xác định xu hướng ngắn và trung hạn, sau đó kết hợp ADX để kiểm tra xem xu hướng có đủ mạnh trước khi vào lệnh hay không. Cảm giác giống như có thêm một lớp lọc, thay vì thấy tín hiệu là vào ngay.\n\nMình quyết định test với 100 USDT để xem chiến lược vận hành thực tế thế nào. Sau khoảng 1 tiếng, bot ghi nhận mức lợi nhuận 4.83%. Đây chỉ là kết quả của một lần thử nghiệm trong điều kiện thị trường cụ thể, không có nghĩa là sẽ lặp lại trong mọi trường hợp, nên anh em vẫn cần quản lý vốn và kiểm soát rủi ro.\n\nĐiểm mình đánh giá cao nhất là Playbook không bắt mọi người dùng chung một chiến lược. Nếu thấy phù hợp thì có thể dùng luôn các Playbook có sẵn, còn nếu đã có setup giao dịch riêng thì hoàn toàn có thể chỉnh sửa Playbook hoặc tự tạo một Playbook mới theo đúng logic của mình rồi để AI hỗ trợ triển khai.\n\nMình cũng quay sẵn một video hướng dẫn các bước cơ bản, anh em nào chưa từng dùng có thể tham khảo để làm quen nhanh hơn.\n\nMình thấy đây là một tính năng khá đáng để trải nghiệm nếu anh em thích giao dịch theo hệ thống. Link mình để ở phần comment nha.\n\n#Bitget  #BitgetTradingBot #GetAgent\n\n(Đây là chia sẻ trải nghiệm cá nhân, không phải lời khuyên đầu tư. Hãy luôn quản lý vốn và cân nhắc rủi ro trước khi giao dịch)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4119,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 81,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "AI signal thì có nhiều rồi. Nhưng AI giúp chọn chiến lược phù hợp với từng kiểu thị trường thì mình nghĩ rất đáng để trải nghiệm.\n\nGần đây mình thử GetAgent Playbook của @bitget và thấy cách tiếp cận khá hay. Thay vì phải tự ngồi nghĩ chiến lược rồi https://t.co/KBn8PleiBI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2415,
+          "following_count": 1379,
+          "like_count": 15492,
+          "listed_count": 2,
+          "media_count": 798,
+          "tweet_count": 4020
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-21T03:43:43.000Z",
+        "description": "Content creator focused on NFTs, DAOs, and the Web3 revolution. All posts are NFA+DYOR\nAmbassador @injective | @zerion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "injective"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "username": "zerion"
+              }
+            ]
+          }
+        },
+        "id": "954922428936810496",
+        "name": "🎧 Hannah Web3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028713895876231169/TN0jeo2t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23846,
+          "following_count": 18696,
+          "like_count": 54250,
+          "listed_count": 46,
+          "media_count": 1493,
+          "tweet_count": 45978
+        },
+        "url": "",
+        "username": "thaiha_nhth",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2072652540009955686",
+    "created_at": "2026-07-02T12:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072652540009955686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "mo.mbd.baidu.com/r/1YUNus11Tvq?…",
+          "end": 126,
+          "expanded_url": "https://mo.mbd.baidu.com/r/1YUNus11Tvq?f=cp&rs=1776529953&ruk=3mig_v20PTowiRpgEYL6ug&u=59bf2171ba95b710",
+          "start": 103,
+          "unwound_url": "https://mo.mbd.baidu.com/r/1YUNus11Tvq?f=cp&rs=1776529953&ruk=3mig_v20PTowiRpgEYL6ug&u=59bf2171ba95b710",
+          "url": "https://t.co/WGpUctcGSM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072652540009955686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072604823879336242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 2026/7/2/\n本案已被齐鲁壹点，潇湘晨报\n等媒体登刊报道\n很高兴本次以“张立”这个身份参与此案\n但需要纠正的时候能一眼认出学校\n并非我一人功劳\n下附新闻链接:https://t.co/WGpUctcGSM\n\nhttps://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072604794045239296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNfFDzWkAAOoSf.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072604798394732544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNfFUAWkAA91E0.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2072652540009955686",
+        "created_at": "2026-07-02T12:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072652540009955686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mo.mbd.baidu.com/r/1YUNus11Tvq?…",
+              "end": 126,
+              "expanded_url": "https://mo.mbd.baidu.com/r/1YUNus11Tvq?f=cp&rs=1776529953&ruk=3mig_v20PTowiRpgEYL6ug&u=59bf2171ba95b710",
+              "start": 103,
+              "unwound_url": "https://mo.mbd.baidu.com/r/1YUNus11Tvq?f=cp&rs=1776529953&ruk=3mig_v20PTowiRpgEYL6ug&u=59bf2171ba95b710",
+              "url": "https://t.co/WGpUctcGSM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072652540009955686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072604823879336242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 2026/7/2/\n本案已被齐鲁壹点，潇湘晨报\n等媒体登刊报道\n很高兴本次以“张立”这个身份参与此案\n但需要纠正的时候能一眼认出学校\n并非我一人功劳\n下附新闻链接:https://t.co/WGpUctcGSM\n\nhttps://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072604794045239296",
+            "3_2072604798394732544"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2072604823879336242",
+        "created_at": "2026-07-02T08:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072604823879336242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mo.mbd.baidu.com/r/1YUNus11Tvq?…",
+              "end": 105,
+              "expanded_url": "https://mo.mbd.baidu.com/r/1YUNus11Tvq?f=cp&rs=1776529953&ruk=3mig_v20PTowiRpgEYL6ug&u=59bf2171ba95b710",
+              "start": 82,
+              "unwound_url": "https://mo.mbd.baidu.com/r/1YUNus11Tvq?f=cp&rs=1776529953&ruk=3mig_v20PTowiRpgEYL6ug&u=59bf2171ba95b710",
+              "url": "https://t.co/WGpUctcGSM"
+            },
+            {
+              "display_url": "xxcb.cn/m/video?id=csp…",
+              "end": 130,
+              "expanded_url": "https://www.xxcb.cn/m/video?id=csp2380534a7197dd9c83f5264335fbfd54&sign=c17b25431&t=1782981165",
+              "start": 107,
+              "status": 403,
+              "unwound_url": "https://www.xxcb.cn/m/video?id=csp2380534a7197dd9c83f5264335fbfd54&sign=c17b25431&t=1782981165",
+              "url": "https://t.co/Wi8IjU4BLU"
+            },
+            {
+              "display_url": "pic.x.com/IuDR6HpPeU",
+              "end": 154,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2072604823879336242/photo/1",
+              "media_key": "3_2072604794045239296",
+              "start": 131,
+              "url": "https://t.co/IuDR6HpPeU"
+            },
+            {
+              "display_url": "pic.x.com/IuDR6HpPeU",
+              "end": 154,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2072604823879336242/photo/1",
+              "media_key": "3_2072604798394732544",
+              "start": 131,
+              "url": "https://t.co/IuDR6HpPeU"
+            },
+            {
+              "display_url": "x.com/AetherKyalo/st…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/AetherKyalo/status/2071160593495761130",
+              "start": 155,
+              "url": "https://t.co/9FX5rYI9nj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072604823879336242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3299,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071160593495761130",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2026/7/2/\n本案已被齐鲁壹点，潇湘晨报\n等媒体登刊报道\n很高兴本次以“张立”这个身份参与此案\n但需要纠正的时候能一眼认出学校\n并非我一人功劳\n下附新闻链接:https://t.co/WGpUctcGSM\n\nhttps://t.co/Wi8IjU4BLU https://t.co/IuDR6HpPeU https://t.co/9FX5rYI9nj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2415,
+          "following_count": 1380,
+          "like_count": 15497,
+          "listed_count": 2,
+          "media_count": 798,
+          "tweet_count": 4022
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6200,
+          "following_count": 3316,
+          "like_count": 3681,
+          "listed_count": 19,
+          "media_count": 484,
+          "tweet_count": 3315
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

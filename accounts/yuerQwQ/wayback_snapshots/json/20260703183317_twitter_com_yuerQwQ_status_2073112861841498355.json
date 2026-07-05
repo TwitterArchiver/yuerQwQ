@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2073112861841498355",
+    "created_at": "2026-07-03T18:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T19:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073112861841498355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1564990471327215619",
+          "start": 3,
+          "username": "bisco91395061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073112861841498355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072630198319861782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bisco91395061: 感谢800fo！！！\n这个帖子抽一个无偿大头绘制，一个和我贴贴绘制，然后抽一个疯狂星期四50r（下下周四开奖）转发➕评论➕关注即可🤲🤲💖\n\n菜菜爱大家！谢谢大家呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2073112861841498355",
+        "created_at": "2026-07-03T18:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073112861841498355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1564990471327215619",
+              "start": 3,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073112861841498355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072630198319861782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bisco91395061: 感谢800fo！！！\n这个帖子抽一个无偿大头绘制，一个和我贴贴绘制，然后抽一个疯狂星期四50r（下下周四开奖）转发➕评论➕关注即可🤲🤲💖\n\n菜菜爱大家！谢谢大家呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2072630198319861782",
+        "created_at": "2026-07-02T10:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072630198319861782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072630198319861782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3635,
+          "like_count": 75,
+          "quote_count": 2,
+          "reply_count": 45,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "感谢800fo！！！\n这个帖子抽一个无偿大头绘制，一个和我贴贴绘制，然后抽一个疯狂星期四50r（下下周四开奖）转发➕评论➕关注即可🤲🤲💖\n\n菜菜爱大家！谢谢大家呀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2432,
+          "following_count": 1383,
+          "like_count": 15611,
+          "listed_count": 2,
+          "media_count": 813,
+          "tweet_count": 4072
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 337,
+          "like_count": 8901,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1715
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

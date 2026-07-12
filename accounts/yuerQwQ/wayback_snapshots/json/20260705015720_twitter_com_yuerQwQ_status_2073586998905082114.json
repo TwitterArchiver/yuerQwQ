@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073586996292059136"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2073562155262333067",
+    "created_at": "2026-07-05T01:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T02:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073586998905082114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1422560510680043523",
+          "start": 0,
+          "username": "0xchal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SZzgOcziwc",
+          "end": 51,
+          "expanded_url": "https://x.com/yuerQwQ/status/2073586998905082114/photo/1",
+          "media_key": "3_2073586996292059136",
+          "start": 28,
+          "url": "https://t.co/SZzgOcziwc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073586998905082114",
+    "in_reply_to_user_id": "1422560510680043523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073579712220369072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xchal 🤔\n这是我21日到3日的蓝v互动数据🤔 https://t.co/SZzgOcziwc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073586996292059136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbcYwTbgAAWJnr.jpg",
+        "width": 927
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073579703601106944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbVwQ6akAAz38b.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073586996292059136"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2073562155262333067",
+        "created_at": "2026-07-05T01:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073586998905082114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1422560510680043523",
+              "start": 0,
+              "username": "0xchal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SZzgOcziwc",
+              "end": 51,
+              "expanded_url": "https://x.com/yuerQwQ/status/2073586998905082114/photo/1",
+              "media_key": "3_2073586996292059136",
+              "start": 28,
+              "url": "https://t.co/SZzgOcziwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073586998905082114",
+        "in_reply_to_user_id": "1422560510680043523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073579712220369072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xchal 🤔\n这是我21日到3日的蓝v互动数据🤔 https://t.co/SZzgOcziwc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073579703601106944"
+          ]
+        },
+        "author_id": "1422560510680043523",
+        "conversation_id": "2073562155262333067",
+        "created_at": "2026-07-05T01:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073579712220369072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kd4GcEPyps",
+              "end": 62,
+              "expanded_url": "https://x.com/0xchal/status/2073579712220369072/photo/1",
+              "media_key": "3_2073579703601106944",
+              "start": 39,
+              "url": "https://t.co/kd4GcEPyps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073579712220369072",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073576066774708295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 流量无论是不是蓝 v 也是其次的，主要是蓝 v 的评论互动 https://t.co/kd4GcEPyps"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 1369,
+          "like_count": 15798,
+          "listed_count": 2,
+          "media_count": 830,
+          "tweet_count": 4168
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-03T14:10:51.000Z",
+        "description": "#Binance 广场认证创作者/联盟KOL成员 Arbitrum 华语大使 | 推文内容仅代表个人思路，不构成投资建议 商务合作DM✉️ https://t.co/4k4SB2aH2K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/0xchal",
+                "end": 93,
+                "expanded_url": "https://linktr.ee/0xchal",
+                "start": 70,
+                "url": "https://t.co/4k4SB2aH2K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TheCharlieGard…",
+                "end": 23,
+                "expanded_url": "https://t.me/TheCharlieGarden",
+                "start": 0,
+                "url": "https://t.co/IXOHwnFOuA"
+              }
+            ]
+          }
+        },
+        "id": "1422560510680043523",
+        "location": "TG群👉",
+        "name": "Charlie",
+        "pinned_tweet_id": "2063441731086082518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938806762007678976/kr4xnXUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9148,
+          "following_count": 7029,
+          "like_count": 37624,
+          "listed_count": 27,
+          "media_count": 678,
+          "tweet_count": 24523
+        },
+        "url": "https://t.co/IXOHwnFOuA",
+        "username": "0xchal",
+        "verified": true
+      }
+    ]
+  }
+}

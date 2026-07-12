@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2073929420428243047",
+    "created_at": "2026-07-06T09:16:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074059919641444758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1669990026237870081",
+          "start": 0,
+          "username": "hoanghuu415956"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074059919641444758",
+    "in_reply_to_user_id": "1669990026237870081",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073929420428243047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoanghuu415956 🤔🤔🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 784,
+        "media_key": "3_2073928530585624578",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgTAqsaoAISFTb.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2073929420428243047",
+        "created_at": "2026-07-06T09:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074059919641444758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1669990026237870081",
+              "start": 0,
+              "username": "hoanghuu415956"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074059919641444758",
+        "in_reply_to_user_id": "1669990026237870081",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073929420428243047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoanghuu415956 🤔🤔🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073928530585624578"
+          ]
+        },
+        "author_id": "1669990026237870081",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2073929420428243047",
+        "created_at": "2026-07-06T00:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T01:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073929420428243047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N44FPRpm20",
+              "end": 275,
+              "expanded_url": "https://x.com/hoanghuu415956/status/2073929420428243047/photo/1",
+              "media_key": "3_2073928530585624578",
+              "start": 252,
+              "url": "https://t.co/N44FPRpm20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073929420428243047",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {},
+          "text": "Michael Saylor vẫn giữ vững niềm tin vào Bitcoin.\n\nDù danh mục Bitcoin của Strategy đang tạm lỗ khoảng 7,24% so với giá vốn, Michael Saylor vẫn khẳng định quan điểm \"Bitcoin là năng lượng số\", nhấn mạnh đây là tài sản chiến lược dài hạn chứ không phải khoản đầu tư ngắn hạn.\n\nHiện Strategy đang nắm giữ 847.363 BTC với giá mua trung bình 75.653 USD/BTC, tổng giá trị danh mục khoảng 53,06 tỷ USD và khoản lỗ chưa thực hiện khoảng 4,1 tỷ USD."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 576,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 60,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Michael Saylor vẫn giữ vững niềm tin vào Bitcoin.\n\nDù danh mục Bitcoin của Strategy đang tạm lỗ khoảng 7,24% so với giá vốn, Michael Saylor vẫn khẳng định quan điểm \"Bitcoin là năng lượng số\", nhấn mạnh đây là tài sản chiến lược dài hạn chứ không phải https://t.co/N44FPRpm20"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2512,
+          "following_count": 1396,
+          "like_count": 16073,
+          "listed_count": 2,
+          "media_count": 850,
+          "tweet_count": 4278
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-17T08:47:18.000Z",
+        "description": "💎 Crystal | Web3 & Crypto Enthusiast\n\nBlockchain • DeFi • AI • Community Building\n\nResearch | Marketing | Ecosystem Growth",
+        "id": "1669990026237870081",
+        "name": "Thạch Hạo",
+        "pinned_tweet_id": "2060275344209514801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047848489921736704/kU1TNkgB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9893,
+          "following_count": 9200,
+          "like_count": 19377,
+          "listed_count": 5,
+          "media_count": 309,
+          "tweet_count": 22134
+        },
+        "url": "",
+        "username": "hoanghuu415956",
+        "verified": true
+      }
+    ]
+  }
+}

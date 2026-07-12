@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2073596507782255060",
+    "created_at": "2026-07-05T06:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T07:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073659071098724473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1394521537344987139",
+          "start": 0,
+          "username": "DaNangLifeX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073659071098724473",
+    "in_reply_to_user_id": "1394521537344987139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073596507782255060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DaNangLifeX 看起来很好玩的样子（？）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19820,
+        "height": 1820,
+        "media_key": "13_2073596434314854400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073596434314854400/img/mHfxJ4eVDKwCQDZ-.jpg",
+        "public_metrics": {
+          "view_count": 46
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073596434314854400/vid/avc1/1032x1820/SuOKGDyFrpPx3Un0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073596434314854400/pl/hm7HtyM_79kHY1Dm.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073596434314854400/vid/avc1/720x1268/FDsNRBivTSn5z5V4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073596434314854400/vid/avc1/480x846/ZXOVJjtcn-pjJLVX.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073596434314854400/vid/avc1/320x564/6p9letiT1wG0xRhH.mp4"
+          }
+        ],
+        "width": 1032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2073596507782255060",
+        "created_at": "2026-07-05T06:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073659071098724473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1394521537344987139",
+              "start": 0,
+              "username": "DaNangLifeX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073659071098724473",
+        "in_reply_to_user_id": "1394521537344987139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073596507782255060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DaNangLifeX 看起来很好玩的样子（？）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073596434314854400"
+          ]
+        },
+        "author_id": "1394521537344987139",
+        "conversation_id": "2073596507782255060",
+        "created_at": "2026-07-05T02:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073596507782255060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LddcTAyKz3",
+              "end": 104,
+              "expanded_url": "https://x.com/DaNangLifeX/status/2073596507782255060/video/1",
+              "media_key": "13_2073596434314854400",
+              "start": 81,
+              "url": "https://t.co/LddcTAyKz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073596507782255060",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 370,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "⛸️⛸️Anh em nào cần mình chỉ chỗ mua đôi giày này\nChuẩn bị cho mùa mưa nhé 💦💦🌧️🌧️ https://t.co/LddcTAyKz3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2451,
+          "following_count": 1344,
+          "like_count": 15854,
+          "listed_count": 2,
+          "media_count": 834,
+          "tweet_count": 4194
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-18T05:14:00.000Z",
+        "description": "DaNangLife",
+        "id": "1394521537344987139",
+        "name": "BlueOcean",
+        "pinned_tweet_id": "2071128660778913795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954951795048103936/2hgHVgim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5277,
+          "following_count": 6522,
+          "like_count": 1756,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 2098
+        },
+        "url": "",
+        "username": "DaNangLifeX",
+        "verified": true
+      }
+    ]
+  }
+}

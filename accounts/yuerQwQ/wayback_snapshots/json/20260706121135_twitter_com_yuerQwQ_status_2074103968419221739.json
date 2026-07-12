@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2063477212268118272",
+    "created_at": "2026-07-06T12:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T13:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074103968419221739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1410936828467712002",
+          "start": 0,
+          "username": "Blitz24053575"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074103968419221739",
+    "in_reply_to_user_id": "1410936828467712002",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063477212268118272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Blitz24053575 好好看🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063477210145775616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLxlwDaYAANkix.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2063477212268118272",
+        "created_at": "2026-07-06T12:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074103968419221739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1410936828467712002",
+              "start": 0,
+              "username": "Blitz24053575"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074103968419221739",
+        "in_reply_to_user_id": "1410936828467712002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063477212268118272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blitz24053575 好好看🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063477210145775616"
+          ]
+        },
+        "author_id": "1410936828467712002",
+        "conversation_id": "2063477212268118272",
+        "created_at": "2026-06-07T04:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063477212268118272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bbnBuYPLwY",
+              "end": 37,
+              "expanded_url": "https://x.com/Blitz24053575/status/2063477212268118272/photo/1",
+              "media_key": "3_2063477210145775616",
+              "start": 14,
+              "url": "https://t.co/bbnBuYPLwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063477212268118272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2457,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "每天就这样玩特效哄自己开心 https://t.co/bbnBuYPLwY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 1399,
+          "like_count": 16093,
+          "listed_count": 2,
+          "media_count": 853,
+          "tweet_count": 4286
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-02T12:22:17.000Z",
+        "description": "碎碎念丨雄性动物丨我是个恶俗的人，善良都是装的丨想骂我的我宣布你获胜了，别骂我丨鼠鼠日留丨梦见啥发啥丨私信互fo丨不割手，不od丨资深米学长，崩，原，铁，绝四修丨hoyomix忠实听众丨吃货努力减肥中丨新晋索狗，欢迎加我psn好友和steam好友一起打游戏呀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blitz24053575",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blitz24053575",
+                "start": 0,
+                "url": "https://t.co/fO3ZqKoeuC"
+              }
+            ]
+          }
+        },
+        "id": "1410936828467712002",
+        "location": "给我说悄悄话吧→",
+        "name": "我只是只企鹅别难为我",
+        "pinned_tweet_id": "2063477212268118272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027489355464634368/l0ooMpQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 172,
+          "like_count": 835,
+          "listed_count": 0,
+          "media_count": 473,
+          "tweet_count": 3050
+        },
+        "url": "https://t.co/fO3ZqKoeuC",
+        "username": "Blitz24053575",
+        "verified": true
+      }
+    ]
+  }
+}

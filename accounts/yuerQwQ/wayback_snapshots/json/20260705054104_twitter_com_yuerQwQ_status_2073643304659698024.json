@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2073584387741118811",
+    "created_at": "2026-07-05T05:41:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073643304659698024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1024806316030746624",
+          "start": 0,
+          "username": "thangonton"
+        },
+        {
+          "end": 22,
+          "id": "1351564465",
+          "start": 12,
+          "username": "JundoYaps"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073643304659698024",
+    "in_reply_to_user_id": "1024806316030746624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073584387741118811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thangonton @JundoYaps 已经有premium的能参加吗💦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 268,
+        "media_key": "3_2073584382456344576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbaAnAbsAA0UU7.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2073584387741118811",
+        "created_at": "2026-07-05T05:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073643304659698024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1024806316030746624",
+              "start": 0,
+              "username": "thangonton"
+            },
+            {
+              "end": 22,
+              "id": "1351564465",
+              "start": 12,
+              "username": "JundoYaps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073643304659698024",
+        "in_reply_to_user_id": "1024806316030746624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073584387741118811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thangonton @JundoYaps 已经有premium的能参加吗💦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073584382456344576"
+          ]
+        },
+        "author_id": "1024806316030746624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2073584387741118811",
+        "created_at": "2026-07-05T01:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073584387741118811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LbwpoEhqW6",
+              "end": 271,
+              "expanded_url": "https://x.com/thangonton/status/2073584387741118811/photo/1",
+              "media_key": "3_2073584382456344576",
+              "start": 248,
+              "url": "https://t.co/LbwpoEhqW6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073584387741118811",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7837,
+          "like_count": 284,
+          "quote_count": 15,
+          "reply_count": 237,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "TRƯƠNG TRÌNH TẶNG QUÀ 🎁 \n\nhỗ trợ kiếm tiền trên 𝕏 \n\n1 Premium 3 tháng\n1 Premium 6 tháng\n1 Premium + 3 tháng\n2 slot 5 usdt\n\ndành cho 5 người may mắn trong đợt này\n\nlike + share + cmt để đủ điều kiện\n\nai có rồi thì cũng tham gia ủng hộ cộng đồng nhé https://t.co/LbwpoEhqW6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 1371,
+          "like_count": 15831,
+          "listed_count": 2,
+          "media_count": 833,
+          "tweet_count": 4183
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-01T23:57:20.000Z",
+        "description": "shitpost and meme trader | dm promo | @aisarlabs | $TON | buy Pre dm telegram sale 70-80%",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "TON"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "aisarlabs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thang1124",
+                "end": 23,
+                "expanded_url": "https://t.me/thang1124",
+                "start": 0,
+                "url": "https://t.co/OHvv3LWhud"
+              }
+            ]
+          }
+        },
+        "id": "1024806316030746624",
+        "name": "Thang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942118200776273920/_RoTGd9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25564,
+          "following_count": 18744,
+          "like_count": 288765,
+          "listed_count": 230,
+          "media_count": 2063,
+          "tweet_count": 303484
+        },
+        "url": "https://t.co/OHvv3LWhud",
+        "username": "thangonton",
+        "verified": true
+      },
+      {
+        "created_at": "2013-04-14T10:31:12.000Z",
+        "description": "OG L3SDAO |\nCreator @Somnia_Network |\nWeb3 Researcher | Alpha Hunter |\n@CONTENTDAOAPP(313)\nInsights on AI • DeFi • L2 • Airdrops |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "Somnia_Network"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "CONTENTDAOAPP"
+              }
+            ]
+          }
+        },
+        "id": "1351564465",
+        "name": "Jundo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999121142284537857/6p2Asx-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6246,
+          "following_count": 6131,
+          "like_count": 68400,
+          "listed_count": 5,
+          "media_count": 3310,
+          "tweet_count": 50360
+        },
+        "url": "",
+        "username": "JundoYaps",
+        "verified": true
+      }
+    ]
+  }
+}

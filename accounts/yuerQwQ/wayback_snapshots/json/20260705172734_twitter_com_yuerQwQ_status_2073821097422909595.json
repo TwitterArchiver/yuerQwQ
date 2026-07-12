@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2073006470220939756",
+    "created_at": "2026-07-05T17:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073821097422909595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2026148027245977600",
+          "start": 0,
+          "username": "kd_gurjar_021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073821097422909595",
+    "in_reply_to_user_id": "2026148027245977600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073006470220939756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kd_gurjar_021 恭喜~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2073006467024863232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTMZgQawAA-epP.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2073006467041669120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTMZgUbMAA5Idw.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2073006470220939756",
+        "created_at": "2026-07-05T17:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073821097422909595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2026148027245977600",
+              "start": 0,
+              "username": "kd_gurjar_021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073821097422909595",
+        "in_reply_to_user_id": "2026148027245977600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073006470220939756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kd_gurjar_021 恭喜~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073006467024863232",
+            "3_2073006467041669120"
+          ]
+        },
+        "author_id": "2026148027245977600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2073006470220939756",
+        "created_at": "2026-07-03T11:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073006470220939756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q47ow1DPZ7",
+              "end": 299,
+              "expanded_url": "https://x.com/kd_gurjar_021/status/2073006470220939756/photo/1",
+              "media_key": "3_2073006467024863232",
+              "start": 276,
+              "url": "https://t.co/Q47ow1DPZ7"
+            },
+            {
+              "display_url": "pic.x.com/Q47ow1DPZ7",
+              "end": 299,
+              "expanded_url": "https://x.com/kd_gurjar_021/status/2073006470220939756/photo/1",
+              "media_key": "3_2073006467041669120",
+              "start": 276,
+              "url": "https://t.co/Q47ow1DPZ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073006470220939756",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {},
+          "text": "आज आप सभी के प्यार और स्नेह से मेरे X Twitterपर 2K Followers पूरे हो गए हैं। ❤️🎉\nयह उपलब्धि सिर्फ मेरी नहीं, बल्कि आप सभी के विश्वास, सहयोग और समर्थन का परिणाम है\nआप सभी से अनुरोध है कि इसी तरह अपना प्यार और साथ बनाए रखें तथा मेरे अकाउंट को Follow करें।\nमैं भी आप सभी को 100% Follow Back देने की पूरी कोशिश करूँगा।\nएक बार फिर दिल से धन्यवाद! 🙏❤️\nआइए, मिलकर जल्द ही अगला लक्ष्य 5K Followers भी पूरा करें। 🚀"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1554,
+          "like_count": 83,
+          "quote_count": 1,
+          "reply_count": 54,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "आज आप सभी के प्यार और स्नेह से मेरे X Twitterपर 2K Followers पूरे हो गए हैं। ❤️🎉\nयह उपलब्धि सिर्फ मेरी नहीं, बल्कि आप सभी के विश्वास, सहयोग और समर्थन का परिणाम है\nआप सभी से अनुरोध है कि इसी तरह अपना प्यार और साथ बनाए रखें तथा मेरे अकाउंट को Follow करें।\nमैं भी आप सभी को 100% https://t.co/Q47ow1DPZ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2499,
+          "following_count": 1388,
+          "like_count": 15998,
+          "listed_count": 2,
+          "media_count": 843,
+          "tweet_count": 4253
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-24T04:12:04.000Z",
+        "description": "📍 Jodhpur, Rajasthan|\n🏏 Cricket Addict|\n📚 Aspirant|\nPolitics & Current Affairs|\nYouth First 🇮🇳|\n❤️ Sachin Pilot Supporter|\nMember of NFU🫂",
+        "id": "2026148027245977600",
+        "name": "kuldeep gurjar",
+        "pinned_tweet_id": "2073006470220939756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066733639933853696/vO_VcCBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2689,
+          "following_count": 2922,
+          "like_count": 24592,
+          "listed_count": 1,
+          "media_count": 545,
+          "tweet_count": 13360
+        },
+        "url": "",
+        "username": "kd_gurjar_021",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2073644399926575115",
+    "created_at": "2026-07-05T05:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073644399926575115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1886796352283402250",
+          "start": 3,
+          "username": "TheCyclist400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073644399926575115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073637035005329701",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheCyclist400: 看在孩子的份儿上，再聊十块钱儿的…\n\n既然称之为易性的药物，当然我觉得这样说没错，那药物是治病的是吧。认为我们有病也可以，那允许我们治病是吧…\n\n稍微偷换下概念，孩子头痛，吃药没问题…孩子换一个地方不舒服，这个道理怎么就不同了呢？孩子头痛，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2073644399926575115",
+        "created_at": "2026-07-05T05:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073644399926575115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1886796352283402250",
+              "start": 3,
+              "username": "TheCyclist400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073644399926575115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073637035005329701",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheCyclist400: 看在孩子的份儿上，再聊十块钱儿的…\n\n既然称之为易性的药物，当然我觉得这样说没错，那药物是治病的是吧。认为我们有病也可以，那允许我们治病是吧…\n\n稍微偷换下概念，孩子头痛，吃药没问题…孩子换一个地方不舒服，这个道理怎么就不同了呢？孩子头痛，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886796352283402250",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2073637035005329701",
+        "created_at": "2026-07-05T05:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:13:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073636477062594736",
+          "2073637035005329701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xingyunxiya/st…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/xingyunxiya/status/2073448926594953653",
+              "start": 144,
+              "url": "https://t.co/xIhpojR0NW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073637035005329701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看在孩子的份儿上，再聊十块钱儿的…\n\n既然称之为易性的药物，当然我觉得这样说没错，那药物是治病的是吧。认为我们有病也可以，那允许我们治病是吧…\n\n稍微偷换下概念，孩子头痛，吃药没问题…孩子换一个地方不舒服，这个道理怎么就不同了呢？孩子头痛，您总不能说”我们绝对不允许你误入歧途头痛”吧…\n\n或许头痛在你能够理解的范围内，但是性别焦虑在你的理解范围之外…\n\n这个是孩子的属性，是无法更改的…\n\n我小时候，朋友们都想当男生，我老爹也是顶天立地的男人，我没有手机没有互联网，只有一台显像管电视，也就每天五点半开始看看动画片…这都没有改变我从小就有的性别焦虑…\n\n性别焦虑既不是您自我反省的原因造成，也无法被您琢磨的方法解决…\n\n最早儿科医生一张ASD/ADHD递给我，我也差点掀医生桌子…幼儿园最早发出预警，我们家神兽可能不太一样，园长都被我弄到紧张出汗…\n\n当时这些东西当时在我理解范围之外，我也拒绝承认…\n\n直到最后我开始研究，接受，提供帮助，所有的问题都轻松多了…他多少也能融入主流环境。\n\n神兽现在还能上台拿个奖什么的，至少也是个快乐的孩子…\n\n同样，如果我的孩童生活在这样一个包容的环境，那我能少痛苦多少年呢？\n\n幸好我有一个包容我的爱人，强行走顺直路翻车之后她救了我一命。\n\n但您的孩子，以后也一定能找到那个人吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073448926594953653",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看在孩子的份儿上，再聊十块钱儿的…\n\n既然称之为易性的药物，当然我觉得这样说没错，那药物是治病的是吧。认为我们有病也可以，那允许我们治病是吧…\n\n稍微偷换下概念，孩子头痛，吃药没问题…孩子换一个地方不舒服，这个道理怎么就不同了呢？孩子头痛，您总不能说”我们绝对不允许你误入歧途头痛”吧… https://t.co/xIhpojR0NW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 1372,
+          "like_count": 15833,
+          "listed_count": 2,
+          "media_count": 833,
+          "tweet_count": 4184
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-04T15:18:12.000Z",
+        "description": "邪修术娘/TransParent/Gardener/2nd hand carpenter/Ex-handyman/Retired photographer/Former 021er/MMA/4WD/ISFJ我有ADHD也许有ASD/SRS 26.9.2025/我们一定都能战胜depression",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lulu.c12177",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lulu.c12177",
+                "start": 0,
+                "url": "https://t.co/aKXta2M7vf"
+              }
+            ]
+          }
+        },
+        "id": "1886796352283402250",
+        "location": "匿名向我提问吧→",
+        "name": "Lulu.C",
+        "pinned_tweet_id": "1961013729388351563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063558643765882881/vF7BqGMk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1805,
+          "following_count": 523,
+          "like_count": 10234,
+          "listed_count": 3,
+          "media_count": 645,
+          "tweet_count": 4912
+        },
+        "url": "https://t.co/aKXta2M7vf",
+        "username": "TheCyclist400",
+        "verified": true
+      }
+    ]
+  }
+}

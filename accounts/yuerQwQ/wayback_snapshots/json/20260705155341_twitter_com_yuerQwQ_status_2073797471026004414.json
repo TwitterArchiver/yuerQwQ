@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2073730511315595695",
+    "created_at": "2026-07-05T15:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073797471026004414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1700663565445890048",
+          "start": 0,
+          "username": "0xteo9x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073797471026004414",
+    "in_reply_to_user_id": "1700663565445890048",
+    "lang": "lv",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073730511315595695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xteo9x wow!\n&lt;(ºOº)&gt;"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1147,
+        "media_key": "3_2073730505405874176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMde6FabwAA6CVf.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2073730511315595695",
+        "created_at": "2026-07-05T15:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073797471026004414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1700663565445890048",
+              "start": 0,
+              "username": "0xteo9x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073797471026004414",
+        "in_reply_to_user_id": "1700663565445890048",
+        "lang": "lv",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073730511315595695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xteo9x wow!\n&lt;(ºOº)&gt;"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073730505405874176"
+          ]
+        },
+        "author_id": "1700663565445890048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073730511315595695",
+        "created_at": "2026-07-05T11:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073730511315595695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JSg286dFuw",
+              "end": 286,
+              "expanded_url": "https://x.com/0xteo9x/status/2073730511315595695/photo/1",
+              "media_key": "3_2073730505405874176",
+              "start": 263,
+              "url": "https://t.co/JSg286dFuw"
+            },
+            {
+              "display_url": "x.com/0xteo9x/status…",
+              "end": 310,
+              "expanded_url": "https://twitter.com/0xteo9x/status/2073682271039873193",
+              "start": 287,
+              "url": "https://t.co/N5MpnfyslF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073730511315595695",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {},
+          "text": "Nhanh thật anh em. \nMới ngồi xem chưa bao lâu mà market cap đã gần 80M$ rồi.\n\nĐà này nếu dòng tiền vẫn FOMO như hiện tại thì 100M$ cũng không phải mục tiêu quá xa.\n\nMùa meme đúng là không nói trước được điều gì.\n\nNhưng càng bay nhanh thì biến động cũng càng lớn, ai vào sau nhớ quản lý vốn cẩn thận nhé."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073682271039873193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Nhanh thật anh em. \nMới ngồi xem chưa bao lâu mà market cap đã gần 80M$ rồi.\n\nĐà này nếu dòng tiền vẫn FOMO như hiện tại thì 100M$ cũng không phải mục tiêu quá xa.\n\nMùa meme đúng là không nói trước được điều gì.\n\nNhưng càng bay nhanh thì biến động cũng càng lớn, https://t.co/JSg286dFuw https://t.co/N5MpnfyslF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2495,
+          "following_count": 1369,
+          "like_count": 15966,
+          "listed_count": 2,
+          "media_count": 842,
+          "tweet_count": 4237
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-10T00:13:03.000Z",
+        "description": "Web 3| Degen and NFT | content creator|",
+        "id": "1700663565445890048",
+        "location": "California, USA",
+        "name": "Teo9x",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057291337591083008/kHK6VRUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15311,
+          "following_count": 15437,
+          "like_count": 26032,
+          "listed_count": 14,
+          "media_count": 1504,
+          "tweet_count": 47322
+        },
+        "url": "",
+        "username": "0xteo9x",
+        "verified": true
+      }
+    ]
+  }
+}

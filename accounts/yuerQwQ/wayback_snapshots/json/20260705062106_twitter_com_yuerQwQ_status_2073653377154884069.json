@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2073433401890345081",
+    "created_at": "2026-07-05T06:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T07:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073653377154884069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2019141659720839169",
+          "start": 0,
+          "username": "queenandqynn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073653377154884069",
+    "in_reply_to_user_id": "2019141659720839169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073433401890345081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@queenandqynn 看见你这条帖文之后才发现我是口渴的\n但是一直忘了喝水🥲🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4466,
+        "height": 872,
+        "media_key": "13_2073433376636420097",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073433376636420097/img/VlFywG7_gXzty38B.jpg",
+        "public_metrics": {
+          "view_count": 119
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073433376636420097/vid/avc1/320x386/v30Y6_bIlO-Mp0La.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073433376636420097/vid/avc1/480x580/ameQXPZvlr1hqvwH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073433376636420097/vid/avc1/720x872/_hOgE0aPsTi0ahGo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073433376636420097/pl/41A-C1m6XWOZIG3f.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2073433401890345081",
+        "created_at": "2026-07-05T06:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073653377154884069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2019141659720839169",
+              "start": 0,
+              "username": "queenandqynn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073653377154884069",
+        "in_reply_to_user_id": "2019141659720839169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073433401890345081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@queenandqynn 看见你这条帖文之后才发现我是口渴的\n但是一直忘了喝水🥲🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073433376636420097"
+          ]
+        },
+        "author_id": "2019141659720839169",
+        "conversation_id": "2073433401890345081",
+        "created_at": "2026-07-04T15:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073433401890345081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v2n9nVBe9D",
+              "end": 275,
+              "expanded_url": "https://x.com/queenandqynn/status/2073433401890345081/video/1",
+              "media_key": "13_2073433376636420097",
+              "start": 252,
+              "url": "https://t.co/v2n9nVBe9D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073433401890345081",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 758,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🌜 Đến giờ sạc pin cho con người rồi!\n\nAi còn thức thì nhớ uống nước, ai đang lướt X thì lướt thêm 5 phút thôi nhé.\n\nChúc mọi người một buổi tối bình yên, ngủ thật ngon và sáng mai thức dậy với thật nhiều năng lượng. \n\nSweet dreams! 😴✨\nSee you tomorrow https://t.co/v2n9nVBe9D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2447,
+          "following_count": 1342,
+          "like_count": 15848,
+          "listed_count": 2,
+          "media_count": 834,
+          "tweet_count": 4191
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-04T20:11:17.000Z",
+        "description": "Sinh viên năm 2 đại học Văn Lang. Thích du lịch, mua sắm, tà tưa.\nDễ tính nhưng không dễ dãi.\nKhông xinh nhưng được cái điện nước cũng không\nLịch sự thì tiếp.",
+        "id": "2019141659720839169",
+        "name": "Anne Queen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063170869896384512/KW9scV5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8111,
+          "following_count": 1247,
+          "like_count": 833,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 721
+        },
+        "url": "",
+        "username": "queenandqynn",
+        "verified": true
+      }
+    ]
+  }
+}

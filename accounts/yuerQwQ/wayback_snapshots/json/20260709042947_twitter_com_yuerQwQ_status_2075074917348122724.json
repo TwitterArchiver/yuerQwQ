@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2075026731938021570",
+    "created_at": "2026-07-09T04:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T05:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075074917348122724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1751802163591016448",
+          "start": 0,
+          "username": "TrieuMessi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075074917348122724",
+    "in_reply_to_user_id": "1751802163591016448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075026731938021570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TrieuMessi 好漂亮的风景🥺\n中午好呀~"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19633,
+        "height": 1920,
+        "media_key": "13_2075026660093734912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075026660093734912/img/IANY3GocGA3OAUYL.jpg",
+        "public_metrics": {
+          "view_count": 191
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075026660093734912/vid/avc1/720x1280/0z8UMnjgpAusIp3p.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075026660093734912/vid/avc1/320x568/YposB9nw1rTbp9NC.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075026660093734912/vid/avc1/1080x1920/nsydbwy5s5IZU4Fq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075026660093734912/pl/D1beRcnkNEBZXSy6.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075026660093734912/vid/avc1/480x852/3xmS_Bj_hW8ATu3y.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2075026731938021570",
+        "created_at": "2026-07-09T04:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075074917348122724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1751802163591016448",
+              "start": 0,
+              "username": "TrieuMessi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075074917348122724",
+        "in_reply_to_user_id": "1751802163591016448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075026731938021570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TrieuMessi 好漂亮的风景🥺\n中午好呀~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075026660093734912"
+          ]
+        },
+        "author_id": "1751802163591016448",
+        "conversation_id": "2075026731938021570",
+        "created_at": "2026-07-09T01:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075026731938021570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OjS01HQB5a",
+              "end": 188,
+              "expanded_url": "https://x.com/TrieuMessi/status/2075026731938021570/video/1",
+              "media_key": "13_2075026660093734912",
+              "start": 165,
+              "url": "https://t.co/OjS01HQB5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075026731938021570",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 730,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 98,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Good morning Fam!\n\nDậy ngắm mây thôi anh em đừng ngủ nữa.\nMỗi ngày trôi qua nhanh quá. Thôi làm ly cf cho tỉnh táo rồi đi cày tiếp.\n\nNgày mới năng lượng nha anh em. https://t.co/OjS01HQB5a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2532,
+          "following_count": 1442,
+          "like_count": 16302,
+          "listed_count": 2,
+          "media_count": 881,
+          "tweet_count": 4378
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-29T02:59:42.000Z",
+        "description": "Community is everything .Content Creator , Web3...\nDiscord : alongantony\nMag 6  @SeismicSys\nBrain @GenLayer\nX-axis @axisrobotics",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "SeismicSys"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "GenLayer"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "axisrobotics"
+              }
+            ]
+          }
+        },
+        "id": "1751802163591016448",
+        "location": "Ho Chi Minh, Vietnam",
+        "name": "Along cân 3 (✱,✱)",
+        "pinned_tweet_id": "2072686727530234174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060620148130865152/569hIioW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10520,
+          "following_count": 10367,
+          "like_count": 46558,
+          "listed_count": 10,
+          "media_count": 1684,
+          "tweet_count": 39063
+        },
+        "url": "",
+        "username": "TrieuMessi",
+        "verified": true
+      }
+    ]
+  }
+}

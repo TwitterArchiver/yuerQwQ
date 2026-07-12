@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2073397389042589763",
+    "created_at": "2026-07-05T17:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073821236795462033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1837915468059103234",
+          "start": 0,
+          "username": "AIsidra1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073821236795462033",
+    "in_reply_to_user_id": "1837915468059103234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073397389042589763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AIsidra1a 被扎到会很痛的吧😵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59814,
+        "height": 640,
+        "media_key": "13_2073397140488167425",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073397140488167425/img/Mf-SP3j2Khqn6TJh.jpg",
+        "public_metrics": {
+          "view_count": 7318307
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073397140488167425/vid/avc1/320x400/u9AafCBVQSv4U1Nj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073397140488167425/vid/avc1/512x640/Hd3OF7FXpGv3v44G.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073397140488167425/pl/Us8YHkctgxogmwqc.m3u8"
+          }
+        ],
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2073397389042589763",
+        "created_at": "2026-07-05T17:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073821236795462033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1837915468059103234",
+              "start": 0,
+              "username": "AIsidra1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073821236795462033",
+        "in_reply_to_user_id": "1837915468059103234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073397389042589763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AIsidra1a 被扎到会很痛的吧😵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073397140488167425"
+          ]
+        },
+        "author_id": "1837915468059103234",
+        "conversation_id": "2073397389042589763",
+        "created_at": "2026-07-04T13:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073397389042589763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Djx0Nuievh",
+              "end": 107,
+              "expanded_url": "https://x.com/AIsidra1a/status/2073397389042589763/video/1",
+              "media_key": "13_2073397140488167425",
+              "start": 84,
+              "url": "https://t.co/Djx0Nuievh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073397389042589763",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2495,
+          "impression_count": 14576970,
+          "like_count": 16276,
+          "quote_count": 69,
+          "reply_count": 447,
+          "retweet_count": 309
+        },
+        "reply_settings": "everyone",
+        "text": "những mũi chích của con bọ cạp nhỏ thật đáng sợ. mn hãy cẩn thận né tránh nó ra nhé https://t.co/Djx0Nuievh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2499,
+          "following_count": 1389,
+          "like_count": 15998,
+          "listed_count": 2,
+          "media_count": 843,
+          "tweet_count": 4254
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-22T18:02:53.000Z",
+        "description": "hãy cố gắng từng ngày",
+        "id": "1837915468059103234",
+        "name": "EmThỏ🔶bnb",
+        "pinned_tweet_id": "2073397389042589763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063931993721819136/yiG_UauF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5747,
+          "following_count": 6053,
+          "like_count": 2092,
+          "listed_count": 8,
+          "media_count": 160,
+          "tweet_count": 17929
+        },
+        "url": "",
+        "username": "AIsidra1a",
+        "verified": true
+      }
+    ]
+  }
+}

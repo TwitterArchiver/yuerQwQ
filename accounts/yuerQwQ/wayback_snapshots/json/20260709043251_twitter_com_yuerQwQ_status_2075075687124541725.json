@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2075075687124541725",
+    "created_at": "2026-07-09T04:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T05:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075075687124541725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1868579750098186240",
+          "start": 3,
+          "username": "xiaoshuTuT1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075075687124541725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 203
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074631430626484712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoshuTuT1: 避雷异性恋，做爱不带套操出来一堆傻子现在来折磨我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2075075687124541725",
+        "created_at": "2026-07-09T04:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075075687124541725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868579750098186240",
+              "start": 3,
+              "username": "xiaoshuTuT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075075687124541725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 203
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074631430626484712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoshuTuT1: 避雷异性恋，做爱不带套操出来一堆傻子现在来折磨我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868579750098186240",
+        "conversation_id": "2074631430626484712",
+        "created_at": "2026-07-07T23:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T00:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074631430626484712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074631430626484712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 52824,
+          "like_count": 1958,
+          "quote_count": 5,
+          "reply_count": 115,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "避雷异性恋，做爱不带套操出来一堆傻子现在来折磨我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2532,
+          "following_count": 1443,
+          "like_count": 16304,
+          "listed_count": 2,
+          "media_count": 881,
+          "tweet_count": 4381
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-16T08:51:54.000Z",
+        "description": "…我就发点牢骚而已 我不是黄推不线下不聊骚 纯绿",
+        "id": "1868579750098186240",
+        "location": "🚪188",
+        "name": "虚伪",
+        "pinned_tweet_id": "2041478221787779537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073021150545027072/ZHZbTExC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4393,
+          "following_count": 88,
+          "like_count": 389,
+          "listed_count": 7,
+          "media_count": 30,
+          "tweet_count": 351
+        },
+        "url": "",
+        "username": "xiaoshuTuT1",
+        "verified": false
+      }
+    ]
+  }
+}

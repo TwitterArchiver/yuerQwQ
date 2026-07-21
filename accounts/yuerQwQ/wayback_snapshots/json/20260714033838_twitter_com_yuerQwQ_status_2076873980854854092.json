@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076673354900316160"
+      ],
+      "media_source_tweet_id": [
+        "2076673361275490513"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2076873980854854092",
+    "created_at": "2026-07-14T03:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076873980854854092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2076670672517189632",
+          "start": 3,
+          "username": "mikumi_huihui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gy1nm1K6ch",
+          "end": 59,
+          "expanded_url": "https://x.com/mikumi_huihui/status/2076673361275490513/photo/1",
+          "media_key": "3_2076673354900316160",
+          "start": 36,
+          "url": "https://t.co/Gy1nm1K6ch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076873980854854092",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076673361275490513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikumi_huihui: 这里是惠惠2.0，前世互fo寻回 https://t.co/Gy1nm1K6ch"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2076673354900316160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHTaeFaIAAyyE3.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076673354900316160"
+          ],
+          "media_source_tweet_id": [
+            "2076673361275490513"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2076873980854854092",
+        "created_at": "2026-07-14T03:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076873980854854092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2076670672517189632",
+              "start": 3,
+              "username": "mikumi_huihui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gy1nm1K6ch",
+              "end": 59,
+              "expanded_url": "https://x.com/mikumi_huihui/status/2076673361275490513/photo/1",
+              "media_key": "3_2076673354900316160",
+              "start": 36,
+              "url": "https://t.co/Gy1nm1K6ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076873980854854092",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076673361275490513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikumi_huihui: 这里是惠惠2.0，前世互fo寻回 https://t.co/Gy1nm1K6ch"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076673354900316160"
+          ]
+        },
+        "author_id": "2076670672517189632",
+        "conversation_id": "2076673361275490513",
+        "created_at": "2026-07-13T14:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076673361275490513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gy1nm1K6ch",
+              "end": 40,
+              "expanded_url": "https://x.com/mikumi_huihui/status/2076673361275490513/photo/1",
+              "media_key": "3_2076673354900316160",
+              "start": 17,
+              "url": "https://t.co/Gy1nm1K6ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076673361275490513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这里是惠惠2.0，前世互fo寻回 https://t.co/Gy1nm1K6ch"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2557,
+          "following_count": 1449,
+          "like_count": 16499,
+          "listed_count": 2,
+          "media_count": 940,
+          "tweet_count": 4484
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-13T14:11:50.000Z",
+        "description": "前世互关寻回\n依存症｜mtf｜xyn｜二次元｜特别黏人｜我会哭｜特别害羞｜喜欢雌爆发情｜重抑｜同类互fo",
+        "id": "2076670672517189632",
+        "name": "惠惠2.0🏳️‍⚧️🍥（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076671323452137472/67hXnG9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 75,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "mikumi_huihui",
+        "verified": false
+      }
+    ]
+  }
+}

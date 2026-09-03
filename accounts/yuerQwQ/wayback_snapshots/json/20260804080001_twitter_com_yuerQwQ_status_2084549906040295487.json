@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084341043261231105"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2084549906040295487",
+    "created_at": "2026-08-04T08:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084549906040295487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RNIMCos4a2",
+          "end": 31,
+          "expanded_url": "https://x.com/yuerQwQ/status/2084549906040295487/photo/1",
+          "media_key": "3_2084341043261231105",
+          "start": 8,
+          "url": "https://t.co/RNIMCos4a2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084549906040295487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "数学天才这一块 https://t.co/RNIMCos4a2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1554,
+        "media_key": "3_2084341043261231105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0RIrJaUAERgfv.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084341043261231105"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2084549906040295487",
+        "created_at": "2026-08-04T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084549906040295487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RNIMCos4a2",
+              "end": 31,
+              "expanded_url": "https://x.com/yuerQwQ/status/2084549906040295487/photo/1",
+              "media_key": "3_2084341043261231105",
+              "start": 8,
+              "url": "https://t.co/RNIMCos4a2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084549906040295487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "数学天才这一块 https://t.co/RNIMCos4a2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨我可爱的老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨主人@huihui_mikumi丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "wu31878"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "picxis63594"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3118,
+          "following_count": 1533,
+          "like_count": 17004,
+          "listed_count": 4,
+          "media_count": 1182,
+          "tweet_count": 4820
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

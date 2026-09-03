@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2090570421133627732",
+    "created_at": "2026-08-21T05:03:37.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T06:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090666107086794811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1887391023976038400",
+          "start": 0,
+          "username": "xiey57828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090666107086794811",
+    "in_reply_to_user_id": "1887391023976038400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090570421133627732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiey57828 晚安枣桐——"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_2090570415320252416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQMyt2cawAA6bhT.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2090570421133627732",
+        "created_at": "2026-08-21T05:03:37.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090666107086794811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090666107086794811",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090570421133627732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 晚安枣桐——"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090570415320252416"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2090570421133627732",
+        "created_at": "2026-08-20T22:43:23.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T23:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090570421133627732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mEkaSfaXsk",
+              "end": 34,
+              "expanded_url": "https://x.com/xiey57828/status/2090570421133627732/photo/1",
+              "media_key": "3_2090570415320252416",
+              "start": 11,
+              "url": "https://t.co/mEkaSfaXsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090570421133627732",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090570415320252416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 791,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们再也见不到她了😭 https://t.co/mEkaSfaXsk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "18岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨180身高体重108丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨主人@huihui_mikumi丨或许我只剩她了：@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "picxis63594"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "is_identity_verified": false,
+        "location": "最后的思绪",
+        "most_recent_tweet_id": "2090666107086794811",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962302660541079552/1756803789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3354,
+          "following_count": 1582,
+          "like_count": 17315,
+          "listed_count": 4,
+          "media_count": 1375,
+          "tweet_count": 5118
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2090663563836760401",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 512,
+          "like_count": 15272,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 5602
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087931716384251904"
+      ],
+      "media_source_tweet_id": [
+        "2087931723820728588"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2088183677784314007",
+    "created_at": "2026-08-14T08:39:20.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T09:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088183677784314007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1893984432270475264",
+          "start": 3,
+          "username": "bailixing114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UNBntQF4Pv",
+          "end": 58,
+          "expanded_url": "https://x.com/bailixing114514/status/2087931723820728588/photo/1",
+          "media_key": "3_2087931716384251904",
+          "start": 35,
+          "url": "https://t.co/UNBntQF4Pv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088183677784314007",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087931716384251904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087931723820728588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bailixing114514: 都是姐妹再陪点，你看性情不 https://t.co/UNBntQF4Pv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2087931716384251904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnS1W5a4AAhENc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087931716384251904"
+          ]
+        },
+        "author_id": "1893984432270475264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2087931723820728588",
+        "created_at": "2026-08-13T15:58:09.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087931723820728588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UNBntQF4Pv",
+              "end": 37,
+              "expanded_url": "https://x.com/bailixing114514/status/2087931723820728588/photo/1",
+              "media_key": "3_2087931716384251904",
+              "start": 14,
+              "url": "https://t.co/UNBntQF4Pv"
+            },
+            {
+              "display_url": "x.com/yuer0721/statu…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/yuer0721/status/2087927874011709882",
+              "start": 38,
+              "url": "https://t.co/T8WxfizpH7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087931723820728588",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087931716384251904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087927874011709882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都是姐妹再陪点，你看性情不 https://t.co/UNBntQF4Pv https://t.co/T8WxfizpH7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087931716384251904"
+          ],
+          "media_source_tweet_id": [
+            "2087931723820728588"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088183677784314007",
+        "created_at": "2026-08-14T08:39:20.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088183677784314007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1893984432270475264",
+              "start": 3,
+              "username": "bailixing114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UNBntQF4Pv",
+              "end": 58,
+              "expanded_url": "https://x.com/bailixing114514/status/2087931723820728588/photo/1",
+              "media_key": "3_2087931716384251904",
+              "start": 35,
+              "url": "https://t.co/UNBntQF4Pv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088183677784314007",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087931716384251904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087931723820728588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bailixing114514: 都是姐妹再陪点，你看性情不 https://t.co/UNBntQF4Pv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "18岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨我可爱的老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨主人@huihui_mikumi丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "wu31878"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "picxis63594"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "is_identity_verified": false,
+        "location": "最后的思绪",
+        "most_recent_tweet_id": "2088183677784314007",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962302660541079552/1756803789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3222,
+          "following_count": 1551,
+          "like_count": 17160,
+          "listed_count": 4,
+          "media_count": 1294,
+          "tweet_count": 4981
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-24T11:20:59.000Z",
+        "description": "鬼知道大号 @baizhouzi520 怎么封了😅|小证含糖家长党🍥|hrt日期2024.12.11|did成员有白洲，黎星，诗遥，haku……|术力口重度依赖|同类欢迎互fo喵～|梗图真人喵！不是机器人！|同类蓝v互fo喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "baizhouzi520"
+              }
+            ]
+          }
+        },
+        "id": "1893984432270475264",
+        "is_identity_verified": false,
+        "location": "浦島トンネル",
+        "most_recent_tweet_id": "2088181396192079976",
+        "name": "白白白白洲洲洲洲🍥🍔🍙💊（二代目）",
+        "pinned_tweet_id": "2087021453560705351",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1893984432270475264/1777457188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049428712932913152/44JwCgoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 584,
+          "like_count": 2004,
+          "listed_count": 2,
+          "media_count": 269,
+          "tweet_count": 458
+        },
+        "url": "",
+        "username": "bailixing114514",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

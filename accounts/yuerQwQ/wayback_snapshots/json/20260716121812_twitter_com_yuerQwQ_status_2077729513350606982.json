@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2077562419434696950",
+    "created_at": "2026-07-16T12:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T13:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077729513350606982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1313383273079345152",
+          "start": 0,
+          "username": "ValeriaEulabeia"
+        },
+        {
+          "end": 31,
+          "id": "1886796352283402250",
+          "start": 17,
+          "username": "TheCyclist400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077729513350606982",
+    "in_reply_to_user_id": "1313383273079345152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077562419434696950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ValeriaEulabeia @TheCyclist400 有一只墨指导😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 771,
+        "media_key": "3_2077562410798555136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNT8AVZaIAAXMpG.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2077562419434696950",
+        "created_at": "2026-07-16T12:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077729513350606982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1313383273079345152",
+              "start": 0,
+              "username": "ValeriaEulabeia"
+            },
+            {
+              "end": 31,
+              "id": "1886796352283402250",
+              "start": 17,
+              "username": "TheCyclist400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077729513350606982",
+        "in_reply_to_user_id": "1313383273079345152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077562419434696950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValeriaEulabeia @TheCyclist400 有一只墨指导😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077562410798555136"
+          ]
+        },
+        "author_id": "1313383273079345152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077562419434696950",
+        "created_at": "2026-07-16T01:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077562419434696950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gh8WRBWfAL",
+              "end": 38,
+              "expanded_url": "https://x.com/ValeriaEulabeia/status/2077562419434696950/photo/1",
+              "media_key": "3_2077562410798555136",
+              "start": 15,
+              "url": "https://t.co/gh8WRBWfAL"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "012e8ba874ccdcd7"
+        },
+        "id": "2077562419434696950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1040,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜这一桌子菜都有哪些动物（ https://t.co/gh8WRBWfAL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2567,
+          "following_count": 1454,
+          "like_count": 16555,
+          "listed_count": 2,
+          "media_count": 961,
+          "tweet_count": 4515
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "È la vita una battaglia,\ne il cammino irto d'inganni,\nma siam forti: abbiam vent'anni,\nl'avvenire non temiam...\n🗡️💣🖤",
+        "id": "1313383273079345152",
+        "location": "Queensland, Australia",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2028669028810838138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049492315513950209/Cp9UnZ_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6998,
+          "following_count": 4012,
+          "like_count": 166404,
+          "listed_count": 19,
+          "media_count": 2806,
+          "tweet_count": 27082
+        },
+        "url": "",
+        "username": "ValeriaEulabeia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-04T15:18:12.000Z",
+        "description": "邪修术娘/TransParent/Gardener/2nd hand carpenter/Ex-handyman/Retired photographer/Former 021er/MMA/4WD/ISFJ我有ADHD也许有ASD/SRS 26.9.2025/我们一定都能战胜depression",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lulu.c12177",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lulu.c12177",
+                "start": 0,
+                "url": "https://t.co/aKXta2M7vf"
+              }
+            ]
+          }
+        },
+        "id": "1886796352283402250",
+        "location": "匿名向我提问吧→",
+        "name": "Lulu.C",
+        "pinned_tweet_id": "1961013729388351563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063558643765882881/vF7BqGMk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 535,
+          "like_count": 10529,
+          "listed_count": 4,
+          "media_count": 666,
+          "tweet_count": 5074
+        },
+        "url": "https://t.co/aKXta2M7vf",
+        "username": "TheCyclist400",
+        "verified": true
+      }
+    ]
+  }
+}

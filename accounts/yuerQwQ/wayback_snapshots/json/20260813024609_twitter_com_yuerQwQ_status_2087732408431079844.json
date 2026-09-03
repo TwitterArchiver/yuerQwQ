@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2087628441806160188",
+    "created_at": "2026-08-13T02:46:09.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T03:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087732408431079844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942136939735560192",
+          "start": 0,
+          "username": "picxis63594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087732408431079844",
+    "in_reply_to_user_id": "1942136939735560192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087628441806160188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@picxis63594 为什么一定要逼我呢\n为什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2087628441806160188",
+        "created_at": "2026-08-13T02:46:09.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T03:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087732408431079844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942136939735560192",
+              "start": 0,
+              "username": "picxis63594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087732408431079844",
+        "in_reply_to_user_id": "1942136939735560192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087628441806160188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@picxis63594 为什么一定要逼我呢\n为什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942136939735560192",
+        "conversation_id": "2087628441806160188",
+        "created_at": "2026-08-12T19:53:01.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T20:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087628441806160188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087628441806160188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 343,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "失去了很多\n失去了曾经我的一切\n没有人会毫无保留地爱我\n我这样想着\n最亲近的人瞒着我\n声嘶力竭地再三追问下呢\n一次一次说出伤我心的话\n···\n晚安，\n太阳照常升起\n只是明天不会升起昨日的今天的太阳了\n你说是吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "18岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨我可爱的老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨主人@huihui_mikumi丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "wu31878"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "picxis63594"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "is_identity_verified": false,
+        "location": "最后的思绪",
+        "most_recent_tweet_id": "2087732408431079844",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962302660541079552/1756803789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3172,
+          "following_count": 1548,
+          "like_count": 17120,
+          "listed_count": 4,
+          "media_count": 1281,
+          "tweet_count": 4959
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T08:21:59.000Z",
+        "description": "mtx （不可抗力而绝望无糖）| 泛性恋 | 17歳 | 跨物种企鹅（持有南极洲护照）|  INFP |  ADHD  | バカみたいな （一条byd区） | 荒诞主义  |   遭受苦难中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/picxis63594",
+                "end": 23,
+                "expanded_url": "https://x.com/picxis63594",
+                "start": 0,
+                "url": "https://t.co/kzcniopHcI"
+              }
+            ]
+          }
+        },
+        "id": "1942136939735560192",
+        "is_identity_verified": false,
+        "location": "清醒梦",
+        "most_recent_tweet_id": "2087647534424715727",
+        "name": "さぶどろ🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2062132531491930435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942136939735560192/1786375054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086729958907645952/VN6Q9eKg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 353,
+          "like_count": 470,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 437
+        },
+        "url": "https://t.co/kzcniopHcI",
+        "username": "picxis63594",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

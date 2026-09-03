@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086830720836841472"
+      ],
+      "media_source_tweet_id": [
+        "2086830743091859627"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2086851392497709317",
+    "created_at": "2026-08-10T16:25:18.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T17:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086851392497709317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910893768498438146",
+          "start": 3,
+          "username": "mengxin66666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HrY3DQr3G1",
+          "end": 123,
+          "expanded_url": "https://x.com/mengxin66666/status/2086830743091859627/photo/1",
+          "media_key": "3_2086830720836841472",
+          "start": 100,
+          "url": "https://t.co/HrY3DQr3G1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086851392497709317",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086830720836841472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086830743091859627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mengxin66666: 其实Grok可以直接识别出\n𝕏大部分的垃圾信息\n\n而𝕏的算法中也有Grok参与\n\n可能只是出于某些原因\n才没有真正去清理这些垃圾信息\n\n至于原因是什么我也不清楚🤔 https://t.co/HrY3DQr3G1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_2086830720836841472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXpe-3aMAA-JFr.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086830720836841472"
+          ]
+        },
+        "author_id": "1910893768498438146",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2086830743091859627",
+        "created_at": "2026-08-10T15:03:15.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086830743091859627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HrY3DQr3G1",
+              "end": 105,
+              "expanded_url": "https://x.com/mengxin66666/status/2086830743091859627/photo/1",
+              "media_key": "3_2086830720836841472",
+              "start": 82,
+              "url": "https://t.co/HrY3DQr3G1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086830743091859627",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086830720836841472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "其实Grok可以直接识别出\n𝕏大部分的垃圾信息\n\n而𝕏的算法中也有Grok参与\n\n可能只是出于某些原因\n才没有真正去清理这些垃圾信息\n\n至于原因是什么我也不清楚🤔 https://t.co/HrY3DQr3G1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086830720836841472"
+          ],
+          "media_source_tweet_id": [
+            "2086830743091859627"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2086851392497709317",
+        "created_at": "2026-08-10T16:25:18.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086851392497709317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910893768498438146",
+              "start": 3,
+              "username": "mengxin66666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HrY3DQr3G1",
+              "end": 123,
+              "expanded_url": "https://x.com/mengxin66666/status/2086830743091859627/photo/1",
+              "media_key": "3_2086830720836841472",
+              "start": 100,
+              "url": "https://t.co/HrY3DQr3G1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086851392497709317",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086830720836841472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086830743091859627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mengxin66666: 其实Grok可以直接识别出\n𝕏大部分的垃圾信息\n\n而𝕏的算法中也有Grok参与\n\n可能只是出于某些原因\n才没有真正去清理这些垃圾信息\n\n至于原因是什么我也不清楚🤔 https://t.co/HrY3DQr3G1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "18岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨我可爱的老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨主人@huihui_mikumi丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "wu31878"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "picxis63594"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "is_identity_verified": false,
+        "location": "最后的思绪",
+        "most_recent_tweet_id": "2086851392497709317",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962302660541079552/1756803789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3152,
+          "following_count": 1553,
+          "like_count": 17085,
+          "listed_count": 4,
+          "media_count": 1253,
+          "tweet_count": 4927
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-12T03:12:45.000Z",
+        "description": "男\n科技时政💻\n娱乐抽象休闲聊天📱\n写代码但很懒🖥️\n自由职业者🗺️\n提倡和平(互联网也一样)🌐\n有空会回复或互动任何人，如果有一段时\n间比较忙碌，会抽空回复的📱\n声明我没用自动化脚本和机器人回复😅",
+        "id": "1910893768498438146",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2086847773283086570",
+        "name": "萌新_mengxin",
+        "pinned_tweet_id": "2076538635759882660",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910893768498438146/1782798053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072015920420249600/1oZ6rrmM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 395,
+          "like_count": 22900,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 3205
+        },
+        "url": "",
+        "username": "mengxin66666",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

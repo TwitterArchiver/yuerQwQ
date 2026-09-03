@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091513770476503042"
+      ],
+      "media_source_tweet_id": [
+        "2091514282529730569"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2091880110752506100",
+    "created_at": "2026-08-24T13:27:38.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T14:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091880110752506100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1876613242887282688",
+          "start": 3,
+          "username": "liujiayi1111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JLJzxjsOje",
+          "end": 50,
+          "expanded_url": "https://x.com/liujiayi1111/status/2091514282529730569/photo/1",
+          "media_key": "3_2091513770476503042",
+          "start": 27,
+          "url": "https://t.co/JLJzxjsOje"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091880110752506100",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091513770476503042"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091514282529730569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liujiayi1111: 搞个抽奖实验一下 https://t.co/JLJzxjsOje"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 404,
+        "media_key": "3_2091513770476503042",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQaMsWQXAAIWwoD.png",
+        "width": 507
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091513770476503042"
+          ],
+          "media_source_tweet_id": [
+            "2091514282529730569"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2091880110752506100",
+        "created_at": "2026-08-24T13:27:38.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091880110752506100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1876613242887282688",
+              "start": 3,
+              "username": "liujiayi1111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLJzxjsOje",
+              "end": 50,
+              "expanded_url": "https://x.com/liujiayi1111/status/2091514282529730569/photo/1",
+              "media_key": "3_2091513770476503042",
+              "start": 27,
+              "url": "https://t.co/JLJzxjsOje"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091880110752506100",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091513770476503042"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091514282529730569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liujiayi1111: 搞个抽奖实验一下 https://t.co/JLJzxjsOje"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091513770476503042"
+          ]
+        },
+        "author_id": "1876613242887282688",
+        "conversation_id": "2091514282529730569",
+        "created_at": "2026-08-23T13:13:58.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091514282529730569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLJzxjsOje",
+              "end": 32,
+              "expanded_url": "https://x.com/liujiayi1111/status/2091514282529730569/photo/1",
+              "media_key": "3_2091513770476503042",
+              "start": 9,
+              "url": "https://t.co/JLJzxjsOje"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091514282529730569",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091513770476503042"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10522,
+          "like_count": 178,
+          "quote_count": 16,
+          "reply_count": 162,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "搞个抽奖实验一下 https://t.co/JLJzxjsOje"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "18岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨180身高体重108丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨主人@huihui_mikumi丨或许我只剩她了：@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "picxis63594"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "is_identity_verified": false,
+        "location": "最后的思绪",
+        "most_recent_tweet_id": "2091880110752506100",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962302660541079552/1756803789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3470,
+          "following_count": 1600,
+          "like_count": 17371,
+          "listed_count": 4,
+          "media_count": 1421,
+          "tweet_count": 5184
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。LOL游戏主播。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liujiayi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liujiayi2",
+                "start": 0,
+                "url": "https://t.co/pDPmLWjxRk"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091863839109247322",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1876613242887282688/1780369791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11072,
+          "following_count": 125,
+          "like_count": 16282,
+          "listed_count": 30,
+          "media_count": 370,
+          "tweet_count": 4618
+        },
+        "url": "https://t.co/pDPmLWjxRk",
+        "username": "liujiayi1111",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

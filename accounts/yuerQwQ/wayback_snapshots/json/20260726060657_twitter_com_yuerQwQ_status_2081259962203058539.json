@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2081223241331589304",
+    "created_at": "2026-07-26T06:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T07:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081259962203058539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033116026410598400",
+          "start": 0,
+          "username": "Irosas_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081259962203058539",
+    "in_reply_to_user_id": "2033116026410598400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081223241331589304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Irosas_xyn 落枕了🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2081223241331589304",
+        "created_at": "2026-07-26T06:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081259962203058539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033116026410598400",
+              "start": 0,
+              "username": "Irosas_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081259962203058539",
+        "in_reply_to_user_id": "2033116026410598400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081223241331589304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irosas_xyn 落枕了🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033116026410598400",
+        "conversation_id": "2081223241331589304",
+        "created_at": "2026-07-26T03:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081223241331589304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081223241331589304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡醒以后脖子好痛\n我仿佛看见法国国王在向我招手😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨我可爱的老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "wu31878"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 121,
+                "start": 113,
+                "username": "nagis1a"
+              },
+              {
+                "end": 134,
+                "start": 125,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2929,
+          "following_count": 1493,
+          "like_count": 16854,
+          "listed_count": 3,
+          "media_count": 1070,
+          "tweet_count": 4671
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T09:40:49.000Z",
+        "description": "MtF｜les｜区｜出厂日期11.05.12｜🍥26.04.30｜无证含糖｜不键政不OD｜休学ing｜182cm😭 BMI 27+😭\n里推：@Irosas_sub\n无墙内联系方式\n同类会尽力回fo除非白号会观察喵\n匿名提问喵https://t.co/gIYkKuCa8q\n给我私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Irosas_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/irosas_xyn",
+                "end": 135,
+                "expanded_url": "http://ngl.link/irosas_xyn",
+                "start": 112,
+                "url": "https://t.co/gIYkKuCa8q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/irosas_xyn",
+                "end": 23,
+                "expanded_url": "https://telegram.me/irosas_xyn",
+                "start": 0,
+                "url": "https://t.co/4Ea9D5x42k"
+              }
+            ]
+          }
+        },
+        "id": "2033116026410598400",
+        "name": "Irosas🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2080728473983951289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068820111767842816/CyiUvjMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 296,
+          "like_count": 919,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 1015
+        },
+        "url": "https://t.co/4Ea9D5x42k",
+        "username": "Irosas_xyn",
+        "verified": true
+      }
+    ]
+  }
+}

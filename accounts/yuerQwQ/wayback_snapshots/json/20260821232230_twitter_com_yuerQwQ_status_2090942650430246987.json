@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090942585674285056",
+        "3_2090942592905306112",
+        "3_2090942600048201728",
+        "3_2090942643559976961"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090942650430246987",
+    "created_at": "2026-08-21T23:22:30.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T00:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090942650430246987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hLuoVL3X2a",
+          "end": 33,
+          "expanded_url": "https://x.com/yuerQwQ/status/2090942650430246987/photo/1",
+          "media_key": "3_2090942585674285056",
+          "start": 10,
+          "url": "https://t.co/hLuoVL3X2a"
+        },
+        {
+          "display_url": "pic.x.com/hLuoVL3X2a",
+          "end": 33,
+          "expanded_url": "https://x.com/yuerQwQ/status/2090942650430246987/photo/1",
+          "media_key": "3_2090942592905306112",
+          "start": 10,
+          "url": "https://t.co/hLuoVL3X2a"
+        },
+        {
+          "display_url": "pic.x.com/hLuoVL3X2a",
+          "end": 33,
+          "expanded_url": "https://x.com/yuerQwQ/status/2090942650430246987/photo/1",
+          "media_key": "3_2090942600048201728",
+          "start": 10,
+          "url": "https://t.co/hLuoVL3X2a"
+        },
+        {
+          "display_url": "pic.x.com/hLuoVL3X2a",
+          "end": 33,
+          "expanded_url": "https://x.com/yuerQwQ/status/2090942650430246987/photo/1",
+          "media_key": "3_2090942643559976961",
+          "start": 10,
+          "url": "https://t.co/hLuoVL3X2a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090942650430246987",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090942585674285056"
+      },
+      {
+        "media_key": "3_2090942592905306112"
+      },
+      {
+        "media_key": "3_2090942600048201728"
+      },
+      {
+        "media_key": "3_2090942643559976961"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么凝胶play🤨 https://t.co/hLuoVL3X2a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2004,
+        "media_key": "3_2090942585674285056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSFNBDaQAAf35D.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090942592905306112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSFNb_a4AAGjwt.jpg",
+        "width": 1110
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090942600048201728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSFN2ma0AA9hYk.jpg",
+        "width": 1023
+      },
+      {
+        "height": 2047,
+        "media_key": "3_2090942643559976961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSFQYsb0AEH-sx.jpg",
+        "width": 756
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090942585674285056",
+            "3_2090942592905306112",
+            "3_2090942600048201728",
+            "3_2090942643559976961"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090942650430246987",
+        "created_at": "2026-08-21T23:22:30.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T00:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090942650430246987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hLuoVL3X2a",
+              "end": 33,
+              "expanded_url": "https://x.com/yuerQwQ/status/2090942650430246987/photo/1",
+              "media_key": "3_2090942585674285056",
+              "start": 10,
+              "url": "https://t.co/hLuoVL3X2a"
+            },
+            {
+              "display_url": "pic.x.com/hLuoVL3X2a",
+              "end": 33,
+              "expanded_url": "https://x.com/yuerQwQ/status/2090942650430246987/photo/1",
+              "media_key": "3_2090942592905306112",
+              "start": 10,
+              "url": "https://t.co/hLuoVL3X2a"
+            },
+            {
+              "display_url": "pic.x.com/hLuoVL3X2a",
+              "end": 33,
+              "expanded_url": "https://x.com/yuerQwQ/status/2090942650430246987/photo/1",
+              "media_key": "3_2090942600048201728",
+              "start": 10,
+              "url": "https://t.co/hLuoVL3X2a"
+            },
+            {
+              "display_url": "pic.x.com/hLuoVL3X2a",
+              "end": 33,
+              "expanded_url": "https://x.com/yuerQwQ/status/2090942650430246987/photo/1",
+              "media_key": "3_2090942643559976961",
+              "start": 10,
+              "url": "https://t.co/hLuoVL3X2a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090942650430246987",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090942585674285056"
+          },
+          {
+            "media_key": "3_2090942592905306112"
+          },
+          {
+            "media_key": "3_2090942600048201728"
+          },
+          {
+            "media_key": "3_2090942643559976961"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么凝胶play🤨 https://t.co/hLuoVL3X2a"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "18岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨180身高体重108丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨主人@huihui_mikumi丨或许我只剩她了：@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "picxis63594"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "is_identity_verified": false,
+        "location": "最后的思绪",
+        "most_recent_tweet_id": "2090942650430246987",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962302660541079552/1756803789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3378,
+          "following_count": 1591,
+          "like_count": 17336,
+          "listed_count": 4,
+          "media_count": 1386,
+          "tweet_count": 5133
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

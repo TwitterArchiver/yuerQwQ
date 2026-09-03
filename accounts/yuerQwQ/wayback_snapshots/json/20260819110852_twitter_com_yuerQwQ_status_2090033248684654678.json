@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2090002419124244637",
+    "created_at": "2026-08-19T11:08:52.000Z",
+    "display_text_range": [
+      55,
+      183
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T12:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090033248684654678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060050991370891265",
+          "start": 0,
+          "username": "Shioochicqwq"
+        },
+        {
+          "end": 26,
+          "id": "2088281025604616192",
+          "start": 14,
+          "username": "XunyuX74232"
+        },
+        {
+          "end": 39,
+          "id": "2083404870346764288",
+          "start": 27,
+          "username": "yumi1105qwq"
+        },
+        {
+          "end": 54,
+          "id": "2033160782687731712",
+          "start": 40,
+          "username": "Shioochic_Xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090033248684654678",
+    "in_reply_to_user_id": "2060050991370891265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090022689935441929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochicqwq @XunyuX74232 @yumi1105qwq @Shioochic_Xyn 🤣👉\n\n6k粉梗图人类大v长眠于此\n                      R.I.P\n               2026.08.19\n               []                 []\n             —永远怀念—"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Shioochic_Xyn].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Shioochic_Xyn",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "Shioochic_Xyn"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2090002419124244637",
+        "created_at": "2026-08-19T11:08:52.000Z",
+        "display_text_range": [
+          55,
+          183
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090033248684654678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060050991370891265",
+              "start": 0,
+              "username": "Shioochicqwq"
+            },
+            {
+              "end": 26,
+              "id": "2088281025604616192",
+              "start": 14,
+              "username": "XunyuX74232"
+            },
+            {
+              "end": 39,
+              "id": "2083404870346764288",
+              "start": 27,
+              "username": "yumi1105qwq"
+            },
+            {
+              "end": 54,
+              "id": "2033160782687731712",
+              "start": 40,
+              "username": "Shioochic_Xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090033248684654678",
+        "in_reply_to_user_id": "2060050991370891265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090022689935441929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochicqwq @XunyuX74232 @yumi1105qwq @Shioochic_Xyn 🤣👉\n\n6k粉梗图人类大v长眠于此\n                      R.I.P\n               2026.08.19\n               []                 []\n             —永远怀念—"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060050991370891265",
+        "conversation_id": "2090002419124244637",
+        "created_at": "2026-08-19T10:26:54.000Z",
+        "display_text_range": [
+          41,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090022689935441929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2088281025604616192",
+              "start": 0,
+              "username": "XunyuX74232"
+            },
+            {
+              "end": 25,
+              "id": "2083404870346764288",
+              "start": 13,
+              "username": "yumi1105qwq"
+            },
+            {
+              "end": 40,
+              "id": "2033160782687731712",
+              "start": 26,
+              "username": "Shioochic_Xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090022689935441929",
+        "in_reply_to_user_id": "2088281025604616192",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090022321012855279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XunyuX74232 @yumi1105qwq @Shioochic_Xyn 😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "18岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨主人@huihui_mikumi丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "picxis63594"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "is_identity_verified": false,
+        "location": "最后的思绪",
+        "most_recent_tweet_id": "2090033248684654678",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962302660541079552/1756803789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3302,
+          "following_count": 1563,
+          "like_count": 17265,
+          "listed_count": 4,
+          "media_count": 1357,
+          "tweet_count": 5085
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-28T17:32:35.000Z",
+        "description": "09｜小证含糖半家长党｜小证260117｜hrt250720🍥｜我草我怎么是爱德华多啊",
+        "id": "2060050991370891265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090022689935441929",
+        "name": "汐落",
+        "pinned_tweet_id": "2078739157397205454",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060051875358261249/Bpop1uMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 282,
+          "like_count": 387,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 314
+        },
+        "url": "",
+        "username": "Shioochicqwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T15:11:27.000Z",
+        "description": "你好，这里是迅羽。交个朋友，如何？\n对外身份标识\n2008.01生人 | 友跨🏳️‍⚧️ | 不聊政治(吗?) | 学习公共写作 | 试图找回自己的声音(哪个?) | 戏谑但有时会过头 | 生活+评论 | 飞猪！| 互fo会考虑成分 |",
+        "id": "2088281025604616192",
+        "is_identity_verified": false,
+        "location": "猜猜看？",
+        "most_recent_tweet_id": "2090007388372025798",
+        "name": "迅羽—Xunyu",
+        "pinned_tweet_id": "2088534942905139671",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088281025604616192/1786722474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088291381316108288/vvw5gD82_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 193,
+          "like_count": 1497,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1044
+        },
+        "url": "",
+        "username": "XunyuX74232",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T04:12:01.000Z",
+        "description": "生产日期:2011-1105\n我是男生👿😭😭😭\n不O不割|心里正常|互fo😋\n缅怀：@yumi1105_/@Bochichan250hh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "yumi1105_"
+              },
+              {
+                "end": 68,
+                "start": 53,
+                "username": "Bochichan250hh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yumi_1105",
+                "end": 23,
+                "expanded_url": "https://t.me/yumi_1105",
+                "start": 0,
+                "url": "https://t.co/ceiXsTUY0h"
+              }
+            ]
+          }
+        },
+        "id": "2083404870346764288",
+        "is_identity_verified": false,
+        "location": "福建洛杉矶",
+        "most_recent_tweet_id": "2090021821244686428",
+        "name": "𝕐𝕄",
+        "pinned_tweet_id": "2084244409898377320",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083404870346764288/1786896122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089878812003643392/3utrfWcP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 47,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/ceiXsTUY0h",
+        "username": "yumi1105qwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

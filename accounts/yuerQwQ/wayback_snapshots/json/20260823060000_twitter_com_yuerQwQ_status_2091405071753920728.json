@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091232616305590273"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2091405071753920728",
+    "created_at": "2026-08-23T06:00:00.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T07:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091405071753920728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4HUsUDfJlw",
+          "end": 29,
+          "expanded_url": "https://x.com/yuerQwQ/status/2091405071753920728/photo/1",
+          "media_key": "3_2091232616305590273",
+          "start": 6,
+          "url": "https://t.co/4HUsUDfJlw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091405071753920728",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2091232616305590273"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "手眼通天啊 https://t.co/4HUsUDfJlw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2091232616305590273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQWM_BWbAAEta2z.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091232616305590273"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2091405071753920728",
+        "created_at": "2026-08-23T06:00:00.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T07:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091405071753920728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4HUsUDfJlw",
+              "end": 29,
+              "expanded_url": "https://x.com/yuerQwQ/status/2091405071753920728/photo/1",
+              "media_key": "3_2091232616305590273",
+              "start": 6,
+              "url": "https://t.co/4HUsUDfJlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091405071753920728",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091232616305590273"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手眼通天啊 https://t.co/4HUsUDfJlw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "18岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨180身高体重108丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨主人@huihui_mikumi丨或许我只剩她了：@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "picxis63594"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "is_identity_verified": false,
+        "location": "最后的思绪",
+        "most_recent_tweet_id": "2091405071753920728",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962302660541079552/1756803789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3433,
+          "following_count": 1594,
+          "like_count": 17360,
+          "listed_count": 4,
+          "media_count": 1402,
+          "tweet_count": 5158
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

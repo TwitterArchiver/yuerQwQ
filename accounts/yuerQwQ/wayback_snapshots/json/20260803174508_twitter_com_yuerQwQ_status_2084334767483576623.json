@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2084113093224022165",
+    "created_at": "2026-08-03T17:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084334767483576623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1682303195832360960",
+          "start": 0,
+          "username": "ffynya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084334767483576623",
+    "in_reply_to_user_id": "1682303195832360960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084113093224022165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ffynya 蹲蹲喵\n（话说我这个大号会被判定为入机吗💦）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2084113081505067008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxBzjbasAA-txL.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2084113093224022165",
+        "created_at": "2026-08-03T17:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084334767483576623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1682303195832360960",
+              "start": 0,
+              "username": "ffynya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084334767483576623",
+        "in_reply_to_user_id": "1682303195832360960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084113093224022165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffynya 蹲蹲喵\n（话说我这个大号会被判定为入机吗💦）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084113081505067008"
+          ]
+        },
+        "author_id": "1682303195832360960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2084113093224022165",
+        "created_at": "2026-08-03T03:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084113093224022165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I87cSn5UAp",
+              "end": 149,
+              "expanded_url": "https://x.com/ffynya/status/2084113093224022165/photo/1",
+              "media_key": "3_2084113081505067008",
+              "start": 126,
+              "url": "https://t.co/I87cSn5UAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084113093224022165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11120,
+          "like_count": 126,
+          "quote_count": 1,
+          "reply_count": 104,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo喵🥳🥳搞个抽奖吧\n抽两个蓝v吧\n抽奖方式：关注我，点赞评论转发这条帖子\n有蓝v的折现35元，没蓝v的也可以折现\n8月5号中午用grok开奖\n要求：中奖账号会人工审查，发过一定数量的帖子，有一定fo数，如有明显的机器人号，将会重新再抽一个人 https://t.co/I87cSn5UAp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨我可爱的老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨主人@huihui_mikumi丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "wu31878"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "picxis63594"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3118,
+          "following_count": 1534,
+          "like_count": 17001,
+          "listed_count": 4,
+          "media_count": 1176,
+          "tweet_count": 4814
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-21T08:15:33.000Z",
+        "description": "中国人🇨🇳｜CH/EN｜友跨｜游戏、二次元｜\n聊天：https://t.co/vy1vlfiftN｜\nsteam好友代码：1238560657｜\n不o不割心理正常，不鉴证，不参团｜互fo｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ffynya",
+                "end": 49,
+                "expanded_url": "https://t.me/ffynya",
+                "start": 26,
+                "url": "https://t.co/vy1vlfiftN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ffynya",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ffynya",
+                "start": 0,
+                "url": "https://t.co/q5hd5vC18p"
+              }
+            ]
+          }
+        },
+        "id": "1682303195832360960",
+        "location": "-20cm",
+        "name": "🫥ffy喵🫥",
+        "pinned_tweet_id": "2084113093224022165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079042377906581504/glmoVp84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 727,
+          "like_count": 1602,
+          "listed_count": 2,
+          "media_count": 489,
+          "tweet_count": 1186
+        },
+        "url": "https://t.co/q5hd5vC18p",
+        "username": "ffynya",
+        "verified": true
+      }
+    ]
+  }
+}

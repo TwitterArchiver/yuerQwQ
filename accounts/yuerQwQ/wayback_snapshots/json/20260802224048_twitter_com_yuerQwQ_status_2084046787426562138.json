@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2084046787426562138",
+    "created_at": "2026-08-02T22:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T23:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084046787426562138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2035381835979735040",
+          "start": 3,
+          "username": "xinling2379"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084046787426562138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084044214795661820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xinling2379: 之前就在q群看到过这傻逼图片。\n只能说某些人为了炒作，连脸皮都不要了。\n甚至智力都不正常，连一些基本常识都没有。\n一下被一些更CS的人转到B站，又是一个跨出TV了。\n1，戊酸雌二醇片起效根本没那么快，哪怕是正常人4 mg的量+12.5mgCPA…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2084046787426562138",
+        "created_at": "2026-08-02T22:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T23:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084046787426562138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2035381835979735040",
+              "start": 3,
+              "username": "xinling2379"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084046787426562138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084044214795661820",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xinling2379: 之前就在q群看到过这傻逼图片。\n只能说某些人为了炒作，连脸皮都不要了。\n甚至智力都不正常，连一些基本常识都没有。\n一下被一些更CS的人转到B站，又是一个跨出TV了。\n1，戊酸雌二醇片起效根本没那么快，哪怕是正常人4 mg的量+12.5mgCPA…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035381835979735040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2084044214795661820",
+        "created_at": "2026-08-02T22:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T23:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084044214795661820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuerQwQ/status…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/yuerQwQ/status/2083734531698565231",
+              "start": 143,
+              "url": "https://t.co/6gXLjfsFHy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084044214795661820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083734531698565231",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前就在q群看到过这傻逼图片。\n只能说某些人为了炒作，连脸皮都不要了。\n甚至智力都不正常，连一些基本常识都没有。\n一下被一些更CS的人转到B站，又是一个跨出TV了。\n1，戊酸雌二醇片起效根本没那么快，哪怕是正常人4 mg的量+12.5mgCPA，也需要连续吃一个星期才可能有一点效果。 https://t.co/6gXLjfsFHy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨我可爱的老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨主人@huihui_mikumi丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "wu31878"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "picxis63594"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3088,
+          "following_count": 1532,
+          "like_count": 16987,
+          "listed_count": 4,
+          "media_count": 1165,
+          "tweet_count": 4797
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-21T15:43:51.000Z",
+        "description": "多意识体，有一定创伤，是混合型系统。\n跨女，爱好写作，目前发表于菠萝包轻小说，pixiv。",
+        "id": "2035381835979735040",
+        "location": "Tokyo-to, Japan",
+        "name": "花と風",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067495744274305024/CenFcatZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 43,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 616
+        },
+        "url": "",
+        "username": "xinling2379",
+        "verified": false
+      }
+    ]
+  }
+}

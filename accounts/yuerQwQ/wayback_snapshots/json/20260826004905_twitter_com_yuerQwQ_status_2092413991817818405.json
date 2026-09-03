@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2092413991817818405",
+    "created_at": "2026-08-26T00:49:05.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T01:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092413991817818405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 60,
+          "id": "1720665183188922368",
+          "start": 55,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Shioochicqwq/s…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/Shioochicqwq/status/2092192297295446272",
+          "start": 61,
+          "url": "https://t.co/FopfdNJV3F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092413991817818405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092192297295446272",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "根据我2026年3月以来的所有推文, 从1到100, 我的男娘指数是多少? 直接给我数据, 不用做任何解释。\n@grok https://t.co/FopfdNJV3F"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2092413991817818405",
+        "created_at": "2026-08-26T00:49:05.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T01:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092413991817818405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 60,
+              "id": "1720665183188922368",
+              "start": 55,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Shioochicqwq/s…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/Shioochicqwq/status/2092192297295446272",
+              "start": 61,
+              "url": "https://t.co/FopfdNJV3F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092413991817818405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092192297295446272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据我2026年3月以来的所有推文, 从1到100, 我的男娘指数是多少? 直接给我数据, 不用做任何解释。\n@grok https://t.co/FopfdNJV3F"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060050991370891265",
+        "conversation_id": "2092192297295446272",
+        "created_at": "2026-08-25T10:08:09.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092192297295446272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 60,
+              "id": "1720665183188922368",
+              "start": 55,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lirong11451419…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/lirong11451419/status/2084673037945942416",
+              "start": 61,
+              "url": "https://t.co/ZhjthHp6LY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092192297295446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4325,
+          "like_count": 10,
+          "quote_count": 5,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084673037945942416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据我2026年3月以来的所有推文, 从1到100, 我的男娘指数是多少? 直接给我数据, 不用做任何解释。\n@grok https://t.co/ZhjthHp6LY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "18岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨180身高体重108丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨主人@huihui_mikumi丨或许我只剩她了：@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "picxis63594"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "is_identity_verified": false,
+        "location": "最后的思绪",
+        "most_recent_tweet_id": "2092413991817818405",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962302660541079552/1756803789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3525,
+          "following_count": 1586,
+          "like_count": 17374,
+          "listed_count": 4,
+          "media_count": 1437,
+          "tweet_count": 5204
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-28T17:32:35.000Z",
+        "description": "09｜小证含糖半家长党｜小证260117｜hrt250720🍥｜我草我怎么是爱德华多啊",
+        "id": "2060050991370891265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092382965527695837",
+        "name": "汐落",
+        "pinned_tweet_id": "2078739157397205454",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060051875358261249/Bpop1uMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 365,
+          "like_count": 687,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 528
+        },
+        "url": "",
+        "username": "Shioochicqwq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092414006807978063",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9008249,
+          "following_count": 6,
+          "like_count": 134,
+          "listed_count": 7443,
+          "media_count": 9303727,
+          "tweet_count": 137387776
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

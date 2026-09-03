@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2078332956234727585",
+    "created_at": "2026-07-18T07:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T08:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078388082957816299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033116026410598400",
+          "start": 0,
+          "username": "Irosas_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078388082957816299",
+    "in_reply_to_user_id": "2033116026410598400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078332956234727585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Irosas_xyn 给我强制变成安卓版推特了😭\n用不习惯这个UI界面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2078332956234727585",
+        "created_at": "2026-07-18T07:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078388082957816299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033116026410598400",
+              "start": 0,
+              "username": "Irosas_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078388082957816299",
+        "in_reply_to_user_id": "2033116026410598400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078332956234727585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irosas_xyn 给我强制变成安卓版推特了😭\n用不习惯这个UI界面"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033116026410598400",
+        "conversation_id": "2078332956234727585",
+        "created_at": "2026-07-18T04:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078332956234727585"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078332956234727585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么全是骂新版UI的\n这下不敢更新了😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2590,
+          "following_count": 1460,
+          "like_count": 16672,
+          "listed_count": 2,
+          "media_count": 982,
+          "tweet_count": 4556
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T09:40:49.000Z",
+        "description": "MtF | les? | 出厂年份11 | 🍥26.04.30 | 无证含糖 | 不键不O不割 | 休学ing | 182cm😭 BMI 27+😭\nサブ垢：@Irosas_sub\nhttps://t.co/4Ea9D5x42k\n给我私信喵😋👆\n同类会回fo的喵😋\n匿名提问喵😋👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Irosas_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "telegram.me/irosas_xyn",
+                "end": 113,
+                "expanded_url": "https://telegram.me/irosas_xyn",
+                "start": 90,
+                "url": "https://t.co/4Ea9D5x42k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/irosas_xyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/irosas_xyn",
+                "start": 0,
+                "url": "https://t.co/lPmbVtIV4t"
+              }
+            ]
+          }
+        },
+        "id": "2033116026410598400",
+        "name": "Irosas🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2078116422644109710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068820111767842816/CyiUvjMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 134,
+          "like_count": 453,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/lPmbVtIV4t",
+        "username": "Irosas_xyn",
+        "verified": false
+      }
+    ]
+  }
+}

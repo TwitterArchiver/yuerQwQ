@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2078638547683463543",
+    "created_at": "2026-07-19T01:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T02:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078655049136537617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2057816167025160194",
+          "start": 0,
+          "username": "yutr72467"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078655049136537617",
+    "in_reply_to_user_id": "2057816167025160194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078638547683463543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yutr72467 试试网页端🤔\n\n我之前卡过bug不让我用APP端回复推文"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5289,
+        "height": 1280,
+        "media_key": "13_2078638530054729729",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078638530054729729/img/8nDVSNiyy-2iSVEY.jpg",
+        "public_metrics": {
+          "view_count": 31
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078638530054729729/vid/avc1/320x702/vO16qCvj0kbXylpB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078638530054729729/vid/avc1/480x1054/0dHp4sZ6iLPdmqC2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078638530054729729/vid/avc1/582x1280/Kax5GQynkqLgtqO6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078638530054729729/pl/R2mQrGlUovkLg_Hk.m3u8"
+          }
+        ],
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2078638547683463543",
+        "created_at": "2026-07-19T01:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078655049136537617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2057816167025160194",
+              "start": 0,
+              "username": "yutr72467"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078655049136537617",
+        "in_reply_to_user_id": "2057816167025160194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078638547683463543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yutr72467 试试网页端🤔\n\n我之前卡过bug不让我用APP端回复推文"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078638530054729729"
+          ]
+        },
+        "author_id": "2057816167025160194",
+        "conversation_id": "2078638547683463543",
+        "created_at": "2026-07-19T00:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078638547683463543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t5AK06DNaR",
+              "end": 30,
+              "expanded_url": "https://x.com/yutr72467/status/2078638547683463543/video/1",
+              "media_key": "13_2078638530054729729",
+              "start": 7,
+              "url": "https://t.co/t5AK06DNaR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078638547683463543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜喵... https://t.co/t5AK06DNaR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2595,
+          "following_count": 1456,
+          "like_count": 16724,
+          "listed_count": 2,
+          "media_count": 991,
+          "tweet_count": 4572
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-22T13:30:11.000Z",
+        "description": "喜欢交朋友/笨蛋心理委员/中立/无证/双向/随机礼物/糖糖好甜/喜欢猫猫/\n初次见面喵喵！请多多关照喵喵！\n知道有些事不对，但也是要尊重他人的选择呀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zlicnce",
+                "end": 23,
+                "expanded_url": "http://t.me/Zlicnce",
+                "start": 0,
+                "url": "https://t.co/Qn0oFmL3hm"
+              }
+            ]
+          }
+        },
+        "id": "2057816167025160194",
+        "name": "Slicnce ⁧ ~喵⁧🍥",
+        "pinned_tweet_id": "2078467844417978403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063858388182949888/mG8gyKy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 159,
+          "like_count": 611,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 209
+        },
+        "url": "https://t.co/Qn0oFmL3hm",
+        "username": "yutr72467",
+        "verified": false
+      }
+    ]
+  }
+}

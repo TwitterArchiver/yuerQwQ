@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2090408512644079811",
+    "created_at": "2026-08-21T03:53:04.000Z",
+    "display_text_range": [
+      27,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T04:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090648351771644226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2064713410135420928",
+          "start": 0,
+          "username": "qinlinizha"
+        },
+        {
+          "end": 26,
+          "id": "2079944185298436097",
+          "start": 12,
+          "username": "Johnsmithuxlj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090648351771644226",
+    "in_reply_to_user_id": "2064713410135420928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090645644201615415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qinlinizha @Johnsmithuxlj 神秘包包"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2090408512644079811",
+        "created_at": "2026-08-21T03:53:04.000Z",
+        "display_text_range": [
+          27,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090648351771644226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2064713410135420928",
+              "start": 0,
+              "username": "qinlinizha"
+            },
+            {
+              "end": 26,
+              "id": "2079944185298436097",
+              "start": 12,
+              "username": "Johnsmithuxlj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090648351771644226",
+        "in_reply_to_user_id": "2064713410135420928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090645644201615415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinlinizha @Johnsmithuxlj 神秘包包"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064713410135420928",
+        "conversation_id": "2090408512644079811",
+        "created_at": "2026-08-21T03:42:18.000Z",
+        "display_text_range": [
+          24,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090645644201615415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2079944185298436097",
+              "start": 0,
+              "username": "Johnsmithuxlj"
+            },
+            {
+              "end": 23,
+              "id": "1962302660541079552",
+              "start": 15,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090645644201615415",
+        "in_reply_to_user_id": "2079944185298436097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090490035879526781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Johnsmithuxlj @yuerQwQ 尼玛的，这头像我绷不住了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "18岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨180身高体重108丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨主人@huihui_mikumi丨或许我只剩她了：@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "picxis63594"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "is_identity_verified": false,
+        "location": "最后的思绪",
+        "most_recent_tweet_id": "2090648351771644226",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962302660541079552/1756803789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3351,
+          "following_count": 1582,
+          "like_count": 17313,
+          "listed_count": 4,
+          "media_count": 1374,
+          "tweet_count": 5116
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-10T14:18:18.000Z",
+        "description": "",
+        "id": "2064713410135420928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090645644201615415",
+        "name": "qinlin",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2064713410135420928/1781187852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064713960050630656/LtE5iH4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 37,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "qinlinizha",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-22T14:59:40.000Z",
+        "description": "喜欢二次元中国人反对共产党专政",
+        "id": "2079944185298436097",
+        "is_identity_verified": false,
+        "location": "地球",
+        "most_recent_tweet_id": "2090648186352255117",
+        "name": "习近平（互fo）",
+        "pinned_tweet_id": "2084563792612978823",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079944185298436097/1785353208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082548414995173377/uDyoj2WZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 209,
+          "like_count": 3699,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 2385
+        },
+        "url": "",
+        "username": "Johnsmithuxlj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

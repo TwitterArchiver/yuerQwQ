@@ -1,0 +1,527 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1582737216672890880",
+          "name": "Giff Gaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2082809448884731964",
+    "created_at": "2026-07-30T12:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082809448884731964"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 126,
+          "start": 117,
+          "tag": "giffgaff"
+        },
+        {
+          "end": 132,
+          "start": 127,
+          "tag": "esim"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "900490568790192128",
+          "start": 3,
+          "username": "AsterTheMedStu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082809448884731964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082670345795018859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsterTheMedStu: 英格兰及威尔士慈善委员会致函 Giffgaff：\n\n“近日，我们监管的慈善机构突然收到大量来自贵司用户的短信捐款。如此集中、慷慨而充满告别意味的善举，实属罕见。\n\n请问贵司最近发生了什么？”\n\n#giffgaff #esim https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1136,
+        "media_key": "3_2082670013270646784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOchV7Va4AAWGv7.jpg",
+        "width": 640
+      },
+      {
+        "height": 1136,
+        "media_key": "3_2082670015313260544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOchWC8asAAu-Fj.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737216672890880",
+              "name": "Giff Gaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2082809448884731964",
+        "created_at": "2026-07-30T12:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082809448884731964"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 117,
+              "tag": "giffgaff"
+            },
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "esim"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "900490568790192128",
+              "start": 3,
+              "username": "AsterTheMedStu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082809448884731964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082670345795018859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsterTheMedStu: 英格兰及威尔士慈善委员会致函 Giffgaff：\n\n“近日，我们监管的慈善机构突然收到大量来自贵司用户的短信捐款。如此集中、慷慨而充满告别意味的善举，实属罕见。\n\n请问贵司最近发生了什么？”\n\n#giffgaff #esim https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082670013270646784",
+            "3_2082670015313260544"
+          ]
+        },
+        "author_id": "900490568790192128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737216672890880",
+              "name": "Giff Gaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2082670345795018859",
+        "created_at": "2026-07-30T03:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082670345795018859"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 97,
+              "tag": "giffgaff"
+            },
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "esim"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iOWxZQcviQ",
+              "end": 136,
+              "expanded_url": "https://x.com/AsterTheMedStu/status/2082670345795018859/photo/1",
+              "media_key": "3_2082670013270646784",
+              "start": 113,
+              "url": "https://t.co/iOWxZQcviQ"
+            },
+            {
+              "display_url": "pic.x.com/iOWxZQcviQ",
+              "end": 136,
+              "expanded_url": "https://x.com/AsterTheMedStu/status/2082670345795018859/photo/1",
+              "media_key": "3_2082670015313260544",
+              "start": 113,
+              "url": "https://t.co/iOWxZQcviQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082670345795018859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 130871,
+          "like_count": 524,
+          "quote_count": 14,
+          "reply_count": 66,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "英格兰及威尔士慈善委员会致函 Giffgaff：\n\n“近日，我们监管的慈善机构突然收到大量来自贵司用户的短信捐款。如此集中、慷慨而充满告别意味的善举，实属罕见。\n\n请问贵司最近发生了什么？”\n\n#giffgaff #esim https://t.co/iOWxZQcviQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨我可爱的老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "wu31878"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 121,
+                "start": 113,
+                "username": "nagis1a"
+              },
+              {
+                "end": 134,
+                "start": 125,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2983,
+          "following_count": 1514,
+          "like_count": 16917,
+          "listed_count": 4,
+          "media_count": 1124,
+          "tweet_count": 4742
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-23T22:50:56.000Z",
+        "description": "偶尔聊政治，谨慎关注… | A med student who loves fur |  Usually known as march_happy | 中文⭕English⭕Deutsch⭕Español📖にほんご📖粤语🤔 | 兼听则明 | 无脑粉蛆反贼勿扰 | A translator of @Derideal",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 148,
+                "username": "Derideal"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aster.wang",
+                "end": 23,
+                "expanded_url": "https://aster.wang",
+                "start": 0,
+                "url": "https://t.co/B4OkY9RRaY"
+              }
+            ]
+          }
+        },
+        "id": "900490568790192128",
+        "location": "Nanjing",
+        "name": "Aster ➡ 假兽聚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964968937709592576/4ON9E0C0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 313,
+          "like_count": 21748,
+          "listed_count": 3,
+          "media_count": 298,
+          "tweet_count": 3646
+        },
+        "url": "https://t.co/B4OkY9RRaY",
+        "username": "AsterTheMedStu",
+        "verified": true
+      }
+    ]
+  }
+}

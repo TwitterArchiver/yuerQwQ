@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2085679757010882620",
+    "created_at": "2026-08-07T10:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T11:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085680078344814656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1893984432270475264",
+          "start": 0,
+          "username": "bailixing114514"
+        },
+        {
+          "end": 30,
+          "id": "1811011225058430982",
+          "start": 17,
+          "username": "AnranbuSleep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085680078344814656",
+    "in_reply_to_user_id": "1893984432270475264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085679757010882620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bailixing114514 @AnranbuSleep 蹲喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 234,
+        "media_key": "3_2085679752065777664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHSryEbAAAMtt8.jpg",
+        "width": 226
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2085679757010882620",
+        "created_at": "2026-08-07T10:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085680078344814656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893984432270475264",
+              "start": 0,
+              "username": "bailixing114514"
+            },
+            {
+              "end": 30,
+              "id": "1811011225058430982",
+              "start": 17,
+              "username": "AnranbuSleep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085680078344814656",
+        "in_reply_to_user_id": "1893984432270475264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085679757010882620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bailixing114514 @AnranbuSleep 蹲喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085679752065777664"
+          ]
+        },
+        "author_id": "1893984432270475264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2085679757010882620",
+        "created_at": "2026-08-07T10:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085679757010882620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1811011225058430982",
+              "start": 30,
+              "username": "AnranbuSleep"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VbNGmEeEhF",
+              "end": 176,
+              "expanded_url": "https://x.com/bailixing114514/status/2085679757010882620/photo/1",
+              "media_key": "3_2085679752065777664",
+              "start": 153,
+              "url": "https://t.co/VbNGmEeEhF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085679757010882620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "准备搞个1000fo抽奖\n特等奖：米莎特制10倍凝胶一瓶!（@AnranbuSleep）家的!\n一等奖15.88r红包一个\n二等奖8.88r红包两个\n三等奖1.88r红包5个!\n摸摸奖0.88r红包5个!\n等到1500fo开奖喵!\n咱将使用grok开奖，无任何内幕喵!\n参加方式关注，转发，点赞，评论喵! https://t.co/VbNGmEeEhF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨我可爱的老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨主人@huihui_mikumi丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "wu31878"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "picxis63594"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1218,
+          "tweet_count": 4874
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-24T11:20:59.000Z",
+        "description": "鬼知道大号 @baizhouzi520 怎么封了😅|小证含糖家长党🍥|hrt日期2024.12.11|did成员有白洲，黎星，诗遥，haku……|术力口重度依赖|同类欢迎互fo喵～|梗图真人喵！不是机器人！|同类蓝v互fo喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "baizhouzi520"
+              }
+            ]
+          }
+        },
+        "id": "1893984432270475264",
+        "location": "浦島トンネル",
+        "name": "白白白白洲洲洲洲🍥🍔🍙💊（二代目）",
+        "pinned_tweet_id": "2017032358017532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049428712932913152/44JwCgoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 493,
+          "like_count": 1580,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 381
+        },
+        "url": "",
+        "username": "bailixing114514",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T12:15:13.000Z",
+        "description": "My Sunshine @LeeananFaatCoi \nMy Luna @datadelete_4444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "LeeananFaatCoi"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "datadelete_4444"
+              }
+            ]
+          }
+        },
+        "id": "1811011225058430982",
+        "location": "远去的天堂，再也不见",
+        "name": "Luna_安然🏳️‍⚧️",
+        "pinned_tweet_id": "1986019257440964920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021846465417818112/79NWA4eF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3136,
+          "following_count": 72,
+          "like_count": 5385,
+          "listed_count": 9,
+          "media_count": 590,
+          "tweet_count": 2828
+        },
+        "url": "",
+        "username": "AnranbuSleep",
+        "verified": false
+      }
+    ]
+  }
+}

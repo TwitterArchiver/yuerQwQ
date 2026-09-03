@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962302660541079552",
+    "conversation_id": "2092191968814407979",
+    "created_at": "2026-08-25T10:06:51.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T11:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092191968814407979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2076667930197041153",
+          "start": 3,
+          "username": "Mi1dori"
+        },
+        {
+          "end": 27,
+          "id": "2022208955917979648",
+          "start": 20,
+          "username": "Ak1r4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092191968814407979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092133486455091230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mi1dori: 我是惺惺 前世@Ak1r4i 因為宣傳低價小零食遭到舉報導致封禁。惺惺想找回互關的寶寶們 找不到大家我很著急嗚嗚 求求大家幫我轉發一下🥺😭 \n另外會在這條貼文下面抽取幾個幸運寶寶送出小禮物👇\n✨一等獎 ¥52米 一份\n✨二等獎 ¥25米 兩份\n✨三等獎…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Ak1r4i].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Ak1r4i",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "Ak1r4i"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2092191968814407979",
+        "created_at": "2026-08-25T10:06:51.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092191968814407979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2076667930197041153",
+              "start": 3,
+              "username": "Mi1dori"
+            },
+            {
+              "end": 27,
+              "id": "2022208955917979648",
+              "start": 20,
+              "username": "Ak1r4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092191968814407979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092133486455091230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mi1dori: 我是惺惺 前世@Ak1r4i 因為宣傳低價小零食遭到舉報導致封禁。惺惺想找回互關的寶寶們 找不到大家我很著急嗚嗚 求求大家幫我轉發一下🥺😭 \n另外會在這條貼文下面抽取幾個幸運寶寶送出小禮物👇\n✨一等獎 ¥52米 一份\n✨二等獎 ¥25米 兩份\n✨三等獎…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076667930197041153",
+        "conversation_id": "2092133486455091230",
+        "created_at": "2026-08-25T06:14:27.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T07:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092133486455091230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022208955917979648",
+              "start": 7,
+              "username": "Ak1r4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092133486455091230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 675,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "我是惺惺 前世@Ak1r4i 因為宣傳低價小零食遭到舉報導致封禁。惺惺想找回互關的寶寶們 找不到大家我很著急嗚嗚 求求大家幫我轉發一下🥺😭 \n另外會在這條貼文下面抽取幾個幸運寶寶送出小禮物👇\n✨一等獎 ¥52米 一份\n✨二等獎 ¥25米 兩份\n✨三等獎 ¥13.14米 三份\n點贊+評論+轉發+跟隨 就能參加❤️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "18岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨180身高体重108丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨主人@huihui_mikumi丨或许我只剩她了：@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "picxis63594"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "is_identity_verified": false,
+        "location": "最后的思绪",
+        "most_recent_tweet_id": "2092191968814407979",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962302660541079552/1756803789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3510,
+          "following_count": 1584,
+          "like_count": 17379,
+          "listed_count": 4,
+          "media_count": 1430,
+          "tweet_count": 5195
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-13T14:03:13.000Z",
+        "description": "💊🔪🩸焦慮抑鬱希死念慮\n提供小零食小糖果相關幫助( ੭•͈ω•͈)੭๐♡.๐ \n前世@Ak1r4i 🥺😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 42,
+                "username": "Ak1r4i"
+              }
+            ]
+          }
+        },
+        "id": "2076667930197041153",
+        "is_identity_verified": false,
+        "location": "夢",
+        "most_recent_tweet_id": "2092133486455091230",
+        "name": "心星",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076667930197041153/1785831891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092122886660345856/5hCtC3hf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 66,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "Mi1dori",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

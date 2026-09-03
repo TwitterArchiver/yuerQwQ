@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078676628440563712"
+      ]
+    },
+    "author_id": "1962302660541079552",
+    "conversation_id": "2078676637554733313",
+    "created_at": "2026-07-19T03:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T04:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078676637554733313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ef2s7kJwc2",
+          "end": 38,
+          "expanded_url": "https://x.com/yuerQwQ/status/2078676637554733313/photo/1",
+          "media_key": "3_2078676628440563712",
+          "start": 15,
+          "url": "https://t.co/Ef2s7kJwc2"
+        },
+        {
+          "display_url": "x.com/A_Asystem/stat…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/A_Asystem/status/2078433141346406832",
+          "start": 39,
+          "url": "https://t.co/zWtNX2zn53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078676637554733313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078433141346406832",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "4.3左右\n\n我会跳进度吗🤔 https://t.co/Ef2s7kJwc2 https://t.co/zWtNX2zn53"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1331,
+        "media_key": "3_2078676628440563712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNjxYVkbQAAuGbY.jpg",
+        "width": 1255
+      },
+      {
+        "height": 1331,
+        "media_key": "3_2078433138209165312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgT7VxbkAAwsmF.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078676628440563712"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2078676637554733313",
+        "created_at": "2026-07-19T03:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078676637554733313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ef2s7kJwc2",
+              "end": 38,
+              "expanded_url": "https://x.com/yuerQwQ/status/2078676637554733313/photo/1",
+              "media_key": "3_2078676628440563712",
+              "start": 15,
+              "url": "https://t.co/Ef2s7kJwc2"
+            },
+            {
+              "display_url": "x.com/A_Asystem/stat…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/A_Asystem/status/2078433141346406832",
+              "start": 39,
+              "url": "https://t.co/zWtNX2zn53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078676637554733313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078433141346406832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "4.3左右\n\n我会跳进度吗🤔 https://t.co/Ef2s7kJwc2 https://t.co/zWtNX2zn53"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078433138209165312"
+          ]
+        },
+        "author_id": "1868701291830206464",
+        "conversation_id": "2078433141346406832",
+        "created_at": "2026-07-18T10:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078433141346406832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9yUGSwojJI",
+              "end": 34,
+              "expanded_url": "https://x.com/A_Asystem/status/2078433141346406832/photo/1",
+              "media_key": "3_2078433138209165312",
+              "start": 11,
+              "url": "https://t.co/9yUGSwojJI"
+            },
+            {
+              "display_url": "x.com/Ak1r4i/status/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Ak1r4i/status/2078146075253461267",
+              "start": 35,
+              "url": "https://t.co/UjZimM3XLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078433141346406832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 368,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078146075253461267",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大概8.9，快了…… https://t.co/9yUGSwojJI https://t.co/UjZimM3XLe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2595,
+          "following_count": 1457,
+          "like_count": 16735,
+          "listed_count": 2,
+          "media_count": 993,
+          "tweet_count": 4574
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-16T16:54:52.000Z",
+        "description": "这里还是一只喜欢打牌的含糖🍥小熊🧸@Ereaurora的新账号/\n主要发推记录日常或当做树洞/\n偶尔读社会科学/\n炉石 影之诗 ptcg(国际服环境) lor 万智牌(xmage和untap上玩edh) \n以及一些小众卡牌游戏均有涉猎\n(不会三国杀和游戏王qwq)/\n卡牌游戏及steam加好友或互fo请私信哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Ereaurora"
+              }
+            ]
+          }
+        },
+        "id": "1868701291830206464",
+        "location": "1m",
+        "name": "Aurora&Andromeda🧸🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054557711656964530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868702280343801856/VCqgJsef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 605,
+          "like_count": 11239,
+          "listed_count": 7,
+          "media_count": 127,
+          "tweet_count": 6383
+        },
+        "url": "",
+        "username": "A_Asystem",
+        "verified": false
+      }
+    ]
+  }
+}
